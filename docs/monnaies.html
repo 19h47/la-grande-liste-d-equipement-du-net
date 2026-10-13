@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pièces et lingots</title>
+<meta name="description" content="Convertisseur de monnaies d'AD&D 2e et valeurs des pièces et des lingots de la Grande Liste d'équipement du Net.">
+<link rel="stylesheet" href="css/style.css">
+<script src="js/common.js"></script>
+</head>
+<body>
+<header>
+  <a class="site" href="./">La Grande Liste d'équipement du Net</a>
+  <nav aria-label="Pages">
+    <a href="./">Liste</a>
+    <a href="tableaux.html">Tableaux</a>
+    <a href="marchand.html">Marchand</a>
+    <a href="monnaies.html" aria-current="page">Monnaies</a>
+    <a href="texte.html">Texte</a>
+    <a href="api.html">API</a>
+  </nav>
+</header>
+
+<main>
+  <section aria-labelledby="h-conv">
+    <h1 id="h-conv">Le changeur</h1>
+    <p class="prose">Combien de pièces d'argent pour un lingot de mithril ? Entrez une somme, le changeur fait le reste.</p>
+    <form class="filters" onsubmit="return false">
+      <div class="field">
+        <label for="amount">Somme</label>
+        <input type="text" id="amount" value="1" inputmode="decimal" autocomplete="off">
+      </div>
+      <div class="field">
+        <label for="unit">En</label>
+        <select id="unit"></select>
+      </div>
+    </form>
+    <p class="rule" aria-hidden="true"></p>
+    <ul class="list" id="conv" aria-live="polite"></ul>
+    <p class="rule" aria-hidden="true"></p>
+    <p id="change"></p>
+  </section>
+
+  <section aria-labelledby="h-a">
+    <h2 id="h-a">Tableau A : valeur des pièces</h2>
+    <p class="dim">Pour 1 pièce d'or.</p>
+    <ul class="list" id="coins"></ul>
+  </section>
+
+  <section aria-labelledby="h-b">
+    <h2 id="h-b">Tableau B : valeur des lingots</h2>
+    <ul class="list" id="bars"></ul>
+    <div id="notes" class="prose"></div>
+  </section>
+</main>
+
+<footer>
+  <p class="rule" aria-hidden="true"></p>
+  <p>Compilation originale : Mark J. Carrasco (1997-1998). Projet de fans non commercial, sans lien avec Wizards of the Coast.</p>
+</footer>
+
+<script>
+(function(){
+  const {$, esc, json, fmt, group} = GL;
+  let coins = [];
+  /* Nombre à la française : 1 234,5 ; au plus quatre décimales, sans zéros inutiles. */
+  const num = n => {
+    if (!isFinite(n)) return '—';
+    const r = Math.round(n * 10000) / 10000;
+    const [i, d] = String(Math.abs(r)).split('.');
+    return (r < 0 ? '−' : '') + group(i) + (d ? ',' + d : '');
+  };
+  const frac = v => v >= 1 ? group(v) : '1/' + Math.round(1 / v);
+  const abbr = c => c.abbr ? c.abbr.fr : c.name.fr.toLowerCase();
+
+  json('currencies.json').then(d => {
+    coins = d.currencies;
+    coins.forEach(c => { const o = document.createElement('option'); o.value = c.id; o.textContent = c.name.fr + (c.abbr ? ` (${c.abbr.fr})` : ''); $('unit').appendChild(o); });
+    const u = new URLSearchParams(location.search);
+    if (coins.some(c => c.id === u.get('en'))) $('unit').value = u.get('en'); else $('unit').value = 'or';
+    if (u.get('somme')) $('amount').value = u.get('somme');
+    $('coins').innerHTML = coins.map(c => `<li><div class="row"><span class="price">${frac(c.value_gp)}</span><span class="name">${esc(c.name.fr)}</span></div></li>`).join('');
+    $('bars').innerHTML = coins.filter(c => c.bar_value_gp).map(c => `<li><div class="row"><span class="price">${group(c.bar_value_gp)}&nbsp;po</span><span class="name">${esc(c.name.fr)}</span></div></li>`).join('');
+    const notes = coins.filter(c => c.note).map(c => `<p class="note">* ${esc(c.note.fr)}</p>`).join('');
+    $('notes').innerHTML = notes;
+    conv();
+  }).catch(() => { $('conv').innerHTML = '<li>Impossible de charger les monnaies.</li>'; });
+
+  function conv(){
+    const raw = $('amount').value.replace(/[\s ]/g, '').replace(',', '.');
+    const n = parseFloat(raw);
+    const from = coins.find(c => c.id === $('unit').value);
+    const q = new URLSearchParams(); q.set('somme', $('amount').value.trim()); q.set('en', from.id);
+    history.replaceState(null, '', '?' + q.toString());
+    if (!(n >= 0)) { $('conv').innerHTML = '<li class="dim">Entrez un nombre, par exemple 12 ou 2,5.</li>'; $('change').textContent = ''; return; }
+    const cp = n * from.value_cp;
+    $('conv').innerHTML = coins.map(c => `<li><div class="row${c.id === from.id ? ' strong' : ''}"><span class="price">${num(cp / c.value_cp)} ${esc(abbr(c))}</span><span class="name">${esc(c.name.fr)}</span></div></li>`).join('');
+    const bars = coins.filter(c => c.bar_value_gp && cp >= c.bar_value_gp * 100);
+    const best = bars[bars.length - 1];
+    $('change').innerHTML = `En pièces courantes : <strong>${fmt(cp, 'fr')}</strong>.` + (best ? ` Soit ${num(cp / (best.bar_value_gp * 100))} lingot${cp >= best.bar_value_gp * 200 ? 's' : ''} ${/^[aeiouéèêh]/.test(best.name.fr.toLowerCase()) ? 'd\'' : 'de '}${esc(best.name.fr.toLowerCase())}.` : '');
+  }
+  $('amount').addEventListener('input', conv);
+  $('unit').addEventListener('change', conv);
+})();
+</script>
+</body>
+</html>

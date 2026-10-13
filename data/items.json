@@ -30,7 +30,7 @@
    },
    "value_gp": 0.01,
    "value_cp": 1.0,
-   "bar_value_gp": null,
+   "bar_value_gp": 50,
    "note": null
   },
   {
@@ -45,7 +45,7 @@
    },
    "value_gp": 0.1,
    "value_cp": 10.0,
-   "bar_value_gp": null,
+   "bar_value_gp": 500,
    "note": null
   },
   {

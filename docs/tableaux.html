@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Les tableaux de la Grande Liste</title>
+<meta name="description" content="Les 33 tableaux de la Grande Liste d'équipement du Net, à lire et à imprimer.">
+<link rel="stylesheet" href="css/style.css">
+<script src="js/common.js"></script>
+</head>
+<body>
+<header>
+  <a class="site" href="./">La Grande Liste d'équipement du Net</a>
+  <nav aria-label="Pages">
+    <a href="./">Liste</a>
+    <a href="tableaux.html" aria-current="page">Tableaux</a>
+    <a href="marchand.html">Marchand</a>
+    <a href="monnaies.html">Monnaies</a>
+    <a href="texte.html">Texte</a>
+    <a href="api.html">API</a>
+    <span class="lang" role="group" aria-label="Langue des noms d'objets"><button type="button" data-lang-btn="fr">FR</button><button type="button" data-lang-btn="en">EN</button></span>
+  </nav>
+</header>
+
+<main id="out" aria-live="polite"><p>Chargement<span class="blink">_</span></p></main>
+
+<footer>
+  <p class="rule" aria-hidden="true"></p>
+  <p>Compilation originale : Mark J. Carrasco (1997-1998). Projet de fans non commercial, sans lien avec Wizards of the Coast.</p>
+</footer>
+
+<script>
+(function(){
+  const {$, esc, json, t} = GL;
+  let cats = [], data = null;
+  let showNotes = true;
+  try { showNotes = localStorage.getItem('notes') !== '0'; } catch (e) {}
+
+  json('categories.json').then(c => { cats = c.categories; route(); })
+    .catch(() => { $('out').innerHTML = '<p>Impossible de charger les tableaux.</p>'; });
+  window.addEventListener('popstate', route);
+  GL.onLang(() => data ? paintTable() : paintIndex());
+
+  function route(){
+    const id = new URLSearchParams(location.search).get('t');
+    const cat = cats.find(c => c.id === id);
+    if (!cat) { data = null; paintIndex(); return; }
+    json('categories/' + cat.id + '.json').then(d => { data = d; paintTable(); });
+  }
+
+  /* La table des matières, comme en tête du fichier texte. */
+  function paintIndex(){
+    document.title = 'Les tableaux de la Grande Liste';
+    $('out').innerHTML = `<section><h1>Table des matières</h1>
+<p class="prose">Les 33 tableaux de la liste, à lire d'un bout à l'autre ou à imprimer pour la table de jeu. Les tableaux A et B (pièces et lingots) sont sur la page <a href="monnaies.html">Monnaies</a>.</p>
+<p class="rule" aria-hidden="true"></p>
+<ul class="list toc">${cats.map(c => `<li><a class="row" href="tableaux.html?t=${esc(c.id)}"><span class="price">${c.count} objets</span><span class="name">Tableau ${esc(c.table)} : ${esc(t(c.name))}</span></a></li>`).join('')}</ul>
+<p class="rule" aria-hidden="true"></p></section>`;
+  }
+
+  function paintTable(){
+    const d = data, i = cats.findIndex(c => c.id === d.id);
+    const prev = cats[i - 1], next = cats[i + 1];
+    document.title = `Tableau ${d.table} : ${t(d.name)}`;
+    const priceCols = d.columns.filter(c => c.id !== 'weight');
+    const hasWeight = d.columns.some(c => c.id === 'weight');
+    const L = GL.lang;
+    let lastGroup = '';
+    const rows = d.items.map(it => {
+      const g = (it.group || []).map(x => x[L] ?? x.fr).join(' — ');
+      let head = '';
+      if (g && g !== lastGroup) head = `<li class="group">${esc(g)}</li>`;
+      lastGroup = g;
+      const price = priceCols.map(c => it[c.id] ? it[c.id].text[L] : '—').join(' / ');
+      const w = hasWeight ? `<span class="weight">${it.weight && it.weight.text ? esc(it.weight.text) : '&nbsp;'}</span>` : '';
+      const notes = it.notes.fr.length;
+      return head + `<li id="${esc(it.id)}"${g ? ' class="sub"' : ''}><div class="row">${w}<span class="price">${esc(price)}</span><span class="name"><a href="./?objet=${esc(it.id)}" class="plain">${esc(it.name[L] ?? it.name.fr)}</a>${notes ? '<span class="mark" aria-hidden="true"> *</span>' : ''}</span></div>${notes ? it.notes.fr.map(n => `<p class="note">* ${esc(n)}</p>`).join('') : ''}</li>`;
+    }).join('');
+    const nNotes = d.items.filter(x => x.notes.fr.length).length;
+    $('out').innerHTML = `<section class="table-page${showNotes ? '' : ' no-notes'}">
+<p class="dim crumbs"><a href="tableaux.html">Table des matières</a></p>
+<h1>Tableau ${esc(d.table)} : ${esc(t(d.name))}</h1>
+${(d.remarks.fr || []).map(r => `<p class="prose">${esc(r)}</p>`).join('')}
+<p class="dim">${d.items.length} objets${nNotes ? `, dont ${nNotes} avec une note de traduction (*)` : ''}.</p>
+<div class="actions">
+  ${nNotes ? `<button type="button" class="btn" id="notes" aria-pressed="${showNotes}">${showNotes ? 'Masquer les notes' : 'Afficher les notes'}</button>` : ''}
+  <button type="button" class="btn" data-print>Imprimer ce tableau</button>
+</div>
+<p class="rule" aria-hidden="true"></p>
+<ul class="list" aria-label="Objets du tableau ${esc(d.table)}">
+<li class="head" aria-hidden="true"><span>Objet</span><span>${esc(priceCols.map(c => t(c.name)).join(' / '))}${hasWeight ? '<span class="weight">' + (L === 'en' ? 'Wt.' : 'Poids') + '</span>' : ''}</span></li>
+${rows}</ul>
+<p class="rule" aria-hidden="true"></p>
+${hasWeight ? `<p class="dim">Poids en livres ; « * » vaut 0,1 lb (dix objets pèsent une livre), « ** » vaut 0.</p>` : ''}
+<nav class="pager" aria-label="Tableaux voisins">
+  ${prev ? `<a href="tableaux.html?t=${esc(prev.id)}">← Tableau ${esc(prev.table)} : ${esc(t(prev.name))}</a>` : '<span></span>'}
+  ${next ? `<a href="tableaux.html?t=${esc(next.id)}">Tableau ${esc(next.table)} : ${esc(t(next.name))} →</a>` : ''}
+</nav></section>`;
+    $('out').querySelector('[data-print]').addEventListener('click', () => window.print());
+    const nb = $('notes');
+    if (nb) nb.addEventListener('click', () => {
+      showNotes = !showNotes;
+      try { localStorage.setItem('notes', showNotes ? '1' : '0'); } catch (e) {}
+      paintTable();
+      $('notes').focus();
+    });
+    if (location.hash) { const el = document.getElementById(decodeURIComponent(location.hash.slice(1))); if (el) el.scrollIntoView({block: 'center'}); }
+  }
+})();
+</script>
+</body>
+</html>

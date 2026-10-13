@@ -6,19 +6,24 @@
 <title>La Grande Liste d'équipement du Net</title>
 <meta name="description" content="La Great Net Equipment List (AD&D 2e, 1997) traduite en français, en JSON et en API statique.">
 <link rel="stylesheet" href="css/style.css">
+<script src="js/common.js"></script>
 </head>
 <body>
 <header>
   <a class="site" href="./">La Grande Liste d'équipement du Net</a>
   <nav aria-label="Pages">
     <a href="./" aria-current="page">Liste</a>
+    <a href="tableaux.html">Tableaux</a>
     <a href="marchand.html">Marchand</a>
+    <a href="monnaies.html">Monnaies</a>
+    <a href="texte.html">Texte</a>
     <a href="api.html">API</a>
+    <span class="lang" role="group" aria-label="Langue des noms d'objets"><button type="button" data-lang-btn="fr">FR</button><button type="button" data-lang-btn="en">EN</button></span>
   </nav>
 </header>
 
 <main>
-  <section>
+  <section class="intro">
     <h1 class="title"><strong>La Grande Liste d'équipement du Net</strong><br>Version 4.0a<br>Compilée par<br>Mark J. Carrasco<br><span class="dim">Traduction française (2026)</span></h1>
     <p class="prose">Le netbook rôliste de 1997 pour AD&amp;D 2e, traduit en français et interrogeable : du tablier à 1&nbsp;pc au lingot de Tellon à 5&nbsp;000&nbsp;000&nbsp;po.</p>
     <p id="stats" class="dim">Chargement<span class="blink">_</span></p>
@@ -26,22 +31,40 @@
 
   <section aria-labelledby="h-search">
     <h2 id="h-search">Chercher dans la liste</h2>
-    <div class="field">
-      <label for="q">Objet</label>
-      <input type="search" id="q" placeholder="hydromel, épée longue, owlbear…" autocomplete="off">
-    </div>
-    <div class="field">
-      <label for="cat">Tableau</label>
-      <select id="cat"><option value="">Tous les tableaux</option></select>
-    </div>
+    <form class="filters" id="filters" role="search" onsubmit="return false">
+      <div class="field">
+        <label for="q">Objet</label>
+        <input type="search" id="q" placeholder="hydromel, épée longue, owlbear…" autocomplete="off">
+      </div>
+      <div class="field">
+        <label for="cat">Tableau</label>
+        <select id="cat"><option value="">Tous les tableaux</option></select>
+      </div>
+      <div class="field">
+        <label for="tri">Tri</label>
+        <select id="tri">
+          <option value="">Ordre de la liste</option>
+          <option value="asc">Prix croissant</option>
+          <option value="desc">Prix décroissant</option>
+          <option value="az">Ordre alphabétique</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="max">Budget</label>
+        <input type="text" id="max" placeholder="ex. 10 po, 2 po 5 pa" autocomplete="off" inputmode="text" aria-describedby="max-hint">
+      </div>
+      <p class="dim field-hint" id="max-hint" hidden></p>
+    </form>
     <p class="rule" aria-hidden="true"></p>
     <ul class="list" id="results" aria-live="polite"></ul>
     <p class="rule" aria-hidden="true"></p>
     <p class="dim" id="hint"></p>
     <div class="actions">
+      <button type="button" class="btn" id="more" hidden>Afficher 60 de plus</button>
       <button type="button" class="btn" id="k-random">Autre bric-à-brac</button>
+      <button type="button" class="btn" id="reset" hidden>Tout effacer</button>
     </div>
-    <p class="keys">Clavier : <kbd>/</kbd> chercher · <kbd>R</kbd> autre bric-à-brac · <kbd>M</kbd> marchand · <kbd>Échap</kbd> quitter le champ</p>
+    <p class="keys">Clavier : <kbd>/</kbd> chercher · <kbd>R</kbd> autre bric-à-brac · <kbd>M</kbd> marchand · <kbd>Échap</kbd> fermer la fiche</p>
   </section>
 </main>
 
@@ -52,56 +75,124 @@
 
 <script>
 (function(){
-  const API='api/v1/', $=id=>document.getElementById(id);
-  const norm=s=>(s||'').toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g,'').replace(/œ/g,'oe');
-  const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-  let idx=[],cats={},rnd=null;
-  Promise.all([fetch(API+'search.json').then(r=>r.json()),fetch(API+'categories.json').then(r=>r.json())]).then(([s,c])=>{
-    idx=s.map(x=>({...x,k:norm(x.fr+' '+x.en)}));
-    c.categories.forEach(k=>{cats[k.id]=k;const o=document.createElement('option');o.value=k.id;o.textContent=`${k.table}. ${k.name.fr} (${k.count})`;$('cat').appendChild(o);});
-    $('stats').textContent=`${idx.length} objets · ${c.count} tableaux · 2 langues`;
-    const q=new URLSearchParams(location.search).get('q'); if(q) $('q').value=q;
-    run();
-  }).catch(()=>{$('stats').textContent="Erreur : impossible de charger les données.";});
-  function sample(n){const out=[];for(let i=0;i<n;i++) out.push(idx[Math.floor(Math.random()*idx.length)]);return out;}
-  function run(){
-    const q=norm($('q').value.trim()), c=$('cat').value;
-    let res=idx;
-    if(c) res=res.filter(x=>x.c===c);
-    if(q){const t=q.split(/\s+/);res=res.filter(x=>t.every(w=>x.k.includes(w)));}
-    else if(!c){ res=rnd||(rnd=sample(8)); }
-    $('results').innerHTML=res.slice(0,60).map(x=>`<li><button type="button" class="row" data-id="${esc(x.id)}" aria-expanded="false" aria-label="${esc(x.fr)} : ${esc(x.p||'sans prix')}"><span class="price">${esc(x.p||'—')}</span><span class="name">${esc(x.fr)}</span></button></li>`).join('');
-    $('hint').textContent=!q&&!c?"Le bric-à-brac du moment. Tapez pour chercher, en français ou en anglais.":res.length>60?`${res.length} résultats, 60 affichés.`:res.length?`${res.length} résultat${res.length>1?'s':''}.`:"Rien de tel chez le marchand.";
+  const {$, esc, norm, json, t, fmt, parseMoney, copy, flash} = GL;
+  const STEP = 60;
+  let idx = [], byId = {}, cats = {}, rnd = null, limit = STEP, open = null;
+
+  /* L'adresse reflète la recherche : ?q=…&t=…&tri=…&max=…&objet=… */
+  function readUrl(){
+    const u = new URLSearchParams(location.search);
+    $('q').value = u.get('q') || '';
+    $('cat').value = cats[u.get('t')] ? u.get('t') : '';
+    $('tri').value = ['asc','desc','az'].includes(u.get('tri')) ? u.get('tri') : '';
+    $('max').value = u.get('max') || '';
+    open = byId[u.get('objet')] ? u.get('objet') : null;
   }
+  function writeUrl(){
+    const u = new URLSearchParams();
+    if ($('q').value.trim()) u.set('q', $('q').value.trim());
+    if ($('cat').value) u.set('t', $('cat').value);
+    if ($('tri').value) u.set('tri', $('tri').value);
+    if ($('max').value.trim()) u.set('max', $('max').value.trim());
+    if (open) u.set('objet', open);
+    const s = u.toString();
+    history.replaceState(null, '', s ? '?' + s : location.pathname);
+  }
+
+  Promise.all([json('search.json'), json('categories.json')]).then(([s, c]) => {
+    idx = s.map((x, i) => ({...x, i, k: norm(x.fr + ' ' + x.en)}));
+    idx.forEach(x => byId[x.id] = x);
+    c.categories.forEach(k => { cats[k.id] = k; const o = document.createElement('option'); o.value = k.id; $('cat').appendChild(o); });
+    paintCats();
+    $('stats').textContent = `${idx.length} objets · ${c.count} tableaux · 2 langues`;
+    readUrl(); run(true, true);
+  }).catch(() => { $('stats').textContent = "Erreur : impossible de charger les données."; });
+
+  function paintCats(){
+    [...$('cat').options].forEach(o => { const k = cats[o.value]; if (k) o.textContent = `${k.table}. ${t(k.name)} (${k.count})`; });
+  }
+  const sample = n => Array.from({length: n}, () => idx[Math.floor(Math.random() * idx.length)]);
+  const label = x => GL.lang === 'en' ? x.en : x.fr;
+  const price = x => (GL.lang === 'en' ? x.pe : x.p) || '—';
+
+  function filtered(){
+    const q = norm($('q').value.trim()), c = $('cat').value, tri = $('tri').value;
+    const budget = parseMoney($('max').value);
+    const mh = $('max-hint');
+    if ($('max').value.trim()) { mh.hidden = false; mh.textContent = budget == null ? "Budget illisible : essayez « 10 po » ou « 5 pa »." : `Jusqu'à ${fmt(budget)}.`; }
+    else mh.hidden = true;
+    const browsing = !q && !c && !tri && budget == null;
+    if (browsing) return {res: rnd || (rnd = sample(8)), browsing};
+    let res = idx;
+    if (c) res = res.filter(x => x.c === c);
+    if (q) { const w = q.split(/\s+/); res = res.filter(x => w.every(v => x.k.includes(v))); }
+    if (budget != null) res = res.filter(x => x.m != null && x.m <= budget);
+    if (tri === 'asc' || tri === 'desc') {
+      const d = tri === 'asc' ? 1 : -1;
+      res = [...res].sort((a, b) => (a.m == null) - (b.m == null) || d * (a.m - b.m) || a.i - b.i);
+    } else if (tri === 'az') res = [...res].sort((a, b) => label(a).localeCompare(label(b), GL.lang));
+    return {res, browsing};
+  }
+
+  function run(keepOpen, scroll){
+    if (!keepOpen) { open = null; limit = STEP; }
+    let {res, browsing} = filtered();
+    let shown = res.slice(0, limit);
+    if (open && !shown.some(x => x.id === open)) shown = [byId[open], ...shown];
+    $('results').innerHTML = shown.map(x => `<li><button type="button" class="row" data-id="${esc(x.id)}" aria-expanded="false" aria-label="${esc(label(x))}${x.n ? ' (note)' : ''} : ${esc(price(x))}"><span class="price">${esc(price(x))}</span><span class="name">${esc(label(x))}${x.n ? '<span class="mark" aria-hidden="true"> *</span>' : ''}</span></button></li>`).join('');
+    const notes = shown.some(x => x.n) ? ' * : l\'objet a une note de traduction.' : '';
+    $('hint').textContent = (browsing ? "Le bric-à-brac du moment. Tapez pour chercher, en français ou en anglais."
+      : res.length > shown.length ? `${res.length} résultats, ${shown.length} affichés.`
+      : res.length ? `${res.length} résultat${res.length > 1 ? 's' : ''}.` : "Rien de tel chez le marchand.") + notes;
+    $('more').hidden = browsing || res.length <= limit;
+    $('reset').hidden = browsing;
+    writeUrl();
+    if (open) openDetail($('results').querySelector(`button[data-id="${CSS.escape(open)}"]`), !!scroll);
+  }
+
   function closeDetail(){
-    document.querySelectorAll('#results .detail').forEach(d=>d.remove());
-    document.querySelectorAll('#results button[aria-expanded="true"]').forEach(b=>b.setAttribute('aria-expanded','false'));
+    document.querySelectorAll('#results .detail').forEach(d => d.remove());
+    document.querySelectorAll('#results button[aria-expanded="true"]').forEach(b => b.setAttribute('aria-expanded', 'false'));
   }
-  function again(){$('q').value='';$('cat').value='';rnd=sample(8);run();}
-  $('q').addEventListener('input',run); $('cat').addEventListener('change',run);
-  $('k-random').addEventListener('click',again);
-  document.addEventListener('keydown',e=>{
-    if(e.altKey||e.ctrlKey||e.metaKey) return;
-    const tag=document.activeElement.tagName;
-    if(tag==='INPUT'||tag==='SELECT'){ if(e.key==='Escape') document.activeElement.blur(); return; }
-    if(e.key==='/'){e.preventDefault();$('q').focus();}
-    else if(e.key==='r'||e.key==='R'){again();}
-    else if(e.key==='m'||e.key==='M'){location.href='marchand.html';}
-    else if(e.key==='Escape'){closeDetail();}
-  });
-  $('results').addEventListener('click',e=>{
-    const b=e.target.closest('button[data-id]'); if(!b) return;
-    const open=b.getAttribute('aria-expanded')==='true';
-    closeDetail(); if(open) return;
-    b.setAttribute('aria-expanded','true');
-    const box=document.createElement('div'); box.className='detail'; box.textContent='Chargement…';
+  function openDetail(b, scroll){
+    closeDetail(); if (!b) return;
+    open = b.dataset.id; writeUrl();
+    b.setAttribute('aria-expanded', 'true');
+    const box = document.createElement('div'); box.className = 'detail'; box.textContent = 'Chargement…';
     b.parentNode.appendChild(box);
-    fetch(API+'items/'+b.dataset.id+'.json').then(r=>r.json()).then(it=>{
-      const lab={price:'Prix',eggs:'Œufs',young:'Petits',price_raw:'Brut',price_prepared:'Préparé'};
-      const rows=Object.keys(lab).filter(k=>it[k]).map(k=>`<tr><th>${lab[k]}</th><td>${esc(it[k].text.fr)} <span class="dim">(${esc(it[k].text.en)})</span></td></tr>`).join('');
-      const w=it.weight?`<tr><th>Poids</th><td>${esc(it.weight.text)}${it.weight.lb!=null?` <span class="dim">(${it.weight.lb} lb)</span>`:''}</td></tr>`:'';
-      box.innerHTML=`<h3>${esc(it.full_name.fr)}</h3><p class="dim">${esc(it.full_name.en)} · ${esc(cats[it.category]?.name.fr)} · tableau ${esc(it.source.table)}</p><table>${rows}${w}</table>${it.notes.fr.map(n=>`<p class="prose">${esc(n)}</p>`).join('')}<p><a href="${API}items/${esc(it.id)}.json">JSON</a></p>`;
-    }).catch(()=>{box.textContent='Impossible de charger cet objet.';});
+    if (scroll) b.scrollIntoView({block: 'center'});
+    json('items/' + b.dataset.id + '.json').then(it => {
+      const other = GL.lang === 'en' ? 'fr' : 'en';
+      const lab = {price: 'Prix', eggs: 'Œufs', young: 'Petits', price_raw: 'Brut', price_prepared: 'Préparé'};
+      const rows = Object.keys(lab).filter(k => it[k]).map(k => `<tr><th>${lab[k]}</th><td>${esc(it[k].text[GL.lang])} <span class="dim">(${esc(it[k].text[other])})</span></td></tr>`).join('');
+      const w = it.weight ? `<tr><th>Poids</th><td>${esc(it.weight.text)}${it.weight.lb != null ? ` <span class="dim">(${it.weight.lb} lb)</span>` : ''}</td></tr>` : '';
+      const cat = cats[it.category];
+      box.innerHTML = `<h3>${esc(it.full_name[GL.lang])}</h3><p class="dim">${esc(it.full_name[other])} · ${esc(t(cat?.name))} · tableau ${esc(it.source.table)}</p><table>${rows}${w}</table>${it.notes.fr.map(n => `<p class="prose note">* ${esc(n)}</p>`).join('')}
+<p class="links"><a href="tableaux.html?t=${esc(it.category)}#${esc(it.id)}">Voir dans le tableau</a> · <a href="texte.html?l=${it.source.line}&amp;objet=${esc(it.id)}">Ligne ${it.source.line} du texte original</a> · <a href="${GL.API}items/${esc(it.id)}.json">JSON</a> · <button type="button" class="link" data-copy>Copier le lien</button></p>`;
+      box.querySelector('[data-copy]').addEventListener('click', e => copy(location.href).then(ok => flash(e.target, ok ? 'Lien copié' : 'Copie impossible')));
+    }).catch(() => { box.textContent = 'Impossible de charger cet objet.'; });
+  }
+
+  function again(){ $('filters').reset(); rnd = sample(8); run(); $('q').focus(); }
+  ['q', 'max'].forEach(id => $(id).addEventListener('input', () => run()));
+  ['cat', 'tri'].forEach(id => $(id).addEventListener('change', () => run()));
+  $('k-random').addEventListener('click', () => { $('filters').reset(); rnd = sample(8); run(); });
+  $('reset').addEventListener('click', again);
+  $('more').addEventListener('click', () => { limit += STEP; run(true); });
+  GL.onLang(() => { paintCats(); run(true); });
+  document.addEventListener('keydown', e => {
+    if (e.altKey || e.ctrlKey || e.metaKey) return;
+    const tag = document.activeElement.tagName;
+    if (tag === 'INPUT' || tag === 'SELECT') { if (e.key === 'Escape') document.activeElement.blur(); return; }
+    if (e.key === '/') { e.preventDefault(); $('q').focus(); }
+    else if (e.key === 'r' || e.key === 'R') { $('k-random').click(); }
+    else if (e.key === 'm' || e.key === 'M') { location.href = 'marchand.html'; }
+    else if (e.key === 'Escape' && open) { const b = $('results').querySelector('[aria-expanded="true"]'); closeDetail(); open = null; writeUrl(); b && b.focus(); }
+  });
+  $('results').addEventListener('click', e => {
+    const b = e.target.closest('button[data-id]'); if (!b) return;
+    if (b.getAttribute('aria-expanded') === 'true') { closeDetail(); open = null; writeUrl(); return; }
+    openDetail(b, false);
   });
 })();
 </script>

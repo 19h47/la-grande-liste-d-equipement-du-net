@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Le texte de la Grande Liste</title>
+<meta name="description" content="Le fichier texte original de la Great Net Equipment List (1997-1998) et sa traduction française.">
+<link rel="stylesheet" href="css/style.css">
+<script src="js/common.js"></script>
+</head>
+<body class="wide">
+<header>
+  <a class="site" href="./">La Grande Liste d'équipement du Net</a>
+  <nav aria-label="Pages">
+    <a href="./">Liste</a>
+    <a href="tableaux.html">Tableaux</a>
+    <a href="marchand.html">Marchand</a>
+    <a href="monnaies.html">Monnaies</a>
+    <a href="texte.html" aria-current="page">Texte</a>
+    <a href="api.html">API</a>
+  </nav>
+</header>
+
+<main>
+  <section>
+    <h1>Le texte</h1>
+    <p class="prose">Le netbook tel qu'il circulait en 1998, en texte brut, et sa traduction française. Les fiches de la liste renvoient à la ligne d'où vient chaque objet dans l'original anglais.</p>
+    <div class="actions" role="group" aria-label="Version du texte">
+      <button type="button" class="btn" data-v="en">Original anglais</button>
+      <button type="button" class="btn" data-v="fr">Traduction française</button>
+      <a class="btn" id="dl" href="#">Télécharger le .txt</a>
+    </div>
+    <p id="back" class="dim" hidden></p>
+  </section>
+  <pre class="txt" id="txt" aria-live="polite">Chargement<span class="blink">_</span></pre>
+</main>
+
+<script>
+(function(){
+  const {$, esc} = GL;
+  const FILES = {en: 'textes/the-great-net-equipment-list.en.txt', fr: 'textes/la-grande-liste-d-equipement-du-net.fr.txt'};
+  const u = new URLSearchParams(location.search);
+  const line = parseInt(u.get('l'), 10) || null;
+  const objet = u.get('objet');
+  let v = u.get('v') === 'en' || u.get('v') === 'fr' ? u.get('v') : (line ? 'en' : 'fr');
+  const cache = {};
+
+  if (line) {
+    $('back').hidden = false;
+    $('back').innerHTML = `Ligne ${line} de l'original surlignée.` + (objet ? ` <a href="./?objet=${esc(objet)}">Retour à l'objet</a>.` : '');
+  }
+
+  function show(){
+    document.querySelectorAll('[data-v]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.v === v)));
+    $('dl').href = FILES[v]; $('dl').setAttribute('download', FILES[v].split('/').pop());
+    const p = cache[v] || (cache[v] = fetch(FILES[v]).then(r => { if (!r.ok) throw 0; return r.text(); }));
+    p.then(txt => {
+      const lines = txt.replace(/\r\n?/g, '\n').split('\n');
+      const hit = v === 'en' ? line : null;
+      $('txt').innerHTML = lines.map((l, i) => `<span id="L${i + 1}"${i + 1 === hit ? ' class="hit"' : ''}>${esc(l) || ' '}</span>`).join('\n');
+      $('txt').lang = v;
+      if (hit) document.getElementById('L' + hit)?.scrollIntoView({block: 'center'});
+      else if (/^#L\d+$/.test(location.hash)) document.getElementById(location.hash.slice(1))?.scrollIntoView({block: 'center'});
+    }).catch(() => { $('txt').textContent = 'Impossible de charger le texte.'; });
+  }
+  document.querySelectorAll('[data-v]').forEach(b => b.addEventListener('click', () => {
+    v = b.dataset.v;
+    const q = new URLSearchParams(location.search); q.set('v', v);
+    history.replaceState(null, '', '?' + q.toString());
+    show();
+  }));
+  show();
+})();
+</script>
+</body>
+</html>

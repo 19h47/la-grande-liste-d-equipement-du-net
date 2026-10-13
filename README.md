@@ -4,7 +4,13 @@
 
 - **Texte** : l'original anglais et la traduction française complète, avec plus de 700 notes explicatives (`textes/`)
 - **Données** : 3 039 objets bilingues avec prix convertis en pièces de cuivre (`data/items.json`, `data/items.csv`)
-- **API statique** : servie par GitHub Pages depuis `docs/`, avec une page de recherche, le Comptoir du marchand (`docs/marchand.html`), qui tire au hasard l'inventaire d'une boutique, et la documentation de l'API (`docs/api.html`)
+- **Site et API statique** : servis par GitHub Pages depuis `docs/` :
+  - la Liste (`docs/index.html`) : recherche, tri et budget, fiche de chaque objet, liens partageables (`?q=`, `?t=`, `?tri=`, `?max=`, `?objet=`)
+  - les Tableaux (`docs/tableaux.html`) : les 33 tableaux à lire et à imprimer, avec leurs notes
+  - le Comptoir du marchand (`docs/marchand.html`) : inventaire tiré au hasard, prix selon le lieu, note de comptoir à copier
+  - les Monnaies (`docs/monnaies.html`) : le changeur et les tableaux A et B
+  - le Texte (`docs/texte.html`) : le fichier original et sa traduction, avec la ligne de chaque objet
+  - la documentation de l'API (`docs/api.html`)
 
 ## L'API
 
@@ -45,7 +51,7 @@ Fichiers JSON en lecture seule, sans serveur ni clé :
 `data/items.json` est la source de vérité. Après une correction :
 
 ```sh
-python3 scripts/build.py   # régénère data/items.csv et docs/api/v1/
+python3 scripts/build.py   # régénère data/items.csv, docs/api/v1/ et docs/textes/
 ```
 
 ## Mettre en ligne

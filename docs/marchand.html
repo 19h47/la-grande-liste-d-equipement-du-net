@@ -6,24 +6,40 @@
 <title>Le Comptoir du marchand</title>
 <meta name="description" content="Tirez au hasard l'inventaire d'une boutique d'AD&D 2e à partir de la Grande Liste d'équipement du Net.">
 <link rel="stylesheet" href="css/style.css">
+<script src="js/common.js"></script>
 </head>
 <body>
 <header>
   <a class="site" href="./">La Grande Liste d'équipement du Net</a>
   <nav aria-label="Pages">
     <a href="./">Liste</a>
+    <a href="tableaux.html">Tableaux</a>
     <a href="marchand.html" aria-current="page">Marchand</a>
+    <a href="monnaies.html">Monnaies</a>
+    <a href="texte.html">Texte</a>
     <a href="api.html">API</a>
+    <span class="lang" role="group" aria-label="Langue des noms d'objets"><button type="button" data-lang-btn="fr">FR</button><button type="button" data-lang-btn="en">EN</button></span>
   </nav>
 </header>
 
 <main>
-  <section>
+  <section class="controls">
     <h1>Le Comptoir du marchand</h1>
-    <p class="prose">Les joueurs poussent la porte ? Voici ce que le marchand a en stock aujourd'hui.</p>
+    <p class="prose">Les joueurs poussent la porte ? Voici ce que le marchand a en stock aujourd'hui. Touchez les objets qu'ils achètent : la note se fait toute seule.</p>
     <div class="field">
       <label for="shop">Boutique</label>
       <select id="shop"></select>
+    </div>
+    <div class="field">
+      <label for="place">Lieu</label>
+      <select id="place">
+        <option value="0.8">Grande cité, marché de gros (−20 %)</option>
+        <option value="0.9">Grande cité (−10 %)</option>
+        <option value="1" selected>Ville (prix de la liste)</option>
+        <option value="1.2">Village (+20 %)</option>
+        <option value="1.5">Contrée reculée (+50 %)</option>
+        <option value="2">Pénurie, marché noir (+100 %)</option>
+      </select>
     </div>
     <div class="actions">
       <button type="button" class="btn" id="go">Nouveau stock</button>
@@ -33,6 +49,7 @@
     <p class="keys">Clavier : <kbd>Espace</kbd> nouveau stock · <kbd>↑</kbd> <kbd>↓</kbd> changer de boutique</p>
   </section>
   <section id="out" aria-live="polite"><p>Chargement<span class="blink">_</span></p></section>
+  <section id="bill" aria-live="polite"></section>
 </main>
 
 <script>
@@ -53,42 +70,120 @@
     ['joaillier','Le négociant en matières précieuses',['materiaux-bruts']],
     ['exotique','Le marchand de curiosités',['oeufs-et-petits-de-creatures','parties-de-creatures']]
   ];
-  const API='api/v1/categories/', cache={}, $=id=>document.getElementById(id);
-  const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-  const sel=$('shop');
-  SHOPS.forEach(([id,name])=>{const o=document.createElement('option');o.value=id;o.textContent=name;sel.appendChild(o);});
-  try{const s=localStorage.getItem('shop'); if(s&&SHOPS.some(x=>x[0]===s)) sel.value=s;}catch(e){}
-  const load=c=>cache[c]||(cache[c]=fetch(API+c+'.json').then(r=>r.json()).then(d=>d.items));
-  const priceOf=it=>it.price||it.eggs||it.young||it.price_raw;
-  let busy=false;
+  const {$, esc, json, fmt, copy, flash, leaderLine} = GL;
+  const cache = {}, sel = $('shop'), place = $('place');
+  SHOPS.forEach(([id, name]) => { const o = document.createElement('option'); o.value = id; o.textContent = name; sel.appendChild(o); });
+  const u = new URLSearchParams(location.search);
+  try {
+    const s = u.get('boutique') || localStorage.getItem('shop'); if (s && SHOPS.some(x => x[0] === s)) sel.value = s;
+    const p = u.get('prix') || localStorage.getItem('place'); if (p && [...place.options].some(o => o.value === p)) place.value = p;
+  } catch (e) {}
+  const load = c => cache[c] || (cache[c] = json('categories/' + c + '.json').then(d => d.items));
+  const priceOf = it => it.price || it.eggs || it.young || it.price_raw;
+
+  let pool = [], stock = [], cart = new Map(), busy = false;
+  const k = () => parseFloat(place.value);
+  const nameOf = it => it.full_name[GL.lang] ?? it.full_name.fr;
+  /* Prix affiché : le texte de la liste au prix normal, sinon le prix recalculé. */
+  function priceText(it){
+    const p = priceOf(it);
+    if (k() === 1) return p.text[GL.lang];
+    const lo = fmt(p.min_cp * k()), hi = fmt((p.max_cp ?? p.min_cp) * k());
+    return (lo === hi ? lo : lo + ' à ' + hi) + (p.plus ? '+' : '');
+  }
+  const unitCp = it => Math.round(priceOf(it).min_cp * k());
+
+  function remember(){
+    try { localStorage.setItem('shop', sel.value); localStorage.setItem('place', place.value); } catch (e) {}
+    const q = new URLSearchParams(); q.set('boutique', sel.value); if (place.value !== '1') q.set('prix', place.value);
+    history.replaceState(null, '', '?' + q.toString());
+  }
+
   async function enter(){
-    if(busy) return; busy=true;
-    const [id,name,cats]=SHOPS.find(s=>s[0]===sel.value);
-    try{localStorage.setItem('shop',id);}catch(e){}
-    try{
-      const pool=(await Promise.all(cats.map(load))).flat().filter(it=>{const p=priceOf(it);return p&&p.min_cp!=null;});
-      const picks=[...pool];
-      for(let i=picks.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[picks[i],picks[j]]=[picks[j],picks[i]];}
-      const stock=picks.slice(0,10).sort((a,b)=>a.full_name.fr.localeCompare(b.full_name.fr,'fr'));
-      $('out').innerHTML=`<h2>${esc(name)}</h2><p class="rule" aria-hidden="true"></p>
+    if (busy) return; busy = true;
+    const [, , cats] = SHOPS.find(s => s[0] === sel.value);
+    remember();
+    try {
+      pool = (await Promise.all(cats.map(load))).flat().filter(it => { const p = priceOf(it); return p && p.min_cp != null; });
+      const picks = [...pool];
+      for (let i = picks.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [picks[i], picks[j]] = [picks[j], picks[i]]; }
+      stock = picks.slice(0, 10).sort((a, b) => a.full_name.fr.localeCompare(b.full_name.fr, 'fr'));
+      cart = new Map();
+      paint();
+    } catch (e) { $('out').innerHTML = '<p>Le marchand est absent : impossible de charger les données.</p>'; }
+    busy = false;
+  }
+
+  function paint(){
+    const name = SHOPS.find(s => s[0] === sel.value)[1];
+    const pl = place.options[place.selectedIndex].text;
+    $('out').innerHTML = `<h2>${esc(name)}</h2>
+<p class="dim print-only">${esc(pl)}</p>
+<p class="rule" aria-hidden="true"></p>
 <ul class="list" aria-label="Stock du jour">
 <li class="head" aria-hidden="true"><span>Objet</span><span>Prix</span></li>
-${stock.map(it=>`<li><div class="row"><span class="price" aria-hidden="true">${esc(priceOf(it).text.fr)}</span><span class="name">${esc(it.full_name.fr)}<span class="visually-hidden"> : ${esc(priceOf(it).text.fr)}</span></span></div></li>`).join('')}
-</ul><p class="rule" aria-hidden="true"></p><p class="dim">${pool.length} objets possibles chez ce marchand.</p>`;
-    }catch(e){$('out').innerHTML='<p>Le marchand est absent : impossible de charger les données.</p>';}
-    busy=false;
+${stock.map((it, i) => { const n = cart.get(it.id) || 0; return `<li><button type="button" class="row${n ? ' picked' : ''}" data-i="${i}" aria-pressed="${n > 0}" aria-label="${esc(nameOf(it))} : ${esc(priceText(it))}${n ? ', ' + n + ' dans la note' : ''}"><span class="price">${esc(priceText(it))}</span><span class="name"><span class="qty" aria-hidden="true">${n ? '[' + n + ']' : '[ ]'}</span> ${esc(nameOf(it))}</span></button></li>`; }).join('')}
+</ul><p class="rule" aria-hidden="true"></p>
+<p class="dim">${pool.length} objets possibles chez ce marchand.${k() !== 1 ? ' Prix recalculés à partir du prix le plus bas de la liste.' : ''}</p>
+<div class="actions"><button type="button" class="btn" id="copy">Copier le stock</button><button type="button" class="btn" data-print>Imprimer</button></div>`;
+    $('out').querySelector('[data-print]').addEventListener('click', () => window.print());
+    $('copy').addEventListener('click', e => copy(stockText()).then(ok => flash(e.target, ok ? 'Stock copié' : 'Copie impossible')));
+    paintBill();
   }
-  function step(d){sel.selectedIndex=(sel.selectedIndex+d+SHOPS.length)%SHOPS.length;enter();}
-  sel.addEventListener('change',enter);
-  $('go').addEventListener('click',enter);
-  $('prev').addEventListener('click',()=>step(-1));
-  $('next').addEventListener('click',()=>step(1));
-  document.addEventListener('keydown',e=>{
-    if(e.altKey||e.ctrlKey||e.metaKey) return;
-    const inSelect=document.activeElement===sel;
-    if(e.key===' '&&!inSelect&&document.activeElement.tagName!=='BUTTON'){e.preventDefault();enter();}
-    else if(e.key==='ArrowUp'&&!inSelect){e.preventDefault();step(-1);}
-    else if(e.key==='ArrowDown'&&!inSelect){e.preventDefault();step(1);}
+
+  /* La note de comptoir. Un clic ajoute un exemplaire, « − » en retire un. */
+  function paintBill(){
+    const lines = stock.filter(it => cart.get(it.id));
+    if (!lines.length) { $('bill').innerHTML = ''; return; }
+    const total = lines.reduce((s, it) => s + unitCp(it) * cart.get(it.id), 0);
+    $('bill').innerHTML = `<h2>La note</h2>
+<p class="rule" aria-hidden="true"></p>
+<ul class="list bill">${lines.map(it => { const n = cart.get(it.id); return `<li><div class="row"><span class="price">${esc(fmt(unitCp(it) * n))}</span><span class="name">${n} × ${esc(nameOf(it))} <button type="button" class="link" data-minus="${esc(it.id)}" aria-label="Retirer un ${esc(nameOf(it))}">−</button></span></div></li>`; }).join('')}
+<li><div class="row total"><span class="price">${esc(fmt(total))}</span><span class="name">Total</span></div></li></ul>
+<p class="rule" aria-hidden="true"></p>
+<p class="dim">Soit ${GL.group(total)} pc. Pour les prix en « à partir de » ou en fourchette, la note compte le prix le plus bas.</p>
+<div class="actions"><button type="button" class="btn" id="copy-bill">Copier la note</button><button type="button" class="btn" id="clear">Vider la note</button></div>`;
+    $('bill').querySelectorAll('[data-minus]').forEach(b => b.addEventListener('click', () => {
+      const id = b.dataset.minus, n = (cart.get(id) || 0) - 1;
+      n > 0 ? cart.set(id, n) : cart.delete(id); paint();
+    }));
+    $('clear').addEventListener('click', () => { cart = new Map(); paint(); });
+    $('copy-bill').addEventListener('click', e => copy(billText()).then(ok => flash(e.target, ok ? 'Note copiée' : 'Copie impossible')));
+  }
+
+  function stockText(){
+    const name = SHOPS.find(s => s[0] === sel.value)[1];
+    return [name.toUpperCase() + (k() !== 1 ? ' (' + place.options[place.selectedIndex].text + ')' : ''), '',
+      ...stock.map(it => leaderLine(nameOf(it), priceText(it)))].join('\n');
+  }
+  function billText(){
+    const lines = stock.filter(it => cart.get(it.id));
+    const total = lines.reduce((s, it) => s + unitCp(it) * cart.get(it.id), 0);
+    return ['NOTE : ' + SHOPS.find(s => s[0] === sel.value)[1], '',
+      ...lines.map(it => leaderLine(cart.get(it.id) + ' × ' + nameOf(it), fmt(unitCp(it) * cart.get(it.id)))),
+      '', leaderLine('TOTAL', fmt(total))].join('\n');
+  }
+
+  $('out').addEventListener('click', e => {
+    const b = e.target.closest('button[data-i]'); if (!b) return;
+    const it = stock[+b.dataset.i]; cart.set(it.id, (cart.get(it.id) || 0) + 1);
+    paint();
+    $('out').querySelector(`button[data-i="${b.dataset.i}"]`).focus();
+  });
+  function step(d){ sel.selectedIndex = (sel.selectedIndex + d + SHOPS.length) % SHOPS.length; enter(); }
+  sel.addEventListener('change', enter);
+  place.addEventListener('change', () => { remember(); paint(); });
+  $('go').addEventListener('click', enter);
+  $('prev').addEventListener('click', () => step(-1));
+  $('next').addEventListener('click', () => step(1));
+  GL.onLang(paint);
+  document.addEventListener('keydown', e => {
+    if (e.altKey || e.ctrlKey || e.metaKey) return;
+    const a = document.activeElement;
+    if (a.tagName === 'SELECT' || a.tagName === 'INPUT') return;
+    if (e.key === ' ' && a.tagName !== 'BUTTON') { e.preventDefault(); enter(); }
+    else if (e.key === 'ArrowUp') { e.preventDefault(); step(-1); }
+    else if (e.key === 'ArrowDown') { e.preventDefault(); step(1); }
   });
   enter();
 })();

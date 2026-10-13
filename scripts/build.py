@@ -56,10 +56,15 @@ def main():
         dump(API / "categories" / f"{c['id']}.json", {**c, "items": by_cat.get(c["id"], [])})
     dump(API / "currencies.json", {"count": len(coins), "currencies": coins})
     # index léger pour la recherche
-    dump(API / "search.json", [
-        {"id": it["id"], "c": it["category"], "fr": it["full_name"]["fr"], "en": it["full_name"]["en"],
-         "p": (it.get("price") or it.get("eggs") or it.get("price_raw") or {}).get("text", {}).get("fr")}
-        for it in items])
+    # p/pe : prix affiché (fr/en), m : prix minimal en pc (tri et budget), n : l'objet a des notes
+    def entry(it):
+        pr = it.get("price") or it.get("eggs") or it.get("price_raw") or {}
+        e = {"id": it["id"], "c": it["category"], "fr": it["full_name"]["fr"], "en": it["full_name"]["en"],
+             "p": pr.get("text", {}).get("fr"), "pe": pr.get("text", {}).get("en"), "m": pr.get("min_cp")}
+        if it["notes"]["fr"]:
+            e["n"] = 1
+        return e
+    dump(API / "search.json", [entry(it) for it in items])
     dump(API / "index.json", {
         **meta,
         "endpoints": {
@@ -72,6 +77,10 @@ def main():
         },
         "counts": {"items": len(items), "categories": len(cats)},
     })
+    # textes servis par GitHub Pages, pour la page « Texte »
+    (ROOT / "docs" / "textes").mkdir(exist_ok=True)
+    for name in ["the-great-net-equipment-list.en.txt", "la-grande-liste-d-equipement-du-net.fr.txt"]:
+        shutil.copyfile(ROOT / "textes" / name, ROOT / "docs" / "textes" / name)
     print(f"{len(items)} objets, {len(cats)} catégories → {API.relative_to(ROOT)}")
 
 
