@@ -67,21 +67,26 @@ kbd { font: inherit; color: var(--frame); }
 
 main {
 	width: 100%;
-	max-width: calc(80ch + 3rem + 6px);
 	margin: 0 auto;
 	padding: 1.5rem 1rem 3rem;
+	/* Même règle que l'écran de HEROES : 80 cellules de .5625em remplissent la largeur ; au-delà de
+	   16px la taille avance par paliers de 8px (16, 24) pour garder les pixels de la police nets. */
+	--fit: calc((100vw - 4rem) / 45);
+	font-size: max(14px, min(round(down, var(--fit), 8px), 24px));
+	line-height: 1;
+	max-width: calc(80 * .5625em + 2rem + 2.5em + 6px);
 }
-
+main p, main .field, main pre { margin: 0 0 1em; }
 /* Le cadre double de HEROES. */
 .box {
 	border: 3px double var(--frame);
-	padding: 1rem 1.25rem;
-	margin: 0 0 1.5rem;
+	padding: 1em 1.25em;
+	margin: 0 0 1.5em;
 }
 .box > :first-child { margin-top: 0; }
 .box > :last-child { margin-bottom: 0; }
 
-h2 { font-size: 1rem; font-weight: normal; color: var(--bright); margin: 0 0 1rem; text-transform: uppercase; }
+h2 { font-size: 1em; line-height: 1; font-weight: normal; color: var(--frame); margin: 0 0 1em; display: inline-block; padding-bottom: .25em; border-bottom: 2px solid var(--frame); }
 p { margin: 0 0 1rem; }
 .dim { color: var(--dim); }
 .bright { color: var(--bright); }
@@ -133,7 +138,8 @@ th { color: var(--dim); font-weight: normal; }
 
 @media (max-width: 600px) {
 	body { font-size: 14px; }
-	.box { padding: .75rem; }
+	main { line-height: 1.15; }
+	.box { padding: .75em; }
 }
 
 .title { text-align: center; margin: 0 0 1rem; color: var(--text); }
