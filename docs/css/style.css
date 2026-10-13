@@ -1,0 +1,139 @@
+/* Police IBM VGA 9×16, tirée de The Ultimate Oldschool PC Font Pack de VileR (int10h.org),
+   CC BY-SA 4.0, voir fonts/LICENSE.TXT. Même esprit que HEROES (github.com/19h47/heroes). */
+@font-face {
+	font-family: "Web437 IBM VGA 9x16";
+	src: url("../fonts/Web437_IBM_VGA_9x16.woff") format("woff");
+	font-display: block;
+}
+
+/* Palette DOS : gris clair sur noir, liseré rouge clair, jaune pour les prix. */
+:root {
+	--text: #aaaaaa;
+	--bright: #ffffff;
+	--back: #000000;
+	--frame: #ff5555;
+	--hi: #ffff55;
+	--dim: #555555;
+	--link: #55ffff;
+	--font: "Web437 IBM VGA 9x16", "Lucida Console", ui-monospace, Menlo, Consolas, monospace;
+	color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+
+body {
+	margin: 0;
+	min-height: 100vh;
+	display: grid;
+	grid-template-rows: auto 1fr auto;
+	grid-template-columns: minmax(0, 1fr);
+	background: var(--back);
+	color: var(--text);
+	font: 16px/1.5 var(--font);
+}
+
+a { color: var(--link); text-decoration: none; }
+a:hover, a:focus-visible { background: var(--link); color: var(--back); outline: none; }
+
+.bar {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: .25rem 1.5rem;
+	padding: .4rem 1rem;
+}
+.bar.top { justify-content: space-between; }
+.bar h1 { margin: 0; font-size: 1rem; font-weight: normal; }
+.bar nav { display: flex; flex-wrap: wrap; gap: .25rem 1rem; }
+.bar nav a[aria-current="page"] { color: var(--back); background: var(--text); }
+.badge { background: var(--frame); color: var(--back); padding: 0 .4rem; }
+
+.bar.bottom { position: sticky; bottom: 0; justify-content: center; background: var(--back); border-top: 1px solid var(--dim); }
+.bar.bottom button, .key {
+	font: inherit;
+	color: inherit;
+	background: none;
+	border: 0;
+	cursor: pointer;
+	padding: .2rem .3rem;
+}
+kbd { font: inherit; color: var(--frame); }
+.bar.bottom button:hover, .bar.bottom button:focus-visible, .key:hover, .key:focus-visible {
+	background: var(--text);
+	color: var(--back);
+	outline: none;
+}
+.bar.bottom button:hover kbd, .bar.bottom button:focus-visible kbd, .key:hover kbd, .key:focus-visible kbd { color: inherit; }
+
+main {
+	width: 100%;
+	max-width: calc(80ch + 3rem + 6px);
+	margin: 0 auto;
+	padding: 1.5rem 1rem 3rem;
+}
+
+/* Le cadre double de HEROES. */
+.box {
+	border: 3px double var(--frame);
+	padding: 1rem 1.25rem;
+	margin: 0 0 1.5rem;
+}
+.box > :first-child { margin-top: 0; }
+.box > :last-child { margin-bottom: 0; }
+
+h2 { font-size: 1rem; font-weight: normal; color: var(--bright); margin: 0 0 1rem; text-transform: uppercase; }
+p { margin: 0 0 1rem; }
+.dim { color: var(--dim); }
+.bright { color: var(--bright); }
+.price { color: var(--hi); }
+
+/* Lignes à points de conduite, comme dans le fichier texte. */
+.list { list-style: none; margin: 0; padding: 0; }
+.list li { display: flex; gap: 1ch; }
+.list .name { min-width: 0; overflow-wrap: anywhere; }
+.list .leader { flex: 1 1 2ch; min-width: 0; overflow: hidden; white-space: nowrap; color: var(--dim); }
+.list .leader::after { content: " ................................................................................................................"; }
+.list .price { flex: none; white-space: nowrap; }
+.list button { all: unset; display: flex; gap: 1ch; width: 100%; cursor: pointer; }
+.list button:hover, .list button:focus-visible { background: var(--text); color: var(--back); }
+.list button:hover .leader, .list button:hover .price,
+.list button:focus-visible .leader, .list button:focus-visible .price { color: var(--back); }
+
+.rule { min-width: 0; color: var(--dim); overflow: hidden; white-space: nowrap; margin: 0; }
+.rule::after { content: "--------------------------------------------------------------------------------------------------------------------------------"; }
+
+/* Champs façon écran texte. */
+.field { display: flex; flex-wrap: wrap; gap: .5rem 1ch; align-items: center; margin-bottom: 1rem; }
+.field label { color: var(--bright); }
+input, select {
+	font: inherit;
+	color: var(--bright);
+	background: #0000aa;
+	border: 0;
+	padding: .2rem .5ch;
+	border-radius: 0;
+	min-width: 0;
+	flex: 1 1 24ch;
+}
+input:focus, select:focus { outline: 1px solid var(--hi); }
+input::placeholder { color: #8888dd; }
+
+pre, code { font: inherit; }
+code { color: var(--bright); }
+pre { margin: 0 0 1rem; overflow-x: auto; color: var(--bright); }
+
+table { border-collapse: collapse; width: 100%; }
+th, td { text-align: left; padding: 0 1ch .25rem 0; vertical-align: top; }
+th { color: var(--dim); font-weight: normal; }
+.scroll { overflow-x: auto; }
+
+.blink { animation: blink 1s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .blink { animation: none; } }
+
+@media (max-width: 600px) {
+	body { font-size: 14px; }
+	.box { padding: .75rem; }
+}
+
+.title { text-align: center; margin: 0 0 1rem; color: var(--text); }

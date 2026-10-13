@@ -4,7 +4,7 @@
 
 - **Texte** : l'original anglais et la traduction française complète, avec plus de 700 notes explicatives (`textes/`)
 - **Données** : 3 039 objets bilingues avec prix convertis en pièces de cuivre (`data/items.json`, `data/items.csv`)
-- **API statique** : servie par GitHub Pages depuis `docs/`, avec une page de recherche
+- **API statique** : servie par GitHub Pages depuis `docs/`, avec une page de recherche et le Comptoir du marchand (`docs/marchand.html`), qui tire au hasard l'inventaire d'une boutique
 
 ## L'API
 
@@ -59,6 +59,7 @@ Dans les réglages du dépôt sur GitHub, ouvrez **Pages**, puis choisissez la b
 - **Version texte** : mise en forme par srm.
 - **Herbes** : voir le *Net Book of Herbs* de Shaun Hately.
 - **Traduction française, notes et données structurées** : 2026.
+- **Police IBM VGA 9×16** : [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/) de VileR, sous licence [CC BY-SA 4.0](docs/fonts/LICENSE.TXT). L'habillage du site s'inspire de [HEROES](https://github.com/19h47/heroes).
 
 La notice de copyright originale est reproduite sans modification à la fin des deux fichiers texte. Ce projet de fans est non commercial et n'a aucun lien avec TSR ni Wizards of the Coast. *Advanced Dungeons & Dragons* et les univers cités sont leurs marques.
 
