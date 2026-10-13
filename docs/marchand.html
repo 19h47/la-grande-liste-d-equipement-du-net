@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Le Comptoir du marchand</title>
+<meta name="description" content="Tirez au hasard l'inventaire d'une boutique d'AD&D 2e à partir de la Grande Liste d'équipement du Net.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Fraunces:opsz,wght@9..144,600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f4ecd8; --paper:#fbf6e9; --ink:#2b2418; --muted:#6f6350; --rule:#d9ccae;
+  --accent:#8a2d1c; --accent-ink:#fff8ee; --code:#efe5cc;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#16130e; --paper:#1f1b14; --ink:#ece3cf; --muted:#a89b82; --rule:#3a3226;
+    --accent:#e0866c; --accent-ink:#1a120c; --code:#2a241b;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#16130e; --paper:#1f1b14; --ink:#ece3cf; --muted:#a89b82; --rule:#3a3226;
+  --accent:#e0866c; --accent-ink:#1a120c; --code:#2a241b;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 "IBM Plex Mono",ui-monospace,monospace}
+.wrap{max-width:860px;margin:0 auto;padding:40px 16px 80px}
+header{border-bottom:2px solid var(--ink);padding-bottom:20px;margin-bottom:28px}
+.kicker{color:var(--muted);font-size:13px;letter-spacing:.06em;text-transform:uppercase}
+h1{font-family:Fraunces,Georgia,serif;font-weight:600;font-size:clamp(30px,6vw,46px);line-height:1.1;margin:8px 0 10px}
+h2{font-family:Fraunces,Georgia,serif;font-weight:600;font-size:22px;margin:44px 0 12px}
+p{margin:0 0 12px}
+a{color:var(--accent)}
+.lede{color:var(--muted);max-width:62ch}
+.stats{display:flex;flex-wrap:wrap;gap:8px 22px;margin-top:14px;font-size:13px}
+.stats b{font-weight:600}
+input[type=search]{width:100%;font:inherit;padding:12px 14px;border:1px solid var(--rule);background:var(--paper);color:var(--ink);border-radius:4px}
+input[type=search]:focus{outline:2px solid var(--accent);outline-offset:1px}
+.row{display:flex;gap:10px;margin-bottom:10px;flex-wrap:wrap}
+.row input{flex:1 1 260px;min-width:0}
+.row select{flex:1 1 220px;min-width:0;max-width:100%}
+@media (max-width:560px){.name{white-space:normal}.theme{position:static;display:block;margin:12px 16px 0 auto}}
+select,button{font:inherit;padding:10px 12px;border:1px solid var(--rule);background:var(--paper);color:var(--ink);border-radius:4px}
+ul.results{list-style:none;padding:0;margin:0;border-top:1px solid var(--rule)}
+ul.results li{border-bottom:1px solid var(--rule)}
+ul.results button{all:unset;cursor:pointer;display:flex;width:100%;gap:8px;padding:8px 2px;box-sizing:border-box}
+ul.results button:focus-visible{outline:2px solid var(--accent)}
+.name{flex:0 1 auto;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.leader{flex:1 1 20px;border-bottom:2px dotted var(--rule);margin-bottom:7px;min-width:12px}
+.price{flex:none;white-space:nowrap}
+.en{color:var(--muted);font-size:12px}
+.hint{color:var(--muted);font-size:13px;margin:8px 0 0}
+.card{background:var(--paper);border:1px solid var(--rule);border-radius:4px;padding:16px;margin-top:14px}
+.card h3{margin:0 0 4px;font-family:Fraunces,Georgia,serif;font-size:20px}
+pre,code{font-family:"IBM Plex Mono",monospace;background:var(--code);border-radius:3px}
+code{padding:1px 5px}
+pre{padding:12px 14px;overflow-x:auto;font-size:13px;margin:0 0 12px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--rule);vertical-align:top}
+th{color:var(--muted);font-weight:400}
+.tabwrap{overflow-x:auto}
+footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--rule);color:var(--muted);font-size:13px}
+.theme{position:absolute;top:14px;right:16px;font-size:12px;padding:6px 10px}
+</style><style>
+.shop{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:6px}
+.shop select{flex:1 1 260px;min-width:0}
+.go{background:var(--accent);color:var(--accent-ink);border-color:var(--accent);cursor:pointer;font-weight:600}
+.go:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+.stock{list-style:none;padding:0;margin:18px 0 0;border-top:1px solid var(--rule)}
+.stock li{display:flex;gap:8px;padding:8px 2px;border-bottom:1px solid var(--rule)}
+.shopname{font-family:Fraunces,Georgia,serif;font-size:22px;margin:26px 0 0}
+.back{font-size:13px}
+</style>
+<body>
+<button class="theme" id="theme" type="button" aria-label="Changer de thème">◐ thème</button>
+<div class="wrap">
+<header>
+  <div class="kicker"><a class="back" href="./">← La Grande Liste d'équipement du Net</a></div>
+  <h1>Le Comptoir du marchand</h1>
+  <p class="lede">Les joueurs poussent la porte d'une boutique ? Choisissez-la, et voyez ce que le marchand a en stock aujourd'hui.</p>
+</header>
+<div class="shop">
+  <select id="shop" aria-label="Type de boutique"></select>
+  <button class="go" id="go" type="button">Entrer dans la boutique</button>
+</div>
+<div id="out" aria-live="polite"></div>
+<footer>
+  <p>Inventaires tirés au hasard dans la <a href="./">Grande Liste d'équipement du Net</a> (Mark J. Carrasco, 1997-1998), via son <a href="api/v1/index.json">API</a>. Projet de fans non commercial.</p>
+</footer>
+</div>
+<script>
+(function(){
+  const root=document.documentElement;
+  try{const t=localStorage.getItem('theme'); if(t) root.dataset.theme=t;}catch(e){}
+  document.getElementById('theme').addEventListener('click',()=>{
+    const dark=root.dataset.theme?root.dataset.theme==='dark':matchMedia('(prefers-color-scheme: dark)').matches;
+    root.dataset.theme=dark?'light':'dark';
+    try{localStorage.setItem('theme',root.dataset.theme);}catch(e){}
+  });
+  const SHOPS=[
+    ['taverne','La taverne',['taverne-et-auberge']],
+    ['epicier','L\'épicier',['denrees-alimentaires','epices']],
+    ['tailleur','Le tailleur',['vetements','tissus']],
+    ['forgeron','Le forgeron armurier',['armes','armures']],
+    ['bazar','Le bazar de l\'aventurier',['equipement-d-aventurier','eclairage','contenants']],
+    ['quincaillier','Le quincaillier',['outils','equipements-divers']],
+    ['herboriste','L\'herboriste',['herbes-et-poisons']],
+    ['alchimiste','L\'alchimiste',['le-laboratoire']],
+    ['scribe','Le papetier',['materiel-de-scribe']],
+    ['sellier','Le sellier',['sellerie-et-harnachement','animaux']],
+    ['fourreur','Le fourreur',['fourrures','peaux']],
+    ['luthier','Le luthier',['coin-du-barde']],
+    ['joaillier','Le négociant en matières précieuses',['materiaux-bruts']],
+    ['exotique','Le marchand de curiosités',['oeufs-et-petits-de-creatures','parties-de-creatures']]
+  ];
+  const API='api/v1/categories/', cache={}, $=id=>document.getElementById(id);
+  const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  SHOPS.forEach(([id,name])=>{const o=document.createElement('option');o.value=id;o.textContent=name;$('shop').appendChild(o);});
+  try{const s=localStorage.getItem('shop'); if(s) $('shop').value=s;}catch(e){}
+  const load=c=>cache[c]||(cache[c]=fetch(API+c+'.json').then(r=>r.json()).then(d=>d.items));
+  const priceOf=it=>it.price||it.eggs||it.young||it.price_raw;
+  async function enter(){
+    const [id,name,cats]=SHOPS.find(s=>s[0]===$('shop').value);
+    try{localStorage.setItem('shop',id);}catch(e){}
+    $('go').disabled=true;
+    try{
+      const pool=(await Promise.all(cats.map(load))).flat().filter(it=>{const p=priceOf(it);return p&&p.min_cp!=null;});
+      const picks=[...pool];
+      for(let i=picks.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[picks[i],picks[j]]=[picks[j],picks[i]];}
+      const stock=picks.slice(0,10).sort((a,b)=>a.full_name.fr.localeCompare(b.full_name.fr,'fr'));
+      $('out').innerHTML=`<h2 class="shopname">${esc(name)}</h2><ul class="stock">${stock.map(it=>`<li><span class="name">${esc(it.full_name.fr)}</span><span class="leader"></span><span class="price">${esc(priceOf(it).text.fr)}</span></li>`).join('')}</ul><p class="hint">Un autre jour, un autre stock : cliquez à nouveau.</p>`;
+    }catch(e){$('out').innerHTML='<p class="hint">Le marchand est absent (impossible de charger les données).</p>';}
+    $('go').disabled=false;
+  }
+  $('go').addEventListener('click',enter);
+})();
+</script>
+</body>
+</html>
