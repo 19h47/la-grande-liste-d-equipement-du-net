@@ -1,145 +1,126 @@
-/* Police IBM VGA 9×16, tirée de The Ultimate Oldschool PC Font Pack de VileR (int10h.org),
-   CC BY-SA 4.0, voir fonts/LICENSE.TXT. Même esprit que HEROES (github.com/19h47/heroes). */
-@font-face {
-	font-family: "Web437 IBM VGA 9x16";
-	src: url("../fonts/Web437_IBM_VGA_9x16.woff") format("woff");
-	font-display: block;
-}
-
-/* Palette DOS : gris clair sur noir, liseré rouge clair, jaune pour les prix. */
+/* Présentation minimaliste : du texte noir sur fond blanc, en chasse fixe, comme le fichier .txt
+   de 1997 ouvert dans un navigateur. En thème sombre, le noir et le blanc s'inversent. */
 :root {
-	--text: #aaaaaa;
-	--bright: #ffffff;
-	--back: #000000;
-	--frame: #ff5555;
-	--hi: #ffff55;
-	--dim: #555555;
-	--link: #55ffff;
-	--font: "Web437 IBM VGA 9x16", "Lucida Console", ui-monospace, Menlo, Consolas, monospace;
-	color-scheme: dark;
+	--ink: #000000;
+	--paper: #ffffff;
+	--dim: #555555; /* 7,4:1 sur blanc */
+	--font: ui-monospace, "SF Mono", Menlo, Consolas, "DejaVu Sans Mono", "Liberation Mono", "Courier New", monospace;
+	color-scheme: light;
 }
+@media (prefers-color-scheme: dark) {
+	:root:not([data-theme="light"]) {
+		--ink: #ffffff;
+		--paper: #000000;
+		--dim: #aaaaaa; /* 9:1 sur noir */
+		color-scheme: dark;
+	}
+}
+:root[data-theme="dark"] { --ink: #ffffff; --paper: #000000; --dim: #aaaaaa; color-scheme: dark; }
 
 * { box-sizing: border-box; }
 
+html { background: var(--paper); }
 body {
-	margin: 0;
-	min-height: 100vh;
-	display: grid;
-	grid-template-rows: auto 1fr auto;
-	grid-template-columns: minmax(0, 1fr);
-	background: var(--back);
-	color: var(--text);
-	font: 16px/1.5 var(--font);
-}
-
-a { color: var(--link); text-decoration: none; }
-a:hover, a:focus-visible { background: var(--link); color: var(--back); outline: none; }
-
-.bar {
-	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
-	gap: .25rem 1.5rem;
-	padding: .4rem 1rem;
-}
-.bar.top { justify-content: space-between; }
-.bar h1 { margin: 0; font-size: 1rem; font-weight: normal; }
-.bar nav { display: flex; flex-wrap: wrap; gap: .25rem 1rem; }
-.bar nav a[aria-current="page"] { color: var(--back); background: var(--text); }
-.badge { background: var(--frame); color: var(--back); padding: 0 .4rem; }
-
-.bar.bottom { position: sticky; bottom: 0; justify-content: center; background: var(--back); border-top: 1px solid var(--dim); }
-.bar.bottom button, .key {
-	font: inherit;
-	color: inherit;
-	background: none;
-	border: 0;
-	cursor: pointer;
-	padding: .2rem .3rem;
-}
-kbd { font: inherit; color: var(--frame); }
-.bar.bottom button:hover, .bar.bottom button:focus-visible, .key:hover, .key:focus-visible {
-	background: var(--text);
-	color: var(--back);
-	outline: none;
-}
-.bar.bottom button:hover kbd, .bar.bottom button:focus-visible kbd, .key:hover kbd, .key:focus-visible kbd { color: inherit; }
-
-main {
-	width: 100%;
 	margin: 0 auto;
-	padding: 1.5rem 1rem 3rem;
-	/* Même règle que l'écran de HEROES : 80 cellules de .5625em remplissent la largeur ; au-delà de
-	   16px la taille avance par paliers de 8px (16, 24) pour garder les pixels de la police nets. */
-	--fit: calc((100vw - 4rem) / 45);
-	font-size: max(14px, min(round(down, var(--fit), 8px), 24px));
-	line-height: 1;
-	max-width: calc(80 * .5625em + 2rem + 2.5em + 6px);
+	max-width: calc(80ch + 2rem);
+	padding: 1rem 1rem 3rem;
+	background: var(--paper);
+	color: var(--ink);
+	font: 15px/1.5 var(--font);
+	-webkit-text-size-adjust: 100%;
 }
-main p, main .field, main pre { margin: 0 0 1em; }
-/* Le cadre double de HEROES. */
-.box {
-	border: 3px double var(--frame);
-	padding: 1em 1.25em;
-	margin: 0 0 1.5em;
-}
-.box > :first-child { margin-top: 0; }
-.box > :last-child { margin-bottom: 0; }
+@media (min-width: 720px) { body { font-size: 16px; padding-top: 1.5rem; } }
 
-h2 { font-size: 1em; line-height: 1; font-weight: normal; color: var(--frame); margin: 0 0 1em; display: inline-block; padding-bottom: .25em; border-bottom: 2px solid var(--frame); }
-p { margin: 0 0 1rem; }
+a { color: inherit; text-decoration: underline; text-underline-offset: .15em; }
+a:hover, a:focus-visible { background: var(--ink); color: var(--paper); text-decoration: none; outline: none; }
+:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+
+/* En-tête : le titre à gauche, les pages à droite. */
+header { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .25rem 2ch; margin-bottom: 2rem; }
+header .site { font-weight: bold; text-decoration: none; }
+header nav { display: flex; flex-wrap: wrap; gap: 0 2ch; }
+header nav a[aria-current="page"] { text-decoration: none; font-weight: bold; }
+header nav a[aria-current="page"]::before { content: "["; }
+header nav a[aria-current="page"]::after { content: "]"; }
+
+section { margin: 0 0 2.5rem; }
+h1, h2, h3 { font-size: 1em; line-height: 1.5; font-weight: bold; margin: 0 0 1rem; }
+h2 { text-transform: uppercase; letter-spacing: .05em; }
+p, pre, ul, table { margin: 0 0 1rem; }
 .dim { color: var(--dim); }
-.bright { color: var(--bright); }
-.price { color: var(--hi); }
+.prose { max-width: 72ch; }
 
-/* Lignes à points de conduite, comme dans le fichier texte. */
-.list { list-style: none; margin: 0; padding: 0; }
-.list li { display: flex; gap: 1ch; }
-.list .name { min-width: 0; overflow-wrap: anywhere; }
-.list .leader { flex: 1 1 2ch; min-width: 0; overflow: hidden; white-space: nowrap; color: var(--dim); }
-.list .leader::after { content: " ................................................................................................................"; }
-.list .price { flex: none; white-space: nowrap; }
-.list button { all: unset; display: flex; gap: 1ch; width: 100%; cursor: pointer; }
-.list button:hover, .list button:focus-visible { background: var(--text); color: var(--back); }
-.list button:hover .leader, .list button:hover .price,
-.list button:focus-visible .leader, .list button:focus-visible .price { color: var(--back); }
+/* L'en-tête centré du fichier original. */
+.title { text-align: center; margin: 0 0 1.5rem; }
+.title strong { text-transform: uppercase; letter-spacing: .05em; }
 
-.rule { min-width: 0; color: var(--dim); overflow: hidden; white-space: nowrap; margin: 0; }
+.rule { overflow: hidden; white-space: nowrap; margin: 0; color: var(--dim); user-select: none; }
 .rule::after { content: "--------------------------------------------------------------------------------------------------------------------------------"; }
 
-/* Champs façon écran texte. */
-.field { display: flex; flex-wrap: wrap; gap: .5rem 1ch; align-items: center; margin-bottom: 1rem; }
-.field label { color: var(--bright); }
-input, select {
-	font: inherit;
-	color: var(--bright);
-	background: #0000aa;
-	border: 0;
-	padding: .2rem .5ch;
-	border-radius: 0;
-	min-width: 0;
-	flex: 1 1 24ch;
+/* Lignes à points de conduite, comme dans le fichier texte. Les points sont posés derrière la
+   première ligne ; le nom et le prix les masquent avec la couleur du fond. Si le nom passe à la
+   ligne, le prix reste sur la première ligne, comme dans l'original. */
+.list { list-style: none; padding: 0; margin: 0; }
+.list .row { display: block; overflow: hidden; background: var(--paper); color: var(--ink); }
+.list .row::before {
+	float: left; width: 0; white-space: nowrap; color: var(--dim); user-select: none;
+	content: "........................................................................................................................................................................................................";
 }
-input:focus, select:focus { outline: 1px solid var(--hi); }
-input::placeholder { color: #8888dd; }
+.list .name { background: inherit; padding-right: 1ch; overflow-wrap: anywhere; position: relative; }
+.list .price { float: right; background: inherit; padding-left: 1ch; white-space: nowrap; position: relative; }
+.list button.row { all: unset; box-sizing: border-box; display: block; overflow: hidden; width: 100%; cursor: pointer; background: var(--paper); color: var(--ink); }
+.list button.row:hover, .list button.row:focus-visible, .list button.row[aria-expanded="true"] { background: var(--ink); color: var(--paper); }
+.list button.row:hover::before, .list button.row:focus-visible::before, .list button.row[aria-expanded="true"]::before { color: var(--paper); }
+.list .head { display: flex; justify-content: space-between; color: var(--dim); }
+
+/* La fiche d'un objet s'ouvre sous sa ligne. */
+.detail { border-left: 2px solid var(--ink); margin: .5rem 0 1rem; padding: .25rem 0 .25rem 2ch; }
+.detail h3 { margin-bottom: .25rem; }
+.detail p:last-child, .detail table:last-child { margin-bottom: 0; }
+
+/* Champs et boutons : traits noirs, rien d'autre. */
+.field { display: flex; flex-wrap: wrap; align-items: center; gap: .25rem 1ch; margin: 0 0 .75rem; }
+.field label { flex: 0 0 9ch; }
+input, select, button.btn {
+	font: inherit;
+	color: var(--ink);
+	background: var(--paper);
+	border: 1px solid var(--ink);
+	border-radius: 0;
+	padding: .25rem 1ch;
+	min-width: 0;
+}
+input, select { flex: 1 1 24ch; }
+input[type="search"]::-webkit-search-cancel-button { filter: grayscale(1); }
+input::placeholder { color: var(--dim); opacity: 1; }
+button.btn { cursor: pointer; }
+button.btn:hover, button.btn:focus-visible { background: var(--ink); color: var(--paper); }
+.actions { display: flex; flex-wrap: wrap; gap: .5rem 1ch; margin: 1rem 0; }
+
+kbd { font: inherit; border: 1px solid var(--dim); padding: 0 .4ch; }
+/* Les raccourcis clavier ne servent à rien sur un écran tactile. */
+.keys { color: var(--dim); }
+@media (hover: none), (pointer: coarse) { .keys { display: none; } }
 
 pre, code { font: inherit; }
-code { color: var(--bright); }
-pre { margin: 0 0 1rem; overflow-x: auto; color: var(--bright); }
+pre { overflow-x: auto; }
 
-table { border-collapse: collapse; width: 100%; }
-th, td { text-align: left; padding: 0 1ch .25rem 0; vertical-align: top; }
-th { color: var(--dim); font-weight: normal; }
+table { border-collapse: collapse; }
+th, td { text-align: left; padding: 0 2ch .25rem 0; vertical-align: top; }
+th { font-weight: normal; color: var(--dim); }
 .scroll { overflow-x: auto; }
+/* Sur petit écran, le tableau des points d'accès passe en liste. */
+@media (max-width: 600px) {
+	.endpoints tr:first-child { display: none; }
+	.endpoints tr, .endpoints td { display: block; padding: 0; }
+	.endpoints tr { margin-bottom: .75rem; }
+	.endpoints td + td { color: var(--dim); }
+}
+
+footer { color: var(--dim); max-width: 72ch; }
 
 .blink { animation: blink 1s steps(1) infinite; }
 @keyframes blink { 50% { opacity: 0; } }
 @media (prefers-reduced-motion: reduce) { .blink { animation: none; } }
 
-@media (max-width: 600px) {
-	body { font-size: 14px; }
-	main { line-height: 1.15; }
-	.box { padding: .75em; }
-}
-
-.title { text-align: center; margin: 0 0 1rem; color: var(--text); }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }

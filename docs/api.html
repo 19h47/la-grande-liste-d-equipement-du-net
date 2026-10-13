@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>L'API de la Grande Liste</title>
+<meta name="description" content="Une API statique en JSON pour la Grande Liste d'équipement du Net : objets, tableaux, monnaies, en français et en anglais.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+  <a class="site" href="./">La Grande Liste d'équipement du Net</a>
+  <nav aria-label="Pages">
+    <a href="./">Liste</a>
+    <a href="marchand.html">Marchand</a>
+    <a href="api.html" aria-current="page">API</a>
+  </nav>
+</header>
+
+<main>
+  <section>
+    <h1>L'API</h1>
+    <p class="prose">Une API en lecture seule, faite de simples fichiers JSON : pas de serveur ni de clé. Toutes les chaînes existent en <code>fr</code> et en <code>en</code>.</p>
+    <table class="endpoints">
+      <tr><th>Point d'accès</th><th>Contenu</th></tr>
+      <tr><td><a href="api/v1/index.json">api/v1/index.json</a></td><td>Métadonnées, crédits, unités</td></tr>
+      <tr><td><a href="api/v1/items.json">api/v1/items.json</a></td><td>Tous les objets</td></tr>
+      <tr><td><code>api/v1/items/{id}.json</code></td><td>Un objet, ex. <a href="api/v1/items/epee-longue.json">epee-longue</a></td></tr>
+      <tr><td><a href="api/v1/categories.json">api/v1/categories.json</a></td><td>Les 33 tableaux</td></tr>
+      <tr><td><code>api/v1/categories/{id}.json</code></td><td>Un tableau et ses objets, ex. <a href="api/v1/categories/taverne-et-auberge.json">taverne-et-auberge</a></td></tr>
+      <tr><td><a href="api/v1/currencies.json">api/v1/currencies.json</a></td><td>Pièces et lingots</td></tr>
+      <tr><td><a href="api/v1/search.json">api/v1/search.json</a></td><td>Index léger pour la recherche</td></tr>
+    </table>
+  </section>
+
+  <section aria-labelledby="h-item">
+    <h2 id="h-item">Un objet</h2>
+<pre>{
+ "id": "epee-longue",
+ "category": "armes",
+ "name": { "fr": "Épée longue", "en": "Long Sword" },
+ "price": { "text": { "fr": "15 po", "en": "15gp" },
+            "min_cp": 1500, "max_cp": 1500, "plus": false },
+ "weight": { "text": "4", "lb": 4 },
+ "notes": { "fr": [] },
+ "source": { "table": "XXXII", "line": 3716 }
+}</pre>
+    <div class="prose">
+      <p>Les prix sont en pièces de cuivre (<code>min_cp</code>, <code>max_cp</code>) : 1 po = 100 pc, 1 pe = 50 pc, 1 pa = 10 pc, 1 pp = 500 pc. <code>plus</code> signale un prix « à partir de ». Un prix non chiffrable (« Spécial », « Mort ») a <code>min_cp: null</code>, mais son texte reste fourni.</p>
+      <p>Les poids sont en livres ; « * » vaut 0,1 lb et « ** » vaut 0. <code>source.line</code> renvoie à la ligne du fichier anglais original.</p>
+      <p>Données brutes, CSV, textes FR/EN et notes de relecture : <a href="https://github.com/19h47/la-grande-liste-d-equipement-du-net">le dépôt GitHub</a>.</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p class="rule" aria-hidden="true"></p>
+  <p>Compilation originale : Mark J. Carrasco (1997-1998). Projet de fans non commercial, sans lien avec Wizards of the Coast.</p>
+</footer>
+</body>
+</html>

@@ -8,77 +8,47 @@
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<header class="bar top">
-  <h1><span class="badge">GNEL</span> La Grande Liste d'équipement du Net</h1>
+<header>
+  <a class="site" href="./">La Grande Liste d'équipement du Net</a>
   <nav aria-label="Pages">
     <a href="./" aria-current="page">Liste</a>
     <a href="marchand.html">Marchand</a>
-    <a href="api/v1/index.json">API</a>
+    <a href="api.html">API</a>
   </nav>
 </header>
 
 <main>
-  <div class="box">
-<div class="title" role="img" aria-label="La Grande Liste d'équipement du Net, version 4.0a, compilée par Mark J. Carrasco, traduction française 2026">
-      <span class="bright">La Grande Liste d'équipement du Net</span><br>Version 4.0a<br>Compilée par<br>Mark J. Carrasco<br><span class="dim">Traduction française (2026)</span>
-    </div>
-    <p>Le netbook rôliste de 1997 pour AD&amp;D 2e, traduit en français et interrogeable : du tablier à 1&nbsp;pc au lingot de Tellon à 5&nbsp;000&nbsp;000&nbsp;po.</p>
+  <section>
+    <h1 class="title"><strong>La Grande Liste d'équipement du Net</strong><br>Version 4.0a<br>Compilée par<br>Mark J. Carrasco<br><span class="dim">Traduction française (2026)</span></h1>
+    <p class="prose">Le netbook rôliste de 1997 pour AD&amp;D 2e, traduit en français et interrogeable : du tablier à 1&nbsp;pc au lingot de Tellon à 5&nbsp;000&nbsp;000&nbsp;po.</p>
     <p id="stats" class="dim">Chargement<span class="blink">_</span></p>
-  </div>
+  </section>
 
-  <div class="box">
-    <h2>Chercher dans la liste</h2>
+  <section aria-labelledby="h-search">
+    <h2 id="h-search">Chercher dans la liste</h2>
     <div class="field">
-      <label for="q">Objet :</label>
+      <label for="q">Objet</label>
       <input type="search" id="q" placeholder="hydromel, épée longue, owlbear…" autocomplete="off">
     </div>
     <div class="field">
-      <label for="cat">Tableau :</label>
+      <label for="cat">Tableau</label>
       <select id="cat"><option value="">Tous les tableaux</option></select>
     </div>
     <p class="rule" aria-hidden="true"></p>
     <ul class="list" id="results" aria-live="polite"></ul>
     <p class="rule" aria-hidden="true"></p>
     <p class="dim" id="hint"></p>
-    <div id="detail"></div>
-  </div>
-
-  <div class="box">
-    <h2>L'API</h2>
-    <p>Une API en lecture seule, faite de simples fichiers JSON : pas de serveur ni de clé. Toutes les chaînes existent en <code>fr</code> et en <code>en</code>.</p>
-    <div class="scroll"><table>
-      <tr><th>Point d'accès</th><th>Contenu</th></tr>
-      <tr><td><a href="api/v1/index.json">api/v1/index.json</a></td><td>Métadonnées, crédits, unités</td></tr>
-      <tr><td><a href="api/v1/items.json">api/v1/items.json</a></td><td>Tous les objets</td></tr>
-      <tr><td><code>api/v1/items/{id}.json</code></td><td>Un objet, ex. <a href="api/v1/items/epee-longue.json">epee-longue</a></td></tr>
-      <tr><td><a href="api/v1/categories.json">api/v1/categories.json</a></td><td>Les 33 tableaux</td></tr>
-      <tr><td><code>api/v1/categories/{id}.json</code></td><td>Un tableau et ses objets, ex. <a href="api/v1/categories/taverne-et-auberge.json">taverne-et-auberge</a></td></tr>
-      <tr><td><a href="api/v1/currencies.json">api/v1/currencies.json</a></td><td>Pièces et lingots</td></tr>
-      <tr><td><a href="api/v1/search.json">api/v1/search.json</a></td><td>Index léger pour la recherche</td></tr>
-    </table></div>
-    <p class="rule" aria-hidden="true"></p>
-<pre>{
- "id": "epee-longue",
- "category": "armes",
- "name": { "fr": "Épée longue", "en": "Long Sword" },
- "price": { "text": { "fr": "15 po", "en": "15gp" },
-            "min_cp": 1500, "max_cp": 1500, "plus": false },
- "weight": { "text": "4", "lb": 4 },
- "notes": { "fr": [] },
- "source": { "table": "XXXII", "line": 3716 }
-}</pre>
-    <p>Les prix sont en pièces de cuivre (<code>min_cp</code>, <code>max_cp</code>) : 1 po = 100 pc, 1 pe = 50 pc, 1 pa = 10 pc, 1 pp = 500 pc. Un prix non chiffrable (« Spécial », « Mort ») a <code>min_cp: null</code>, mais son texte reste fourni. Les poids sont en livres ; « * » vaut 0,1 lb.</p>
-    <p class="dim">Données brutes, CSV, textes FR/EN et notes de relecture : <a href="https://github.com/19h47/la-grande-liste-d-equipement-du-net">le dépôt GitHub</a>.</p>
-  </div>
-
-  <p class="dim">Compilation originale : Mark J. Carrasco (1997-1998), d'après des produits TSR et des contributions de joueurs ; mise en forme texte par srm. Merci à Sarah Wright-Strutz, Windy Strawman et Ole A. Ringdal. Police IBM VGA 9×16 : VileR, <a href="https://int10h.org/oldschool-pc-fonts/">Ultimate Oldschool PC Font Pack</a> (CC BY-SA 4.0). Projet de fans non commercial, sans lien avec Wizards of the Coast.</p>
+    <div class="actions">
+      <button type="button" class="btn" id="k-random">Autre bric-à-brac</button>
+    </div>
+    <p class="keys">Clavier : <kbd>/</kbd> chercher · <kbd>R</kbd> autre bric-à-brac · <kbd>M</kbd> marchand · <kbd>Échap</kbd> quitter le champ</p>
+  </section>
 </main>
 
-<nav class="bar bottom" aria-label="Commandes">
-  <button type="button" id="k-search"><kbd>/</kbd> Chercher</button>
-  <button type="button" id="k-random"><kbd>R</kbd> Bric-à-brac</button>
-  <a class="key" href="marchand.html"><kbd>M</kbd> Marchand</a>
-</nav>
+<footer>
+  <p class="rule" aria-hidden="true"></p>
+  <p>Compilation originale : Mark J. Carrasco (1997-1998), d'après des produits TSR et des contributions de joueurs ; mise en forme texte par srm. Merci à Sarah Wright-Strutz, Windy Strawman et Ole A. Ringdal. Projet de fans non commercial, sans lien avec Wizards of the Coast. Données, textes FR/EN et notes : <a href="https://github.com/19h47/la-grande-liste-d-equipement-du-net">le dépôt GitHub</a>.</p>
+</footer>
 
 <script>
 (function(){
@@ -100,29 +70,38 @@
     if(c) res=res.filter(x=>x.c===c);
     if(q){const t=q.split(/\s+/);res=res.filter(x=>t.every(w=>x.k.includes(w)));}
     else if(!c){ res=rnd||(rnd=sample(8)); }
-    $('results').innerHTML=res.slice(0,60).map(x=>`<li><button type="button" data-id="${esc(x.id)}"><span class="name">${esc(x.fr)}</span><span class="leader" aria-hidden="true"></span><span class="price">${esc(x.p||'—')}</span></button></li>`).join('');
-    $('hint').textContent=!q&&!c?"Le bric-à-brac du moment. Tapez pour chercher, en français ou en anglais (R pour un autre tirage).":res.length>60?`${res.length} résultats, 60 affichés.`:res.length?`${res.length} résultat${res.length>1?'s':''}.`:"Rien de tel chez le marchand.";
+    $('results').innerHTML=res.slice(0,60).map(x=>`<li><button type="button" class="row" data-id="${esc(x.id)}" aria-expanded="false" aria-label="${esc(x.fr)} : ${esc(x.p||'sans prix')}"><span class="price">${esc(x.p||'—')}</span><span class="name">${esc(x.fr)}</span></button></li>`).join('');
+    $('hint').textContent=!q&&!c?"Le bric-à-brac du moment. Tapez pour chercher, en français ou en anglais.":res.length>60?`${res.length} résultats, 60 affichés.`:res.length?`${res.length} résultat${res.length>1?'s':''}.`:"Rien de tel chez le marchand.";
   }
+  function closeDetail(){
+    document.querySelectorAll('#results .detail').forEach(d=>d.remove());
+    document.querySelectorAll('#results button[aria-expanded="true"]').forEach(b=>b.setAttribute('aria-expanded','false'));
+  }
+  function again(){$('q').value='';$('cat').value='';rnd=sample(8);run();}
   $('q').addEventListener('input',run); $('cat').addEventListener('change',run);
-  $('k-search').addEventListener('click',()=>$('q').focus());
-  $('k-random').addEventListener('click',()=>{$('q').value='';$('cat').value='';rnd=sample(8);run();$('detail').innerHTML='';});
+  $('k-random').addEventListener('click',again);
   document.addEventListener('keydown',e=>{
     if(e.altKey||e.ctrlKey||e.metaKey) return;
     const tag=document.activeElement.tagName;
     if(tag==='INPUT'||tag==='SELECT'){ if(e.key==='Escape') document.activeElement.blur(); return; }
     if(e.key==='/'){e.preventDefault();$('q').focus();}
-    else if(e.key==='r'||e.key==='R'){$('k-random').click();}
+    else if(e.key==='r'||e.key==='R'){again();}
     else if(e.key==='m'||e.key==='M'){location.href='marchand.html';}
+    else if(e.key==='Escape'){closeDetail();}
   });
   $('results').addEventListener('click',e=>{
     const b=e.target.closest('button[data-id]'); if(!b) return;
+    const open=b.getAttribute('aria-expanded')==='true';
+    closeDetail(); if(open) return;
+    b.setAttribute('aria-expanded','true');
+    const box=document.createElement('div'); box.className='detail'; box.textContent='Chargement…';
+    b.parentNode.appendChild(box);
     fetch(API+'items/'+b.dataset.id+'.json').then(r=>r.json()).then(it=>{
       const lab={price:'Prix',eggs:'Œufs',young:'Petits',price_raw:'Brut',price_prepared:'Préparé'};
-      const rows=Object.keys(lab).filter(k=>it[k]).map(k=>`<tr><th>${lab[k]}</th><td><span class="price">${esc(it[k].text.fr)}</span> <span class="dim">(${esc(it[k].text.en)})</span></td></tr>`).join('');
+      const rows=Object.keys(lab).filter(k=>it[k]).map(k=>`<tr><th>${lab[k]}</th><td>${esc(it[k].text.fr)} <span class="dim">(${esc(it[k].text.en)})</span></td></tr>`).join('');
       const w=it.weight?`<tr><th>Poids</th><td>${esc(it.weight.text)}${it.weight.lb!=null?` <span class="dim">(${it.weight.lb} lb)</span>`:''}</td></tr>`:'';
-      $('detail').innerHTML=`<p class="rule" aria-hidden="true"></p><h2>${esc(it.full_name.fr)}</h2><p class="dim">${esc(it.full_name.en)} · ${esc(cats[it.category]?.name.fr)} · tableau ${esc(it.source.table)}</p><table>${rows}${w}</table>${it.notes.fr.map(n=>`<p>${esc(n)}</p>`).join('')}<p><a href="${API}items/${esc(it.id)}.json">${API}items/${esc(it.id)}.json</a></p>`;
-      $('detail').scrollIntoView({behavior:'smooth',block:'nearest'});
-    });
+      box.innerHTML=`<h3>${esc(it.full_name.fr)}</h3><p class="dim">${esc(it.full_name.en)} · ${esc(cats[it.category]?.name.fr)} · tableau ${esc(it.source.table)}</p><table>${rows}${w}</table>${it.notes.fr.map(n=>`<p class="prose">${esc(n)}</p>`).join('')}<p><a href="${API}items/${esc(it.id)}.json">JSON</a></p>`;
+    }).catch(()=>{box.textContent='Impossible de charger cet objet.';});
   });
 })();
 </script>

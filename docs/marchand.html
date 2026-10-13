@@ -8,31 +8,32 @@
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<header class="bar top">
-  <h1><span class="badge">MARCHAND</span> Le Comptoir du marchand</h1>
+<header>
+  <a class="site" href="./">La Grande Liste d'équipement du Net</a>
   <nav aria-label="Pages">
     <a href="./">Liste</a>
     <a href="marchand.html" aria-current="page">Marchand</a>
-    <a href="api/v1/index.json">API</a>
+    <a href="api.html">API</a>
   </nav>
 </header>
 
 <main>
-  <div class="box">
+  <section>
+    <h1>Le Comptoir du marchand</h1>
+    <p class="prose">Les joueurs poussent la porte ? Voici ce que le marchand a en stock aujourd'hui.</p>
     <div class="field">
-      <label for="shop">Boutique :</label>
+      <label for="shop">Boutique</label>
       <select id="shop"></select>
     </div>
-    <p class="dim">Les joueurs poussent la porte ? Voici ce que le marchand a en stock aujourd'hui.</p>
-  </div>
-  <div class="box" id="out" aria-live="polite"><p>Chargement<span class="blink">_</span></p></div>
+    <div class="actions">
+      <button type="button" class="btn" id="go">Nouveau stock</button>
+      <button type="button" class="btn" id="prev">Boutique précédente</button>
+      <button type="button" class="btn" id="next">Boutique suivante</button>
+    </div>
+    <p class="keys">Clavier : <kbd>Espace</kbd> nouveau stock · <kbd>↑</kbd> <kbd>↓</kbd> changer de boutique</p>
+  </section>
+  <section id="out" aria-live="polite"><p>Chargement<span class="blink">_</span></p></section>
 </main>
-
-<nav class="bar bottom" aria-label="Commandes">
-  <button type="button" id="go"><kbd>Espace</kbd> Nouveau stock</button>
-  <button type="button" id="prev"><kbd>↑</kbd> Boutique précédente</button>
-  <button type="button" id="next"><kbd>↓</kbd> Boutique suivante</button>
-</nav>
 
 <script>
 (function(){
@@ -71,9 +72,9 @@
       const stock=picks.slice(0,10).sort((a,b)=>a.full_name.fr.localeCompare(b.full_name.fr,'fr'));
       $('out').innerHTML=`<h2>${esc(name)}</h2><p class="rule" aria-hidden="true"></p>
 <ul class="list" aria-label="Stock du jour">
-<li class="dim" aria-hidden="true"><span class="name">Objet</span><span class="leader" style="visibility:hidden"></span><span>Prix</span></li>
-${stock.map(it=>`<li><span class="name">${esc(it.full_name.fr)}</span><span class="leader" aria-hidden="true"></span><span class="price">${esc(priceOf(it).text.fr)}</span></li>`).join('')}
-</ul><p class="rule" aria-hidden="true"></p><p class="dim">${pool.length} objets possibles chez ce marchand. Appuyez sur Espace pour un autre stock.</p>`;
+<li class="head" aria-hidden="true"><span>Objet</span><span>Prix</span></li>
+${stock.map(it=>`<li><div class="row"><span class="price" aria-hidden="true">${esc(priceOf(it).text.fr)}</span><span class="name">${esc(it.full_name.fr)}<span class="visually-hidden"> : ${esc(priceOf(it).text.fr)}</span></span></div></li>`).join('')}
+</ul><p class="rule" aria-hidden="true"></p><p class="dim">${pool.length} objets possibles chez ce marchand.</p>`;
     }catch(e){$('out').innerHTML='<p>Le marchand est absent : impossible de charger les données.</p>';}
     busy=false;
   }
