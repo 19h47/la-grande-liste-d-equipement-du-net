@@ -1,0 +1,37 @@
+{
+ "id": "martre-de-pennant-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Martre de Pennant — Manteau, robe, couverture",
+  "en": "Fisher — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Martre de Pennant",
+   "en": "Fisher"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "600 po",
+   "en": "600gp"
+  },
+  "min_cp": 60000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Martre de Pennant : mustélidé d'Amérique du Nord apparenté à la martre, à fourrure brun sombre."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1141
+ }
+}

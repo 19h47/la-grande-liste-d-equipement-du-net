@@ -1,0 +1,35 @@
+{
+ "id": "emeraude-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Émeraude — De la taille d'une boule",
+  "en": "Emerald — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Émeraude",
+   "en": "Emerald"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "9 000 po",
+   "en": "9,000gp"
+  },
+  "min_cp": 900000,
+  "max_cp": 900000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2077
+ }
+}

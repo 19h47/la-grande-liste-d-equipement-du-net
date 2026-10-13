@@ -1,0 +1,35 @@
+{
+ "id": "alene-de-bourrelier",
+ "category": "outils",
+ "name": {
+  "fr": "Alène de bourrelier",
+  "en": "Awl, Leatherworking"
+ },
+ "full_name": {
+  "fr": "Alène de bourrelier",
+  "en": "Awl, Leatherworking"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Alène de bourrelier : poinçon à manche servant à percer le cuir avant de le coudre."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2458
+ }
+}

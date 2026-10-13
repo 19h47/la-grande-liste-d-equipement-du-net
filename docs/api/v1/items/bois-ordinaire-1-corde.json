@@ -1,0 +1,32 @@
+{
+ "id": "bois-ordinaire-1-corde",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Bois ordinaire, 1 corde",
+  "en": "Wood, common, 1cord"
+ },
+ "full_name": {
+  "fr": "Bois ordinaire, 1 corde",
+  "en": "Wood, common, 1cord"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Corde : ancienne mesure de bois de chauffage, environ 3,6 mètres cubes."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2342
+ }
+}

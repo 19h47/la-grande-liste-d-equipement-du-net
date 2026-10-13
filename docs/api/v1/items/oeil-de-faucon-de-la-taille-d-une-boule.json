@@ -1,0 +1,37 @@
+{
+ "id": "oeil-de-faucon-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Œil-de-faucon — De la taille d'une boule",
+  "en": "Hawk's-eye — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Œil-de-faucon",
+   "en": "Hawk's-eye"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "700 po",
+   "en": "700gp"
+  },
+  "min_cp": 70000,
+  "max_cp": 70000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Œil-de-faucon : quartz fibreux bleu-gris à reflets soyeux, proche parent de l'œil-de-tigre."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2102
+ }
+}

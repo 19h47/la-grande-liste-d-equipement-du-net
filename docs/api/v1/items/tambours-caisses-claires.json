@@ -1,0 +1,38 @@
+{
+ "id": "tambours-caisses-claires",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Caisses claires",
+  "en": "Side drums"
+ },
+ "full_name": {
+  "fr": "Tambours — Caisses claires",
+  "en": "Drums — Side drums"
+ },
+ "group": [
+  {
+   "fr": "Tambours",
+   "en": "Drums"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3347
+ }
+}

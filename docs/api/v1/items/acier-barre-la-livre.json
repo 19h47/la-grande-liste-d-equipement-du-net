@@ -1,0 +1,35 @@
+{
+ "id": "acier-barre-la-livre",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Barre, la livre",
+  "en": "Bar, per lb"
+ },
+ "full_name": {
+  "fr": "Acier — Barre, la livre",
+  "en": "Steel — Bar, per lb"
+ },
+ "group": [
+  {
+   "fr": "Acier",
+   "en": "Steel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2298
+ }
+}

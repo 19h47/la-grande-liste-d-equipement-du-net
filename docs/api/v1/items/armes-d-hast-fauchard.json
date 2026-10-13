@@ -1,0 +1,40 @@
+{
+ "id": "armes-d-hast-fauchard",
+ "category": "armes",
+ "name": {
+  "fr": "Fauchard",
+  "en": "Fauchard"
+ },
+ "full_name": {
+  "fr": "Armes d'hast — Fauchard",
+  "en": "Polearm — Fauchard"
+ },
+ "group": [
+  {
+   "fr": "Armes d'hast",
+   "en": "Polearm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "7",
+  "lb": 7
+ },
+ "notes": {
+  "fr": [
+   "Fauchard : arme d'hast à lame courbe, tranchante sur le bord extérieur, dérivée de la faux."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3676
+ }
+}

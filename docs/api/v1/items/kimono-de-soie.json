@@ -1,0 +1,33 @@
+{
+ "id": "kimono-de-soie",
+ "category": "vetements",
+ "name": {
+  "fr": "Kimono de soie",
+  "en": "Kimono, silk"
+ },
+ "full_name": {
+  "fr": "Kimono de soie",
+  "en": "Kimono, silk"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 215
+ }
+}

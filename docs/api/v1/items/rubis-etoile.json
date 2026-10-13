@@ -1,0 +1,32 @@
+{
+ "id": "rubis-etoile",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Rubis étoilé",
+  "en": "Star Ruby"
+ },
+ "full_name": {
+  "fr": "Rubis étoilé",
+  "en": "Star Ruby"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Rubis étoilé, saphir étoilé : pierres taillées en cabochon faisant apparaître une étoile lumineuse à six branches (astérisme)."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2294
+ }
+}

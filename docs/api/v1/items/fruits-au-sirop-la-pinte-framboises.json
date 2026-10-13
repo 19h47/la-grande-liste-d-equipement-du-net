@@ -1,0 +1,38 @@
+{
+ "id": "fruits-au-sirop-la-pinte-framboises",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Framboises",
+  "en": "raspberry"
+ },
+ "full_name": {
+  "fr": "Fruits au sirop, la pinte — Framboises",
+  "en": "Preserves, per pint — raspberry"
+ },
+ "group": [
+  {
+   "fr": "Fruits au sirop, la pinte",
+   "en": "Preserves, per pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 706
+ }
+}

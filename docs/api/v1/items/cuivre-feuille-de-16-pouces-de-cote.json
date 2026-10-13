@@ -1,0 +1,35 @@
+{
+ "id": "cuivre-feuille-de-16-pouces-de-cote",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Feuille de 16 pouces de côté",
+  "en": "Sheet, 16 in sq"
+ },
+ "full_name": {
+  "fr": "Cuivre — Feuille de 16 pouces de côté",
+  "en": "Copper — Sheet, 16 in sq"
+ },
+ "group": [
+  {
+   "fr": "Cuivre",
+   "en": "Copper"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2059
+ }
+}

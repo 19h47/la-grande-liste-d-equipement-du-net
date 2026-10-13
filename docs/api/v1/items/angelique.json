@@ -1,0 +1,38 @@
+{
+ "id": "angelique",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Angélique",
+  "en": "Angelica"
+ },
+ "full_name": {
+  "fr": "Angélique",
+  "en": "Angelica"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2706
+ }
+}

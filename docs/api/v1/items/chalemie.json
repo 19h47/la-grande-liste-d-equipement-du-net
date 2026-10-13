@@ -1,0 +1,40 @@
+{
+ "id": "chalemie",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Chalemie",
+  "en": "Shawm"
+ },
+ "full_name": {
+  "fr": "Famille des chalemies — Chalemie",
+  "en": "Shawm Family — Shawm"
+ },
+ "group": [
+  {
+   "fr": "Famille des chalemies",
+   "en": "Shawm Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Chalemie : instrument médiéval à anche double, au son puissant, ancêtre du hautbois."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3336
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "cercle-en-or",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En or",
+  "en": "gold"
+ },
+ "full_name": {
+  "fr": "Cercle — En or",
+  "en": "Circle — gold"
+ },
+ "group": [
+  {
+   "fr": "Cercle",
+   "en": "Circle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2934
+ }
+}

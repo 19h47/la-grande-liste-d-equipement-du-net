@@ -1,0 +1,35 @@
+{
+ "id": "moule-barre-a-levier",
+ "category": "outils",
+ "name": {
+  "fr": "Barre à levier",
+  "en": "Bar, prying"
+ },
+ "full_name": {
+  "fr": "Moule — Barre à levier",
+  "en": "Mold — Bar, prying"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2525
+ }
+}

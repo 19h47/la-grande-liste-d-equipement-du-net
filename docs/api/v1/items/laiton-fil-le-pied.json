@@ -1,0 +1,35 @@
+{
+ "id": "laiton-fil-le-pied",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Fil, le pied",
+  "en": "Wire, per ft"
+ },
+ "full_name": {
+  "fr": "Laiton — Fil, le pied",
+  "en": "Brass — Wire, per ft"
+ },
+ "group": [
+  {
+   "fr": "Laiton",
+   "en": "Brass"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2024
+ }
+}

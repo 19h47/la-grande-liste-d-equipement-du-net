@@ -1,0 +1,38 @@
+{
+ "id": "couteau-en-os",
+ "category": "armes",
+ "name": {
+  "fr": "Couteau en os",
+  "en": "Bone-knife"
+ },
+ "full_name": {
+  "fr": "Couteau — Couteau en os",
+  "en": "Knife — Bone-knife"
+ },
+ "group": [
+  {
+   "fr": "Couteau",
+   "en": "Knife"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3639
+ }
+}

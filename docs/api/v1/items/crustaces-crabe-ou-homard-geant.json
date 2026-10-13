@@ -1,0 +1,38 @@
+{
+ "id": "crustaces-crabe-ou-homard-geant",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Crabe ou homard géant",
+  "en": "Giant Crab or Lobster"
+ },
+ "full_name": {
+  "fr": "Crustacés — Crabe ou homard géant",
+  "en": "Crustacea — Giant Crab or Lobster"
+ },
+ "group": [
+  {
+   "fr": "Crustacés",
+   "en": "Crustacea"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 563
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "sarbacane-aiguille",
+ "category": "armes",
+ "name": {
+  "fr": "Aiguille",
+  "en": "Needle"
+ },
+ "full_name": {
+  "fr": "Sarbacane — Aiguille",
+  "en": "Blowgun — Needle"
+ },
+ "group": [
+  {
+   "fr": "Sarbacane",
+   "en": "Blowgun"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pc",
+   "en": "2cp"
+  },
+  "min_cp": 2,
+  "max_cp": 2,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3530
+ }
+}

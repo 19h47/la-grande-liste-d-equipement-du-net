@@ -1,0 +1,33 @@
+{
+ "id": "hamac",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Hamac",
+  "en": "Hammock"
+ },
+ "full_name": {
+  "fr": "Hamac",
+  "en": "Hammock"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2993
+ }
+}

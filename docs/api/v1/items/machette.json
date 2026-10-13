@@ -1,0 +1,33 @@
+{
+ "id": "machette",
+ "category": "armes",
+ "name": {
+  "fr": "Machette",
+  "en": "Machette"
+ },
+ "full_name": {
+  "fr": "Machette",
+  "en": "Machette"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3654
+ }
+}

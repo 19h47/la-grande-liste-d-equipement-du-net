@@ -1,0 +1,44 @@
+{
+ "id": "panier-yhaunn-a-serpent",
+ "category": "contenants",
+ "name": {
+  "fr": "À serpent",
+  "en": "Snake"
+ },
+ "full_name": {
+  "fr": "Panier — Yhaunn — À serpent",
+  "en": "Basket — Yhaunn — Snake"
+ },
+ "group": [
+  {
+   "fr": "Panier",
+   "en": "Basket"
+  },
+  {
+   "fr": "Yhaunn",
+   "en": "Yhaunn"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Yhaunn : cité portuaire de Sembie, dans les Royaumes oubliés ; le nom qualifie ici une gamme de paniers."
+  ]
+ },
+ "source": {
+  "table": "XI",
+  "line": 1309
+ }
+}

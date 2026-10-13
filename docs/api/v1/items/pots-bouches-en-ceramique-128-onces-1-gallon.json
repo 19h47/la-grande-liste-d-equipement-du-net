@@ -1,0 +1,38 @@
+{
+ "id": "pots-bouches-en-ceramique-128-onces-1-gallon",
+ "category": "contenants",
+ "name": {
+  "fr": "128 onces (1 gallon)",
+  "en": "128oz (1gallon)"
+ },
+ "full_name": {
+  "fr": "Pots bouchés, en céramique — 128 onces (1 gallon)",
+  "en": "Jars, Stoppered Ceramic — 128oz (1gallon)"
+ },
+ "group": [
+  {
+   "fr": "Pots bouchés, en céramique",
+   "en": "Jars, Stoppered Ceramic"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1397
+ }
+}

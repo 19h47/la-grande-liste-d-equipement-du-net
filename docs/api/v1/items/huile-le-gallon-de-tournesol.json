@@ -1,0 +1,38 @@
+{
+ "id": "huile-le-gallon-de-tournesol",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De tournesol",
+  "en": "Sunflower"
+ },
+ "full_name": {
+  "fr": "Huile, le gallon — De tournesol",
+  "en": "Oil, per gallon — Sunflower"
+ },
+ "group": [
+  {
+   "fr": "Huile, le gallon",
+   "en": "Oil, per gallon"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 667
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "myrtille",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Myrtille",
+  "en": "Bilberry"
+ },
+ "full_name": {
+  "fr": "Myrtille",
+  "en": "Bilberry"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "3 000 po",
+   "en": "3000gp"
+  },
+  "min_cp": 300000,
+  "max_cp": 300000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Myrtille : dans le Net Book of Herbs, baies macérées dans l'alcool qui donnent l'infravision à un humain, au risque de le tuer."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2727
+ }
+}

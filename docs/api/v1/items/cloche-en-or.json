@@ -1,0 +1,38 @@
+{
+ "id": "cloche-en-or",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En or",
+  "en": "Golden"
+ },
+ "full_name": {
+  "fr": "Cloche — En or",
+  "en": "Bell — Golden"
+ },
+ "group": [
+  {
+   "fr": "Cloche",
+   "en": "Bell"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2881
+ }
+}

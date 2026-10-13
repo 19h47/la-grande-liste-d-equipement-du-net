@@ -1,0 +1,40 @@
+{
+ "id": "callin",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Callin",
+  "en": "Callin"
+ },
+ "full_name": {
+  "fr": "Callin",
+  "en": "Callin"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Callin : plante de jungle du Net Book of Herbs qui fluidifie le sang et prévient les crises cardiaques ; elle crée une dépendance."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2741
+ }
+}

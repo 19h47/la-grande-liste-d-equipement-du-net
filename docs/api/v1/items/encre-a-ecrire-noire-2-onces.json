@@ -1,0 +1,38 @@
+{
+ "id": "encre-a-ecrire-noire-2-onces",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "À écrire (noire), 2 onces",
+  "en": "Wrighting (Black), 2oz"
+ },
+ "full_name": {
+  "fr": "Encre — À écrire (noire), 2 onces",
+  "en": "Ink — Wrighting (Black), 2oz"
+ },
+ "group": [
+  {
+   "fr": "Encre",
+   "en": "Ink"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1948
+ }
+}

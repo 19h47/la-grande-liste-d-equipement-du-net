@@ -1,0 +1,35 @@
+{
+ "id": "marrube-blanc-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Marrube blanc, l'once",
+  "en": "Horsehound, per oz"
+ },
+ "full_name": {
+  "fr": "Marrube blanc, l'once",
+  "en": "Horsehound, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Marrube blanc : plante amère et cotonneuse, employée en tisane contre la toux."
+  ]
+ },
+ "source": {
+  "table": "IV",
+  "line": 827
+ }
+}

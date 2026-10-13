@@ -1,0 +1,35 @@
+{
+ "id": "marteau-de-lucerne",
+ "category": "armes",
+ "name": {
+  "fr": "Marteau de Lucerne",
+  "en": "Lucern hammer"
+ },
+ "full_name": {
+  "fr": "Marteau de Lucerne",
+  "en": "Lucern hammer"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Marteau de Lucerne : arme d'hast suisse, à tête de marteau à pointes surmontée d'une longue pique."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3649
+ }
+}

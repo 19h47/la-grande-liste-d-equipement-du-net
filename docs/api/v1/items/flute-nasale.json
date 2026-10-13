@@ -1,0 +1,40 @@
+{
+ "id": "flute-nasale",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Flûte nasale",
+  "en": "Nose flute"
+ },
+ "full_name": {
+  "fr": "Famille des flûtes — Flûte nasale",
+  "en": "Flute Family — Nose flute"
+ },
+ "group": [
+  {
+   "fr": "Famille des flûtes",
+   "en": "Flute Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Flûte nasale : flûte soufflée par une narine, répandue en Océanie et en Asie du Sud-Est."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3366
+ }
+}

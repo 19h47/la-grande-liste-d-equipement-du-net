@@ -1,0 +1,33 @@
+{
+ "id": "armure-de-plates-elfique",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Armure de plates elfique",
+  "en": "Plate Armor, Elven"
+ },
+ "full_name": {
+  "fr": "Armure de plates elfique",
+  "en": "Plate Armor, Elven"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10000 po",
+   "en": "10000gp"
+  },
+  "min_cp": 1000000,
+  "max_cp": 1000000,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3074
+ }
+}

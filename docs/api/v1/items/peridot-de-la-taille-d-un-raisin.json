@@ -1,0 +1,37 @@
+{
+ "id": "peridot-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Péridot — De la taille d'un raisin",
+  "en": "Peridot — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Péridot",
+   "en": "Peridot"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Péridot : variété gemme de l'olivine, d'un vert-jaune intense, présente dans les roches volcaniques et les météorites."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2232
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "boeuf-musque-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Bœuf musqué — Manteau, robe, couverture",
+  "en": "Musk-ox — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Bœuf musqué",
+   "en": "Musk-ox"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1179
+ }
+}

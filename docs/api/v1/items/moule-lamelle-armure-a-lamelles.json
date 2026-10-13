@@ -1,0 +1,37 @@
+{
+ "id": "moule-lamelle-armure-a-lamelles",
+ "category": "outils",
+ "name": {
+  "fr": "Lamelle (armure à lamelles)",
+  "en": "Splint (mail)"
+ },
+ "full_name": {
+  "fr": "Moule — Lamelle (armure à lamelles)",
+  "en": "Mold — Splint (mail)"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Lamelle (armure à lamelles) : l'armure à lamelles assemble d'étroites lames métalliques verticales rivetées sur un support de cuir."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2592
+ }
+}

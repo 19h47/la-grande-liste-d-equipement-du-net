@@ -1,0 +1,35 @@
+{
+ "id": "chakram",
+ "category": "armes",
+ "name": {
+  "fr": "Chakram",
+  "en": "Chakram"
+ },
+ "full_name": {
+  "fr": "Chakram",
+  "en": "Chakram"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Chakram : anneau de lancer indien à bord tranchant."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3554
+ }
+}

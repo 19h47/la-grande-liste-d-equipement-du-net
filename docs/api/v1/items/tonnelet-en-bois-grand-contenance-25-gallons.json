@@ -1,0 +1,38 @@
+{
+ "id": "tonnelet-en-bois-grand-contenance-25-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En bois, grand, contenance 25 gallons",
+  "en": "Wooden, large, holds 25 gallons"
+ },
+ "full_name": {
+  "fr": "Tonnelet — En bois, grand, contenance 25 gallons",
+  "en": "Keg — Wooden, large, holds 25 gallons"
+ },
+ "group": [
+  {
+   "fr": "Tonnelet",
+   "en": "Keg"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "45 pa",
+   "en": "45sp"
+  },
+  "min_cp": 450,
+  "max_cp": 450,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1415
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "arbaletrier-par-mois-leger",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Léger",
+  "en": "Light"
+ },
+ "full_name": {
+  "fr": "Arbalétrier, par mois — Léger",
+  "en": "Crossbowman, per month — Light"
+ },
+ "group": [
+  {
+   "fr": "Arbalétrier, par mois",
+   "en": "Crossbowman, per month"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2383
+ }
+}

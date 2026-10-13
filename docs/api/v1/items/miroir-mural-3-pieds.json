@@ -1,0 +1,38 @@
+{
+ "id": "miroir-mural-3-pieds",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Mural, 3 pieds",
+  "en": "Wall, 3'"
+ },
+ "full_name": {
+  "fr": "Miroir — Mural, 3 pieds",
+  "en": "Mirror — Wall, 3'"
+ },
+ "group": [
+  {
+   "fr": "Miroir",
+   "en": "Mirror"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "15 po",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3033
+ }
+}

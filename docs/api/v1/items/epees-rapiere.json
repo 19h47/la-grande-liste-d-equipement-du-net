@@ -1,0 +1,40 @@
+{
+ "id": "epees-rapiere",
+ "category": "armes",
+ "name": {
+  "fr": "Rapière",
+  "en": "Rapier"
+ },
+ "full_name": {
+  "fr": "Épées — Rapière",
+  "en": "Sword — Rapier"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Rapière : épée longue et fine, surtout d'estoc, à garde à branches ou à coquille."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3719
+ }
+}

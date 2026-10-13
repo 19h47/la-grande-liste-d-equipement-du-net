@@ -1,0 +1,33 @@
+{
+ "id": "brocolis-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Brocolis, la livre",
+  "en": "Broccoli, per lb"
+ },
+ "full_name": {
+  "fr": "Brocolis, la livre",
+  "en": "Broccoli, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 pc",
+   "en": "8cp"
+  },
+  "min_cp": 8,
+  "max_cp": 8,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 488
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "id": "moule-couteau-a-decouper",
+ "category": "outils",
+ "name": {
+  "fr": "À découper",
+  "en": "Carving"
+ },
+ "full_name": {
+  "fr": "Moule — Couteau — À découper",
+  "en": "Mold — Knife — Carving"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Couteau",
+   "en": "Knife"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2557
+ }
+}

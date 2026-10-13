@@ -1,0 +1,40 @@
+{
+ "id": "gylvir",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Gylvir",
+  "en": "Gylvir"
+ },
+ "full_name": {
+  "fr": "Gylvir",
+  "en": "Gylvir"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Gylvir : algue du Net Book of Herbs qui permet de respirer sous l'eau pendant quatre heures."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2778
+ }
+}

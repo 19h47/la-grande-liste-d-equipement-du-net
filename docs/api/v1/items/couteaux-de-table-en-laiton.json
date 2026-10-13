@@ -1,0 +1,38 @@
+{
+ "id": "couteaux-de-table-en-laiton",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "De table, en laiton",
+  "en": "Dinner, Brass"
+ },
+ "full_name": {
+  "fr": "Couteaux — De table, en laiton",
+  "en": "Knives — Dinner, Brass"
+ },
+ "group": [
+  {
+   "fr": "Couteaux",
+   "en": "Knives"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3005
+ }
+}

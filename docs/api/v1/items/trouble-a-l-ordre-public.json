@@ -1,0 +1,30 @@
+{
+ "id": "trouble-a-l-ordre-public",
+ "category": "amendes-et-peines",
+ "name": {
+  "fr": "Trouble à l'ordre public",
+  "en": "Disturbing the Peace"
+ },
+ "full_name": {
+  "fr": "Trouble à l'ordre public",
+  "en": "Disturbing the Peace"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVI",
+  "line": 3179
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "saphir-etoile",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Saphir étoilé",
+  "en": "Star Sapphire"
+ },
+ "full_name": {
+  "fr": "Saphir étoilé",
+  "en": "Star Sapphire"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2295
+ }
+}

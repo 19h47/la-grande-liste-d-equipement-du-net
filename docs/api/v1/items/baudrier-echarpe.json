@@ -1,0 +1,32 @@
+{
+ "id": "baudrier-echarpe",
+ "category": "vetements",
+ "name": {
+  "fr": "Baudrier, écharpe",
+  "en": "Baldric, belt sash"
+ },
+ "full_name": {
+  "fr": "Baudrier, écharpe",
+  "en": "Baldric, belt sash"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Baudrier : bande de cuir ou d'étoffe portée en diagonale, de l'épaule à la hanche opposée, pour soutenir une arme."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 79
+ }
+}

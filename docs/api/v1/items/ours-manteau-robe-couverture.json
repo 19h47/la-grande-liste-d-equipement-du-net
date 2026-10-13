@@ -1,0 +1,35 @@
+{
+ "id": "ours-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Ours — Manteau, robe, couverture",
+  "en": "Bear — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Ours",
+   "en": "Bear"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1096
+ }
+}

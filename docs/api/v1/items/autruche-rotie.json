@@ -1,0 +1,33 @@
+{
+ "id": "autruche-rotie",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Autruche rôtie",
+  "en": "Roast Ostrich"
+ },
+ "full_name": {
+  "fr": "Autruche rôtie",
+  "en": "Roast Ostrich"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 722
+ }
+}

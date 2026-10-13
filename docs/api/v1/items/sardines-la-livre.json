@@ -1,0 +1,33 @@
+{
+ "id": "sardines-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Sardines, la livre",
+  "en": "Sardines, per lb"
+ },
+ "full_name": {
+  "fr": "Sardines, la livre",
+  "en": "Sardines, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 736
+ }
+}

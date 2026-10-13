@@ -1,0 +1,38 @@
+{
+ "id": "arcs-arc-court",
+ "category": "armes",
+ "name": {
+  "fr": "Arc court",
+  "en": "Short Bow"
+ },
+ "full_name": {
+  "fr": "Arcs — Arc court",
+  "en": "Bow — Short Bow"
+ },
+ "group": [
+  {
+   "fr": "Arcs",
+   "en": "Bow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3545
+ }
+}

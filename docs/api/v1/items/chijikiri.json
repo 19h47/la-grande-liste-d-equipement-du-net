@@ -1,0 +1,35 @@
+{
+ "id": "chijikiri",
+ "category": "armes",
+ "name": {
+  "fr": "Chijikiri",
+  "en": "Chijikiri"
+ },
+ "full_name": {
+  "fr": "Chijikiri",
+  "en": "Chijikiri"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": [
+   "Chijikiri : arme japonaise formée d'un bâton auquel est fixée une chaîne lestée."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3555
+ }
+}

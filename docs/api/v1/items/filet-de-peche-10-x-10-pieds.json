@@ -1,0 +1,33 @@
+{
+ "id": "filet-de-peche-10-x-10-pieds",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Filet de pêche, 10 x 10 pieds",
+  "en": "Fishnet, 10' x 10'"
+ },
+ "full_name": {
+  "fr": "Filet de pêche, 10 x 10 pieds",
+  "en": "Fishnet, 10' x 10'"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2976
+ }
+}

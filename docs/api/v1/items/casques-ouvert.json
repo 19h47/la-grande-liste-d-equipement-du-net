@@ -1,0 +1,38 @@
+{
+ "id": "casques-ouvert",
+ "category": "armures",
+ "name": {
+  "fr": "Ouvert",
+  "en": "Open faced"
+ },
+ "full_name": {
+  "fr": "Casques — Ouvert",
+  "en": "Helmet — Open faced"
+ },
+ "group": [
+  {
+   "fr": "Casques",
+   "en": "Helmet"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "weight": {
+  "text": "7",
+  "lb": 7
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3798
+ }
+}

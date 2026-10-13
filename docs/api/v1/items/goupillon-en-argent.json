@@ -1,0 +1,40 @@
+{
+ "id": "goupillon-en-argent",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En argent",
+  "en": "Silver"
+ },
+ "full_name": {
+  "fr": "Goupillon — En argent",
+  "en": "Aspergillum — Silver"
+ },
+ "group": [
+  {
+   "fr": "Goupillon",
+   "en": "Aspergillum"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": [
+   "Goupillon : instrument liturgique servant à asperger d'eau bénite les fidèles ou les objets lors d'une cérémonie."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2865
+ }
+}

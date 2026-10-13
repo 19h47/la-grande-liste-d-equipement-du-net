@@ -1,0 +1,33 @@
+{
+ "id": "presse-a-frapper-la-monnaie",
+ "category": "outils",
+ "name": {
+  "fr": "Presse à frapper la monnaie",
+  "en": "Coin Minter"
+ },
+ "full_name": {
+  "fr": "Presse à frapper la monnaie",
+  "en": "Coin Minter"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10000 po",
+   "en": "10000gp"
+  },
+  "min_cp": 1000000,
+  "max_cp": 1000000,
+  "plus": false
+ },
+ "weight": {
+  "text": "100",
+  "lb": 100
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2483
+ }
+}

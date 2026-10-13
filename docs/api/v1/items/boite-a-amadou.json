@@ -1,0 +1,40 @@
+{
+ "id": "boite-a-amadou",
+ "category": "contenants",
+ "name": {
+  "fr": "À amadou",
+  "en": "Tinder"
+ },
+ "full_name": {
+  "fr": "Boîte — À amadou",
+  "en": "Box — Tinder"
+ },
+ "group": [
+  {
+   "fr": "Boîte",
+   "en": "Box"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Amadou : champignon séché très inflammable, servant à allumer le feu avec un briquet et une pierre à feu."
+  ]
+ },
+ "source": {
+  "table": "XI",
+  "line": 1329
+ }
+}

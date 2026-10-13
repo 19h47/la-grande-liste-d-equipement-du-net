@@ -1,0 +1,33 @@
+{
+ "id": "lentille-petite",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Lentille, petite",
+  "en": "Lens, small"
+ },
+ "full_name": {
+  "fr": "Lentille, petite",
+  "en": "Lens, small"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3010
+ }
+}

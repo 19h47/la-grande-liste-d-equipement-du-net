@@ -1,0 +1,39 @@
+{
+ "id": "moule-bracelet-simple-large-grand",
+ "category": "outils",
+ "name": {
+  "fr": "Grand",
+  "en": "Large"
+ },
+ "full_name": {
+  "fr": "Moule — Bracelet simple, large — Grand",
+  "en": "Mold — Bracelet, plain wide — Large"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Bracelet simple, large",
+   "en": "Bracelet, plain wide"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2540
+ }
+}

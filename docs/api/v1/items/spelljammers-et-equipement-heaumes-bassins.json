@@ -1,0 +1,42 @@
+{
+ "id": "spelljammers-et-equipement-heaumes-bassins",
+ "category": "transports",
+ "name": {
+  "fr": "Heaumes-bassins",
+  "en": "Pool Helms"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Heaume — Heaumes-bassins",
+  "en": "Spelljammers and equipment — Helm — Pool Helms"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  },
+  {
+   "fr": "Heaume",
+   "en": "Helm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "500 000 po",
+   "en": "500,000gp"
+  },
+  "min_cp": 50000000,
+  "max_cp": 50000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Heaume : siège magique qui convertit l'énergie d'un lanceur de sorts en propulsion pour un spelljammer."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1026
+ }
+}

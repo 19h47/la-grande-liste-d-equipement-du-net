@@ -1,0 +1,33 @@
+{
+ "id": "armure-de-cuir",
+ "category": "armures",
+ "name": {
+  "fr": "Armure de cuir",
+  "en": "Leather armor"
+ },
+ "full_name": {
+  "fr": "Armure de cuir",
+  "en": "Leather armor"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3808
+ }
+}

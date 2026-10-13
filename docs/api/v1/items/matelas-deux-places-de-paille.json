@@ -1,0 +1,38 @@
+{
+ "id": "matelas-deux-places-de-paille",
+ "category": "mobilier",
+ "name": {
+  "fr": "Deux places, de paille",
+  "en": "Double, Straw"
+ },
+ "full_name": {
+  "fr": "Matelas — Deux places, de paille",
+  "en": "Mattress — Double, Straw"
+ },
+ "group": [
+  {
+   "fr": "Matelas",
+   "en": "Mattress"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "13 po",
+   "en": "13gp"
+  },
+  "min_cp": 1300,
+  "max_cp": 1300,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1584
+ }
+}

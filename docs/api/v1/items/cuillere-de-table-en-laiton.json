@@ -1,0 +1,38 @@
+{
+ "id": "cuillere-de-table-en-laiton",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "De table, en laiton",
+  "en": "Dinner, brass"
+ },
+ "full_name": {
+  "fr": "Cuillère — De table, en laiton",
+  "en": "Spoon — Dinner, brass"
+ },
+ "group": [
+  {
+   "fr": "Cuillère",
+   "en": "Spoon"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3112
+ }
+}

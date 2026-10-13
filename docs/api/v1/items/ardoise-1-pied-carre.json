@@ -1,0 +1,38 @@
+{
+ "id": "ardoise-1-pied-carre",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "1 pied carré",
+  "en": "1 ft sq"
+ },
+ "full_name": {
+  "fr": "Ardoise — 1 pied carré",
+  "en": "Slate — 1 ft sq"
+ },
+ "group": [
+  {
+   "fr": "Ardoise",
+   "en": "Slate"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1879
+ }
+}

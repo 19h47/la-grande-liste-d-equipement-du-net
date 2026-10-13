@@ -1,0 +1,38 @@
+{
+ "id": "chambre-en-ville-par-mois-ordinaire",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Ordinaire",
+  "en": "Common"
+ },
+ "full_name": {
+  "fr": "Chambre en ville (par mois) — Ordinaire",
+  "en": "City Room (per month) — Common"
+ },
+ "group": [
+  {
+   "fr": "Chambre en ville (par mois)",
+   "en": "City Room (per month)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 345
+ }
+}

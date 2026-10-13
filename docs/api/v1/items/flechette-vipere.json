@@ -1,0 +1,35 @@
+{
+ "id": "flechette-vipere",
+ "category": "armes",
+ "name": {
+  "fr": "Vipère",
+  "en": "Viper"
+ },
+ "full_name": {
+  "fr": "Fléchette — Vipère",
+  "en": "Dart — Viper"
+ },
+ "group": [
+  {
+   "fr": "Fléchette",
+   "en": "Dart"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3577
+ }
+}

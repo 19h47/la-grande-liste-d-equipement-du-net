@@ -1,0 +1,33 @@
+{
+ "id": "hache-d-armes",
+ "category": "armes",
+ "name": {
+  "fr": "Hache d'armes",
+  "en": "Battle axe"
+ },
+ "full_name": {
+  "fr": "Hache d'armes",
+  "en": "Battle axe"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "7",
+  "lb": 7
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3526
+ }
+}

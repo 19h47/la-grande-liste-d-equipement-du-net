@@ -1,0 +1,38 @@
+{
+ "id": "repas-a-l-unite-tripes-cuites-aux-oignons-dans-une-sauce-au-vin",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Tripes (cuites aux oignons dans une sauce au vin)",
+  "en": "Tripes (cooked in onions in a wine gravy)"
+ },
+ "full_name": {
+  "fr": "Repas (à l'unité) — Tripes (cuites aux oignons dans une sauce au vin)",
+  "en": "Meals (individual) — Tripes (cooked in onions in a wine gravy)"
+ },
+ "group": [
+  {
+   "fr": "Repas (à l'unité)",
+   "en": "Meals (individual)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 398
+ }
+}

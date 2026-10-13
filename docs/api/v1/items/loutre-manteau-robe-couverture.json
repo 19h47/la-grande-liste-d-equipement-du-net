@@ -1,0 +1,35 @@
+{
+ "id": "loutre-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Loutre — Manteau, robe, couverture",
+  "en": "Otter — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Loutre",
+   "en": "Otter"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1189
+ }
+}

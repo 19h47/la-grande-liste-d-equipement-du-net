@@ -1,0 +1,38 @@
+{
+ "id": "poupee-serie-des-aventuriers",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Série des aventuriers",
+  "en": "Adventurer's Set"
+ },
+ "full_name": {
+  "fr": "Poupée — Série des aventuriers",
+  "en": "Doll — Adventurer's Set"
+ },
+ "group": [
+  {
+   "fr": "Poupée",
+   "en": "Doll"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2967
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "soins-majeurs-11",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Soins majeurs, 11+",
+  "en": "Healing, major, 11+"
+ },
+ "full_name": {
+  "fr": "Soins majeurs, 11+",
+  "en": "Healing, major, 11+"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "250 po par pv",
+   "en": "250gp per HP"
+  },
+  "min_cp": 25000,
+  "max_cp": 25000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2398
+ }
+}

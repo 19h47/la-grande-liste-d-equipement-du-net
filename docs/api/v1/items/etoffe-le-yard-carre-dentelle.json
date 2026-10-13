@@ -1,0 +1,38 @@
+{
+ "id": "etoffe-le-yard-carre-dentelle",
+ "category": "tissus",
+ "name": {
+  "fr": "Dentelle",
+  "en": "Lace"
+ },
+ "full_name": {
+  "fr": "Étoffe, le yard carré — Dentelle",
+  "en": "Cloth, per sq yard — Lace"
+ },
+ "group": [
+  {
+   "fr": "Étoffe, le yard carré",
+   "en": "Cloth, per sq yard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1729
+ }
+}

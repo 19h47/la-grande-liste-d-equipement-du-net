@@ -1,0 +1,33 @@
+{
+ "id": "baton-de-cire-a-cacheter",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Bâton de cire à cacheter",
+  "en": "Candle, Sealing Wax"
+ },
+ "full_name": {
+  "fr": "Bâton de cire à cacheter",
+  "en": "Candle, Sealing Wax"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2912
+ }
+}

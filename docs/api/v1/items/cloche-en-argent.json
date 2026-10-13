@@ -1,0 +1,38 @@
+{
+ "id": "cloche-en-argent",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En argent",
+  "en": "Silver"
+ },
+ "full_name": {
+  "fr": "Cloche — En argent",
+  "en": "Bell — Silver"
+ },
+ "group": [
+  {
+   "fr": "Cloche",
+   "en": "Bell"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2883
+ }
+}

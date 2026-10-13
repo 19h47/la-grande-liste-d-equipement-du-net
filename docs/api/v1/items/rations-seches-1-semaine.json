@@ -1,0 +1,33 @@
+{
+ "id": "rations-seches-1-semaine",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Rations sèches, 1 semaine",
+  "en": "Dry Rations, 1 week"
+ },
+ "full_name": {
+  "fr": "Rations sèches, 1 semaine",
+  "en": "Dry Rations, 1 week"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 571
+ }
+}

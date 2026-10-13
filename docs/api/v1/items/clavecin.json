@@ -1,0 +1,38 @@
+{
+ "id": "clavecin",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Clavecin",
+  "en": "Harpsichord"
+ },
+ "full_name": {
+  "fr": "Claviers — Clavecin",
+  "en": "Keyboard — Harpsichord"
+ },
+ "group": [
+  {
+   "fr": "Claviers",
+   "en": "Keyboard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "weight": {
+  "text": "90",
+  "lb": 90
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3408
+ }
+}

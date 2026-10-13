@@ -1,0 +1,38 @@
+{
+ "id": "pervenche",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Pervenche",
+  "en": "Periwinkle"
+ },
+ "full_name": {
+  "fr": "Pervenche",
+  "en": "Periwinkle"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2814
+ }
+}

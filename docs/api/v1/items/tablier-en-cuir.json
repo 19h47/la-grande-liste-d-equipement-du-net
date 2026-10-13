@@ -1,0 +1,38 @@
+{
+ "id": "tablier-en-cuir",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "En cuir",
+  "en": "Leather"
+ },
+ "full_name": {
+  "fr": "Tablier — En cuir",
+  "en": "Apron — Leather"
+ },
+ "group": [
+  {
+   "fr": "Tablier",
+   "en": "Apron"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1823
+ }
+}

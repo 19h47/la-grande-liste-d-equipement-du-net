@@ -1,0 +1,38 @@
+{
+ "id": "dinosaure-carnivore",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Dinosaure carnivore",
+  "en": "Dinosaur, Carnivorous"
+ },
+ "full_name": {
+  "fr": "Dinosaure carnivore",
+  "en": "Dinosaur, Carnivorous"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "100 po/DV adulte",
+   "en": "100gp/adult HD"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "150 po/DV adulte",
+   "en": "150gp/adult HD"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1499
+ }
+}

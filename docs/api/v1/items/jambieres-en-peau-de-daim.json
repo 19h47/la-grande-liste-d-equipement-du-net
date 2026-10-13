@@ -1,0 +1,35 @@
+{
+ "id": "jambieres-en-peau-de-daim",
+ "category": "vetements",
+ "name": {
+  "fr": "En peau de daim",
+  "en": "Deerskin"
+ },
+ "full_name": {
+  "fr": "Jambières — En peau de daim",
+  "en": "Leggings — Deerskin"
+ },
+ "group": [
+  {
+   "fr": "Jambières",
+   "en": "Leggings"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 224
+ }
+}

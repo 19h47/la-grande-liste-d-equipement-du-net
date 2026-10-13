@@ -1,0 +1,38 @@
+{
+ "id": "parfums-le-flacon-epice-nocturne",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Épice nocturne",
+  "en": "Night Spice"
+ },
+ "full_name": {
+  "fr": "Parfums, le flacon — Épice nocturne",
+  "en": "Perfumes, per vial — Night Spice"
+ },
+ "group": [
+  {
+   "fr": "Parfums, le flacon",
+   "en": "Perfumes, per vial"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3063
+ }
+}

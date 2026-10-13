@@ -1,0 +1,38 @@
+{
+ "id": "buffle-la-livre-seche-en-lanieres-jerky",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Séché en lanières (jerky)",
+  "en": "jerked"
+ },
+ "full_name": {
+  "fr": "Buffle, la livre — Séché en lanières (jerky)",
+  "en": "Buffalo, per lb — jerked"
+ },
+ "group": [
+  {
+   "fr": "Buffle, la livre",
+   "en": "Buffalo, per lb"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "42 po",
+   "en": "42gp"
+  },
+  "min_cp": 4200,
+  "max_cp": 4200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 493
+ }
+}

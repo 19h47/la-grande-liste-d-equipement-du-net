@@ -1,0 +1,35 @@
+{
+ "id": "platine-lingot-par-2-livres",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Lingot, par 2 livres",
+  "en": "Ingot, per 2 lb"
+ },
+ "full_name": {
+  "fr": "Platine — Lingot, par 2 livres",
+  "en": "Platinum — Ingot, per 2 lb"
+ },
+ "group": [
+  {
+   "fr": "Platine",
+   "en": "Platinum"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2241
+ }
+}

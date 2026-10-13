@@ -1,0 +1,37 @@
+{
+ "id": "alexandrite-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Alexandrite — De la taille d'une noix",
+  "en": "Alexandrite — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Alexandrite",
+   "en": "Alexandrite"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Alexandrite : variété de chrysobéryl, verte à la lumière du jour et rouge à la lumière artificielle."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 1981
+ }
+}

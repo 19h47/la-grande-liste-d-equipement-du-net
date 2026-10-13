@@ -1,0 +1,38 @@
+{
+ "id": "cornemuse-zampogna",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Zampogna",
+  "en": "Zampogna"
+ },
+ "full_name": {
+  "fr": "Cornemuse — Zampogna",
+  "en": "Bagpipes — Zampogna"
+ },
+ "group": [
+  {
+   "fr": "Cornemuse",
+   "en": "Bagpipes"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "85 po",
+   "en": "85gp"
+  },
+  "min_cp": 8500,
+  "max_cp": 8500,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3316
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "cavalerie-par-mois-lourde",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Lourde",
+  "en": "Heavy"
+ },
+ "full_name": {
+  "fr": "Cavalerie, par mois — Lourde",
+  "en": "Calvalry, per month — Heavy"
+ },
+ "group": [
+  {
+   "fr": "Cavalerie, par mois",
+   "en": "Calvalry, per month"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2371
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "id": "flute-traversiere",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Flûte traversière",
+  "en": "Transverse flute"
+ },
+ "full_name": {
+  "fr": "Famille des flûtes — Flûte traversière",
+  "en": "Flute Family — Transverse flute"
+ },
+ "group": [
+  {
+   "fr": "Famille des flûtes",
+   "en": "Flute Family"
+  }
+ ],
+ "price": null,
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3372
+ }
+}

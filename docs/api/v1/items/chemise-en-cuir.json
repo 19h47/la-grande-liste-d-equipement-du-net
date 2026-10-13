@@ -1,0 +1,38 @@
+{
+ "id": "chemise-en-cuir",
+ "category": "armures",
+ "name": {
+  "fr": "En cuir",
+  "en": "Leather"
+ },
+ "full_name": {
+  "fr": "Chemise — En cuir",
+  "en": "Chemise — Leather"
+ },
+ "group": [
+  {
+   "fr": "Chemise",
+   "en": "Chemise"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3780
+ }
+}

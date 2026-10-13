@@ -1,0 +1,30 @@
+{
+ "id": "soins-des-blessures-legeres",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Soins des blessures légères",
+  "en": "Cure Light Wounds"
+ },
+ "full_name": {
+  "fr": "Soins des blessures légères",
+  "en": "Cure Light Wounds"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po par point de vie guéri",
+   "en": "10gp per hp healed"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3211
+ }
+}

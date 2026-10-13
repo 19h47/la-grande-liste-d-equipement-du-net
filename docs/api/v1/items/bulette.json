@@ -1,0 +1,40 @@
+{
+ "id": "bulette",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Bulette",
+  "en": "Bulette"
+ },
+ "full_name": {
+  "fr": "Bulette",
+  "en": "Bulette"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "4 500 po",
+   "en": "4,500gp"
+  },
+  "min_cp": 450000,
+  "max_cp": 450000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "9 000 po",
+   "en": "9,000gp"
+  },
+  "min_cp": 900000,
+  "max_cp": 900000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Bulette : « requin de terre », énorme prédateur cuirassé qui nage sous le sol et surgit sous ses proies."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1486
+ }
+}

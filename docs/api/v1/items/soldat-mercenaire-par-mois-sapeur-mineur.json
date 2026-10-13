@@ -1,0 +1,37 @@
+{
+ "id": "soldat-mercenaire-par-mois-sapeur-mineur",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Sapeur/mineur",
+  "en": "Sapper/miner"
+ },
+ "full_name": {
+  "fr": "Soldat mercenaire, par mois — Sapeur/mineur",
+  "en": "Mercenary Soldier, per month — Sapper/miner"
+ },
+ "group": [
+  {
+   "fr": "Soldat mercenaire, par mois",
+   "en": "Mercenary Soldier, per month"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Sapeur : soldat chargé de creuser tranchées et galeries de mine pour saper les murailles."
+  ]
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2429
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "repas-a-l-unite-veau-toujours-frais",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Veau (toujours frais)",
+  "en": "Veal (always fresh)"
+ },
+ "full_name": {
+  "fr": "Repas (à l'unité) — Veau (toujours frais)",
+  "en": "Meals (individual) — Veal (always fresh)"
+ },
+ "group": [
+  {
+   "fr": "Repas (à l'unité)",
+   "en": "Meals (individual)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 399
+ }
+}

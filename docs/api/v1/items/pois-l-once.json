@@ -1,0 +1,33 @@
+{
+ "id": "pois-l-once",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Pois, l'once",
+  "en": "Peas, per oz"
+ },
+ "full_name": {
+  "fr": "Pois, l'once",
+  "en": "Peas, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 672
+ }
+}

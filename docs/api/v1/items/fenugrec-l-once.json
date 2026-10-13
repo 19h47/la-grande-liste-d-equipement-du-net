@@ -1,0 +1,35 @@
+{
+ "id": "fenugrec-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Fenugrec, l'once",
+  "en": "Fenugreek, per oz"
+ },
+ "full_name": {
+  "fr": "Fenugrec, l'once",
+  "en": "Fenugreek, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Fenugrec : plante à fleurs blanc jaunâtre dont les graines très odorantes servent d'épice."
+  ]
+ },
+ "source": {
+  "table": "IV",
+  "line": 822
+ }
+}

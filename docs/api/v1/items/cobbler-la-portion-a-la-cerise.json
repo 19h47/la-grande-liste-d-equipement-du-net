@@ -1,0 +1,40 @@
+{
+ "id": "cobbler-la-portion-a-la-cerise",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "À la cerise",
+  "en": "Cherry"
+ },
+ "full_name": {
+  "fr": "Cobbler, la portion — À la cerise",
+  "en": "Cobbler, per serving — Cherry"
+ },
+ "group": [
+  {
+   "fr": "Cobbler, la portion",
+   "en": "Cobbler, per serving"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Cobbler : fruits cuits au four sous une couche de pâte à biscuit."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 542
+ }
+}

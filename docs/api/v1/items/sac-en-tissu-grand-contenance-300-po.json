@@ -1,0 +1,38 @@
+{
+ "id": "sac-en-tissu-grand-contenance-300-po",
+ "category": "contenants",
+ "name": {
+  "fr": "En tissu, grand, contenance 300 po",
+  "en": "Cloth, large, holds 300gp"
+ },
+ "full_name": {
+  "fr": "Sac — En tissu, grand, contenance 300 po",
+  "en": "Sack — Cloth, large, holds 300gp"
+ },
+ "group": [
+  {
+   "fr": "Sac",
+   "en": "Sack"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 pc",
+   "en": "40cp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1438
+ }
+}

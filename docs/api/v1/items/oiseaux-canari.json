@@ -1,0 +1,35 @@
+{
+ "id": "oiseaux-canari",
+ "category": "animaux",
+ "name": {
+  "fr": "Canari",
+  "en": "Canary"
+ },
+ "full_name": {
+  "fr": "Oiseaux — Canari",
+  "en": "Bird — Canary"
+ },
+ "group": [
+  {
+   "fr": "Oiseaux",
+   "en": "Bird"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pc",
+   "en": "2cp"
+  },
+  "min_cp": 2,
+  "max_cp": 2,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1633
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "crocodile",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Crocodile",
+  "en": "Crocodile"
+ },
+ "full_name": {
+  "fr": "Crocodile",
+  "en": "Crocodile"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1496
+ }
+}

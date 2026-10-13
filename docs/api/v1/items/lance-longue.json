@@ -1,0 +1,33 @@
+{
+ "id": "lance-longue",
+ "category": "armes",
+ "name": {
+  "fr": "Lance longue",
+  "en": "Spear, long"
+ },
+ "full_name": {
+  "fr": "Lance longue",
+  "en": "Spear, long"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3700
+ }
+}

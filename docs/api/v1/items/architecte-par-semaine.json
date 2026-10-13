@@ -1,0 +1,35 @@
+{
+ "id": "architecte-par-semaine",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Par semaine",
+  "en": "Per Week"
+ },
+ "full_name": {
+  "fr": "Architecte — Par semaine",
+  "en": "Architect — Per Week"
+ },
+ "group": [
+  {
+   "fr": "Architecte",
+   "en": "Architect"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2362
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "bardes-de-plates-completes",
+ "category": "armures",
+ "name": {
+  "fr": "De plates complètes",
+  "en": "Full Plate"
+ },
+ "full_name": {
+  "fr": "Bardes — De plates complètes",
+  "en": "Barding — Full Plate"
+ },
+ "group": [
+  {
+   "fr": "Bardes",
+   "en": "Barding"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 000 po",
+   "en": "2,000gp"
+  },
+  "min_cp": 200000,
+  "max_cp": 200000,
+  "plus": false
+ },
+ "weight": {
+  "text": "85",
+  "lb": 85
+ },
+ "notes": {
+  "fr": [
+   "Bardes : armure de cheval."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3748
+ }
+}

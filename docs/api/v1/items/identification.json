@@ -1,0 +1,30 @@
+{
+ "id": "identification",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Identification",
+  "en": "Identify"
+ },
+ "full_name": {
+  "fr": "Identification",
+  "en": "Identify"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 000 po par propriété",
+   "en": "1,000gp per function"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3227
+ }
+}

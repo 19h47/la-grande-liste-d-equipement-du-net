@@ -1,0 +1,32 @@
+{
+ "id": "crenelage-14-pieds-de-long",
+ "category": "constructions",
+ "name": {
+  "fr": "Crénelage, 14 pieds de long",
+  "en": "Battlement, 14'l"
+ },
+ "full_name": {
+  "fr": "Crénelage, 14 pieds de long",
+  "en": "Battlement, 14'l"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Crénelage : couronnement d'une muraille formé d'une alternance de merlons et de créneaux."
+  ]
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3267
+ }
+}

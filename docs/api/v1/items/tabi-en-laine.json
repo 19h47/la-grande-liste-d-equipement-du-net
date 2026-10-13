@@ -1,0 +1,40 @@
+{
+ "id": "tabi-en-laine",
+ "category": "vetements",
+ "name": {
+  "fr": "En laine",
+  "en": "Wool"
+ },
+ "full_name": {
+  "fr": "Tabi — En laine",
+  "en": "Tabi — Wool"
+ },
+ "group": [
+  {
+   "fr": "Tabi",
+   "en": "Tabi"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "45 po",
+   "en": "45gp"
+  },
+  "min_cp": 4500,
+  "max_cp": 4500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Tabi : chaussettes japonaises séparant le gros orteil des autres doigts de pied."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 287
+ }
+}

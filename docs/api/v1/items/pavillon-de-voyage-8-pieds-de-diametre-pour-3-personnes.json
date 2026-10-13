@@ -1,0 +1,33 @@
+{
+ "id": "pavillon-de-voyage-8-pieds-de-diametre-pour-3-personnes",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Pavillon de voyage, 8 pieds de diamètre, pour 3 personnes",
+  "en": "Pavilion, Traveling, 8' circle, holds 3"
+ },
+ "full_name": {
+  "fr": "Pavillon de voyage, 8 pieds de diamètre, pour 3 personnes",
+  "en": "Pavilion, Traveling, 8' circle, holds 3"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1782
+ }
+}

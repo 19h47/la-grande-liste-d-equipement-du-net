@@ -1,0 +1,38 @@
+{
+ "id": "xylophone-en-bois",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Xylophone en bois",
+  "en": "Wooden Xylophone"
+ },
+ "full_name": {
+  "fr": "Famille des xylophones — Xylophone en bois",
+  "en": "Xylophone Family — Wooden Xylophone"
+ },
+ "group": [
+  {
+   "fr": "Famille des xylophones",
+   "en": "Xylophone Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "60 po",
+   "en": "60gp"
+  },
+  "min_cp": 6000,
+  "max_cp": 6000,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3446
+ }
+}

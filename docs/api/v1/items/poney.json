@@ -1,0 +1,30 @@
+{
+ "id": "poney",
+ "category": "animaux",
+ "name": {
+  "fr": "Poney",
+  "en": "Pony"
+ },
+ "full_name": {
+  "fr": "Poney",
+  "en": "Pony"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1691
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "sofa-canape",
+ "category": "mobilier",
+ "name": {
+  "fr": "Sofa/canapé",
+  "en": "Sofa/Couch"
+ },
+ "full_name": {
+  "fr": "Sofa/canapé",
+  "en": "Sofa/Couch"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "35",
+  "lb": 35
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1592
+ }
+}

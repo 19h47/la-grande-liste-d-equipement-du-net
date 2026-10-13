@@ -1,0 +1,38 @@
+{
+ "id": "lit-deux-places",
+ "category": "mobilier",
+ "name": {
+  "fr": "Deux places",
+  "en": "Double"
+ },
+ "full_name": {
+  "fr": "Lit — Deux places",
+  "en": "Bed — Double"
+ },
+ "group": [
+  {
+   "fr": "Lit",
+   "en": "Bed"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1561
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "chiens-de-chasse",
+ "category": "animaux",
+ "name": {
+  "fr": "De chasse",
+  "en": "Hunting"
+ },
+ "full_name": {
+  "fr": "Chiens — De chasse",
+  "en": "Dog — Hunting"
+ },
+ "group": [
+  {
+   "fr": "Chiens",
+   "en": "Dog"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "17 po",
+   "en": "17gp"
+  },
+  "min_cp": 1700,
+  "max_cp": 1700,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1652
+ }
+}

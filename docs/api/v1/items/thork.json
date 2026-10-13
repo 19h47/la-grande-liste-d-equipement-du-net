@@ -1,0 +1,30 @@
+{
+ "id": "thork",
+ "category": "carcasses",
+ "name": {
+  "fr": "Thork",
+  "en": "Thork"
+ },
+ "full_name": {
+  "fr": "Thork",
+  "en": "Thork"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIV",
+  "line": 1615
+ }
+}

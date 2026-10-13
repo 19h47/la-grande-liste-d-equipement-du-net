@@ -1,0 +1,33 @@
+{
+ "id": "chou-la-piece",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Chou, la pièce",
+  "en": "Cabbage, per head"
+ },
+ "full_name": {
+  "fr": "Chou, la pièce",
+  "en": "Cabbage, per head"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 504
+ }
+}

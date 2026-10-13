@@ -1,0 +1,38 @@
+{
+ "id": "broches-en-or",
+ "category": "vetements",
+ "name": {
+  "fr": "En or",
+  "en": "Gold"
+ },
+ "full_name": {
+  "fr": "Broches — En or",
+  "en": "Brooches — Gold"
+ },
+ "group": [
+  {
+   "fr": "Broches",
+   "en": "Brooches"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "45 po",
+   "en": "45gp"
+  },
+  "min_cp": 4500,
+  "max_cp": 4500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 111
+ }
+}

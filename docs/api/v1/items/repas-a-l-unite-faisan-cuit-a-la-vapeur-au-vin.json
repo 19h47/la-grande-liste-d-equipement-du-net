@@ -1,0 +1,38 @@
+{
+ "id": "repas-a-l-unite-faisan-cuit-a-la-vapeur-au-vin",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Faisan (cuit à la vapeur au vin)",
+  "en": "Pheasant (steamed with wine)"
+ },
+ "full_name": {
+  "fr": "Repas (à l'unité) — Faisan (cuit à la vapeur au vin)",
+  "en": "Meals (individual) — Pheasant (steamed with wine)"
+ },
+ "group": [
+  {
+   "fr": "Repas (à l'unité)",
+   "en": "Meals (individual)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 388
+ }
+}

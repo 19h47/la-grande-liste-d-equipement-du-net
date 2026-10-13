@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-cors-et-trompettes-cor-de-postillon",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Cor de postillon",
+  "en": "Posthorn"
+ },
+ "full_name": {
+  "fr": "Famille des cors et trompettes — Cor de postillon",
+  "en": "Horn/Trumpet Family — Posthorn"
+ },
+ "group": [
+  {
+   "fr": "Famille des cors et trompettes",
+   "en": "Horn/Trumpet Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Cor de postillon : petit cor sans pistons dont les courriers postaux annonçaient leur arrivée."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3400
+ }
+}

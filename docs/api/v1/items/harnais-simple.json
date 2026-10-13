@@ -1,0 +1,38 @@
+{
+ "id": "harnais-simple",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Simple",
+  "en": "single"
+ },
+ "full_name": {
+  "fr": "Harnais — Simple",
+  "en": "Harness — single"
+ },
+ "group": [
+  {
+   "fr": "Harnais",
+   "en": "Harness"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1058
+ }
+}

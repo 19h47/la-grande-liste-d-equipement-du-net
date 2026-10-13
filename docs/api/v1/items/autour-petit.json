@@ -1,0 +1,30 @@
+{
+ "id": "autour-petit",
+ "category": "animaux",
+ "name": {
+  "fr": "Autour, petit",
+  "en": "Hawk, Small"
+ },
+ "full_name": {
+  "fr": "Autour, petit",
+  "en": "Hawk, Small"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "18 po",
+   "en": "18gp"
+  },
+  "min_cp": 1800,
+  "max_cp": 1800,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1670
+ }
+}

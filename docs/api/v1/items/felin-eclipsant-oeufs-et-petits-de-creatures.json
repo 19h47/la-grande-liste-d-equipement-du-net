@@ -1,0 +1,32 @@
+{
+ "id": "felin-eclipsant-oeufs-et-petits-de-creatures",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Félin éclipsant",
+  "en": "Displacer beast"
+ },
+ "full_name": {
+  "fr": "Félin éclipsant",
+  "en": "Displacer beast"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "6 000 po",
+   "en": "6,000gp"
+  },
+  "min_cp": 600000,
+  "max_cp": 600000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Félin éclipsant : grand félin à six pattes et deux tentacules, dont l'image apparaît décalée de sa position réelle."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1501
+ }
+}

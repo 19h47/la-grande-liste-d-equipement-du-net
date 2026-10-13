@@ -1,0 +1,33 @@
+{
+ "id": "fromage-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Fromage, la livre",
+  "en": "Cheese, per lbs"
+ },
+ "full_name": {
+  "fr": "Fromage, la livre",
+  "en": "Cheese, per lbs"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 518
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "pinceau-moyen",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "Moyen",
+  "en": "Medium"
+ },
+ "full_name": {
+  "fr": "Pinceau — Moyen",
+  "en": "Brush, Paint — Medium"
+ },
+ "group": [
+  {
+   "fr": "Pinceau",
+   "en": "Brush, Paint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1944
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "jarretieres",
+ "category": "vetements",
+ "name": {
+  "fr": "Jarretières",
+  "en": "Hose Supporter"
+ },
+ "full_name": {
+  "fr": "Jarretières",
+  "en": "Hose Supporter"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Jarretières : liens ou rubans serrés autour de la jambe pour maintenir les bas ou les chausses."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 197
+ }
+}

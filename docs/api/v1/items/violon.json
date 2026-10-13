@@ -1,0 +1,33 @@
+{
+ "id": "violon",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Violon",
+  "en": "Violin"
+ },
+ "full_name": {
+  "fr": "Violon",
+  "en": "Violin"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "65 po",
+   "en": "65gp"
+  },
+  "min_cp": 6500,
+  "max_cp": 6500,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3437
+ }
+}

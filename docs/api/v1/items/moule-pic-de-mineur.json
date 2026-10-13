@@ -1,0 +1,39 @@
+{
+ "id": "moule-pic-de-mineur",
+ "category": "outils",
+ "name": {
+  "fr": "De mineur",
+  "en": "Mining"
+ },
+ "full_name": {
+  "fr": "Moule — Pic — De mineur",
+  "en": "Mold — Pick — Mining"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Pic",
+   "en": "Pick"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2565
+ }
+}

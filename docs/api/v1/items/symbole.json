@@ -1,0 +1,32 @@
+{
+ "id": "symbole",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Symbole",
+  "en": "Symbol"
+ },
+ "full_name": {
+  "fr": "Symbole",
+  "en": "Symbol"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 000 po par niveau du lanceur de sorts",
+   "en": "1,000gp per level of the caster"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Symbole : rune magique dont la vue déclenche un effet puissant (mort, terreur, sommeil, folie…) sur ceux qui la regardent."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3248
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "id": "armes-a-feu-a-rouet-pistolet-de-ceinture",
+ "category": "armes",
+ "name": {
+  "fr": "Pistolet de ceinture",
+  "en": "Belt pistol"
+ },
+ "full_name": {
+  "fr": "Armes à feu — À rouet — Pistolet de ceinture",
+  "en": "Firearms — Wheellock — Belt pistol"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "À rouet",
+   "en": "Wheellock"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "À rouet : platine où une roue d'acier frotte un morceau de pyrite pour produire l'étincelle."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3589
+ }
+}

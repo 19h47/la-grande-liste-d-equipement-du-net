@@ -1,0 +1,39 @@
+{
+ "id": "moule-beche-de-plantation",
+ "category": "outils",
+ "name": {
+  "fr": "De plantation",
+  "en": "Planting"
+ },
+ "full_name": {
+  "fr": "Moule — Bêche — De plantation",
+  "en": "Mold — Spade — Planting"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Bêche",
+   "en": "Spade"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2589
+ }
+}

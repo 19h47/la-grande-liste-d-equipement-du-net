@@ -1,0 +1,35 @@
+{
+ "id": "charrette-en-bois-essieu-en-acier-charge-max-250-livres",
+ "category": "transports",
+ "name": {
+  "fr": "En bois, essieu en acier, charge max. 250 livres",
+  "en": "wood w/ steel axel, limit 250 lbs"
+ },
+ "full_name": {
+  "fr": "Charrette — En bois, essieu en acier, charge max. 250 livres",
+  "en": "Cart — wood w/ steel axel, limit 250 lbs"
+ },
+ "group": [
+  {
+   "fr": "Charrette",
+   "en": "Cart"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 956
+ }
+}

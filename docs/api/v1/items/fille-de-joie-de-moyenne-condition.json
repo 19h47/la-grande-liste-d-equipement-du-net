@@ -1,0 +1,35 @@
+{
+ "id": "fille-de-joie-de-moyenne-condition",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "De moyenne condition",
+  "en": "Middle Class"
+ },
+ "full_name": {
+  "fr": "Fille de joie — De moyenne condition",
+  "en": "Lady of the Evening — Middle Class"
+ },
+ "group": [
+  {
+   "fr": "Fille de joie",
+   "en": "Lady of the Evening"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2407
+ }
+}

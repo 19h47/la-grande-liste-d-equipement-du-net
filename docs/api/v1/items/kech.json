@@ -1,0 +1,32 @@
+{
+ "id": "kech",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Kech",
+  "en": "Kech"
+ },
+ "full_name": {
+  "fr": "Kech",
+  "en": "Kech"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "550 po",
+   "en": "550gp"
+  },
+  "min_cp": 55000,
+  "max_cp": 55000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Kech : humanoïde arboricole maléfique, d'allure simiesque, qui tend des embuscades depuis les arbres."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1528
+ }
+}

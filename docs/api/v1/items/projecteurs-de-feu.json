@@ -1,0 +1,33 @@
+{
+ "id": "projecteurs-de-feu",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Projecteurs de feu",
+  "en": "Fire Projectors"
+ },
+ "full_name": {
+  "fr": "Projecteurs de feu",
+  "en": "Fire Projectors"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": {
+  "text": "225",
+  "lb": 225
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3493
+ }
+}

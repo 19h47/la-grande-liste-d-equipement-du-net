@@ -1,0 +1,38 @@
+{
+ "id": "caisses-grande",
+ "category": "contenants",
+ "name": {
+  "fr": "Grande",
+  "en": "Large"
+ },
+ "full_name": {
+  "fr": "Caisses — Grande",
+  "en": "Crates — Large"
+ },
+ "group": [
+  {
+   "fr": "Caisses",
+   "en": "Crates"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1369
+ }
+}

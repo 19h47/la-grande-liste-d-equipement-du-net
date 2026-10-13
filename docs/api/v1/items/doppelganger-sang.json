@@ -1,0 +1,37 @@
+{
+ "id": "doppelganger-sang",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Sang",
+  "en": "Blood"
+ },
+ "full_name": {
+  "fr": "Doppelganger — Sang",
+  "en": "Doppelganger — Blood"
+ },
+ "group": [
+  {
+   "fr": "Doppelganger",
+   "en": "Doppelganger"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Doppelganger : créature humanoïde capable de prendre l'apparence de n'importe quelle personne."
+  ]
+ },
+ "source": {
+  "table": "VI",
+  "line": 908
+ }
+}

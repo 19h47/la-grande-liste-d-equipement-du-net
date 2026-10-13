@@ -1,0 +1,38 @@
+{
+ "id": "ardoise-4-x-6-pieds",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "4 x 6 pieds",
+  "en": "4 x 6 ft"
+ },
+ "full_name": {
+  "fr": "Ardoise — 4 x 6 pieds",
+  "en": "Slate — 4 x 6 ft"
+ },
+ "group": [
+  {
+   "fr": "Ardoise",
+   "en": "Slate"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "16",
+  "lb": 16
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1880
+ }
+}

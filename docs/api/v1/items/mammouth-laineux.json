@@ -1,0 +1,30 @@
+{
+ "id": "mammouth-laineux",
+ "category": "animaux",
+ "name": {
+  "fr": "Mammouth laineux",
+  "en": "Wooly Mammoth"
+ },
+ "full_name": {
+  "fr": "Mammouth laineux",
+  "en": "Wooly Mammoth"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "27500 po",
+   "en": "27500gp"
+  },
+  "min_cp": 2750000,
+  "max_cp": 2750000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1700
+ }
+}

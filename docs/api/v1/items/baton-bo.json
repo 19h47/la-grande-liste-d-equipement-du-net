@@ -1,0 +1,35 @@
+{
+ "id": "baton-bo",
+ "category": "armes",
+ "name": {
+  "fr": "Bâton bo",
+  "en": "Bo stick"
+ },
+ "full_name": {
+  "fr": "Bâton bo",
+  "en": "Bo stick"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Bâton bo : long bâton de combat japonais, d'environ 1,80 m."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3531
+ }
+}

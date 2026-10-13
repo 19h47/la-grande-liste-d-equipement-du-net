@@ -1,0 +1,35 @@
+{
+ "id": "herminette",
+ "category": "armes",
+ "name": {
+  "fr": "Herminette",
+  "en": "Adze"
+ },
+ "full_name": {
+  "fr": "Herminette",
+  "en": "Adze"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Herminette : outil de charpentier à lame perpendiculaire au manche, servant à dégrossir le bois."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3520
+ }
+}

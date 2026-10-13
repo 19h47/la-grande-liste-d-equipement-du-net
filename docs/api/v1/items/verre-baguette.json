@@ -1,0 +1,35 @@
+{
+ "id": "verre-baguette",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Baguette",
+  "en": "Rod"
+ },
+ "full_name": {
+  "fr": "Verre — Baguette",
+  "en": "Glass — Rod"
+ },
+ "group": [
+  {
+   "fr": "Verre",
+   "en": "Glass"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2088
+ }
+}

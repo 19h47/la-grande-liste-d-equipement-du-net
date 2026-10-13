@@ -1,0 +1,38 @@
+{
+ "id": "cache-nez-en-laine",
+ "category": "vetements",
+ "name": {
+  "fr": "En laine",
+  "en": "Wool"
+ },
+ "full_name": {
+  "fr": "Cache-nez — En laine",
+  "en": "Mufflers — Wool"
+ },
+ "group": [
+  {
+   "fr": "Cache-nez",
+   "en": "Mufflers"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 234
+ }
+}

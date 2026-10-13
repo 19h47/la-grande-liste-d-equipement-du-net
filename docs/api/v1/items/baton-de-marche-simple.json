@@ -1,0 +1,38 @@
+{
+ "id": "baton-de-marche-simple",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Simple",
+  "en": "Basic"
+ },
+ "full_name": {
+  "fr": "Bâton de marche — Simple",
+  "en": "Walking staff — Basic"
+ },
+ "group": [
+  {
+   "fr": "Bâton de marche",
+   "en": "Walking staff"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1801
+ }
+}

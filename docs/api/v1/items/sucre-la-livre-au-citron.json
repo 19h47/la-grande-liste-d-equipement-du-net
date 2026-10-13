@@ -1,0 +1,38 @@
+{
+ "id": "sucre-la-livre-au-citron",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Au citron",
+  "en": "Lemon"
+ },
+ "full_name": {
+  "fr": "Sucre, la livre — Au citron",
+  "en": "Sugar, per lb — Lemon"
+ },
+ "group": [
+  {
+   "fr": "Sucre, la livre",
+   "en": "Sugar, per lb"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 767
+ }
+}

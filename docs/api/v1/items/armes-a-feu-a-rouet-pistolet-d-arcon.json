@@ -1,0 +1,45 @@
+{
+ "id": "armes-a-feu-a-rouet-pistolet-d-arcon",
+ "category": "armes",
+ "name": {
+  "fr": "Pistolet d'arçon",
+  "en": "Horse pistol"
+ },
+ "full_name": {
+  "fr": "Armes à feu — À rouet — Pistolet d'arçon",
+  "en": "Firearms — Wheellock — Horse pistol"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "À rouet",
+   "en": "Wheellock"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "60 po",
+   "en": "60gp"
+  },
+  "min_cp": 6000,
+  "max_cp": 6000,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "À rouet : platine où une roue d'acier frotte un morceau de pyrite pour produire l'étincelle.",
+   "Pistolet d'arçon : gros pistolet de cavalier, porté dans des fontes fixées à la selle."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3590
+ }
+}

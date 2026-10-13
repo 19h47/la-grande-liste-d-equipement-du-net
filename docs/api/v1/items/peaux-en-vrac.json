@@ -1,0 +1,30 @@
+{
+ "id": "peaux-en-vrac",
+ "category": "peaux",
+ "name": {
+  "fr": "Peaux en vrac",
+  "en": "Bulk hides"
+ },
+ "full_name": {
+  "fr": "Peaux en vrac",
+  "en": "Bulk hides"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po/DV",
+   "en": "1gp/HD"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "V",
+  "line": 871
+ }
+}

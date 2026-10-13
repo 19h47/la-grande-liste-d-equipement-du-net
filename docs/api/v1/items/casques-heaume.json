@@ -1,0 +1,40 @@
+{
+ "id": "casques-heaume",
+ "category": "armures",
+ "name": {
+  "fr": "Heaume",
+  "en": "Great Helm"
+ },
+ "full_name": {
+  "fr": "Casques — Heaume",
+  "en": "Helmet — Great Helm"
+ },
+ "group": [
+  {
+   "fr": "Casques",
+   "en": "Helmet"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "80",
+  "lb": 80
+ },
+ "notes": {
+  "fr": [
+   "Heaume : grand casque cylindrique enveloppant toute la tête."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3796
+ }
+}

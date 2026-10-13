@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-guitares-shamisen",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Shamisen",
+  "en": "Shamisen"
+ },
+ "full_name": {
+  "fr": "Famille des guitares — Shamisen",
+  "en": "Guitar Family — Shamisen"
+ },
+ "group": [
+  {
+   "fr": "Famille des guitares",
+   "en": "Guitar Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Shamisen : luth japonais à long manche et à trois cordes, joué avec un grand plectre."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3383
+ }
+}

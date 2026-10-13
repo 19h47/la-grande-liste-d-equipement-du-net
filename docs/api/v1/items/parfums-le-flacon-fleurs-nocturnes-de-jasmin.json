@@ -1,0 +1,38 @@
+{
+ "id": "parfums-le-flacon-fleurs-nocturnes-de-jasmin",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Fleurs nocturnes de jasmin",
+  "en": "Jasmine Night Flowers"
+ },
+ "full_name": {
+  "fr": "Parfums, le flacon — Fleurs nocturnes de jasmin",
+  "en": "Perfumes, per vial — Jasmine Night Flowers"
+ },
+ "group": [
+  {
+   "fr": "Parfums, le flacon",
+   "en": "Perfumes, per vial"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3058
+ }
+}

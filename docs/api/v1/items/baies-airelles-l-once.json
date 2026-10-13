@@ -1,0 +1,38 @@
+{
+ "id": "baies-airelles-l-once",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Airelles, l'once",
+  "en": "Huckleberries, per oz"
+ },
+ "full_name": {
+  "fr": "Baies — Airelles, l'once",
+  "en": "Berries — Huckleberries, per oz"
+ },
+ "group": [
+  {
+   "fr": "Baies",
+   "en": "Berries"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 470
+ }
+}

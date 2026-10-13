@@ -1,0 +1,38 @@
+{
+ "id": "armes-de-pixie-fleche-de-guerre",
+ "category": "armes",
+ "name": {
+  "fr": "Flèche de guerre",
+  "en": "War Arrow"
+ },
+ "full_name": {
+  "fr": "Armes de pixie — Flèche de guerre",
+  "en": "Pixie Weapons — War Arrow"
+ },
+ "group": [
+  {
+   "fr": "Armes de pixie",
+   "en": "Pixie Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po/2",
+   "en": "1gp/2"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3668
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "tympanons-cymbalum",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Cymbalum",
+  "en": "Cimbalom"
+ },
+ "full_name": {
+  "fr": "Tympanons — Cymbalum",
+  "en": "Dulcimers — Cimbalom"
+ },
+ "group": [
+  {
+   "fr": "Tympanons",
+   "en": "Dulcimers"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "55 po",
+   "en": "55gp"
+  },
+  "min_cp": 5500,
+  "max_cp": 5500,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": [
+   "Tympanons : cithares sur caisse dont les cordes sont frappées par de petits marteaux.",
+   "Cymbalum : grand tympanon sur pieds, typique de la musique hongroise."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3352
+ }
+}

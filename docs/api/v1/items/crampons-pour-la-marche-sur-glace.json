@@ -1,0 +1,33 @@
+{
+ "id": "crampons-pour-la-marche-sur-glace",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Crampons (pour la marche sur glace)",
+  "en": "Crampons (Ice Walking)"
+ },
+ "full_name": {
+  "fr": "Crampons (pour la marche sur glace)",
+  "en": "Crampons (Ice Walking)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1772
+ }
+}

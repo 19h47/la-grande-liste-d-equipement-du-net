@@ -1,0 +1,40 @@
+{
+ "id": "bloodkeep",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Bloodkeep",
+  "en": "Bloodkeep"
+ },
+ "full_name": {
+  "fr": "Bloodkeep",
+  "en": "Bloodkeep"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Bloodkeep : plante côtière du Net Book of Herbs dont les feuilles arrêtent aussitôt un saignement."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2734
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "turbith-de-serapion",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Turbith de Sérapion",
+  "en": "Serapias Turbith"
+ },
+ "full_name": {
+  "fr": "Turbith de Sérapion",
+  "en": "Serapias Turbith"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2823
+ }
+}

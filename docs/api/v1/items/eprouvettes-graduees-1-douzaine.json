@@ -1,0 +1,33 @@
+{
+ "id": "eprouvettes-graduees-1-douzaine",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Éprouvettes graduées, 1 douzaine",
+  "en": "Graduate, 1 dozen"
+ },
+ "full_name": {
+  "fr": "Éprouvettes graduées, 1 douzaine",
+  "en": "Graduate, 1 dozen"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2991
+ }
+}

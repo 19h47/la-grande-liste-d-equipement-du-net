@@ -1,0 +1,35 @@
+{
+ "id": "rebec",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Rebec",
+  "en": "Rebec"
+ },
+ "full_name": {
+  "fr": "Rebec",
+  "en": "Rebec"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "55 po",
+   "en": "55gp"
+  },
+  "min_cp": 5500,
+  "max_cp": 5500,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Rebec : petite vièle médiévale en forme de poire, à trois cordes."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3427
+ }
+}

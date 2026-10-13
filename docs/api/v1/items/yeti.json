@@ -1,0 +1,30 @@
+{
+ "id": "yeti",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Yéti",
+  "en": "Yeti"
+ },
+ "full_name": {
+  "fr": "Yéti",
+  "en": "Yeti"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "580 po",
+   "en": "580gp"
+  },
+  "min_cp": 58000,
+  "max_cp": 58000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1548
+ }
+}

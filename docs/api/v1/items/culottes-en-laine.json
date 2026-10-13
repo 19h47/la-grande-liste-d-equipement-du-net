@@ -1,0 +1,40 @@
+{
+ "id": "culottes-en-laine",
+ "category": "vetements",
+ "name": {
+  "fr": "En laine",
+  "en": "Woolen"
+ },
+ "full_name": {
+  "fr": "Culottes — En laine",
+  "en": "Breeches — Woolen"
+ },
+ "group": [
+  {
+   "fr": "Culottes",
+   "en": "Breeches"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Culottes : au sens ancien, vêtement masculin couvrant le corps de la taille aux genoux."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 105
+ }
+}

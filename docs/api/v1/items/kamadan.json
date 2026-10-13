@@ -1,0 +1,32 @@
+{
+ "id": "kamadan",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Kamadan",
+  "en": "Kamadan"
+ },
+ "full_name": {
+  "fr": "Kamadan",
+  "en": "Kamadan"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "4 200 po",
+   "en": "4,200gp"
+  },
+  "min_cp": 420000,
+  "max_cp": 420000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Kamadan : grand félin semblable à un léopard, dont les épaules portent des serpents."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1527
+ }
+}

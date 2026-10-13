@@ -1,0 +1,30 @@
+{
+ "id": "tunnel-souterrain-5-pieds-de-large-8-pieds-de-haut-10-pieds-de-long",
+ "category": "constructions",
+ "name": {
+  "fr": "Tunnel souterrain, 5 pieds de large, 8 pieds de haut, 10 pieds de long",
+  "en": "Tunnel, underground, 5'w 8'h 10'l"
+ },
+ "full_name": {
+  "fr": "Tunnel souterrain, 5 pieds de large, 8 pieds de haut, 10 pieds de long",
+  "en": "Tunnel, underground, 5'w 8'h 10'l"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3301
+ }
+}

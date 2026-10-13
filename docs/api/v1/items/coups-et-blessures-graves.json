@@ -1,0 +1,30 @@
+{
+ "id": "coups-et-blessures-graves",
+ "category": "amendes-et-peines",
+ "name": {
+  "fr": "Coups et blessures graves",
+  "en": "Serious Assault"
+ },
+ "full_name": {
+  "fr": "Coups et blessures graves",
+  "en": "Serious Assault"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 000 po ou 3 ans",
+   "en": "5,000gp or 3years"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVI",
+  "line": 3186
+ }
+}

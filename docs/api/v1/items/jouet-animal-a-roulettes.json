@@ -1,0 +1,33 @@
+{
+ "id": "jouet-animal-a-roulettes",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Jouet, animal à roulettes",
+  "en": "Toys, Animal on Wheels"
+ },
+ "full_name": {
+  "fr": "Jouet, animal à roulettes",
+  "en": "Toys, Animal on Wheels"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3144
+ }
+}

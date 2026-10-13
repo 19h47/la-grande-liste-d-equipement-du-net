@@ -1,0 +1,38 @@
+{
+ "id": "marmelades-la-pinte-de-gingembre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De gingembre",
+  "en": "ginger"
+ },
+ "full_name": {
+  "fr": "Marmelades, la pinte — De gingembre",
+  "en": "Marmalades, per pint — ginger"
+ },
+ "group": [
+  {
+   "fr": "Marmelades, la pinte",
+   "en": "Marmalades, per pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 638
+ }
+}

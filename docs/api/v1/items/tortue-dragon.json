@@ -1,0 +1,40 @@
+{
+ "id": "tortue-dragon",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Tortue-dragon",
+  "en": "Dragon turtle"
+ },
+ "full_name": {
+  "fr": "Tortue-dragon",
+  "en": "Dragon turtle"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "comme un dragon",
+   "en": "as dragon"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "comme un dragon",
+   "en": "as dragon"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Tortue-dragon : gigantesque tortue marine à tête de dragon, qui crache un nuage de vapeur brûlante."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1505
+ }
+}

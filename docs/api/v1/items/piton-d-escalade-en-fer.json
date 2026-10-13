@@ -1,0 +1,38 @@
+{
+ "id": "piton-d-escalade-en-fer",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "En fer",
+  "en": "Iron"
+ },
+ "full_name": {
+  "fr": "Piton d'escalade — En fer",
+  "en": "Piton, climbing — Iron"
+ },
+ "group": [
+  {
+   "fr": "Piton d'escalade",
+   "en": "Piton, climbing"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1784
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "casaques-en-coton",
+ "category": "vetements",
+ "name": {
+  "fr": "En coton",
+  "en": "Cotton"
+ },
+ "full_name": {
+  "fr": "Casaques — En coton",
+  "en": "Jerkins — Cotton"
+ },
+ "group": [
+  {
+   "fr": "Casaques",
+   "en": "Jerkins"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 206
+ }
+}

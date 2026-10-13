@@ -1,0 +1,30 @@
+{
+ "id": "teleportation",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Téléportation",
+  "en": "Teleport"
+ },
+ "full_name": {
+  "fr": "Téléportation",
+  "en": "Teleport"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 000 po par personne",
+   "en": "2,000gp per person"
+  },
+  "min_cp": 200000,
+  "max_cp": 200000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3249
+ }
+}

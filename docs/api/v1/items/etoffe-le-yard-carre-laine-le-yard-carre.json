@@ -1,0 +1,38 @@
+{
+ "id": "etoffe-le-yard-carre-laine-le-yard-carre",
+ "category": "tissus",
+ "name": {
+  "fr": "Laine, le yard carré",
+  "en": "Wool,,per sq. yard"
+ },
+ "full_name": {
+  "fr": "Étoffe, le yard carré — Laine, le yard carré",
+  "en": "Cloth, per sq yard — Wool,,per sq. yard"
+ },
+ "group": [
+  {
+   "fr": "Étoffe, le yard carré",
+   "en": "Cloth, per sq yard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pc",
+   "en": "8cp"
+  },
+  "min_cp": 8,
+  "max_cp": 8,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1734
+ }
+}

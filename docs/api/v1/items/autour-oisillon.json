@@ -1,0 +1,30 @@
+{
+ "id": "autour-oisillon",
+ "category": "animaux",
+ "name": {
+  "fr": "Autour, oisillon",
+  "en": "Hawk, Fledgling"
+ },
+ "full_name": {
+  "fr": "Autour, oisillon",
+  "en": "Hawk, Fledgling"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "25 pc",
+   "en": "25cp"
+  },
+  "min_cp": 25,
+  "max_cp": 25,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1669
+ }
+}

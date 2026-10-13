@@ -1,0 +1,38 @@
+{
+ "id": "carafe-en-verre-contenance-32-onces",
+ "category": "contenants",
+ "name": {
+  "fr": "En verre, contenance 32 onces",
+  "en": "Glass, hold 32 oz"
+ },
+ "full_name": {
+  "fr": "Carafe — En verre, contenance 32 onces",
+  "en": "Carafe — Glass, hold 32 oz"
+ },
+ "group": [
+  {
+   "fr": "Carafe",
+   "en": "Carafe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1347
+ }
+}

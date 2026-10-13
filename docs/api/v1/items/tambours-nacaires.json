@@ -1,0 +1,40 @@
+{
+ "id": "tambours-nacaires",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Nacaires",
+  "en": "Nakers"
+ },
+ "full_name": {
+  "fr": "Tambours — Nacaires",
+  "en": "Drums — Nakers"
+ },
+ "group": [
+  {
+   "fr": "Tambours",
+   "en": "Drums"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": [
+   "Nacaires : petites timbales médiévales jouées par paire, d'origine arabe."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3345
+ }
+}

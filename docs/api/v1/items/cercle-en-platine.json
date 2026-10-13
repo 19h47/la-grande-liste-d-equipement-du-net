@@ -1,0 +1,38 @@
+{
+ "id": "cercle-en-platine",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En platine",
+  "en": "platinum"
+ },
+ "full_name": {
+  "fr": "Cercle — En platine",
+  "en": "Circle — platinum"
+ },
+ "group": [
+  {
+   "fr": "Cercle",
+   "en": "Circle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2935
+ }
+}

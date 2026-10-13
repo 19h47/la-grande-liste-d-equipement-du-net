@@ -1,0 +1,35 @@
+{
+ "id": "aconit-tue-loup-le-brin",
+ "category": "epices",
+ "name": {
+  "fr": "Aconit tue-loup, le brin",
+  "en": "Wolvesbane, per sprig"
+ },
+ "full_name": {
+  "fr": "Aconit tue-loup, le brin",
+  "en": "Wolvesbane, per sprig"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Aconit tue-loup : plante très toxique à fleurs jaunes, réputée en AD&D repousser les lycanthropes."
+  ]
+ },
+ "source": {
+  "table": "IV",
+  "line": 860
+ }
+}

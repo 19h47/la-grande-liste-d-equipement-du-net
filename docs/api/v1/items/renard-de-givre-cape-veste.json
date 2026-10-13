@@ -1,0 +1,37 @@
+{
+ "id": "renard-de-givre-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Renard de givre — Cape, veste",
+  "en": "Fox, hoar — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Renard de givre",
+   "en": "Fox, hoar"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Renard de givre : renard à fourrure gris argenté d'AD&D, capable de produire un cône de froid (Fiend Folio)."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1145
+ }
+}

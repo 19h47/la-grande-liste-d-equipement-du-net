@@ -1,0 +1,35 @@
+{
+ "id": "moule-manche-de-fleau",
+ "category": "outils",
+ "name": {
+  "fr": "Manche de fléau",
+  "en": "Flail rod"
+ },
+ "full_name": {
+  "fr": "Moule — Manche de fléau",
+  "en": "Mold — Flail rod"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2542
+ }
+}

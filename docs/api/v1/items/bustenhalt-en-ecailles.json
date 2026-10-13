@@ -1,0 +1,40 @@
+{
+ "id": "bustenhalt-en-ecailles",
+ "category": "armures",
+ "name": {
+  "fr": "En écailles",
+  "en": "Scale mail"
+ },
+ "full_name": {
+  "fr": "Bustenhalt — En écailles",
+  "en": "Bustenhalt — Scale mail"
+ },
+ "group": [
+  {
+   "fr": "Bustenhalt",
+   "en": "Bustenhalt"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "17 po",
+   "en": "17gp"
+  },
+  "min_cp": 1700,
+  "max_cp": 1700,
+  "plus": false
+ },
+ "weight": {
+  "text": "9",
+  "lb": 9
+ },
+ "notes": {
+  "fr": [
+   "Bustenhalt : protection de poitrine féminine en forme de soutien-gorge (de l'allemand « Büstenhalter »)."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3764
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "buste",
+ "category": "oeuvres-d-art",
+ "name": {
+  "fr": "Buste",
+  "en": "Bust"
+ },
+ "full_name": {
+  "fr": "Buste",
+  "en": "Bust"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXX",
+  "line": 3458
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "hache-de-pierre",
+ "category": "armes",
+ "name": {
+  "fr": "Hache de pierre",
+  "en": "Axe, stone"
+ },
+ "full_name": {
+  "fr": "Hache de pierre",
+  "en": "Axe, stone"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3523
+ }
+}

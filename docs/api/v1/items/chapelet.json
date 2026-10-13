@@ -1,0 +1,33 @@
+{
+ "id": "chapelet",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Chapelet",
+  "en": "Prayer Beads"
+ },
+ "full_name": {
+  "fr": "Chapelet",
+  "en": "Prayer Beads"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3092
+ }
+}

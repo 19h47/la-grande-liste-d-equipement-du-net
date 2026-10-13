@@ -1,0 +1,37 @@
+{
+ "id": "aurumvorax-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Aurumvorax — Cape, veste",
+  "en": "Aurumvorax — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Aurumvorax",
+   "en": "Aurumvorax"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "400 po",
+   "en": "400gp"
+  },
+  "min_cp": 40000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Aurumvorax : petit carnassier à huit pattes et fourrure dorée qui se nourrit d'or (AD&D, Monster Manual II)."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1090
+ }
+}

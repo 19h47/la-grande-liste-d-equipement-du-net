@@ -1,0 +1,40 @@
+{
+ "id": "lampe-tempete-en-argent",
+ "category": "eclairage",
+ "name": {
+  "fr": "En argent",
+  "en": "Silver"
+ },
+ "full_name": {
+  "fr": "Lampe-tempête — En argent",
+  "en": "Hurricane lamp — Silver"
+ },
+ "group": [
+  {
+   "fr": "Lampe-tempête",
+   "en": "Hurricane lamp"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Lampe-tempête : lampe dont la flamme est protégée par un verre, conçue pour résister au vent."
+  ]
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2669
+ }
+}

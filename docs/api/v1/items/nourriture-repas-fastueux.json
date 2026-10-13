@@ -1,0 +1,33 @@
+{
+ "id": "nourriture-repas-fastueux",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Nourriture, repas fastueux",
+  "en": "Food, Rich Meal"
+ },
+ "full_name": {
+  "fr": "Nourriture, repas fastueux",
+  "en": "Food, Rich Meal"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 359
+ }
+}

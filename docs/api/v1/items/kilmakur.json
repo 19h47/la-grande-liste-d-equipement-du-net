@@ -1,0 +1,40 @@
+{
+ "id": "kilmakur",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Kilmakur",
+  "en": "Kilmakur"
+ },
+ "full_name": {
+  "fr": "Kilmakur",
+  "en": "Kilmakur"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "65 po",
+   "en": "65gp"
+  },
+  "min_cp": 6500,
+  "max_cp": 6500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Kilmakur : plante du Net Book of Herbs dont les racines infusées protègent du feu pendant quelques heures."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2789
+ }
+}

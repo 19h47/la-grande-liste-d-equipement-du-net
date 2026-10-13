@@ -1,0 +1,35 @@
+{
+ "id": "moule-fer-de-hache",
+ "category": "outils",
+ "name": {
+  "fr": "Fer de hache",
+  "en": "Axe head"
+ },
+ "full_name": {
+  "fr": "Moule — Fer de hache",
+  "en": "Mold — Axe head"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2523
+ }
+}

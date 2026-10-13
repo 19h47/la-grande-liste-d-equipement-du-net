@@ -1,0 +1,35 @@
+{
+ "id": "lamellaire-metallique",
+ "category": "armures",
+ "name": {
+  "fr": "Lamellaire métallique",
+  "en": "Metal Lamellar"
+ },
+ "full_name": {
+  "fr": "Lamellaire métallique",
+  "en": "Metal Lamellar"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "250 po",
+   "en": "250gp"
+  },
+  "min_cp": 25000,
+  "max_cp": 25000,
+  "plus": false
+ },
+ "weight": {
+  "text": "35",
+  "lb": 35
+ },
+ "notes": {
+  "fr": [
+   "Lamellaire métallique : armure de petites plaquettes de métal lacées entre elles en rangées."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3813
+ }
+}

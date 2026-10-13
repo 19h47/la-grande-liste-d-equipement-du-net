@@ -1,0 +1,33 @@
+{
+ "id": "selle-de-tarn",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Selle de tarn",
+  "en": "Saddle, Tarn"
+ },
+ "full_name": {
+  "fr": "Selle de tarn",
+  "en": "Saddle, Tarn"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "30",
+  "lb": 30
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1071
+ }
+}

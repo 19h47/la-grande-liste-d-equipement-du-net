@@ -1,0 +1,35 @@
+{
+ "id": "emeraude-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Émeraude — De la taille d'un raisin",
+  "en": "Emerald — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Émeraude",
+   "en": "Emerald"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "800 po",
+   "en": "800gp"
+  },
+  "min_cp": 80000,
+  "max_cp": 80000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2075
+ }
+}

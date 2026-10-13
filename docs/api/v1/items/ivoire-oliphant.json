@@ -1,0 +1,37 @@
+{
+ "id": "ivoire-oliphant",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Oliphant",
+  "en": "Oliphant"
+ },
+ "full_name": {
+  "fr": "Ivoire — Oliphant",
+  "en": "Ivory — Oliphant"
+ },
+ "group": [
+  {
+   "fr": "Ivoire",
+   "en": "Ivory"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100-400 po",
+   "en": "100-400gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Oliphant : éléphant géant ; le nom est repris de Tolkien, qui désigne ainsi les mûmakil du Seigneur des anneaux."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2123
+ }
+}

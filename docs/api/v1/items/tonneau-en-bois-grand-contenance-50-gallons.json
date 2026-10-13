@@ -1,0 +1,38 @@
+{
+ "id": "tonneau-en-bois-grand-contenance-50-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En bois, grand, contenance 50 gallons",
+  "en": "Wooden, large, holds 50 gallons"
+ },
+ "full_name": {
+  "fr": "Tonneau — En bois, grand, contenance 50 gallons",
+  "en": "Barrel — Wooden, large, holds 50 gallons"
+ },
+ "group": [
+  {
+   "fr": "Tonneau",
+   "en": "Barrel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "50",
+  "lb": 50
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1294
+ }
+}

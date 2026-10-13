@@ -1,0 +1,38 @@
+{
+ "id": "sacoches-de-selle-grandes",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Grandes",
+  "en": "large"
+ },
+ "full_name": {
+  "fr": "Sacoches de selle — Grandes",
+  "en": "Saddle Bags — large"
+ },
+ "group": [
+  {
+   "fr": "Sacoches de selle",
+   "en": "Saddle Bags"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1073
+ }
+}

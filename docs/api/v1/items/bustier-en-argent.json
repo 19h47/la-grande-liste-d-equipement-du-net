@@ -1,0 +1,38 @@
+{
+ "id": "bustier-en-argent",
+ "category": "armures",
+ "name": {
+  "fr": "En argent",
+  "en": "Silver"
+ },
+ "full_name": {
+  "fr": "Bustier — En argent",
+  "en": "Bustier — Silver"
+ },
+ "group": [
+  {
+   "fr": "Bustier",
+   "en": "Bustier"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "weight": {
+  "text": "13",
+  "lb": 13
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3774
+ }
+}

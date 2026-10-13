@@ -1,0 +1,33 @@
+{
+ "id": "armure-de-plates",
+ "category": "armures",
+ "name": {
+  "fr": "Armure de plates",
+  "en": "Plate mail"
+ },
+ "full_name": {
+  "fr": "Armure de plates",
+  "en": "Plate mail"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "600 po",
+   "en": "600gp"
+  },
+  "min_cp": 60000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "weight": {
+  "text": "50",
+  "lb": 50
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3815
+ }
+}

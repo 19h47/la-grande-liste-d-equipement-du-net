@@ -1,0 +1,40 @@
+{
+ "id": "canons-halfelin",
+ "category": "vetements",
+ "name": {
+  "fr": "Halfelin",
+  "en": "Halfling"
+ },
+ "full_name": {
+  "fr": "Canons — Halfelin",
+  "en": "Cannons — Halfling"
+ },
+ "group": [
+  {
+   "fr": "Canons",
+   "en": "Cannons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Canons : ornements de tissu ou de dentelle portés autour du genou, au bas des hauts-de-chausses."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 117
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "necessaire-de-tonte",
+ "category": "outils",
+ "name": {
+  "fr": "Nécessaire de tonte",
+  "en": "Shearing Pack"
+ },
+ "full_name": {
+  "fr": "Nécessaire de tonte",
+  "en": "Shearing Pack"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "16 po",
+   "en": "16gp"
+  },
+  "min_cp": 1600,
+  "max_cp": 1600,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2628
+ }
+}

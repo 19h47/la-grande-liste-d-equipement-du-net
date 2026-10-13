@@ -1,0 +1,40 @@
+{
+ "id": "hydromel-au-miel-la-pinte",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Au miel, la pinte",
+  "en": "Honey, pint"
+ },
+ "full_name": {
+  "fr": "Hydromel — Au miel, la pinte",
+  "en": "Mead — Honey, pint"
+ },
+ "group": [
+  {
+   "fr": "Hydromel",
+   "en": "Mead"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Hydromel : boisson alcoolisée obtenue par fermentation de miel dans de l'eau."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 371
+ }
+}

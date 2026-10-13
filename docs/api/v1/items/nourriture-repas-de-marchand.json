@@ -1,0 +1,33 @@
+{
+ "id": "nourriture-repas-de-marchand",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Nourriture, repas de marchand",
+  "en": "Food, Merchant's Meal"
+ },
+ "full_name": {
+  "fr": "Nourriture, repas de marchand",
+  "en": "Food, Merchant's Meal"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 358
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "chariot-bache",
+ "category": "transports",
+ "name": {
+  "fr": "Bâché",
+  "en": "Closed"
+ },
+ "full_name": {
+  "fr": "Chariot — Bâché",
+  "en": "Wagon — Closed"
+ },
+ "group": [
+  {
+   "fr": "Chariot",
+   "en": "Wagon"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "250 po",
+   "en": "250gp"
+  },
+  "min_cp": 25000,
+  "max_cp": 25000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 1040
+ }
+}

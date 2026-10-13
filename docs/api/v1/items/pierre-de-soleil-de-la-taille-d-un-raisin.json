@@ -1,0 +1,37 @@
+{
+ "id": "pierre-de-soleil-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Pierre de soleil — De la taille d'un raisin",
+  "en": "Sunstone — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Pierre de soleil",
+   "en": "Sunstone"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Pierre de soleil : feldspath à paillettes métalliques orangées qui scintillent à la lumière."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2305
+ }
+}

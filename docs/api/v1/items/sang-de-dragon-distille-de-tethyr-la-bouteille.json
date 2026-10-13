@@ -1,0 +1,40 @@
+{
+ "id": "sang-de-dragon-distille-de-tethyr-la-bouteille",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "La bouteille",
+  "en": "Per Bottle"
+ },
+ "full_name": {
+  "fr": "Sang-de-dragon distillé de Téthyr — La bouteille",
+  "en": "Tethyrian distilled Dragonsblood — Per Bottle"
+ },
+ "group": [
+  {
+   "fr": "Sang-de-dragon distillé de Téthyr",
+   "en": "Tethyrian distilled Dragonsblood"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "33 po",
+   "en": "33gp"
+  },
+  "min_cp": 3300,
+  "max_cp": 3300,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Téthyr : royaume du sud-ouest de Féérune, dans les Royaumes oubliés."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 414
+ }
+}

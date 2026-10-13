@@ -1,0 +1,40 @@
+{
+ "id": "foudres-100-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "100 gallons",
+  "en": "100gal"
+ },
+ "full_name": {
+  "fr": "Foudres — 100 gallons",
+  "en": "Drums — 100gal"
+ },
+ "group": [
+  {
+   "fr": "Foudres",
+   "en": "Drums"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": [
+   "Foudre : très grand tonneau de tonnellerie, de plusieurs centaines de litres."
+  ]
+ },
+ "source": {
+  "table": "XI",
+  "line": 1375
+ }
+}

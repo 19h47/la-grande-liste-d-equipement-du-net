@@ -1,0 +1,38 @@
+{
+ "id": "fil-metallique-le-yard-en-or",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En or",
+  "en": "Gold"
+ },
+ "full_name": {
+  "fr": "Fil métallique, le yard — En or",
+  "en": "Wire, per yrd — Gold"
+ },
+ "group": [
+  {
+   "fr": "Fil métallique, le yard",
+   "en": "Wire, per yrd"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3165
+ }
+}

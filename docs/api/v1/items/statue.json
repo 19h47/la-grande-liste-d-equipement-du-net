@@ -1,0 +1,30 @@
+{
+ "id": "statue",
+ "category": "oeuvres-d-art",
+ "name": {
+  "fr": "Statue",
+  "en": "Statue"
+ },
+ "full_name": {
+  "fr": "Statue",
+  "en": "Statue"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10-1 000 po",
+   "en": "10-1000gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXX",
+  "line": 3466
+ }
+}

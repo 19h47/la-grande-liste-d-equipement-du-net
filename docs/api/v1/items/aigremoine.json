@@ -1,0 +1,40 @@
+{
+ "id": "aigremoine",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Aigremoine",
+  "en": "Agrimony"
+ },
+ "full_name": {
+  "fr": "Aigremoine",
+  "en": "Agrimony"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Aigremoine : plante vivace à épis de fleurs jaunes, astringente, jadis employée contre les maux de gorge et les plaies."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2700
+ }
+}

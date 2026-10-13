@@ -1,0 +1,40 @@
+{
+ "id": "clavicorde",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Clavicorde",
+  "en": "Clavichord"
+ },
+ "full_name": {
+  "fr": "Claviers — Clavicorde",
+  "en": "Keyboard — Clavichord"
+ },
+ "group": [
+  {
+   "fr": "Claviers",
+   "en": "Keyboard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": {
+  "text": "150",
+  "lb": 150
+ },
+ "notes": {
+  "fr": [
+   "Clavicorde : instrument à clavier dont les cordes sont frappées par de petites lames de laiton."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3407
+ }
+}

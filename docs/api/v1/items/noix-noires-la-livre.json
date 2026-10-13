@@ -1,0 +1,33 @@
+{
+ "id": "noix-noires-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Noix noires, la livre",
+  "en": "Walnuts, Black, per lb"
+ },
+ "full_name": {
+  "fr": "Noix noires, la livre",
+  "en": "Walnuts, Black, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 786
+ }
+}

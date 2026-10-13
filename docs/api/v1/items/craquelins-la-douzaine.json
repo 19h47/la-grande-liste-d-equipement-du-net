@@ -1,0 +1,33 @@
+{
+ "id": "craquelins-la-douzaine",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Craquelins, la douzaine",
+  "en": "Crackers, per dozen"
+ },
+ "full_name": {
+  "fr": "Craquelins, la douzaine",
+  "en": "Crackers, per dozen"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 556
+ }
+}

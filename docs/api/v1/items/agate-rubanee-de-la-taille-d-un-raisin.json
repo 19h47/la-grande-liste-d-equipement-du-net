@@ -1,0 +1,35 @@
+{
+ "id": "agate-rubanee-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Agate rubanée — De la taille d'un raisin",
+  "en": "Banded Agate — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Agate rubanée",
+   "en": "Banded Agate"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2000
+ }
+}

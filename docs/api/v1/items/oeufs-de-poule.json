@@ -1,0 +1,38 @@
+{
+ "id": "oeufs-de-poule",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De poule",
+  "en": "Chicken"
+ },
+ "full_name": {
+  "fr": "Œufs — De poule",
+  "en": "Egg — Chicken"
+ },
+ "group": [
+  {
+   "fr": "Œufs",
+   "en": "Egg"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 575
+ }
+}

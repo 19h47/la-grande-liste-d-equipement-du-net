@@ -1,0 +1,37 @@
+{
+ "id": "andalousite-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Andalousite — De la taille d'une noix",
+  "en": "Andalusite — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Andalousite",
+   "en": "Andalusite"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Andalousite : silicate d'aluminium aux reflets changeants, du vert au brun rougeâtre."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 1986
+ }
+}

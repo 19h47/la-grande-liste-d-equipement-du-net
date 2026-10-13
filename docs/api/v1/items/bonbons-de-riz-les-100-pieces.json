@@ -1,0 +1,33 @@
+{
+ "id": "bonbons-de-riz-les-100-pieces",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Bonbons de riz, les 100 pièces",
+  "en": "Rice Candies, per 100 pieces"
+ },
+ "full_name": {
+  "fr": "Bonbons de riz, les 100 pièces",
+  "en": "Rice Candies, per 100 pieces"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 716
+ }
+}

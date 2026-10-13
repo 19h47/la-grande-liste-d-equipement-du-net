@@ -1,0 +1,32 @@
+{
+ "id": "neo-otyugh",
+ "category": "peaux",
+ "name": {
+  "fr": "Néo-otyugh",
+  "en": "Neo-otyugh"
+ },
+ "full_name": {
+  "fr": "Néo-otyugh",
+  "en": "Neo-otyugh"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "700 po",
+   "en": "700gp"
+  },
+  "min_cp": 70000,
+  "max_cp": 70000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Néo-otyugh : variante plus grande et plus intelligente de l'otyugh."
+  ]
+ },
+ "source": {
+  "table": "V",
+  "line": 880
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "arbaletes-carreau-lourd",
+ "category": "armes",
+ "name": {
+  "fr": "Carreau lourd",
+  "en": "Heavy quarre"
+ },
+ "full_name": {
+  "fr": "Arbalètes — Carreau lourd",
+  "en": "Crossbow — Heavy quarre"
+ },
+ "group": [
+  {
+   "fr": "Arbalètes",
+   "en": "Crossbow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "l2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3561
+ }
+}

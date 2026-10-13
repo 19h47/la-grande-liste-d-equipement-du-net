@@ -1,0 +1,40 @@
+{
+ "id": "flute-a-trois-trous",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Flûte à trois trous",
+  "en": "Pipe"
+ },
+ "full_name": {
+  "fr": "Famille des flûtes — Flûte à trois trous",
+  "en": "Flute Family — Pipe"
+ },
+ "group": [
+  {
+   "fr": "Famille des flûtes",
+   "en": "Flute Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": [
+   "Flûte à trois trous : flûte jouée d'une seule main, l'autre battant le tambour, comme le galoubet provençal."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3371
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-guitares-mandore",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Mandore",
+  "en": "Mandora"
+ },
+ "full_name": {
+  "fr": "Famille des guitares — Mandore",
+  "en": "Guitar Family — Mandora"
+ },
+ "group": [
+  {
+   "fr": "Famille des guitares",
+   "en": "Guitar Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Mandore : petit luth de la Renaissance, ancêtre de la mandoline."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3382
+ }
+}

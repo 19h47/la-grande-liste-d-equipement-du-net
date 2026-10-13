@@ -1,0 +1,32 @@
+{
+ "id": "chien-clignotant",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Chien clignotant",
+  "en": "Blink dog"
+ },
+ "full_name": {
+  "fr": "Chien clignotant",
+  "en": "Blink dog"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "1 000-2 000 po",
+   "en": "1,000-2,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 200000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Chien clignotant : chien intelligent capable de se téléporter sur de courtes distances en plein combat."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1482
+ }
+}

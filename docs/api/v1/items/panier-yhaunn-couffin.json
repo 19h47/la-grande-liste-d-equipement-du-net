@@ -1,0 +1,44 @@
+{
+ "id": "panier-yhaunn-couffin",
+ "category": "contenants",
+ "name": {
+  "fr": "Couffin",
+  "en": "Baby"
+ },
+ "full_name": {
+  "fr": "Panier — Yhaunn — Couffin",
+  "en": "Basket — Yhaunn — Baby"
+ },
+ "group": [
+  {
+   "fr": "Panier",
+   "en": "Basket"
+  },
+  {
+   "fr": "Yhaunn",
+   "en": "Yhaunn"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Yhaunn : cité portuaire de Sembie, dans les Royaumes oubliés ; le nom qualifie ici une gamme de paniers."
+  ]
+ },
+ "source": {
+  "table": "XI",
+  "line": 1300
+ }
+}

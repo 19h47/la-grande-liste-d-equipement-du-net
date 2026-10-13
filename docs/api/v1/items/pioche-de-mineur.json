@@ -1,0 +1,33 @@
+{
+ "id": "pioche-de-mineur",
+ "category": "outils",
+ "name": {
+  "fr": "Pioche de mineur",
+  "en": "Pick Axe, Mining"
+ },
+ "full_name": {
+  "fr": "Pioche de mineur",
+  "en": "Pick Axe, Mining"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2609
+ }
+}

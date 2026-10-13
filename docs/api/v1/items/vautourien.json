@@ -1,0 +1,40 @@
+{
+ "id": "vautourien",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Vautourien",
+  "en": "Vulchling"
+ },
+ "full_name": {
+  "fr": "Vautourien",
+  "en": "Vulchling"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "120 po",
+   "en": "120gp"
+  },
+  "min_cp": 12000,
+  "max_cp": 12000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "200-500 po",
+   "en": "200-500gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Vautourien (vulchling) : créature ailée à l'allure de vautour, aux traits vaguement humains."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1546
+ }
+}

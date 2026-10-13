@@ -1,0 +1,30 @@
+{
+ "id": "tour-ronde-20-pieds-de-diametre-30-pieds-de-haut",
+ "category": "constructions",
+ "name": {
+  "fr": "Tour ronde, 20 pieds de diamètre, 30 pieds de haut",
+  "en": "Tower, round, 20'd 30'h"
+ },
+ "full_name": {
+  "fr": "Tour ronde, 20 pieds de diamètre, 30 pieds de haut",
+  "en": "Tower, round, 20'd 30'h"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "850 po",
+   "en": "850gp"
+  },
+  "min_cp": 85000,
+  "max_cp": 85000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3295
+ }
+}

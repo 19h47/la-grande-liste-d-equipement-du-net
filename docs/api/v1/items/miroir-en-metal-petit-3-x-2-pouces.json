@@ -1,0 +1,38 @@
+{
+ "id": "miroir-en-metal-petit-3-x-2-pouces",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En métal, petit, 3 x 2 pouces",
+  "en": "Metal, small, 3\" x 2\""
+ },
+ "full_name": {
+  "fr": "Miroir — En métal, petit, 3 x 2 pouces",
+  "en": "Mirror — Metal, small, 3\" x 2\""
+ },
+ "group": [
+  {
+   "fr": "Miroir",
+   "en": "Mirror"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1 po",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3029
+ }
+}

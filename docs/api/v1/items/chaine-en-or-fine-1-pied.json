@@ -1,0 +1,38 @@
+{
+ "id": "chaine-en-or-fine-1-pied",
+ "category": "outils",
+ "name": {
+  "fr": "En or, fine, 1 pied",
+  "en": "Gold, Fine, 1 ft"
+ },
+ "full_name": {
+  "fr": "Chaîne — En or, fine, 1 pied",
+  "en": "Chain — Gold, Fine, 1 ft"
+ },
+ "group": [
+  {
+   "fr": "Chaîne",
+   "en": "Chain"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "60 po",
+   "en": "60gp"
+  },
+  "min_cp": 6000,
+  "max_cp": 6000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2478
+ }
+}

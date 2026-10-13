@@ -1,0 +1,33 @@
+{
+ "id": "huile-de-bain-l-once",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Huile de bain, l'once",
+  "en": "Bath Oil, per oz"
+ },
+ "full_name": {
+  "fr": "Huile de bain, l'once",
+  "en": "Bath Oil, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2873
+ }
+}

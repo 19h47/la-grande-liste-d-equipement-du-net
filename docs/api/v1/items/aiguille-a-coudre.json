@@ -1,0 +1,33 @@
+{
+ "id": "aiguille-a-coudre",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Aiguille à coudre",
+  "en": "Needle Sewing"
+ },
+ "full_name": {
+  "fr": "Aiguille à coudre",
+  "en": "Needle Sewing"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1-2 pe",
+   "en": "1-2ep"
+  },
+  "min_cp": 50,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3042
+ }
+}

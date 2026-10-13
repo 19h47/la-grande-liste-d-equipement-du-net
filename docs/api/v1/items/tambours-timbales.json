@@ -1,0 +1,38 @@
+{
+ "id": "tambours-timbales",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Timbales",
+  "en": "Kettledrums"
+ },
+ "full_name": {
+  "fr": "Tambours — Timbales",
+  "en": "Drums — Kettledrums"
+ },
+ "group": [
+  {
+   "fr": "Tambours",
+   "en": "Drums"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "30",
+  "lb": 30
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3344
+ }
+}

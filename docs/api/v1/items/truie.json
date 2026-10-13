@@ -1,0 +1,32 @@
+{
+ "id": "truie",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Truie",
+  "en": "Sow"
+ },
+ "full_name": {
+  "fr": "Truie",
+  "en": "Sow"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Truie : abri mobile couvert, sous lequel les assaillants sapaient le pied d'une muraille."
+  ]
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3506
+ }
+}

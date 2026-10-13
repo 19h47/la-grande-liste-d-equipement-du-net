@@ -1,0 +1,35 @@
+{
+ "id": "moule-bouclier",
+ "category": "outils",
+ "name": {
+  "fr": "Bouclier",
+  "en": "Shield"
+ },
+ "full_name": {
+  "fr": "Moule — Bouclier",
+  "en": "Mold — Shield"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2584
+ }
+}

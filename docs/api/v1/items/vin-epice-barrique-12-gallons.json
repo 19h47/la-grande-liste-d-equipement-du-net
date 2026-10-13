@@ -1,0 +1,38 @@
+{
+ "id": "vin-epice-barrique-12-gallons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Barrique, 12 gallons",
+  "en": "Cask, 12 gallons"
+ },
+ "full_name": {
+  "fr": "Vin épicé — Barrique, 12 gallons",
+  "en": "Wine, Spiced — Cask, 12 gallons"
+ },
+ "group": [
+  {
+   "fr": "Vin épicé",
+   "en": "Wine, Spiced"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "48",
+  "lb": 48
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 430
+ }
+}

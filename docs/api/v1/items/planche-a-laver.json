@@ -1,0 +1,33 @@
+{
+ "id": "planche-a-laver",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Planche à laver",
+  "en": "Washboard"
+ },
+ "full_name": {
+  "fr": "Planche à laver",
+  "en": "Washboard"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3148
+ }
+}

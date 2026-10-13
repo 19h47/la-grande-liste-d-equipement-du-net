@@ -1,0 +1,30 @@
+{
+ "id": "merlon-perce-d-archeres-4-pieds-de-large-3-pieds-de-profondeur-5-pieds-de-haut",
+ "category": "constructions",
+ "name": {
+  "fr": "Merlon percé d'archères, 4 pieds de large, 3 pieds de profondeur, 5 pieds de haut",
+  "en": "Merlon, pierced with arrow slits, 4'w 3'd 5'h"
+ },
+ "full_name": {
+  "fr": "Merlon percé d'archères, 4 pieds de large, 3 pieds de profondeur, 5 pieds de haut",
+  "en": "Merlon, pierced with arrow slits, 4'w 3'd 5'h"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3284
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "fromage-au-poivre-petit-lait-100-livres",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Petit-lait, 100 livres",
+  "en": "Whey, 100lb"
+ },
+ "full_name": {
+  "fr": "Fromage au poivre — Petit-lait, 100 livres",
+  "en": "Cheese, Pepper — Whey, 100lb"
+ },
+ "group": [
+  {
+   "fr": "Fromage au poivre",
+   "en": "Cheese, Pepper"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "45 po",
+   "en": "45gp"
+  },
+  "min_cp": 4500,
+  "max_cp": 4500,
+  "plus": false
+ },
+ "weight": {
+  "text": "100",
+  "lb": 100
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 531
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "id": "moule-beche-a-charbon",
+ "category": "outils",
+ "name": {
+  "fr": "À charbon",
+  "en": "Coal"
+ },
+ "full_name": {
+  "fr": "Moule — Bêche — À charbon",
+  "en": "Mold — Spade — Coal"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Bêche",
+   "en": "Spade"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2588
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "ale-dragon-pourpre-la-pinte",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Ale Dragon-Pourpre, la pinte",
+  "en": "Puple Dragon Ale, per pint"
+ },
+ "full_name": {
+  "fr": "Ale Dragon-Pourpre, la pinte",
+  "en": "Puple Dragon Ale, per pint"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "6 pc",
+   "en": "6cp"
+  },
+  "min_cp": 6,
+  "max_cp": 6,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 402
+ }
+}

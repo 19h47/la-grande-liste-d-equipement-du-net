@@ -1,0 +1,38 @@
+{
+ "id": "corset-en-ecailles",
+ "category": "armures",
+ "name": {
+  "fr": "En écailles",
+  "en": "Scale mail"
+ },
+ "full_name": {
+  "fr": "Corset — En écailles",
+  "en": "Corset — Scale mail"
+ },
+ "group": [
+  {
+   "fr": "Corset",
+   "en": "Corset"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "45 po",
+   "en": "45gp"
+  },
+  "min_cp": 4500,
+  "max_cp": 4500,
+  "plus": false
+ },
+ "weight": {
+  "text": "14",
+  "lb": 14
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3787
+ }
+}

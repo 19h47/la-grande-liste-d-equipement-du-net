@@ -1,0 +1,38 @@
+{
+ "id": "fourreau-d-epee-en-cuir-epee-longue",
+ "category": "contenants",
+ "name": {
+  "fr": "En cuir, épée longue",
+  "en": "Leather, Long"
+ },
+ "full_name": {
+  "fr": "Fourreau d'épée — En cuir, épée longue",
+  "en": "Scabbard, Sword — Leather, Long"
+ },
+ "group": [
+  {
+   "fr": "Fourreau d'épée",
+   "en": "Scabbard, Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1446
+ }
+}

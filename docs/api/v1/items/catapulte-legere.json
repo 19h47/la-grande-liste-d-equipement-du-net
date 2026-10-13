@@ -1,0 +1,33 @@
+{
+ "id": "catapulte-legere",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Catapulte légère",
+  "en": "Catapult, Light"
+ },
+ "full_name": {
+  "fr": "Catapulte légère",
+  "en": "Catapult, Light"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "250 po",
+   "en": "250gp"
+  },
+  "min_cp": 25000,
+  "max_cp": 25000,
+  "plus": false
+ },
+ "weight": {
+  "text": "250",
+  "lb": 250
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3490
+ }
+}

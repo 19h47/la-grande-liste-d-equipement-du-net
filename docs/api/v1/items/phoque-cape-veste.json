@@ -1,0 +1,35 @@
+{
+ "id": "phoque-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Phoque — Cape, veste",
+  "en": "Seal — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Phoque",
+   "en": "Seal"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "125 po",
+   "en": "125gp"
+  },
+  "min_cp": 12500,
+  "max_cp": 12500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1213
+ }
+}

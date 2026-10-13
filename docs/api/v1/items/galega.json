@@ -1,0 +1,40 @@
+{
+ "id": "galega",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Galéga",
+  "en": "Goat's Rue"
+ },
+ "full_name": {
+  "fr": "Galéga",
+  "en": "Goat's Rue"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Galéga : légumineuse à fleurs mauves, dite « rue de chèvre », réputée favoriser la lactation."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2776
+ }
+}

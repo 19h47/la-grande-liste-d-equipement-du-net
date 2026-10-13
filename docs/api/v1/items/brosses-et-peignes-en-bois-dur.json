@@ -1,0 +1,38 @@
+{
+ "id": "brosses-et-peignes-en-bois-dur",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En bois dur",
+  "en": "Hardwood"
+ },
+ "full_name": {
+  "fr": "Brosses et peignes — En bois dur",
+  "en": "Brush & Combs — Hardwood"
+ },
+ "group": [
+  {
+   "fr": "Brosses et peignes",
+   "en": "Brush & Combs"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2907
+ }
+}

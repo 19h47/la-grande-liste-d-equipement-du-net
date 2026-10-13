@@ -1,0 +1,37 @@
+{
+ "id": "serpentine-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Serpentine — De la taille d'une boule",
+  "en": "Serpentine — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Serpentine",
+   "en": "Serpentine"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Serpentine : minéral vert sombre tacheté, rappelant une peau de serpent, facile à sculpter."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2280
+ }
+}

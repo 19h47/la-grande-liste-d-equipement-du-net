@@ -1,0 +1,38 @@
+{
+ "id": "fruits-et-herbes-confits-l-once-menthe",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Menthe",
+  "en": "Mint"
+ },
+ "full_name": {
+  "fr": "Fruits et herbes confits, l'once — Menthe",
+  "en": "Candied Fruits and Herbs, per oz — Mint"
+ },
+ "group": [
+  {
+   "fr": "Fruits et herbes confits, l'once",
+   "en": "Candied Fruits and Herbs, per oz"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 511
+ }
+}

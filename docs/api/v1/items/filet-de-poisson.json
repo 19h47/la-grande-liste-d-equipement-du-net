@@ -1,0 +1,33 @@
+{
+ "id": "filet-de-poisson",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Filet de poisson",
+  "en": "Fish Fillet"
+ },
+ "full_name": {
+  "fr": "Filet de poisson",
+  "en": "Fish Fillet"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 600
+ }
+}

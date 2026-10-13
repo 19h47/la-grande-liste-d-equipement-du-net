@@ -1,0 +1,37 @@
+{
+ "id": "bunyip-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Bunyip — Peau",
+  "en": "Bunyip — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Bunyip",
+   "en": "Bunyip"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Bunyip : monstre aquatique du folklore aborigène australien ; dans AD&D, sorte de phoque féroce à tête de chien."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1113
+ }
+}

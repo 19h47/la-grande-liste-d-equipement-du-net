@@ -1,0 +1,38 @@
+{
+ "id": "crustaces-crevettes-geantes-vivantes-la-douzaine",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Crevettes géantes vivantes, la douzaine",
+  "en": "Jumbo Shrimp, per dozen, live"
+ },
+ "full_name": {
+  "fr": "Crustacés — Crevettes géantes vivantes, la douzaine",
+  "en": "Crustacea — Jumbo Shrimp, per dozen, live"
+ },
+ "group": [
+  {
+   "fr": "Crustacés",
+   "en": "Crustacea"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 559
+ }
+}

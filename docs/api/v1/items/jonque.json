@@ -1,0 +1,32 @@
+{
+ "id": "jonque",
+ "category": "transports",
+ "name": {
+  "fr": "Jonque",
+  "en": "Junk"
+ },
+ "full_name": {
+  "fr": "Jonque",
+  "en": "Junk"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Jonque : voilier traditionnel chinois à fond plat, reconnaissable à ses voiles lattées."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 976
+ }
+}

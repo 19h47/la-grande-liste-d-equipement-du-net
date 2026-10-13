@@ -1,0 +1,32 @@
+{
+ "id": "hourds-en-pierre",
+ "category": "constructions",
+ "name": {
+  "fr": "Hourds en pierre",
+  "en": "Hoardings, stone"
+ },
+ "full_name": {
+  "fr": "Hourds en pierre",
+  "en": "Hoardings, stone"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Hourd : galerie en encorbellement au sommet d'une muraille ou d'une tour, permettant de battre le pied du mur."
+  ]
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3281
+ }
+}

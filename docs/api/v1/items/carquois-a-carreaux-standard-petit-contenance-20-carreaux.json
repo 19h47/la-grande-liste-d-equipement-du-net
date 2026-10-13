@@ -1,0 +1,42 @@
+{
+ "id": "carquois-a-carreaux-standard-petit-contenance-20-carreaux",
+ "category": "contenants",
+ "name": {
+  "fr": "Standard, petit, contenance 20 carreaux",
+  "en": "Regular, small, holds 20 quarrels"
+ },
+ "full_name": {
+  "fr": "Carquois — À carreaux — Standard, petit, contenance 20 carreaux",
+  "en": "Quiver — Quarrel — Regular, small, holds 20 quarrels"
+ },
+ "group": [
+  {
+   "fr": "Carquois",
+   "en": "Quiver"
+  },
+  {
+   "fr": "À carreaux",
+   "en": "Quarrel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1430
+ }
+}

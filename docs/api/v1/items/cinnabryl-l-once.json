@@ -1,0 +1,32 @@
+{
+ "id": "cinnabryl-l-once",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Cinnabryl, l'once",
+  "en": "Cinnabryl, per ounce"
+ },
+ "full_name": {
+  "fr": "Cinnabryl, l'once",
+  "en": "Cinnabryl, per ounce"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Cinnabryl : métal magique du décor Red Steel (Mystara) qui protège de la Malédiction rouge ; une fois épuisé, il devient de l'acier rouge."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2053
+ }
+}

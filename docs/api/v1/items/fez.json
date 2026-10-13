@@ -1,0 +1,24 @@
+{
+ "id": "fez",
+ "category": "vetements",
+ "name": {
+  "fr": "Fez",
+  "en": "Fez"
+ },
+ "full_name": {
+  "fr": "Fez",
+  "en": "Fez"
+ },
+ "group": null,
+ "price": null,
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Fez : coiffe tronconique sans bord, en feutre généralement rouge, d'origine nord-africaine et ottomane."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 158
+ }
+}

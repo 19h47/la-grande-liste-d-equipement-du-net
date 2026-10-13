@@ -1,0 +1,38 @@
+{
+ "id": "repas-a-l-unite-anguilles-sauce-blanche",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Anguilles (sauce blanche)",
+  "en": "Eels (in White sauce)"
+ },
+ "full_name": {
+  "fr": "Repas (à l'unité) — Anguilles (sauce blanche)",
+  "en": "Meals (individual) — Eels (in White sauce)"
+ },
+ "group": [
+  {
+   "fr": "Repas (à l'unité)",
+   "en": "Meals (individual)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 383
+ }
+}

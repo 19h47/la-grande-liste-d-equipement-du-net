@@ -1,0 +1,32 @@
+{
+ "id": "torques",
+ "category": "vetements",
+ "name": {
+  "fr": "Torques",
+  "en": "Torcs"
+ },
+ "full_name": {
+  "fr": "Torques",
+  "en": "Torcs"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Torque : collier rigide et ouvert, d'origine celte."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 290
+ }
+}

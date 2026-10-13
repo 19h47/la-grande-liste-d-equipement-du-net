@@ -1,0 +1,35 @@
+{
+ "id": "vaisseau-du-vent-xakhun",
+ "category": "transports",
+ "name": {
+  "fr": "Xakhun",
+  "en": "Xakhun"
+ },
+ "full_name": {
+  "fr": "Vaisseau du vent — Xakhun",
+  "en": "Windship — Xakhun"
+ },
+ "group": [
+  {
+   "fr": "Vaisseau du vent",
+   "en": "Windship"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "150 000 po",
+   "en": "150,000gp"
+  },
+  "min_cp": 15000000,
+  "max_cp": 15000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 1044
+ }
+}

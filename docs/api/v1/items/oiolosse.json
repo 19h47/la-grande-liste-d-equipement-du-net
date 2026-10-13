@@ -1,0 +1,40 @@
+{
+ "id": "oiolosse",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Oiolosse",
+  "en": "Oiolosse"
+ },
+ "full_name": {
+  "fr": "Oiolosse",
+  "en": "Oiolosse"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "1 200 po",
+   "en": "1200gp"
+  },
+  "min_cp": 120000,
+  "max_cp": 120000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "1200 po",
+   "en": "1200gp"
+  },
+  "min_cp": 120000,
+  "max_cp": 120000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Oiolosse : plante rarissime des forêts elfiques du Net Book of Herbs, qui ramène un elfe à la vie dans les sept jours."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2808
+ }
+}

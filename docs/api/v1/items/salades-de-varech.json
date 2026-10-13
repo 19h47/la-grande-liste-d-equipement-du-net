@@ -1,0 +1,38 @@
+{
+ "id": "salades-de-varech",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De varech",
+  "en": "Kelp"
+ },
+ "full_name": {
+  "fr": "Salades — De varech",
+  "en": "Salads — Kelp"
+ },
+ "group": [
+  {
+   "fr": "Salades",
+   "en": "Salads"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 728
+ }
+}

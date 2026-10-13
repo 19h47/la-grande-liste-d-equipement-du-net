@@ -1,0 +1,40 @@
+{
+ "id": "tamaris",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Tamaris",
+  "en": "Tamariske"
+ },
+ "full_name": {
+  "fr": "Tamaris",
+  "en": "Tamariske"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Tamaris : arbuste à feuilles fines et écailleuses, poussant sur les sols salés."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2831
+ }
+}

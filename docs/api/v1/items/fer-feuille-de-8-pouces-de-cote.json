@@ -1,0 +1,35 @@
+{
+ "id": "fer-feuille-de-8-pouces-de-cote",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Feuille de 8 pouces de côté",
+  "en": "Sheet, 8in sq"
+ },
+ "full_name": {
+  "fr": "Fer — Feuille de 8 pouces de côté",
+  "en": "Iron — Sheet, 8in sq"
+ },
+ "group": [
+  {
+   "fr": "Fer",
+   "en": "Iron"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2110
+ }
+}

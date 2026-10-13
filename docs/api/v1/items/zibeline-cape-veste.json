@@ -1,0 +1,37 @@
+{
+ "id": "zibeline-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Zibeline — Cape, veste",
+  "en": "Sable — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Zibeline",
+   "en": "Sable"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 500 po",
+   "en": "4,500gp"
+  },
+  "min_cp": 450000,
+  "max_cp": 450000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Zibeline : martre de Sibérie dont la fourrure brune est l'une des plus précieuses."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1208
+ }
+}

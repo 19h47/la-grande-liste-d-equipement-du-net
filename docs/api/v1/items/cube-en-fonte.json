@@ -1,0 +1,33 @@
+{
+ "id": "cube-en-fonte",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Cube en fonte",
+  "en": "Cube, cast iron"
+ },
+ "full_name": {
+  "fr": "Cube en fonte",
+  "en": "Cube, cast iron"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2945
+ }
+}

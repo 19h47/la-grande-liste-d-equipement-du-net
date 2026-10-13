@@ -1,0 +1,30 @@
+{
+ "id": "contact-avec-un-autre-plan",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Contact avec un autre plan",
+  "en": "Contact Other Plane"
+ },
+ "full_name": {
+  "fr": "Contact avec un autre plan",
+  "en": "Contact Other Plane"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 000 + 1 000 par question",
+   "en": "5,000 + 1,000 per question"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3206
+ }
+}

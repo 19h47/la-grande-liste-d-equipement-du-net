@@ -1,0 +1,33 @@
+{
+ "id": "hache-a-deux-mains",
+ "category": "armes",
+ "name": {
+  "fr": "Hache à deux mains",
+  "en": "Two-handed axe"
+ },
+ "full_name": {
+  "fr": "Hache à deux mains",
+  "en": "Two-handed axe"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3731
+ }
+}

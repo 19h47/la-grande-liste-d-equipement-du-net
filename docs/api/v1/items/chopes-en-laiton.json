@@ -1,0 +1,38 @@
+{
+ "id": "chopes-en-laiton",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En laiton",
+  "en": "Brass"
+ },
+ "full_name": {
+  "fr": "Chopes — En laiton",
+  "en": "Mugs — Brass"
+ },
+ "group": [
+  {
+   "fr": "Chopes",
+   "en": "Mugs"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pc",
+   "en": "8cp"
+  },
+  "min_cp": 8,
+  "max_cp": 8,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3037
+ }
+}

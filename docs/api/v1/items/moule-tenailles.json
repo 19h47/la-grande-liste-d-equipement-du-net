@@ -1,0 +1,35 @@
+{
+ "id": "moule-tenailles",
+ "category": "outils",
+ "name": {
+  "fr": "Tenailles",
+  "en": "Tongs"
+ },
+ "full_name": {
+  "fr": "Moule — Tenailles",
+  "en": "Mold — Tongs"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2605
+ }
+}

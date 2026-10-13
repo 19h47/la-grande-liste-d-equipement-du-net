@@ -1,0 +1,33 @@
+{
+ "id": "ciseaux",
+ "category": "outils",
+ "name": {
+  "fr": "Ciseaux",
+  "en": "Scissors"
+ },
+ "full_name": {
+  "fr": "Ciseaux",
+  "en": "Scissors"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2625
+ }
+}

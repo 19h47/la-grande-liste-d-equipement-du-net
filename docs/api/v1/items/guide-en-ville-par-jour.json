@@ -1,0 +1,30 @@
+{
+ "id": "guide-en-ville-par-jour",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Guide en ville (par jour)",
+  "en": "Guide, in city (per day)"
+ },
+ "full_name": {
+  "fr": "Guide en ville (par jour)",
+  "en": "Guide, in city (per day)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2395
+ }
+}

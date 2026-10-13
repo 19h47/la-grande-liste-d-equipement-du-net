@@ -1,0 +1,33 @@
+{
+ "id": "toupie-en-laiton",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Toupie en laiton",
+  "en": "Spinner, brass"
+ },
+ "full_name": {
+  "fr": "Toupie en laiton",
+  "en": "Spinner, brass"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3110
+ }
+}

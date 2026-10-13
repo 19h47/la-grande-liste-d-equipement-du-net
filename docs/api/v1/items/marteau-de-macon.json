@@ -1,0 +1,38 @@
+{
+ "id": "marteau-de-macon",
+ "category": "outils",
+ "name": {
+  "fr": "De maçon",
+  "en": "Stone setting"
+ },
+ "full_name": {
+  "fr": "Marteau — De maçon",
+  "en": "Hammer — Stone setting"
+ },
+ "group": [
+  {
+   "fr": "Marteau",
+   "en": "Hammer"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2507
+ }
+}

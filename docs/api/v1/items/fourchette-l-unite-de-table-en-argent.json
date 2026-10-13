@@ -1,0 +1,38 @@
+{
+ "id": "fourchette-l-unite-de-table-en-argent",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "De table, en argent",
+  "en": "Dinner, silver"
+ },
+ "full_name": {
+  "fr": "Fourchette, l'unité — De table, en argent",
+  "en": "Fork, each — Dinner, silver"
+ },
+ "group": [
+  {
+   "fr": "Fourchette, l'unité",
+   "en": "Fork, each"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2979
+ }
+}

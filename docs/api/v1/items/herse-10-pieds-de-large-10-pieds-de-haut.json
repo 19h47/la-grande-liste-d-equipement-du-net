@@ -1,0 +1,32 @@
+{
+ "id": "herse-10-pieds-de-large-10-pieds-de-haut",
+ "category": "constructions",
+ "name": {
+  "fr": "Herse, 10 pieds de large, 10 pieds de haut",
+  "en": "Portcullis, 10'w 10'h"
+ },
+ "full_name": {
+  "fr": "Herse, 10 pieds de large, 10 pieds de haut",
+  "en": "Portcullis, 10'w 10'h"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Herse : grille de bois ou de fer coulissant verticalement pour fermer l'entrée d'une place forte."
+  ]
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3291
+ }
+}

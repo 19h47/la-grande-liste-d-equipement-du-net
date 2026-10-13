@@ -1,0 +1,38 @@
+{
+ "id": "farine-sac-de-10-livres-d-orge",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "D'orge",
+  "en": "Barley"
+ },
+ "full_name": {
+  "fr": "Farine, sac de 10 livres — D'orge",
+  "en": "Flour, 10lbs sack — Barley"
+ },
+ "group": [
+  {
+   "fr": "Farine, sac de 10 livres",
+   "en": "Flour, 10lbs sack"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 587
+ }
+}

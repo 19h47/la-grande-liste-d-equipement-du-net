@@ -1,0 +1,35 @@
+{
+ "id": "ambre-en-poudre",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "En poudre",
+  "en": "Powdered"
+ },
+ "full_name": {
+  "fr": "Ambre — En poudre",
+  "en": "Amber — Powdered"
+ },
+ "group": [
+  {
+   "fr": "Ambre",
+   "en": "Amber"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "41 po",
+   "en": "41gp"
+  },
+  "min_cp": 4100,
+  "max_cp": 4100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 1977
+ }
+}

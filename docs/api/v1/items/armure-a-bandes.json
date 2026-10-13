@@ -1,0 +1,35 @@
+{
+ "id": "armure-a-bandes",
+ "category": "armures",
+ "name": {
+  "fr": "Armure à bandes",
+  "en": "Banded mail"
+ },
+ "full_name": {
+  "fr": "Armure à bandes",
+  "en": "Banded mail"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": {
+  "text": "35",
+  "lb": 35
+ },
+ "notes": {
+  "fr": [
+   "Armure à bandes : bandes de métal horizontales superposées, fixées sur un fond de cuir et de mailles."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3743
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "granit-noir",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Noir",
+  "en": "Black"
+ },
+ "full_name": {
+  "fr": "Granit — Noir",
+  "en": "Granite — Black"
+ },
+ "group": [
+  {
+   "fr": "Granit",
+   "en": "Granite"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2097
+ }
+}

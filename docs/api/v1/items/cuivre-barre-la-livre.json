@@ -1,0 +1,35 @@
+{
+ "id": "cuivre-barre-la-livre",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Barre, la livre",
+  "en": "Bar, per lb"
+ },
+ "full_name": {
+  "fr": "Cuivre — Barre, la livre",
+  "en": "Copper — Bar, per lb"
+ },
+ "group": [
+  {
+   "fr": "Cuivre",
+   "en": "Copper"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pc",
+   "en": "6cp"
+  },
+  "min_cp": 6,
+  "max_cp": 6,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2057
+ }
+}

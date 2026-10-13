@@ -1,0 +1,30 @@
+{
+ "id": "jade",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Jade",
+  "en": "Jade"
+ },
+ "full_name": {
+  "fr": "Jade",
+  "en": "Jade"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2127
+ }
+}

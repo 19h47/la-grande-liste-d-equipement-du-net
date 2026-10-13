@@ -1,0 +1,38 @@
+{
+ "id": "ragout-la-marmite-de-lapin",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De lapin",
+  "en": "Rabbit"
+ },
+ "full_name": {
+  "fr": "Ragoût, la marmite — De lapin",
+  "en": "Stew, per pot — Rabbit"
+ },
+ "group": [
+  {
+   "fr": "Ragoût, la marmite",
+   "en": "Stew, per pot"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 760
+ }
+}

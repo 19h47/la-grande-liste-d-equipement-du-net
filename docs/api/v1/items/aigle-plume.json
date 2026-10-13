@@ -1,0 +1,35 @@
+{
+ "id": "aigle-plume",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Plume",
+  "en": "Feather"
+ },
+ "full_name": {
+  "fr": "Aigle — Plume",
+  "en": "Eagle — Feather"
+ },
+ "group": [
+  {
+   "fr": "Aigle",
+   "en": "Eagle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VI",
+  "line": 912
+ }
+}

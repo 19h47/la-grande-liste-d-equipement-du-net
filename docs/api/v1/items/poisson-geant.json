@@ -1,0 +1,30 @@
+{
+ "id": "poisson-geant",
+ "category": "carcasses",
+ "name": {
+  "fr": "Poisson géant",
+  "en": "Fish Giant"
+ },
+ "full_name": {
+  "fr": "Poisson géant",
+  "en": "Fish Giant"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "DV x 5 po",
+   "en": "HD x 5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIV",
+  "line": 1610
+ }
+}

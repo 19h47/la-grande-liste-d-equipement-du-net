@@ -1,0 +1,40 @@
+{
+ "id": "ale-petit-tonneau-5-gallons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Petit tonneau, 5 gallons",
+  "en": "small barrel, 5 gallons"
+ },
+ "full_name": {
+  "fr": "Ale — Petit tonneau, 5 gallons",
+  "en": "Ale — small barrel, 5 gallons"
+ },
+ "group": [
+  {
+   "fr": "Ale",
+   "en": "Ale"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": [
+   "Ale : bière de fermentation haute, traditionnellement peu ou pas houblonnée."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 315
+ }
+}

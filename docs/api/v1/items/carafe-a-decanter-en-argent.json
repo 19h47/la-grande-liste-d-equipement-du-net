@@ -1,0 +1,38 @@
+{
+ "id": "carafe-a-decanter-en-argent",
+ "category": "contenants",
+ "name": {
+  "fr": "En argent",
+  "en": "Silver"
+ },
+ "full_name": {
+  "fr": "Carafe à décanter — En argent",
+  "en": "Decanter — Silver"
+ },
+ "group": [
+  {
+   "fr": "Carafe à décanter",
+   "en": "Decanter"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1373
+ }
+}

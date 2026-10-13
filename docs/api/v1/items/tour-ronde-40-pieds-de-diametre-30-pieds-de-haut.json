@@ -1,0 +1,30 @@
+{
+ "id": "tour-ronde-40-pieds-de-diametre-30-pieds-de-haut",
+ "category": "constructions",
+ "name": {
+  "fr": "Tour ronde, 40 pieds de diamètre, 30 pieds de haut",
+  "en": "Tower, round, 40'd 30'h"
+ },
+ "full_name": {
+  "fr": "Tour ronde, 40 pieds de diamètre, 30 pieds de haut",
+  "en": "Tower, round, 40'd 30'h"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 600 po",
+   "en": "1,600gp"
+  },
+  "min_cp": 160000,
+  "max_cp": 160000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3297
+ }
+}

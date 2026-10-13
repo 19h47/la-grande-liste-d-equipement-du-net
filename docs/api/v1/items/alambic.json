@@ -1,0 +1,35 @@
+{
+ "id": "alambic",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Alambic",
+  "en": "Alembic"
+ },
+ "full_name": {
+  "fr": "Alambic",
+  "en": "Alembic"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": [
+   "Alambic : appareil à distiller, composé d'une chaudière et d'un chapiteau où se condensent les vapeurs."
+  ]
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1820
+ }
+}

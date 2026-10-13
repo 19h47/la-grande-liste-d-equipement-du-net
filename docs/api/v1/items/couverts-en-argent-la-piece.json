@@ -1,0 +1,38 @@
+{
+ "id": "couverts-en-argent-la-piece",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En argent, la pièce",
+  "en": "Silver, per piece"
+ },
+ "full_name": {
+  "fr": "Couverts — En argent, la pièce",
+  "en": "Cutlery — Silver, per piece"
+ },
+ "group": [
+  {
+   "fr": "Couverts",
+   "en": "Cutlery"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pe",
+   "en": "1ep"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2954
+ }
+}

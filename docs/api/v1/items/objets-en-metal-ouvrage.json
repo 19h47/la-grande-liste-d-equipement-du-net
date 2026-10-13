@@ -1,0 +1,30 @@
+{
+ "id": "objets-en-metal-ouvrage",
+ "category": "oeuvres-d-art",
+ "name": {
+  "fr": "Objets en métal ouvragé",
+  "en": "Metalware"
+ },
+ "full_name": {
+  "fr": "Objets en métal ouvragé",
+  "en": "Metalware"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5-50 pa",
+   "en": "5-50sp"
+  },
+  "min_cp": 50,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXX",
+  "line": 3463
+ }
+}

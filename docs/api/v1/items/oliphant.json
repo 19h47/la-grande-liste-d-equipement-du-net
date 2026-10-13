@@ -1,0 +1,32 @@
+{
+ "id": "oliphant",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Oliphant",
+  "en": "Oliphant"
+ },
+ "full_name": {
+  "fr": "Oliphant",
+  "en": "Oliphant"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "700-1 000 po",
+   "en": "700-1,000gp"
+  },
+  "min_cp": 70000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Oliphant : forme ancienne d'« éléphant », popularisée par Tolkien pour ses éléphants de guerre géants."
+  ]
+ },
+ "source": {
+  "table": "X",
+  "line": 1268
+ }
+}

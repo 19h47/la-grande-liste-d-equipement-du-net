@@ -1,0 +1,33 @@
+{
+ "id": "quatre-epices",
+ "category": "epices",
+ "name": {
+  "fr": "Quatre-épices",
+  "en": "All-spice"
+ },
+ "full_name": {
+  "fr": "Quatre-épices",
+  "en": "All-spice"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "6 pc",
+   "en": "6cp"
+  },
+  "min_cp": 6,
+  "max_cp": 6,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 800
+ }
+}

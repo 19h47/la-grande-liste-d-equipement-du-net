@@ -1,0 +1,33 @@
+{
+ "id": "sac-en-filet-de-plongeur",
+ "category": "outils",
+ "name": {
+  "fr": "Sac en filet de plongeur",
+  "en": "Divers Net Sack"
+ },
+ "full_name": {
+  "fr": "Sac en filet de plongeur",
+  "en": "Divers Net Sack"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2490
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "makebate",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Makebate",
+  "en": "Makebate"
+ },
+ "full_name": {
+  "fr": "Makebate",
+  "en": "Makebate"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Makebate : plante du désert du Net Book of Herbs qui neutralise le venin de scorpion."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2794
+ }
+}

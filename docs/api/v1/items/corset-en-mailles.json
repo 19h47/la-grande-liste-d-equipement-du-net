@@ -1,0 +1,38 @@
+{
+ "id": "corset-en-mailles",
+ "category": "armures",
+ "name": {
+  "fr": "En mailles",
+  "en": "Chainmail"
+ },
+ "full_name": {
+  "fr": "Corset — En mailles",
+  "en": "Corset — Chainmail"
+ },
+ "group": [
+  {
+   "fr": "Corset",
+   "en": "Corset"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "14",
+  "lb": 14
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3786
+ }
+}

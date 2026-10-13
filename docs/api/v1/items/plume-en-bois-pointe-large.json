@@ -1,0 +1,38 @@
+{
+ "id": "plume-en-bois-pointe-large",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "En bois, pointe large",
+  "en": "Wrighting (wooden- Braod tip)"
+ },
+ "full_name": {
+  "fr": "Plume — En bois, pointe large",
+  "en": "Pen — Wrighting (wooden- Braod tip)"
+ },
+ "group": [
+  {
+   "fr": "Plume",
+   "en": "Pen"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pc",
+   "en": "15cp"
+  },
+  "min_cp": 15,
+  "max_cp": 15,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1960
+ }
+}

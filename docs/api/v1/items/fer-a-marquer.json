@@ -1,0 +1,33 @@
+{
+ "id": "fer-a-marquer",
+ "category": "outils",
+ "name": {
+  "fr": "Fer à marquer",
+  "en": "Branding iron"
+ },
+ "full_name": {
+  "fr": "Fer à marquer",
+  "en": "Branding iron"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2464
+ }
+}

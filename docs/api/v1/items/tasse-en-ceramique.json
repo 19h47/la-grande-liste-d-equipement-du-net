@@ -1,0 +1,38 @@
+{
+ "id": "tasse-en-ceramique",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En céramique",
+  "en": "Ceramic"
+ },
+ "full_name": {
+  "fr": "Tasse — En céramique",
+  "en": "Cup — Ceramic"
+ },
+ "group": [
+  {
+   "fr": "Tasse",
+   "en": "Cup"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pc",
+   "en": "8cp"
+  },
+  "min_cp": 8,
+  "max_cp": 8,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2947
+ }
+}

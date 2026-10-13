@@ -1,0 +1,30 @@
+{
+ "id": "soins-mineurs-1-10-pv",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Soins mineurs, 1-10 pv",
+  "en": "Healing, minor, 1-10hp"
+ },
+ "full_name": {
+  "fr": "Soins mineurs, 1-10 pv",
+  "en": "Healing, minor, 1-10hp"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po par pv",
+   "en": "100gp per HP"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2397
+ }
+}

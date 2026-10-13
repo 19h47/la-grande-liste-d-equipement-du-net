@@ -1,0 +1,35 @@
+{
+ "id": "morelle-le-brin",
+ "category": "epices",
+ "name": {
+  "fr": "Morelle, le brin",
+  "en": "Nightshade, sprig"
+ },
+ "full_name": {
+  "fr": "Morelle, le brin",
+  "en": "Nightshade, sprig"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Morelle : plante de la famille de la belladone, dont plusieurs espèces sont toxiques."
+  ]
+ },
+ "source": {
+  "table": "IV",
+  "line": 841
+ }
+}

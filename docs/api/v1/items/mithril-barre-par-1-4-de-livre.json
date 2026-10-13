@@ -1,0 +1,37 @@
+{
+ "id": "mithril-barre-par-1-4-de-livre",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Barre, par 1/4 de livre",
+  "en": "Bar, per 1/4 lb"
+ },
+ "full_name": {
+  "fr": "Mithril — Barre, par 1/4 de livre",
+  "en": "Mithril — Bar, per 1/4 lb"
+ },
+ "group": [
+  {
+   "fr": "Mithril",
+   "en": "Mithril"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Mithril : métal argenté léger et presque inaltérable, créé par Tolkien et repris par AD&D."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2208
+ }
+}

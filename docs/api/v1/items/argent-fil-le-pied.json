@@ -1,0 +1,35 @@
+{
+ "id": "argent-fil-le-pied",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Fil, le pied",
+  "en": "Wire, per ft"
+ },
+ "full_name": {
+  "fr": "Argent — Fil, le pied",
+  "en": "Silver — Wire, per ft"
+ },
+ "group": [
+  {
+   "fr": "Argent",
+   "en": "Silver"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2287
+ }
+}

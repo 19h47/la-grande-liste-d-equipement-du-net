@@ -1,0 +1,30 @@
+{
+ "id": "douves-100-pieds-de-long-10-pieds-de-profondeur-10-pieds-de-large",
+ "category": "constructions",
+ "name": {
+  "fr": "Douves, 100 pieds de long, 10 pieds de profondeur, 10 pieds de large",
+  "en": "Moat, 100'l, 10'd 10'w"
+ },
+ "full_name": {
+  "fr": "Douves, 100 pieds de long, 10 pieds de profondeur, 10 pieds de large",
+  "en": "Moat, 100'l, 10'd 10'w"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "250 po",
+   "en": "250gp"
+  },
+  "min_cp": 25000,
+  "max_cp": 25000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3285
+ }
+}

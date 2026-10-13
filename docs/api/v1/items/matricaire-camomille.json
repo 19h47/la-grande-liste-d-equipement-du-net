@@ -1,0 +1,40 @@
+{
+ "id": "matricaire-camomille",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Matricaire camomille",
+  "en": "Scented Mayweed"
+ },
+ "full_name": {
+  "fr": "Matricaire camomille",
+  "en": "Scented Mayweed"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Matricaire camomille : la camomille commune, aux petites fleurs blanches à cœur jaune, calmante et digestive."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2822
+ }
+}

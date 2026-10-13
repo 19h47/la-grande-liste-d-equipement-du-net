@@ -1,0 +1,38 @@
+{
+ "id": "chaise-en-bois",
+ "category": "mobilier",
+ "name": {
+  "fr": "En bois",
+  "en": "Wooden"
+ },
+ "full_name": {
+  "fr": "Chaise — En bois",
+  "en": "Chair — Wooden"
+ },
+ "group": [
+  {
+   "fr": "Chaise",
+   "en": "Chair"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pe",
+   "en": "1ep"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1573
+ }
+}

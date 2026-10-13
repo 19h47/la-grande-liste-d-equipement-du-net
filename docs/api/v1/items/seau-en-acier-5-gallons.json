@@ -1,0 +1,38 @@
+{
+ "id": "seau-en-acier-5-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En acier, 5 gallons",
+  "en": "Steel, 5 gallons"
+ },
+ "full_name": {
+  "fr": "Seau — En acier, 5 gallons",
+  "en": "Bucket — Steel, 5 gallons"
+ },
+ "group": [
+  {
+   "fr": "Seau",
+   "en": "Bucket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1337
+ }
+}

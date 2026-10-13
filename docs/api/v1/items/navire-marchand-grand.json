@@ -1,0 +1,35 @@
+{
+ "id": "navire-marchand-grand",
+ "category": "transports",
+ "name": {
+  "fr": "Marchand, grand",
+  "en": "Merchant, large"
+ },
+ "full_name": {
+  "fr": "Navire — Marchand, grand",
+  "en": "Ship — Merchant, large"
+ },
+ "group": [
+  {
+   "fr": "Navire",
+   "en": "Ship"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 000 po",
+   "en": "15,000gp"
+  },
+  "min_cp": 1500000,
+  "max_cp": 1500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 988
+ }
+}

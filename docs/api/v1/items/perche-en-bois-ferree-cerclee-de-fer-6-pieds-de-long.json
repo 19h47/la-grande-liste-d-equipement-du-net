@@ -1,0 +1,38 @@
+{
+ "id": "perche-en-bois-ferree-cerclee-de-fer-6-pieds-de-long",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En bois, ferrée / cerclée de fer, 6 pieds de long",
+  "en": "Wooden, Iron Shod/ Banded, 6' long"
+ },
+ "full_name": {
+  "fr": "Perche — En bois, ferrée / cerclée de fer, 6 pieds de long",
+  "en": "Pole — Wooden, Iron Shod/ Banded, 6' long"
+ },
+ "group": [
+  {
+   "fr": "Perche",
+   "en": "Pole"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3087
+ }
+}

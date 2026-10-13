@@ -1,0 +1,37 @@
+{
+ "id": "jais-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Jais — De la taille d'un raisin",
+  "en": "Jet — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Jais",
+   "en": "Jet"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Jais : lignite noir très compact, qui se polit facilement ; prisé pour les bijoux de deuil."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2133
+ }
+}

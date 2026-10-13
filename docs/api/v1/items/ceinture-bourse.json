@@ -1,0 +1,33 @@
+{
+ "id": "ceinture-bourse",
+ "category": "vetements",
+ "name": {
+  "fr": "Ceinture-bourse",
+  "en": "Money Belt"
+ },
+ "full_name": {
+  "fr": "Ceinture-bourse",
+  "en": "Money Belt"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 232
+ }
+}

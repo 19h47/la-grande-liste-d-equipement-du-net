@@ -1,0 +1,40 @@
+{
+ "id": "tympanons-cimbal",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Cimbal",
+  "en": "Cimbal"
+ },
+ "full_name": {
+  "fr": "Tympanons — Cimbal",
+  "en": "Dulcimers — Cimbal"
+ },
+ "group": [
+  {
+   "fr": "Tympanons",
+   "en": "Dulcimers"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "55 po",
+   "en": "55gp"
+  },
+  "min_cp": 5500,
+  "max_cp": 5500,
+  "plus": false
+ },
+ "weight": {
+  "text": "14",
+  "lb": 14
+ },
+ "notes": {
+  "fr": [
+   "Tympanons : cithares sur caisse dont les cordes sont frappées par de petits marteaux."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3353
+ }
+}

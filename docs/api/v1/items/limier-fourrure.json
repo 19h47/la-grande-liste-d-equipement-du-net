@@ -1,0 +1,35 @@
+{
+ "id": "limier-fourrure",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Fourrure",
+  "en": "Fur"
+ },
+ "full_name": {
+  "fr": "Limier — Fourrure",
+  "en": "Bloodhound — Fur"
+ },
+ "group": [
+  {
+   "fr": "Limier",
+   "en": "Bloodhound"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VI",
+  "line": 903
+ }
+}

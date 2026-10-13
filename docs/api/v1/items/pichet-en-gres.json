@@ -1,0 +1,38 @@
+{
+ "id": "pichet-en-gres",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En grès",
+  "en": "Stoneware"
+ },
+ "full_name": {
+  "fr": "Pichet — En grès",
+  "en": "Pitcher — Stoneware"
+ },
+ "group": [
+  {
+   "fr": "Pichet",
+   "en": "Pitcher"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3072
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "culottes-bouffantes-en-toile-de-jute",
+ "category": "vetements",
+ "name": {
+  "fr": "En toile de jute",
+  "en": "Sack cloth"
+ },
+ "full_name": {
+  "fr": "Culottes bouffantes — En toile de jute",
+  "en": "Knickers — Sack cloth"
+ },
+ "group": [
+  {
+   "fr": "Culottes bouffantes",
+   "en": "Knickers"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Culottes bouffantes : culottes amples resserrées sous le genou."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 218
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "safran",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Safran",
+  "en": "Saffron"
+ },
+ "full_name": {
+  "fr": "Safran",
+  "en": "Saffron"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2819
+ }
+}

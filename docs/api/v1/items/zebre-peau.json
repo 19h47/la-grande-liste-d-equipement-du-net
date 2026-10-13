@@ -1,0 +1,35 @@
+{
+ "id": "zebre-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Zèbre — Peau",
+  "en": "Zebra — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Zèbre",
+   "en": "Zebra"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1244
+ }
+}

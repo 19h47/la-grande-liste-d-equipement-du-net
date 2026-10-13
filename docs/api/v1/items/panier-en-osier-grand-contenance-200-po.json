@@ -1,0 +1,38 @@
+{
+ "id": "panier-en-osier-grand-contenance-200-po",
+ "category": "contenants",
+ "name": {
+  "fr": "En osier, grand, contenance 200 po",
+  "en": "Wicker, large, holds 200gp"
+ },
+ "full_name": {
+  "fr": "Panier — En osier, grand, contenance 200 po",
+  "en": "Basket — Wicker, large, holds 200gp"
+ },
+ "group": [
+  {
+   "fr": "Panier",
+   "en": "Basket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1298
+ }
+}

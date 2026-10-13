@@ -1,0 +1,37 @@
+{
+ "id": "beryl-autre-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Béryl, autre — De la taille d'une boule",
+  "en": "Beryl, other — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Béryl, autre",
+   "en": "Beryl, other"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Béryl : minéral dont l'émeraude et l'aigue-marine sont des variétés ; « autre » désigne ses variétés jaunes, roses ou incolores."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2010
+ }
+}

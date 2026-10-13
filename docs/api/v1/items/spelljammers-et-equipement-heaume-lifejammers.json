@@ -1,0 +1,43 @@
+{
+ "id": "spelljammers-et-equipement-heaume-lifejammers",
+ "category": "transports",
+ "name": {
+  "fr": "Lifejammers",
+  "en": "Lifejammers"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Heaume — Lifejammers",
+  "en": "Spelljammers and equipment — Helm — Lifejammers"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  },
+  {
+   "fr": "Heaume",
+   "en": "Helm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "80 000 po",
+   "en": "80,000gp"
+  },
+  "min_cp": 8000000,
+  "max_cp": 8000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Heaume : siège magique qui convertit l'énergie d'un lanceur de sorts en propulsion pour un spelljammer.",
+   "Lifejammer : heaume maléfique qui puise sa puissance dans l'énergie vitale d'une créature enchaînée."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1023
+ }
+}

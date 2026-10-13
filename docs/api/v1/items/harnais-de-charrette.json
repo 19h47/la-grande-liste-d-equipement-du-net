@@ -1,0 +1,33 @@
+{
+ "id": "harnais-de-charrette",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Harnais de charrette",
+  "en": "Cart Harness"
+ },
+ "full_name": {
+  "fr": "Harnais de charrette",
+  "en": "Cart Harness"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1054
+ }
+}

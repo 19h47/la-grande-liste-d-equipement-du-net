@@ -1,0 +1,40 @@
+{
+ "id": "lanterne-sourde-faisceau-directionnel-de-80-pieds",
+ "category": "eclairage",
+ "name": {
+  "fr": "Sourde, faisceau directionnel de 80 pieds",
+  "en": "Bulls-eye, 80' directional beam"
+ },
+ "full_name": {
+  "fr": "Lanterne — Sourde, faisceau directionnel de 80 pieds",
+  "en": "Lantern — Bulls-eye, 80' directional beam"
+ },
+ "group": [
+  {
+   "fr": "Lanterne",
+   "en": "Lantern"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Sourde : lanterne dont la lumière, masquée sur les côtés, ne sort que par une ouverture à lentille, en faisceau dirigé."
+  ]
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2672
+ }
+}

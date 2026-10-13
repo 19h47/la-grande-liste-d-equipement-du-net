@@ -1,0 +1,38 @@
+{
+ "id": "robe-en-lin-gnome",
+ "category": "vetements",
+ "name": {
+  "fr": "Gnome",
+  "en": "Gnome"
+ },
+ "full_name": {
+  "fr": "Robe en lin — Gnome",
+  "en": "Dress, Linen — Gnome"
+ },
+ "group": [
+  {
+   "fr": "Robe en lin",
+   "en": "Dress, Linen"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pc",
+   "en": "7cp"
+  },
+  "min_cp": 7,
+  "max_cp": 7,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 150
+ }
+}

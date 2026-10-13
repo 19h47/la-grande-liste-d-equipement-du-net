@@ -1,0 +1,35 @@
+{
+ "id": "tourelles-lourde",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Lourde",
+  "en": "Heavy"
+ },
+ "full_name": {
+  "fr": "Tourelles — Lourde",
+  "en": "Turrets — Heavy"
+ },
+ "group": [
+  {
+   "fr": "Tourelles",
+   "en": "Turrets"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3511
+ }
+}

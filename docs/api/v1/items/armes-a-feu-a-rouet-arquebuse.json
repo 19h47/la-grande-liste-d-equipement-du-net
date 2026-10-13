@@ -1,0 +1,44 @@
+{
+ "id": "armes-a-feu-a-rouet-arquebuse",
+ "category": "armes",
+ "name": {
+  "fr": "Arquebuse",
+  "en": "Arquebus"
+ },
+ "full_name": {
+  "fr": "Armes à feu — À rouet — Arquebuse",
+  "en": "Firearms — Wheellock — Arquebus"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "À rouet",
+   "en": "Wheellock"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "80 po",
+   "en": "80gp"
+  },
+  "min_cp": 8000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "À rouet : platine où une roue d'acier frotte un morceau de pyrite pour produire l'étincelle."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3588
+ }
+}

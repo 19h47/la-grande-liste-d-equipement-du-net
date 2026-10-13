@@ -1,0 +1,33 @@
+{
+ "id": "natte-de-paille-9-pieds-carres",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Natte de paille, 9 pieds carrés",
+  "en": "Mat, Straw, 9sq ft"
+ },
+ "full_name": {
+  "fr": "Natte de paille, 9 pieds carrés",
+  "en": "Mat, Straw, 9sq ft"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 pc",
+   "en": "10cp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3025
+ }
+}

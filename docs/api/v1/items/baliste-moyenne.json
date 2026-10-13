@@ -1,0 +1,33 @@
+{
+ "id": "baliste-moyenne",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Baliste moyenne",
+  "en": "Ballista, Medium"
+ },
+ "full_name": {
+  "fr": "Baliste moyenne",
+  "en": "Ballista, Medium"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "600 po",
+   "en": "600gp"
+  },
+  "min_cp": 60000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "weight": {
+  "text": "300",
+  "lb": 300
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3481
+ }
+}

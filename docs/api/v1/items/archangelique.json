@@ -1,0 +1,38 @@
+{
+ "id": "archangelique",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Archangélique",
+  "en": "Archangelica"
+ },
+ "full_name": {
+  "fr": "Archangélique",
+  "en": "Archangelica"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2708
+ }
+}

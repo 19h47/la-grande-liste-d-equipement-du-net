@@ -1,0 +1,38 @@
+{
+ "id": "chaine-en-or-legere-1-pied",
+ "category": "outils",
+ "name": {
+  "fr": "En or, légère, 1 pied",
+  "en": "Gold, light, 1 ft"
+ },
+ "full_name": {
+  "fr": "Chaîne — En or, légère, 1 pied",
+  "en": "Chain — Gold, light, 1 ft"
+ },
+ "group": [
+  {
+   "fr": "Chaîne",
+   "en": "Chain"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2479
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "armure-de-peaux",
+ "category": "armures",
+ "name": {
+  "fr": "Armure de peaux",
+  "en": "Hide Armor"
+ },
+ "full_name": {
+  "fr": "Armure de peaux",
+  "en": "Hide Armor"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "30",
+  "lb": 30
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3799
+ }
+}

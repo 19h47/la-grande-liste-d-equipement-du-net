@@ -1,0 +1,38 @@
+{
+ "id": "chaine-en-fer-moyenne-1-pied",
+ "category": "outils",
+ "name": {
+  "fr": "En fer, moyenne, 1 pied",
+  "en": "Iron, Medium, 1ft"
+ },
+ "full_name": {
+  "fr": "Chaîne — En fer, moyenne, 1 pied",
+  "en": "Chain — Iron, Medium, 1ft"
+ },
+ "group": [
+  {
+   "fr": "Chaîne",
+   "en": "Chain"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 pa",
+   "en": "25sp"
+  },
+  "min_cp": 250,
+  "max_cp": 250,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2473
+ }
+}

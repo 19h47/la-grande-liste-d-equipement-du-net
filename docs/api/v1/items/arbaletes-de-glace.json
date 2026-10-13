@@ -1,0 +1,35 @@
+{
+ "id": "arbaletes-de-glace",
+ "category": "armes",
+ "name": {
+  "fr": "De glace",
+  "en": "Ice"
+ },
+ "full_name": {
+  "fr": "Arbalètes — De glace",
+  "en": "Crossbow — Ice"
+ },
+ "group": [
+  {
+   "fr": "Arbalètes",
+   "en": "Crossbow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3562
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "matelas-deux-places-de-chiffons",
+ "category": "mobilier",
+ "name": {
+  "fr": "Deux places, de chiffons",
+  "en": "Double, Rag"
+ },
+ "full_name": {
+  "fr": "Matelas — Deux places, de chiffons",
+  "en": "Mattress — Double, Rag"
+ },
+ "group": [
+  {
+   "fr": "Matelas",
+   "en": "Mattress"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "30",
+  "lb": 30
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1586
+ }
+}

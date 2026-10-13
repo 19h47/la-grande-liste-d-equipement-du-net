@@ -1,0 +1,38 @@
+{
+ "id": "bourses-en-lin",
+ "category": "vetements",
+ "name": {
+  "fr": "En lin",
+  "en": "Linen"
+ },
+ "full_name": {
+  "fr": "Bourses — En lin",
+  "en": "Purses — Linen"
+ },
+ "group": [
+  {
+   "fr": "Bourses",
+   "en": "Purses"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 241
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "corail-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Corail — De la taille d'une noix",
+  "en": "Coral — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Corail",
+   "en": "Coral"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "400 po",
+   "en": "400gp"
+  },
+  "min_cp": 40000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2064
+ }
+}

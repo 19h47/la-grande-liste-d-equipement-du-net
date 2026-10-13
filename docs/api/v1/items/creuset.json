@@ -1,0 +1,35 @@
+{
+ "id": "creuset",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Creuset",
+  "en": "Crucible"
+ },
+ "full_name": {
+  "fr": "Creuset",
+  "en": "Crucible"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": [
+   "Creuset : récipient en matière réfractaire servant à fondre les métaux ou à chauffer des substances à très haute température."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2943
+ }
+}

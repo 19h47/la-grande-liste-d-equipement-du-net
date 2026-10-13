@@ -1,0 +1,35 @@
+{
+ "id": "panthere-des-neiges-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Panthère des neiges — Peau",
+  "en": "Snow leopard — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Panthère des neiges",
+   "en": "Snow leopard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1216
+ }
+}

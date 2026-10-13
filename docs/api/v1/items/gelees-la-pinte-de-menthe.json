@@ -1,0 +1,38 @@
+{
+ "id": "gelees-la-pinte-de-menthe",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De menthe",
+  "en": "mint"
+ },
+ "full_name": {
+  "fr": "Gelées, la pinte — De menthe",
+  "en": "Jellies, per pint — mint"
+ },
+ "group": [
+  {
+   "fr": "Gelées, la pinte",
+   "en": "Jellies, per pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 621
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "girafe-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Girafe — Manteau, robe, couverture",
+  "en": "Giraffe — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Girafe",
+   "en": "Giraffe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "250 po",
+   "en": "250gp"
+  },
+  "min_cp": 25000,
+  "max_cp": 25000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1161
+ }
+}

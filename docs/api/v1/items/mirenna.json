@@ -1,0 +1,40 @@
+{
+ "id": "mirenna",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Mirenna",
+  "en": "Mirenna"
+ },
+ "full_name": {
+  "fr": "Mirenna",
+  "en": "Mirenna"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Mirenna : plante de montagne issue de MERP, dont les baies rendent quelques PV."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2802
+ }
+}

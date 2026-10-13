@@ -1,0 +1,30 @@
+{
+ "id": "chapak-hache-a-ressort",
+ "category": "armes",
+ "name": {
+  "fr": "Chapak ; hache à ressort",
+  "en": "Chapak; snapper axe"
+ },
+ "full_name": {
+  "fr": "Chapak ; hache à ressort",
+  "en": "Chapak; snapper axe"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3549
+ }
+}

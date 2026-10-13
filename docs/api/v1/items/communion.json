@@ -1,0 +1,32 @@
+{
+ "id": "communion",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Communion",
+  "en": "Commune"
+ },
+ "full_name": {
+  "fr": "Communion",
+  "en": "Commune"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "Spécial",
+   "en": "Special"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Communion : sort mettant le prêtre en contact avec sa divinité, qui répond par oui ou non à ses questions."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3204
+ }
+}

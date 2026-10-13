@@ -1,0 +1,38 @@
+{
+ "id": "miroir-mural-5-pieds",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Mural, 5 pieds",
+  "en": "Wall, 5'"
+ },
+ "full_name": {
+  "fr": "Miroir — Mural, 5 pieds",
+  "en": "Mirror — Wall, 5'"
+ },
+ "group": [
+  {
+   "fr": "Miroir",
+   "en": "Mirror"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "20 po",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3034
+ }
+}

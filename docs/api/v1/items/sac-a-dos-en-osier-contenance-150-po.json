@@ -1,0 +1,38 @@
+{
+ "id": "sac-a-dos-en-osier-contenance-150-po",
+ "category": "contenants",
+ "name": {
+  "fr": "En osier, contenance 150 po",
+  "en": "Wicker, holds 150gp"
+ },
+ "full_name": {
+  "fr": "Sac à dos — En osier, contenance 150 po",
+  "en": "Backpack — Wicker, holds 150gp"
+ },
+ "group": [
+  {
+   "fr": "Sac à dos",
+   "en": "Backpack"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1289
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "matelas-deux-places-de-plumes",
+ "category": "mobilier",
+ "name": {
+  "fr": "Deux places, de plumes",
+  "en": "Double, feather"
+ },
+ "full_name": {
+  "fr": "Matelas — Deux places, de plumes",
+  "en": "Mattress — Double, feather"
+ },
+ "group": [
+  {
+   "fr": "Matelas",
+   "en": "Mattress"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "22 po",
+   "en": "22gp"
+  },
+  "min_cp": 2200,
+  "max_cp": 2200,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1582
+ }
+}

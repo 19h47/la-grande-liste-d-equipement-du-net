@@ -1,0 +1,45 @@
+{
+ "id": "panier-yhaunn-d-un-boisseau",
+ "category": "contenants",
+ "name": {
+  "fr": "D'un boisseau",
+  "en": "Bushel"
+ },
+ "full_name": {
+  "fr": "Panier — Yhaunn — D'un boisseau",
+  "en": "Basket — Yhaunn — Bushel"
+ },
+ "group": [
+  {
+   "fr": "Panier",
+   "en": "Basket"
+  },
+  {
+   "fr": "Yhaunn",
+   "en": "Yhaunn"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Yhaunn : cité portuaire de Sembie, dans les Royaumes oubliés ; le nom qualifie ici une gamme de paniers.",
+   "Boisseau : ancienne mesure de capacité pour les grains, d'environ 35 litres dans le système anglo-saxon."
+  ]
+ },
+ "source": {
+  "table": "XI",
+  "line": 1302
+ }
+}

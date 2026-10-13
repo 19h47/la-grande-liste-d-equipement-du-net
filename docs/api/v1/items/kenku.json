@@ -1,0 +1,40 @@
+{
+ "id": "kenku",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Kenku",
+  "en": "Kenku"
+ },
+ "full_name": {
+  "fr": "Kenku",
+  "en": "Kenku"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "250 po",
+   "en": "250gp"
+  },
+  "min_cp": 25000,
+  "max_cp": 25000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "300-500 po",
+   "en": "300-500gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Kenku : humanoïde à tête et plumage d'oiseau, réputé voleur et espiègle (Fiend Folio)."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1529
+ }
+}

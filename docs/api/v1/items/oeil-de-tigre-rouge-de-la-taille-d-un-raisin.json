@@ -1,0 +1,37 @@
+{
+ "id": "oeil-de-tigre-rouge-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Œil-de-tigre (rouge) — De la taille d'un raisin",
+  "en": "Tiger's eye (red) — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Œil-de-tigre (rouge)",
+   "en": "Tiger's eye (red)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Œil-de-tigre rouge : appelé aussi « œil-de-taureau »."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2317
+ }
+}

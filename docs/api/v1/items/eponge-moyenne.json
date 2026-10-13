@@ -1,0 +1,38 @@
+{
+ "id": "eponge-moyenne",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Moyenne",
+  "en": "Medium"
+ },
+ "full_name": {
+  "fr": "Éponge — Moyenne",
+  "en": "Sponge — Medium"
+ },
+ "group": [
+  {
+   "fr": "Éponge",
+   "en": "Sponge"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1885
+ }
+}

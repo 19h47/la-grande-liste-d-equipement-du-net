@@ -1,0 +1,32 @@
+{
+ "id": "cheval-marin",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Cheval marin",
+  "en": "Sea horse"
+ },
+ "full_name": {
+  "fr": "Cheval marin",
+  "en": "Sea horse"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "2 400 po",
+   "en": "2,400gp"
+  },
+  "min_cp": 240000,
+  "max_cp": 240000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Cheval marin : hippocampe (le poisson) géant d'AD&D, assez grand pour servir de monture aux peuples marins."
+  ]
+ },
+ "source": {
+  "table": "X",
+  "line": 1272
+ }
+}

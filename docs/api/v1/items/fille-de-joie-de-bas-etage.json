@@ -1,0 +1,35 @@
+{
+ "id": "fille-de-joie-de-bas-etage",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "De bas étage",
+  "en": "Lower Class"
+ },
+ "full_name": {
+  "fr": "Fille de joie — De bas étage",
+  "en": "Lady of the Evening — Lower Class"
+ },
+ "group": [
+  {
+   "fr": "Fille de joie",
+   "en": "Lady of the Evening"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2406
+ }
+}

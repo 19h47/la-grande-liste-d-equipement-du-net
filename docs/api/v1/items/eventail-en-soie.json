@@ -1,0 +1,38 @@
+{
+ "id": "eventail-en-soie",
+ "category": "vetements",
+ "name": {
+  "fr": "En soie",
+  "en": "silk"
+ },
+ "full_name": {
+  "fr": "Éventail — En soie",
+  "en": "Fan — silk"
+ },
+ "group": [
+  {
+   "fr": "Éventail",
+   "en": "Fan"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 156
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "chandeliers-en-fer",
+ "category": "eclairage",
+ "name": {
+  "fr": "En fer",
+  "en": "iron"
+ },
+ "full_name": {
+  "fr": "Chandeliers — En fer",
+  "en": "Candlesticks — iron"
+ },
+ "group": [
+  {
+   "fr": "Chandeliers",
+   "en": "Candlesticks"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": [
+   "Chandeliers : ici, bougeoirs portant une chandelle, et non lustres suspendus."
+  ]
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2662
+ }
+}

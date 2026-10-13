@@ -1,0 +1,30 @@
+{
+ "id": "hybsil",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Hybsil",
+  "en": "Hybsil"
+ },
+ "full_name": {
+  "fr": "Hybsil",
+  "en": "Hybsil"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "115 po",
+   "en": "115gp"
+  },
+  "min_cp": 11500,
+  "max_cp": 11500,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1523
+ }
+}

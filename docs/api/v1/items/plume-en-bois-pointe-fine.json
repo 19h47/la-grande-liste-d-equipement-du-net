@@ -1,0 +1,38 @@
+{
+ "id": "plume-en-bois-pointe-fine",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "En bois, pointe fine",
+  "en": "Wrighting (wooden- fine tip)"
+ },
+ "full_name": {
+  "fr": "Plume — En bois, pointe fine",
+  "en": "Pen — Wrighting (wooden- fine tip)"
+ },
+ "group": [
+  {
+   "fr": "Plume",
+   "en": "Pen"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1959
+ }
+}

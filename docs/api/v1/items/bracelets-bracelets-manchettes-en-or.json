@@ -1,0 +1,42 @@
+{
+ "id": "bracelets-bracelets-manchettes-en-or",
+ "category": "vetements",
+ "name": {
+  "fr": "En or",
+  "en": "Gold"
+ },
+ "full_name": {
+  "fr": "Bracelets — Bracelets manchettes — En or",
+  "en": "Bracelets — Cuff — Gold"
+ },
+ "group": [
+  {
+   "fr": "Bracelets",
+   "en": "Bracelets"
+  },
+  {
+   "fr": "Bracelets manchettes",
+   "en": "Cuff"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 100
+ }
+}

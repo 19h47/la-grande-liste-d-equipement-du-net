@@ -1,0 +1,38 @@
+{
+ "id": "robe-brodee",
+ "category": "vetements",
+ "name": {
+  "fr": "Brodée",
+  "en": "Emroidered"
+ },
+ "full_name": {
+  "fr": "Robe — Brodée",
+  "en": "Robe — Emroidered"
+ },
+ "group": [
+  {
+   "fr": "Robe",
+   "en": "Robe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "variable",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 248
+ }
+}

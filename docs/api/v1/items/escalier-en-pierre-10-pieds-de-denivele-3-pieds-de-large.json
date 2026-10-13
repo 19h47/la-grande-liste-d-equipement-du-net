@@ -1,0 +1,30 @@
+{
+ "id": "escalier-en-pierre-10-pieds-de-denivele-3-pieds-de-large",
+ "category": "constructions",
+ "name": {
+  "fr": "Escalier en pierre, 10 pieds de dénivelé, 3 pieds de large",
+  "en": "Stairs, stone, 10' rise 3'w"
+ },
+ "full_name": {
+  "fr": "Escalier en pierre, 10 pieds de dénivelé, 3 pieds de large",
+  "en": "Stairs, stone, 10' rise 3'w"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3293
+ }
+}

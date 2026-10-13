@@ -1,0 +1,40 @@
+{
+ "id": "delrean",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Delrean",
+  "en": "Delrean"
+ },
+ "full_name": {
+  "fr": "Delrean",
+  "en": "Delrean"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Delrean : plante du Net Book of Herbs qui éloigne les insectes, mais dont la puanteur réduit le Charisme."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2757
+ }
+}

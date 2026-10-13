@@ -1,0 +1,33 @@
+{
+ "id": "armoire",
+ "category": "contenants",
+ "name": {
+  "fr": "Armoire",
+  "en": "Cabinet"
+ },
+ "full_name": {
+  "fr": "Armoire",
+  "en": "Cabinet"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3-8 po",
+   "en": "3-8gp"
+  },
+  "min_cp": 300,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1344
+ }
+}

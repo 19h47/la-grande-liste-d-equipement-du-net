@@ -1,0 +1,38 @@
+{
+ "id": "logement-a-l-auberge-par-jour-semaine-ordinaire",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Ordinaire",
+  "en": "Common"
+ },
+ "full_name": {
+  "fr": "Logement à l'auberge (par jour/semaine) — Ordinaire",
+  "en": "Inn Lodging (per day/week) — Common"
+ },
+ "group": [
+  {
+   "fr": "Logement à l'auberge (par jour/semaine)",
+   "en": "Inn Lodging (per day/week)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa/3 pe",
+   "en": "5sp/3ep"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 364
+ }
+}

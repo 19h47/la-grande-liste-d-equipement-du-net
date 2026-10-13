@@ -1,0 +1,32 @@
+{
+ "id": "navire-long",
+ "category": "transports",
+ "name": {
+  "fr": "Navire long",
+  "en": "Longship"
+ },
+ "full_name": {
+  "fr": "Navire long",
+  "en": "Longship"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 000 po",
+   "en": "10,000gp"
+  },
+  "min_cp": 1000000,
+  "max_cp": 1000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Navire long : longship, navire scandinave à rames et voile carrée, plus petit que le drakkar."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 979
+ }
+}

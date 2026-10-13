@@ -1,0 +1,40 @@
+{
+ "id": "consoude",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Consoude",
+  "en": "Comfrey"
+ },
+ "full_name": {
+  "fr": "Consoude",
+  "en": "Comfrey"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Consoude : plante velue dont la racine passait pour ressouder les os et refermer les plaies."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2748
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "galion",
+ "category": "transports",
+ "name": {
+  "fr": "Galion",
+  "en": "Galleon"
+ },
+ "full_name": {
+  "fr": "Galion",
+  "en": "Galleon"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 000 po",
+   "en": "50,000gp"
+  },
+  "min_cp": 5000000,
+  "max_cp": 5000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Galion : grand voilier à plusieurs ponts des XVIe et XVIIe siècles, armé pour le commerce comme pour la guerre."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 970
+ }
+}

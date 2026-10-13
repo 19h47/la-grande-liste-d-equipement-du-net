@@ -1,0 +1,30 @@
+{
+ "id": "centaure",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Centaure",
+  "en": "Centaur"
+ },
+ "full_name": {
+  "fr": "Centaure",
+  "en": "Centaur"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "400 po",
+   "en": "400gp"
+  },
+  "min_cp": 40000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1491
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "elverquisst-bouteille",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Bouteille",
+  "en": "bottle"
+ },
+ "full_name": {
+  "fr": "Elverquisst — Bouteille",
+  "en": "Elverquisst — bottle"
+ },
+ "group": [
+  {
+   "fr": "Elverquisst",
+   "en": "Elverquisst"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Elverquisst : spiritueux elfique rare et réputé des Royaumes oubliés."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 350
+ }
+}

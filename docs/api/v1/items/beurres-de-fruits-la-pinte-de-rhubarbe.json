@@ -1,0 +1,38 @@
+{
+ "id": "beurres-de-fruits-la-pinte-de-rhubarbe",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De rhubarbe",
+  "en": "Rhubarb"
+ },
+ "full_name": {
+  "fr": "Beurres de fruits, la pinte — De rhubarbe",
+  "en": "Butters, per pint — Rhubarb"
+ },
+ "group": [
+  {
+   "fr": "Beurres de fruits, la pinte",
+   "en": "Butters, per pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 502
+ }
+}

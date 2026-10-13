@@ -1,0 +1,38 @@
+{
+ "id": "outils-de-boucher-crochets-lot-de-8",
+ "category": "outils",
+ "name": {
+  "fr": "Crochets, lot de 8",
+  "en": "Hooks, set of 8"
+ },
+ "full_name": {
+  "fr": "Outils de boucher — Crochets, lot de 8",
+  "en": "Butchering Tools — Hooks, set of 8"
+ },
+ "group": [
+  {
+   "fr": "Outils de boucher",
+   "en": "Butchering Tools"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2467
+ }
+}

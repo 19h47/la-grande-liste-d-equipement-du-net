@@ -1,0 +1,38 @@
+{
+ "id": "pegase",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Pégase",
+  "en": "Pegasus"
+ },
+ "full_name": {
+  "fr": "Pégase",
+  "en": "Pegasus"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "3 000 po",
+   "en": "3,000gp"
+  },
+  "min_cp": 300000,
+  "max_cp": 300000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "X",
+  "line": 1269
+ }
+}

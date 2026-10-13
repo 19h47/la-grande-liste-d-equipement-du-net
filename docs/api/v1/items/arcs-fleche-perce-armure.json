@@ -1,0 +1,35 @@
+{
+ "id": "arcs-fleche-perce-armure",
+ "category": "armes",
+ "name": {
+  "fr": "Flèche perce-armure",
+  "en": "Arrow, armor piercing"
+ },
+ "full_name": {
+  "fr": "Arcs — Flèche perce-armure",
+  "en": "Bow — Arrow, armor piercing"
+ },
+ "group": [
+  {
+   "fr": "Arcs",
+   "en": "Bow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3535
+ }
+}

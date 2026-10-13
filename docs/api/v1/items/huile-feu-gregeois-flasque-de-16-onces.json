@@ -1,0 +1,40 @@
+{
+ "id": "huile-feu-gregeois-flasque-de-16-onces",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Feu grégeois, flasque de 16 onces",
+  "en": "Greek-fire, flask, 16oz"
+ },
+ "full_name": {
+  "fr": "Huile — Feu grégeois, flasque de 16 onces",
+  "en": "Oil — Greek-fire, flask, 16oz"
+ },
+ "group": [
+  {
+   "fr": "Huile",
+   "en": "Oil"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Feu grégeois : mélange incendiaire byzantin brûlant même sur l'eau ; en AD&D, désigne l'huile lancée enflammée comme projectile."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3048
+ }
+}

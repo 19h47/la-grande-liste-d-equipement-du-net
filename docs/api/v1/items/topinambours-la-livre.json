@@ -1,0 +1,33 @@
+{
+ "id": "topinambours-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Topinambours, la livre",
+  "en": "Artichokes, Ground, per lb"
+ },
+ "full_name": {
+  "fr": "Topinambours, la livre",
+  "en": "Artichokes, Ground, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 449
+ }
+}

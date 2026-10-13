@@ -1,0 +1,35 @@
+{
+ "id": "soldat-mercenaire-par-mois-fantassin-leger",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Fantassin léger",
+  "en": "Footman, light"
+ },
+ "full_name": {
+  "fr": "Soldat mercenaire, par mois — Fantassin léger",
+  "en": "Mercenary Soldier, per month — Footman, light"
+ },
+ "group": [
+  {
+   "fr": "Soldat mercenaire, par mois",
+   "en": "Mercenary Soldier, per month"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2420
+ }
+}

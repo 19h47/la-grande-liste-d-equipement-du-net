@@ -1,0 +1,38 @@
+{
+ "id": "ceinture-ouvragee",
+ "category": "vetements",
+ "name": {
+  "fr": "Ouvragée",
+  "en": "Fancy"
+ },
+ "full_name": {
+  "fr": "Ceinture — Ouvragée",
+  "en": "Belt — Fancy"
+ },
+ "group": [
+  {
+   "fr": "Ceinture",
+   "en": "Belt"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10+ pa",
+   "en": "10+sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": true
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 83
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-cors-et-trompettes-de-fanfare",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "De fanfare",
+  "en": "Fanfare"
+ },
+ "full_name": {
+  "fr": "Famille des cors et trompettes — De fanfare",
+  "en": "Horn/Trumpet Family — Fanfare"
+ },
+ "group": [
+  {
+   "fr": "Famille des cors et trompettes",
+   "en": "Horn/Trumpet Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3398
+ }
+}

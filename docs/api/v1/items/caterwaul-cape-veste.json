@@ -1,0 +1,37 @@
+{
+ "id": "caterwaul-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Caterwaul — Cape, veste",
+  "en": "Caterwaul — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Caterwaul",
+   "en": "Caterwaul"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 250 po",
+   "en": "2,250gp"
+  },
+  "min_cp": 225000,
+  "max_cp": 225000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Caterwaul : félin bipède d'AD&D au cri strident et douloureux (Fiend Folio)."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1110
+ }
+}

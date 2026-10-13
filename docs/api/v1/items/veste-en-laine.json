@@ -1,0 +1,35 @@
+{
+ "id": "veste-en-laine",
+ "category": "vetements",
+ "name": {
+  "fr": "En laine",
+  "en": "Wool"
+ },
+ "full_name": {
+  "fr": "Veste — En laine",
+  "en": "Jacket — Wool"
+ },
+ "group": [
+  {
+   "fr": "Veste",
+   "en": "Jacket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 201
+ }
+}

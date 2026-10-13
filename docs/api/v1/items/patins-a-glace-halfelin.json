@@ -1,0 +1,35 @@
+{
+ "id": "patins-a-glace-halfelin",
+ "category": "transports",
+ "name": {
+  "fr": "Halfelin",
+  "en": "Halfling"
+ },
+ "full_name": {
+  "fr": "Patins à glace — Halfelin",
+  "en": "Skates — Halfling"
+ },
+ "group": [
+  {
+   "fr": "Patins à glace",
+   "en": "Skates"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 993
+ }
+}

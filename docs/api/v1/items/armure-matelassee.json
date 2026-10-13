@@ -1,0 +1,33 @@
+{
+ "id": "armure-matelassee",
+ "category": "armures",
+ "name": {
+  "fr": "Armure matelassée",
+  "en": "Padded Armor"
+ },
+ "full_name": {
+  "fr": "Armure matelassée",
+  "en": "Padded Armor"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3814
+ }
+}

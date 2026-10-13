@@ -1,0 +1,40 @@
+{
+ "id": "cornue-5-onces",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "5 onces",
+  "en": "5 oz"
+ },
+ "full_name": {
+  "fr": "Cornue — 5 onces",
+  "en": "Retort — 5 oz"
+ },
+ "group": [
+  {
+   "fr": "Cornue",
+   "en": "Retort"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Cornue : vase de verre à col long et recourbé, servant à distiller."
+  ]
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1875
+ }
+}

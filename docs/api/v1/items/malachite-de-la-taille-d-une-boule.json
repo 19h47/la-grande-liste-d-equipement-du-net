@@ -1,0 +1,37 @@
+{
+ "id": "malachite-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Malachite — De la taille d'une boule",
+  "en": "Malachite — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Malachite",
+   "en": "Malachite"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 000 po",
+   "en": "2,000gp"
+  },
+  "min_cp": 200000,
+  "max_cp": 200000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Malachite : carbonate de cuivre d'un vert veiné, employé pour les objets d'art."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2206
+ }
+}

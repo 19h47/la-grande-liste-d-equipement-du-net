@@ -1,0 +1,40 @@
+{
+ "id": "boucliers-pavois",
+ "category": "armures",
+ "name": {
+  "fr": "Pavois",
+  "en": "Body"
+ },
+ "full_name": {
+  "fr": "Boucliers — Pavois",
+  "en": "Shield — Body"
+ },
+ "group": [
+  {
+   "fr": "Boucliers",
+   "en": "Shield"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": [
+   "Pavois : grand bouclier couvrant presque tout le corps."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3819
+ }
+}

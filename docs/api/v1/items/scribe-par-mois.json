@@ -1,0 +1,30 @@
+{
+ "id": "scribe-par-mois",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Scribe, par mois",
+  "en": "Scribe, per month"
+ },
+ "full_name": {
+  "fr": "Scribe, par mois",
+  "en": "Scribe, per month"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2436
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "panthere-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Panthère — Cape, veste",
+  "en": "Panther — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Panthère",
+   "en": "Panther"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 250 po",
+   "en": "2,250gp"
+  },
+  "min_cp": 225000,
+  "max_cp": 225000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1203
+ }
+}

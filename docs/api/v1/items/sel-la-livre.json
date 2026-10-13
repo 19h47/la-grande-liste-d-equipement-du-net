@@ -1,0 +1,30 @@
+{
+ "id": "sel-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Sel, la livre",
+  "en": "Salt, per lb"
+ },
+ "full_name": {
+  "fr": "Sel, la livre",
+  "en": "Salt, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 734
+ }
+}

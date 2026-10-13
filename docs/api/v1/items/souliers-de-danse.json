@@ -1,0 +1,38 @@
+{
+ "id": "souliers-de-danse",
+ "category": "vetements",
+ "name": {
+  "fr": "De danse",
+  "en": "Dancing"
+ },
+ "full_name": {
+  "fr": "Souliers — De danse",
+  "en": "Shoes — Dancing"
+ },
+ "group": [
+  {
+   "fr": "Souliers",
+   "en": "Shoes"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pa/paire",
+   "en": "15sp/pair"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 269
+ }
+}

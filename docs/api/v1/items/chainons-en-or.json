@@ -1,0 +1,33 @@
+{
+ "id": "chainons-en-or",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Chaînons en or",
+  "en": "Links, gold"
+ },
+ "full_name": {
+  "fr": "Chaînons en or",
+  "en": "Links, gold"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3011
+ }
+}

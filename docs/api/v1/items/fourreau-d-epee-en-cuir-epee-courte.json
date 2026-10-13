@@ -1,0 +1,38 @@
+{
+ "id": "fourreau-d-epee-en-cuir-epee-courte",
+ "category": "contenants",
+ "name": {
+  "fr": "En cuir, épée courte",
+  "en": "Leather, Short"
+ },
+ "full_name": {
+  "fr": "Fourreau d'épée — En cuir, épée courte",
+  "en": "Scabbard, Sword — Leather, Short"
+ },
+ "group": [
+  {
+   "fr": "Fourreau d'épée",
+   "en": "Scabbard, Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1447
+ }
+}

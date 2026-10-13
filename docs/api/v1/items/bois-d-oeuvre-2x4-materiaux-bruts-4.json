@@ -1,0 +1,35 @@
+{
+ "id": "bois-d-oeuvre-2x4-materiaux-bruts-4",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "2x4",
+  "en": "2x4"
+ },
+ "full_name": {
+  "fr": "Bois d'œuvre — 2x4",
+  "en": "Lumber — 2x4"
+ },
+ "group": [
+  {
+   "fr": "Bois d'œuvre",
+   "en": "Lumber"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2177
+ }
+}

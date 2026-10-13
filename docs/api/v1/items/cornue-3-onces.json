@@ -1,0 +1,40 @@
+{
+ "id": "cornue-3-onces",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "3 onces",
+  "en": "3 oz"
+ },
+ "full_name": {
+  "fr": "Cornue — 3 onces",
+  "en": "Retort — 3 oz"
+ },
+ "group": [
+  {
+   "fr": "Cornue",
+   "en": "Retort"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Cornue : vase de verre à col long et recourbé, servant à distiller."
+  ]
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1874
+ }
+}

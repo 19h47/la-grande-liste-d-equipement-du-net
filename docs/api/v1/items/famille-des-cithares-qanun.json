@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-cithares-qanun",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Qanûn",
+  "en": "Ganun"
+ },
+ "full_name": {
+  "fr": "Famille des cithares — Qanûn",
+  "en": "Zither family — Ganun"
+ },
+ "group": [
+  {
+   "fr": "Famille des cithares",
+   "en": "Zither family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": [
+   "Qanûn : cithare trapézoïdale du monde arabe, à nombreuses cordes pincées."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3448
+ }
+}

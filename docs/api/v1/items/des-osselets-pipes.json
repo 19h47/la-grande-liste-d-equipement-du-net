@@ -1,0 +1,40 @@
+{
+ "id": "des-osselets-pipes",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Pipés",
+  "en": "loaded"
+ },
+ "full_name": {
+  "fr": "Dés / osselets — Pipés",
+  "en": "Dice / Knucklebones — loaded"
+ },
+ "group": [
+  {
+   "fr": "Dés / osselets",
+   "en": "Dice / Knucklebones"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": [
+   "Osselets : petits os de mouton (ou leurs imitations) servant à des jeux d'adresse et de hasard."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2961
+ }
+}

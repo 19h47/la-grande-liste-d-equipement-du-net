@@ -1,0 +1,38 @@
+{
+ "id": "gants-en-cuir-le-laboratoire",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "En cuir",
+  "en": "Leather"
+ },
+ "full_name": {
+  "fr": "Gants — En cuir",
+  "en": "Gloves — Leather"
+ },
+ "group": [
+  {
+   "fr": "Gants",
+   "en": "Gloves"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1860
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "baliste-lourde",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Baliste lourde",
+  "en": "Ballista, Heavy"
+ },
+ "full_name": {
+  "fr": "Baliste lourde",
+  "en": "Ballista, Heavy"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "800 po",
+   "en": "800gp"
+  },
+  "min_cp": 80000,
+  "max_cp": 80000,
+  "plus": false
+ },
+ "weight": {
+  "text": "400",
+  "lb": 400
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3479
+ }
+}

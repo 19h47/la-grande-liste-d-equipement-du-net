@@ -1,0 +1,40 @@
+{
+ "id": "tambours-a-friction",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Tambours à friction",
+  "en": "Friction Drums"
+ },
+ "full_name": {
+  "fr": "Tambours — Tambours à friction",
+  "en": "Drums — Friction Drums"
+ },
+ "group": [
+  {
+   "fr": "Tambours",
+   "en": "Drums"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Tambours à friction : tambours dont la peau vibre par frottement d'une baguette ou d'une corde qui la traverse."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3342
+ }
+}

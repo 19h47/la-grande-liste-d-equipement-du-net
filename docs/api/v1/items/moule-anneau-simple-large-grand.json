@@ -1,0 +1,39 @@
+{
+ "id": "moule-anneau-simple-large-grand",
+ "category": "outils",
+ "name": {
+  "fr": "Grand",
+  "en": "Large"
+ },
+ "full_name": {
+  "fr": "Moule — Anneau simple, large — Grand",
+  "en": "Mold — Ring, plain wide — Large"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Anneau simple, large",
+   "en": "Ring, plain wide"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2577
+ }
+}

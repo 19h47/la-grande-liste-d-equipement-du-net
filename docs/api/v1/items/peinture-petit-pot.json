@@ -1,0 +1,33 @@
+{
+ "id": "peinture-petit-pot",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "Peinture, petit pot",
+  "en": "Paint, small pot"
+ },
+ "full_name": {
+  "fr": "Peinture, petit pot",
+  "en": "Paint, small pot"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1951
+ }
+}

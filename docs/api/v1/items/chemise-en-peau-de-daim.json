@@ -1,0 +1,35 @@
+{
+ "id": "chemise-en-peau-de-daim",
+ "category": "vetements",
+ "name": {
+  "fr": "En peau de daim",
+  "en": "Deerskin"
+ },
+ "full_name": {
+  "fr": "Chemise — En peau de daim",
+  "en": "Shirt — Deerskin"
+ },
+ "group": [
+  {
+   "fr": "Chemise",
+   "en": "Shirt"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 264
+ }
+}

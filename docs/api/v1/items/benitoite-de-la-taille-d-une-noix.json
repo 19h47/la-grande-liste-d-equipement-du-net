@@ -1,0 +1,37 @@
+{
+ "id": "benitoite-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Bénitoïte — De la taille d'une noix",
+  "en": "Benitoite — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Bénitoïte",
+   "en": "Benitoite"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Bénitoïte : silicate rare d'un bleu saphir, découvert en Californie au début du XXe siècle."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2005
+ }
+}

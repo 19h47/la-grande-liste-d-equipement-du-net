@@ -1,0 +1,40 @@
+{
+ "id": "boucliers-bocle",
+ "category": "armures",
+ "name": {
+  "fr": "Bocle",
+  "en": "Buckler"
+ },
+ "full_name": {
+  "fr": "Boucliers — Bocle",
+  "en": "Shield — Buckler"
+ },
+ "group": [
+  {
+   "fr": "Boucliers",
+   "en": "Shield"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Bocle : petit bouclier rond tenu au poing."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3820
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "armure-d-ecailles",
+ "category": "armures",
+ "name": {
+  "fr": "Armure d'écailles",
+  "en": "Scale armor"
+ },
+ "full_name": {
+  "fr": "Armure d'écailles",
+  "en": "Scale armor"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "120 po",
+   "en": "120gp"
+  },
+  "min_cp": 12000,
+  "max_cp": 12000,
+  "plus": false
+ },
+ "weight": {
+  "text": "40",
+  "lb": 40
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3817
+ }
+}

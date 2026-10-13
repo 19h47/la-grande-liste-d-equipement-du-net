@@ -1,0 +1,35 @@
+{
+ "id": "agate-rubanee-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Agate rubanée — De la taille d'une noix",
+  "en": "Banded Agate — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Agate rubanée",
+   "en": "Banded Agate"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2001
+ }
+}

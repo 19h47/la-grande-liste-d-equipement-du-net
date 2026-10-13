@@ -1,0 +1,30 @@
+{
+ "id": "grand-singe",
+ "category": "animaux",
+ "name": {
+  "fr": "Grand singe",
+  "en": "Ape"
+ },
+ "full_name": {
+  "fr": "Grand singe",
+  "en": "Ape"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1628
+ }
+}

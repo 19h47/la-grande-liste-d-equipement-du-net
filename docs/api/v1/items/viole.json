@@ -1,0 +1,35 @@
+{
+ "id": "viole",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Viole",
+  "en": "Viol"
+ },
+ "full_name": {
+  "fr": "Viole",
+  "en": "Viol"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "70 po",
+   "en": "70gp"
+  },
+  "min_cp": 7000,
+  "max_cp": 7000,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Viole : instrument à archet et à frettes de la Renaissance, tenu entre les jambes ou sur les genoux."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3436
+ }
+}

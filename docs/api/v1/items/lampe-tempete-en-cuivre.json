@@ -1,0 +1,40 @@
+{
+ "id": "lampe-tempete-en-cuivre",
+ "category": "eclairage",
+ "name": {
+  "fr": "En cuivre",
+  "en": "Copper"
+ },
+ "full_name": {
+  "fr": "Lampe-tempête — En cuivre",
+  "en": "Hurricane lamp — Copper"
+ },
+ "group": [
+  {
+   "fr": "Lampe-tempête",
+   "en": "Hurricane lamp"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Lampe-tempête : lampe dont la flamme est protégée par un verre, conçue pour résister au vent."
+  ]
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2668
+ }
+}

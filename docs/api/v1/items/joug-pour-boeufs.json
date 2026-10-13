@@ -1,0 +1,40 @@
+{
+ "id": "joug-pour-boeufs",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Pour bœufs",
+  "en": "Oxen"
+ },
+ "full_name": {
+  "fr": "Joug — Pour bœufs",
+  "en": "Yoke — Oxen"
+ },
+ "group": [
+  {
+   "fr": "Joug",
+   "en": "Yoke"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": [
+   "Joug : pièce de bois posée sur la nuque ou le garrot de deux bêtes de trait pour les atteler ensemble."
+  ]
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1079
+ }
+}

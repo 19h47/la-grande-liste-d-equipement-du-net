@@ -1,0 +1,30 @@
+{
+ "id": "parapet-en-pierre-10-pieds-de-long",
+ "category": "constructions",
+ "name": {
+  "fr": "Parapet en pierre, 10 pieds de long",
+  "en": "Parapet, stone, 10'l"
+ },
+ "full_name": {
+  "fr": "Parapet en pierre, 10 pieds de long",
+  "en": "Parapet, stone, 10'l"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3288
+ }
+}

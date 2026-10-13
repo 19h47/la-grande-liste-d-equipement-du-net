@@ -1,0 +1,38 @@
+{
+ "id": "seau-en-cuir-contenance-3-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En cuir, contenance 3 gallons",
+  "en": "Leather, holds 3 gallons"
+ },
+ "full_name": {
+  "fr": "Seau — En cuir, contenance 3 gallons",
+  "en": "Bucket — Leather, holds 3 gallons"
+ },
+ "group": [
+  {
+   "fr": "Seau",
+   "en": "Bucket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1331
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "assiette-en-argent",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En argent",
+  "en": "Silver"
+ },
+ "full_name": {
+  "fr": "Assiette — En argent",
+  "en": "Plate — Silver"
+ },
+ "group": [
+  {
+   "fr": "Assiette",
+   "en": "Plate"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3078
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "caterwaul-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Caterwaul — Manteau, robe, couverture",
+  "en": "Caterwaul — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Caterwaul",
+   "en": "Caterwaul"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 500 po",
+   "en": "4,500gp"
+  },
+  "min_cp": 450000,
+  "max_cp": 450000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Caterwaul : félin bipède d'AD&D au cri strident et douloureux (Fiend Folio)."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1111
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "arcs-fleche-de-vol",
+ "category": "armes",
+ "name": {
+  "fr": "Flèche de vol",
+  "en": "Arrow, flight"
+ },
+ "full_name": {
+  "fr": "Arcs — Flèche de vol",
+  "en": "Bow — Arrow, flight"
+ },
+ "group": [
+  {
+   "fr": "Arcs",
+   "en": "Bow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa/12",
+   "en": "3sp/12"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Flèche de vol : flèche légère conçue pour le tir à longue portée."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3537
+ }
+}

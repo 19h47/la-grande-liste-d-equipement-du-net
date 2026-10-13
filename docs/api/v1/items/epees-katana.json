@@ -1,0 +1,38 @@
+{
+ "id": "epees-katana",
+ "category": "armes",
+ "name": {
+  "fr": "Katana",
+  "en": "Katana"
+ },
+ "full_name": {
+  "fr": "Épées — Katana",
+  "en": "Sword — Katana"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3714
+ }
+}

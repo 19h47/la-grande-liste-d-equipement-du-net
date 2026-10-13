@@ -1,0 +1,38 @@
+{
+ "id": "repas-a-l-unite-boeuf-roti-cuit-aux-oignons-ou-aux-poireaux-ail-en-option",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Bœuf rôti (cuit aux oignons ou aux poireaux, ail en option)",
+  "en": "Roast Ox (cooked with onions or leeks - garlic optional)"
+ },
+ "full_name": {
+  "fr": "Repas (à l'unité) — Bœuf rôti (cuit aux oignons ou aux poireaux, ail en option)",
+  "en": "Meals (individual) — Roast Ox (cooked with onions or leeks - garlic optional)"
+ },
+ "group": [
+  {
+   "fr": "Repas (à l'unité)",
+   "en": "Meals (individual)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 395
+ }
+}

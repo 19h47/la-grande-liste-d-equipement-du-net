@@ -1,0 +1,35 @@
+{
+ "id": "acier-lingot-par-5-livres",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Lingot, par 5 livres",
+  "en": "Ingot, per 5lb"
+ },
+ "full_name": {
+  "fr": "Acier — Lingot, par 5 livres",
+  "en": "Steel — Ingot, per 5lb"
+ },
+ "group": [
+  {
+   "fr": "Acier",
+   "en": "Steel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2300
+ }
+}

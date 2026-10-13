@@ -1,0 +1,35 @@
+{
+ "id": "beurre-de-pomme-la-pinte",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Beurre de pomme, la pinte",
+  "en": "Applebutter, per pint"
+ },
+ "full_name": {
+  "fr": "Beurre de pomme, la pinte",
+  "en": "Applebutter, per pint"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Beurre de pomme : compote de pommes longuement réduite et épicée, à tartiner."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 447
+ }
+}

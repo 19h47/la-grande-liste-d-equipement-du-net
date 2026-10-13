@@ -1,0 +1,30 @@
+{
+ "id": "gorille-ours",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Gorille-ours",
+  "en": "Gorilla, bear"
+ },
+ "full_name": {
+  "fr": "Gorille-ours",
+  "en": "Gorilla, bear"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "400 po",
+   "en": "400gp"
+  },
+  "min_cp": 40000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1519
+ }
+}

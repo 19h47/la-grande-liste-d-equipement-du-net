@@ -1,0 +1,38 @@
+{
+ "id": "lances-de-cavalerie-lourde",
+ "category": "armes",
+ "name": {
+  "fr": "Lourde",
+  "en": "Heavy"
+ },
+ "full_name": {
+  "fr": "Lances de cavalerie — Lourde",
+  "en": "Lance — Heavy"
+ },
+ "group": [
+  {
+   "fr": "Lances de cavalerie",
+   "en": "Lance"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3646
+ }
+}

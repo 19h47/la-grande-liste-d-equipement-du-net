@@ -1,0 +1,41 @@
+{
+ "id": "vielle-a-roue-organistrum",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Organistrum",
+  "en": "Organistrum"
+ },
+ "full_name": {
+  "fr": "Vielle à roue — Organistrum",
+  "en": "Hurdy gurdy — Organistrum"
+ },
+ "group": [
+  {
+   "fr": "Vielle à roue",
+   "en": "Hurdy gurdy"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "85 po",
+   "en": "85gp"
+  },
+  "min_cp": 8500,
+  "max_cp": 8500,
+  "plus": false
+ },
+ "weight": {
+  "text": "7",
+  "lb": 7
+ },
+ "notes": {
+  "fr": [
+   "Vielle à roue : instrument dont les cordes sont frottées par une roue à manivelle et raccourcies par un petit clavier.",
+   "Organistrum : grande vielle à roue médiévale, jouée à deux musiciens."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3404
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "etain-feuille-de-1-pied-de-cote",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Feuille de 1 pied de côté",
+  "en": "Sheet, 1ft sq"
+ },
+ "full_name": {
+  "fr": "Étain — Feuille de 1 pied de côté",
+  "en": "Tin — Sheet, 1ft sq"
+ },
+ "group": [
+  {
+   "fr": "Étain",
+   "en": "Tin"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2323
+ }
+}

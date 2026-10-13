@@ -1,0 +1,40 @@
+{
+ "id": "dragontears",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Dragontears",
+  "en": "Dragontears"
+ },
+ "full_name": {
+  "fr": "Dragontears",
+  "en": "Dragontears"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Dragontears : plante du désert du Net Book of Herbs qui guérit sans cicatrice ; la boire peut être mortel."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2760
+ }
+}

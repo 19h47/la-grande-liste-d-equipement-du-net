@@ -1,0 +1,38 @@
+{
+ "id": "matelas-une-place-de-paille",
+ "category": "mobilier",
+ "name": {
+  "fr": "Une place, de paille",
+  "en": "Single, Straw"
+ },
+ "full_name": {
+  "fr": "Matelas — Une place, de paille",
+  "en": "Mattress — Single, Straw"
+ },
+ "group": [
+  {
+   "fr": "Matelas",
+   "en": "Mattress"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1583
+ }
+}

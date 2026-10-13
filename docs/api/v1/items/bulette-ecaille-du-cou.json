@@ -1,0 +1,32 @@
+{
+ "id": "bulette-ecaille-du-cou",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Bulette (écaille du cou)",
+  "en": "Bulette (neck, Scale)"
+ },
+ "full_name": {
+  "fr": "Bulette (écaille du cou)",
+  "en": "Bulette (neck, Scale)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "200-500 po",
+   "en": "200-500gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Bulette : « requin de terre », monstre cuirassé qui chasse en creusant le sol."
+  ]
+ },
+ "source": {
+  "table": "VI",
+  "line": 904
+ }
+}

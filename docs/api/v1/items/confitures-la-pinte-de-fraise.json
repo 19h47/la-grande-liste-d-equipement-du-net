@@ -1,0 +1,38 @@
+{
+ "id": "confitures-la-pinte-de-fraise",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De fraise",
+  "en": "strawberry"
+ },
+ "full_name": {
+  "fr": "Confitures, la pinte — De fraise",
+  "en": "Jam, per pint — strawberry"
+ },
+ "group": [
+  {
+   "fr": "Confitures, la pinte",
+   "en": "Jam, per pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 616
+ }
+}

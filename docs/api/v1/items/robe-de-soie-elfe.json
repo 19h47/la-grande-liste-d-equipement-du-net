@@ -1,0 +1,38 @@
+{
+ "id": "robe-de-soie-elfe",
+ "category": "vetements",
+ "name": {
+  "fr": "Elfe",
+  "en": "Elf"
+ },
+ "full_name": {
+  "fr": "Robe de soie — Elfe",
+  "en": "Gown, Silk — Elf"
+ },
+ "group": [
+  {
+   "fr": "Robe de soie",
+   "en": "Gown, Silk"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 179
+ }
+}

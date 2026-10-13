@@ -1,0 +1,32 @@
+{
+ "id": "ours",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Ours",
+  "en": "Bear"
+ },
+ "full_name": {
+  "fr": "Ours",
+  "en": "Bear"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "200-400/DV adulte",
+   "en": "200-400/adult HD"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "DV : dés de vie (« HD » en anglais) ; le prix se calcule d'après les dés de vie de l'adulte."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1480
+ }
+}

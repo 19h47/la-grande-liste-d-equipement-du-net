@@ -1,0 +1,33 @@
+{
+ "id": "masque-de-plongee",
+ "category": "outils",
+ "name": {
+  "fr": "Masque de plongée",
+  "en": "Divers Mask"
+ },
+ "full_name": {
+  "fr": "Masque de plongée",
+  "en": "Divers Mask"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "30 pa",
+   "en": "30sp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2489
+ }
+}

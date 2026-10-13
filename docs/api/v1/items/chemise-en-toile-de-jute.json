@@ -1,0 +1,40 @@
+{
+ "id": "chemise-en-toile-de-jute",
+ "category": "vetements",
+ "name": {
+  "fr": "En toile de jute",
+  "en": "Sackcloth"
+ },
+ "full_name": {
+  "fr": "Chemise — En toile de jute",
+  "en": "Chemise — Sackcloth"
+ },
+ "group": [
+  {
+   "fr": "Chemise",
+   "en": "Chemise"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Chemise : au Moyen Âge, vêtement de dessous en toile, porté à même la peau sous la cotte."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 124
+ }
+}

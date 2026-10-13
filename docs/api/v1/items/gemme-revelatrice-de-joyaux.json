@@ -1,0 +1,33 @@
+{
+ "id": "gemme-revelatrice-de-joyaux",
+ "category": "outils",
+ "name": {
+  "fr": "Gemme révélatrice de joyaux",
+  "en": "Jewel spotter gem"
+ },
+ "full_name": {
+  "fr": "Gemme révélatrice de joyaux",
+  "en": "Jewel spotter gem"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2511
+ }
+}

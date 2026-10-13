@@ -1,0 +1,32 @@
+{
+ "id": "boggle",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Boggle",
+  "en": "Boggle"
+ },
+ "full_name": {
+  "fr": "Boggle",
+  "en": "Boggle"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "430 po",
+   "en": "430gp"
+  },
+  "min_cp": 43000,
+  "max_cp": 43000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Boggle : petit humanoïde chapardeur au corps élastique, capable de se glisser par la moindre ouverture."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1485
+ }
+}

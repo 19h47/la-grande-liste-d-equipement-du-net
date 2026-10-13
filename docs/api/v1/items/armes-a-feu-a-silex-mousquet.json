@@ -1,0 +1,42 @@
+{
+ "id": "armes-a-feu-a-silex-mousquet",
+ "category": "armes",
+ "name": {
+  "fr": "Mousquet",
+  "en": "Musket"
+ },
+ "full_name": {
+  "fr": "Armes à feu — À silex — Mousquet",
+  "en": "Firearms — Flintlock — Musket"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "À silex",
+   "en": "Flintlock"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "90 po",
+   "en": "90gp"
+  },
+  "min_cp": 9000,
+  "max_cp": 9000,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3601
+ }
+}

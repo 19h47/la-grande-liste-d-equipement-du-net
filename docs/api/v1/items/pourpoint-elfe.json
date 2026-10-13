@@ -1,0 +1,40 @@
+{
+ "id": "pourpoint-elfe",
+ "category": "vetements",
+ "name": {
+  "fr": "Elfe",
+  "en": "Elf"
+ },
+ "full_name": {
+  "fr": "Pourpoint — Elfe",
+  "en": "Doublet — Elf"
+ },
+ "group": [
+  {
+   "fr": "Pourpoint",
+   "en": "Doublet"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Pourpoint : veste courte et matelassée couvrant le torse du cou à la taille."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 147
+ }
+}

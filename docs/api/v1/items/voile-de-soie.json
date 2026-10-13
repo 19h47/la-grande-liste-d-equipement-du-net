@@ -1,0 +1,33 @@
+{
+ "id": "voile-de-soie",
+ "category": "vetements",
+ "name": {
+  "fr": "Voile de soie",
+  "en": "Veil, Silk"
+ },
+ "full_name": {
+  "fr": "Voile de soie",
+  "en": "Veil, Silk"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 304
+ }
+}

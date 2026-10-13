@@ -1,0 +1,38 @@
+{
+ "id": "repas-a-l-unite-caille",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Caille",
+  "en": "Quail"
+ },
+ "full_name": {
+  "fr": "Repas (à l'unité) — Caille",
+  "en": "Meals (individual) — Quail"
+ },
+ "group": [
+  {
+   "fr": "Repas (à l'unité)",
+   "en": "Meals (individual)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 391
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "armes-de-pixie-fleche-de-sommeil",
+ "category": "armes",
+ "name": {
+  "fr": "Flèche de sommeil",
+  "en": "Sleep Arrow"
+ },
+ "full_name": {
+  "fr": "Armes de pixie — Flèche de sommeil",
+  "en": "Pixie Weapons — Sleep Arrow"
+ },
+ "group": [
+  {
+   "fr": "Armes de pixie",
+   "en": "Pixie Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po/6",
+   "en": "10gp/6"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3667
+ }
+}

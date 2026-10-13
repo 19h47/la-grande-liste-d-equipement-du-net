@@ -1,0 +1,40 @@
+{
+ "id": "chandeliers-en-laiton",
+ "category": "eclairage",
+ "name": {
+  "fr": "En laiton",
+  "en": "brass"
+ },
+ "full_name": {
+  "fr": "Chandeliers — En laiton",
+  "en": "Candlesticks — brass"
+ },
+ "group": [
+  {
+   "fr": "Chandeliers",
+   "en": "Candlesticks"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": [
+   "Chandeliers : ici, bougeoirs portant une chandelle, et non lustres suspendus."
+  ]
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2659
+ }
+}

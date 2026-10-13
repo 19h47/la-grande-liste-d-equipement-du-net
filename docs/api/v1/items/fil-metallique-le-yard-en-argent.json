@@ -1,0 +1,38 @@
+{
+ "id": "fil-metallique-le-yard-en-argent",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En argent",
+  "en": "Silver"
+ },
+ "full_name": {
+  "fr": "Fil métallique, le yard — En argent",
+  "en": "Wire, per yrd — Silver"
+ },
+ "group": [
+  {
+   "fr": "Fil métallique, le yard",
+   "en": "Wire, per yrd"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3167
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "id": "armes-a-feu-a-meche-mousquet-a-fourquine",
+ "category": "armes",
+ "name": {
+  "fr": "Mousquet à fourquine",
+  "en": "Musket w/rest"
+ },
+ "full_name": {
+  "fr": "Armes à feu — À mèche — Mousquet à fourquine",
+  "en": "Firearms — Matchlock — Musket w/rest"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "À mèche",
+   "en": "Matchlock"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "45 po",
+   "en": "45gp"
+  },
+  "min_cp": 4500,
+  "max_cp": 4500,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": [
+   "À mèche : platine où une mèche lente allumée vient enflammer la poudre d'amorce.",
+   "Mousquet à fourquine : mousquet lourd dont le canon repose, pour tirer, sur une fourche d'appui plantée au sol."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3586
+ }
+}

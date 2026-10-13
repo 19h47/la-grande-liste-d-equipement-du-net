@@ -1,0 +1,35 @@
+{
+ "id": "meule-a-bras",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Meule à bras",
+  "en": "Quern"
+ },
+ "full_name": {
+  "fr": "Meule à bras",
+  "en": "Quern"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": [
+   "Meule à bras : petit moulin manuel à deux pierres rondes, pour moudre grains ou ingrédients."
+  ]
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1872
+ }
+}

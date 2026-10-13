@@ -1,0 +1,38 @@
+{
+ "id": "harnais-a-six",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "À six",
+  "en": "Six"
+ },
+ "full_name": {
+  "fr": "Harnais — À six",
+  "en": "Harness — Six"
+ },
+ "group": [
+  {
+   "fr": "Harnais",
+   "en": "Harness"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "40",
+  "lb": 40
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1061
+ }
+}

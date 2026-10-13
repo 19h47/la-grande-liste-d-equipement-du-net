@@ -1,0 +1,32 @@
+{
+ "id": "tarasque",
+ "category": "carcasses",
+ "name": {
+  "fr": "Tarasque",
+  "en": "Tarrasque"
+ },
+ "full_name": {
+  "fr": "Tarasque",
+  "en": "Tarrasque"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 000-100 000 po",
+   "en": "50,000-100,000gp"
+  },
+  "min_cp": 5000000,
+  "max_cp": 10000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Tarasque : en AD&D, monstre colossal et quasi invulnérable, unique en son genre, qui ravage tout sur son passage."
+  ]
+ },
+ "source": {
+  "table": "XIV",
+  "line": 1614
+ }
+}

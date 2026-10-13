@@ -1,0 +1,38 @@
+{
+ "id": "poupee-a-sa-propre-effigie",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "À sa propre effigie",
+  "en": "Replica of self"
+ },
+ "full_name": {
+  "fr": "Poupée — À sa propre effigie",
+  "en": "Doll — Replica of self"
+ },
+ "group": [
+  {
+   "fr": "Poupée",
+   "en": "Doll"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2972
+ }
+}

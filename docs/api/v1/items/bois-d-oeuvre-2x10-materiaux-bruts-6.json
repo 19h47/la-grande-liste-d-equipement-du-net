@@ -1,0 +1,35 @@
+{
+ "id": "bois-d-oeuvre-2x10-materiaux-bruts-6",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "2x10",
+  "en": "2x10"
+ },
+ "full_name": {
+  "fr": "Bois d'œuvre — 2x10",
+  "en": "Lumber — 2x10"
+ },
+ "group": [
+  {
+   "fr": "Bois d'œuvre",
+   "en": "Lumber"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2192
+ }
+}

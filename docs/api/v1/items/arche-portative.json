@@ -1,0 +1,33 @@
+{
+ "id": "arche-portative",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Arche portative",
+  "en": "Portable Arch"
+ },
+ "full_name": {
+  "fr": "Arche portative",
+  "en": "Portable Arch"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "250 po",
+   "en": "250gp"
+  },
+  "min_cp": 25000,
+  "max_cp": 25000,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3089
+ }
+}

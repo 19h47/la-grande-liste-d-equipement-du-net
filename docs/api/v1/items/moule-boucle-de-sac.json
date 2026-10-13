@@ -1,0 +1,39 @@
+{
+ "id": "moule-boucle-de-sac",
+ "category": "outils",
+ "name": {
+  "fr": "De sac",
+  "en": "Pack"
+ },
+ "full_name": {
+  "fr": "Moule — Boucle — De sac",
+  "en": "Mold — Buckle — Pack"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Boucle",
+   "en": "Buckle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2531
+ }
+}

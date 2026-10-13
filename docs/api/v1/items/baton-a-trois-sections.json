@@ -1,0 +1,35 @@
+{
+ "id": "baton-a-trois-sections",
+ "category": "armes",
+ "name": {
+  "fr": "Bâton à trois sections",
+  "en": "Three-piece rod"
+ },
+ "full_name": {
+  "fr": "Bâton à trois sections",
+  "en": "Three-piece rod"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Bâton à trois sections : arme chinoise de trois bâtons reliés par des chaînes ou des anneaux."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3729
+ }
+}

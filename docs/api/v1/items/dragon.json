@@ -1,0 +1,32 @@
+{
+ "id": "dragon",
+ "category": "peaux",
+ "name": {
+  "fr": "Dragon",
+  "en": "Dragon"
+ },
+ "full_name": {
+  "fr": "Dragon",
+  "en": "Dragon"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50% de la valeur du dragon soumis",
+   "en": "50% of subdued value"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Dragon soumis : en AD&D, un dragon vaincu sans être tué peut être vendu ; sa valeur sert ici de référence."
+  ]
+ },
+ "source": {
+  "table": "V",
+  "line": 873
+ }
+}

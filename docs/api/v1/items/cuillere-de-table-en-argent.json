@@ -1,0 +1,38 @@
+{
+ "id": "cuillere-de-table-en-argent",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "De table, en argent",
+  "en": "Dinner, silver"
+ },
+ "full_name": {
+  "fr": "Cuillère — De table, en argent",
+  "en": "Spoon — Dinner, silver"
+ },
+ "group": [
+  {
+   "fr": "Cuillère",
+   "en": "Spoon"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3113
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "chevaux-de-guerre-moyen",
+ "category": "animaux",
+ "name": {
+  "fr": "De guerre moyen",
+  "en": "Medium War"
+ },
+ "full_name": {
+  "fr": "Chevaux — De guerre moyen",
+  "en": "Horse — Medium War"
+ },
+ "group": [
+  {
+   "fr": "Chevaux",
+   "en": "Horse"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "225 po",
+   "en": "225gp"
+  },
+  "min_cp": 22500,
+  "max_cp": 22500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1677
+ }
+}

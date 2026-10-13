@@ -1,0 +1,35 @@
+{
+ "id": "castor-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Castor — Peau",
+  "en": "Beaver — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Castor",
+   "en": "Beaver"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1098
+ }
+}

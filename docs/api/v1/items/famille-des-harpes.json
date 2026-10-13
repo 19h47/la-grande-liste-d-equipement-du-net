@@ -1,0 +1,33 @@
+{
+ "id": "famille-des-harpes",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Famille des harpes",
+  "en": "Harp Family"
+ },
+ "full_name": {
+  "fr": "Famille des harpes",
+  "en": "Harp Family"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3389
+ }
+}

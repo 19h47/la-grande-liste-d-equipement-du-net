@@ -1,0 +1,35 @@
+{
+ "id": "eteignoir",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Éteignoir",
+  "en": "Candle Snuffer"
+ },
+ "full_name": {
+  "fr": "Éteignoir",
+  "en": "Candle Snuffer"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Éteignoir : petit cône de métal, souvent emmanché, que l'on pose sur la flamme d'une bougie pour l'étouffer."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2911
+ }
+}

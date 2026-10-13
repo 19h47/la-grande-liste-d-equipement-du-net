@@ -1,0 +1,33 @@
+{
+ "id": "brassards",
+ "category": "vetements",
+ "name": {
+  "fr": "Brassards",
+  "en": "Armband"
+ },
+ "full_name": {
+  "fr": "Brassards",
+  "en": "Armband"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "35 po/paire",
+   "en": "35gp/pair"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 78
+ }
+}

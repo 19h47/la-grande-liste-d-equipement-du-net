@@ -1,0 +1,30 @@
+{
+ "id": "fabricant-d-armes-par-mois",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Fabricant d'armes, par mois",
+  "en": "Weaponmaker, per month"
+ },
+ "full_name": {
+  "fr": "Fabricant d'armes, par mois",
+  "en": "Weaponmaker, per month"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2446
+ }
+}

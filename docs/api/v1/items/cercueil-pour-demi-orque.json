@@ -1,0 +1,38 @@
+{
+ "id": "cercueil-pour-demi-orque",
+ "category": "contenants",
+ "name": {
+  "fr": "Pour demi-orque",
+  "en": "Half-orc"
+ },
+ "full_name": {
+  "fr": "Cercueil — Pour demi-orque",
+  "en": "Casket — Half-orc"
+ },
+ "group": [
+  {
+   "fr": "Cercueil",
+   "en": "Casket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "60",
+  "lb": 60
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1357
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "cercueil-pour-elfe",
+ "category": "contenants",
+ "name": {
+  "fr": "Pour elfe",
+  "en": "Elf"
+ },
+ "full_name": {
+  "fr": "Cercueil — Pour elfe",
+  "en": "Casket — Elf"
+ },
+ "group": [
+  {
+   "fr": "Cercueil",
+   "en": "Casket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "50",
+  "lb": 50
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1354
+ }
+}

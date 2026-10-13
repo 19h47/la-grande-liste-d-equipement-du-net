@@ -1,0 +1,38 @@
+{
+ "id": "fil-metallique-le-yard-en-platine",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En platine",
+  "en": "Platinum"
+ },
+ "full_name": {
+  "fr": "Fil métallique, le yard — En platine",
+  "en": "Wire, per yrd — Platinum"
+ },
+ "group": [
+  {
+   "fr": "Fil métallique, le yard",
+   "en": "Wire, per yrd"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3166
+ }
+}

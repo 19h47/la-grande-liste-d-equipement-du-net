@@ -1,0 +1,33 @@
+{
+ "id": "boucles-d-oreilles",
+ "category": "vetements",
+ "name": {
+  "fr": "Boucles d'oreilles",
+  "en": "Earrings"
+ },
+ "full_name": {
+  "fr": "Boucles d'oreilles",
+  "en": "Earrings"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 154
+ }
+}

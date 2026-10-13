@@ -1,0 +1,33 @@
+{
+ "id": "tapis-le-yard-carre",
+ "category": "tissus",
+ "name": {
+  "fr": "Tapis, le yard carré",
+  "en": "Carpet, per sq yard"
+ },
+ "full_name": {
+  "fr": "Tapis, le yard carré",
+  "en": "Carpet, per sq yard"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1-10 pa",
+   "en": "1-10sp"
+  },
+  "min_cp": 10,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1718
+ }
+}

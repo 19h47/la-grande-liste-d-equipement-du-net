@@ -1,0 +1,30 @@
+{
+ "id": "chat-domestique",
+ "category": "animaux",
+ "name": {
+  "fr": "Chat domestique",
+  "en": "Cat house"
+ },
+ "full_name": {
+  "fr": "Chat domestique",
+  "en": "Cat house"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1640
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "vin-de-feu-bouteille",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Bouteille",
+  "en": "Bottle"
+ },
+ "full_name": {
+  "fr": "Vin de feu — Bouteille",
+  "en": "Firewine — Bottle"
+ },
+ "group": [
+  {
+   "fr": "Vin de feu",
+   "en": "Firewine"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "9 po",
+   "en": "9gp"
+  },
+  "min_cp": 900,
+  "max_cp": 900,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Vin de feu : vin exporté par les Vieux Empires des Royaumes oubliés."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 357
+ }
+}

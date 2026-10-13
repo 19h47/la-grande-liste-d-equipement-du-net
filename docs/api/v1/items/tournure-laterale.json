@@ -1,0 +1,40 @@
+{
+ "id": "tournure-laterale",
+ "category": "vetements",
+ "name": {
+  "fr": "Latérale",
+  "en": "Side"
+ },
+ "full_name": {
+  "fr": "Tournure — Latérale",
+  "en": "Bustle — Side"
+ },
+ "group": [
+  {
+   "fr": "Tournure",
+   "en": "Bustle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Tournure : rembourrage porté sous la jupe pour lui donner de l'ampleur."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 113
+ }
+}

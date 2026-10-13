@@ -1,0 +1,40 @@
+{
+ "id": "bardes-demi-bardes-de-brigandine",
+ "category": "armures",
+ "name": {
+  "fr": "Demi-bardes de brigandine",
+  "en": "Half brigandine"
+ },
+ "full_name": {
+  "fr": "Bardes — Demi-bardes de brigandine",
+  "en": "Barding — Half brigandine"
+ },
+ "group": [
+  {
+   "fr": "Bardes",
+   "en": "Barding"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": {
+  "text": "45",
+  "lb": 45
+ },
+ "notes": {
+  "fr": [
+   "Bardes : armure de cheval."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3750
+ }
+}

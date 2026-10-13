@@ -1,0 +1,38 @@
+{
+ "id": "fleurs-et-fruits-cristallises-l-once-raisins",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Raisins",
+  "en": "Grapes"
+ },
+ "full_name": {
+  "fr": "Fleurs et fruits cristallisés, l'once — Raisins",
+  "en": "Crystallized, per oz — Grapes"
+ },
+ "group": [
+  {
+   "fr": "Fleurs et fruits cristallisés, l'once",
+   "en": "Crystallized, per oz"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 566
+ }
+}

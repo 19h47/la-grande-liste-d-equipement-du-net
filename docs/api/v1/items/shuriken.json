@@ -1,0 +1,33 @@
+{
+ "id": "shuriken",
+ "category": "armes",
+ "name": {
+  "fr": "Shuriken",
+  "en": "Shuriken"
+ },
+ "full_name": {
+  "fr": "Shuriken",
+  "en": "Shuriken"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3697
+ }
+}

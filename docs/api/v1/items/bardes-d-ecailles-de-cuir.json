@@ -1,0 +1,40 @@
+{
+ "id": "bardes-d-ecailles-de-cuir",
+ "category": "armures",
+ "name": {
+  "fr": "D'écailles de cuir",
+  "en": "Leather Scale"
+ },
+ "full_name": {
+  "fr": "Bardes — D'écailles de cuir",
+  "en": "Barding — Leather Scale"
+ },
+ "group": [
+  {
+   "fr": "Bardes",
+   "en": "Barding"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "weight": {
+  "text": "50",
+  "lb": 50
+ },
+ "notes": {
+  "fr": [
+   "Bardes : armure de cheval."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3754
+ }
+}

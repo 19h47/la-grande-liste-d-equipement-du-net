@@ -1,0 +1,40 @@
+{
+ "id": "palmealdath",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Palmealdath",
+  "en": "Palmealdath"
+ },
+ "full_name": {
+  "fr": "Palmealdath",
+  "en": "Palmealdath"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Palmealdath : plante du Net Book of Herbs (Palma Eldath) qui garde au chaud une journée ou une nuit, contre le froid."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2812
+ }
+}

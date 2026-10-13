@@ -1,0 +1,40 @@
+{
+ "id": "claviers-virginal",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Virginal",
+  "en": "Virginals"
+ },
+ "full_name": {
+  "fr": "Claviers — Virginal",
+  "en": "Keyboard — Virginals"
+ },
+ "group": [
+  {
+   "fr": "Claviers",
+   "en": "Keyboard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "weight": {
+  "text": "85",
+  "lb": 85
+ },
+ "notes": {
+  "fr": [
+   "Virginal : petit clavecin de forme rectangulaire, en vogue en Angleterre à la Renaissance."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3412
+ }
+}

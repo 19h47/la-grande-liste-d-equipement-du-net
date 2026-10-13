@@ -1,0 +1,33 @@
+{
+ "id": "grille-de-foyer",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Grille de foyer",
+  "en": "Fire grate"
+ },
+ "full_name": {
+  "fr": "Grille de foyer",
+  "en": "Fire grate"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1776
+ }
+}

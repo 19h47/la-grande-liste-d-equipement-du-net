@@ -1,0 +1,38 @@
+{
+ "id": "baies-canneberges-l-once",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Canneberges, l'once",
+  "en": "Cranberries, per oz"
+ },
+ "full_name": {
+  "fr": "Baies — Canneberges, l'once",
+  "en": "Berries — Cranberries, per oz"
+ },
+ "group": [
+  {
+   "fr": "Baies",
+   "en": "Berries"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 468
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "sphere-en-obsidienne",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En obsidienne",
+  "en": "Obsidian"
+ },
+ "full_name": {
+  "fr": "Sphère — En obsidienne",
+  "en": "Sphere — Obsidian"
+ },
+ "group": [
+  {
+   "fr": "Sphère",
+   "en": "Sphere"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "18 po",
+   "en": "18gp"
+  },
+  "min_cp": 1800,
+  "max_cp": 1800,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3109
+ }
+}

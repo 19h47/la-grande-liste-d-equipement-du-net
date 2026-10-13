@@ -1,0 +1,33 @@
+{
+ "id": "hamecon",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Hameçon",
+  "en": "Fishhook"
+ },
+ "full_name": {
+  "fr": "Hameçon",
+  "en": "Fishhook"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2975
+ }
+}

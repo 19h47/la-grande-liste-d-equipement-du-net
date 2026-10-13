@@ -1,0 +1,30 @@
+{
+ "id": "guerison",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Guérison",
+  "en": "Heal"
+ },
+ "full_name": {
+  "fr": "Guérison",
+  "en": "Heal"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po par point de vie guéri",
+   "en": "50gp per point healed"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3226
+ }
+}

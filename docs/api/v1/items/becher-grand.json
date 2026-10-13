@@ -1,0 +1,40 @@
+{
+ "id": "becher-grand",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Grand",
+  "en": "Large"
+ },
+ "full_name": {
+  "fr": "Bécher — Grand",
+  "en": "Beaker — Large"
+ },
+ "group": [
+  {
+   "fr": "Bécher",
+   "en": "Beaker"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Bécher : récipient de verre cylindrique à bec verseur, utilisé en laboratoire."
+  ]
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1833
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "hieracosphinx",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Hiéracosphinx",
+  "en": "Sphinx-hieraco"
+ },
+ "full_name": {
+  "fr": "Hiéracosphinx",
+  "en": "Sphinx-hieraco"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "4 000 po",
+   "en": "4,000gp"
+  },
+  "min_cp": 400000,
+  "max_cp": 400000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "6 000 po",
+   "en": "6,000gp"
+  },
+  "min_cp": 600000,
+  "max_cp": 600000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Hiéracosphinx : sphinx ailé à tête de faucon, réputé brutal et malfaisant."
+  ]
+ },
+ "source": {
+  "table": "X",
+  "line": 1274
+ }
+}

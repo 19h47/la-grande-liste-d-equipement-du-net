@@ -1,0 +1,33 @@
+{
+ "id": "garrot",
+ "category": "tissus",
+ "name": {
+  "fr": "Garrot",
+  "en": "Tourniquet"
+ },
+ "full_name": {
+  "fr": "Garrot",
+  "en": "Tourniquet"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1749
+ }
+}

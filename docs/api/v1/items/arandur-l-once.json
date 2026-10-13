@@ -1,0 +1,30 @@
+{
+ "id": "arandur-l-once",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Arandur, l'once",
+  "en": "Arandur, per l oz"
+ },
+ "full_name": {
+  "fr": "Arandur, l'once",
+  "en": "Arandur, per l oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pp",
+   "en": "1pp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 1992
+ }
+}

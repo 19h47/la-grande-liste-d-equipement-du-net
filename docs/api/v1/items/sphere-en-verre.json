@@ -1,0 +1,38 @@
+{
+ "id": "sphere-en-verre",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En verre",
+  "en": "Glass"
+ },
+ "full_name": {
+  "fr": "Sphère — En verre",
+  "en": "Sphere — Glass"
+ },
+ "group": [
+  {
+   "fr": "Sphère",
+   "en": "Sphere"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3108
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "menthe-coq-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Menthe-coq, l'once",
+  "en": "Costmary, per oz"
+ },
+ "full_name": {
+  "fr": "Menthe-coq, l'once",
+  "en": "Costmary, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Menthe-coq (balsamite) : plante herbacée odorante des jardins, ornementale et médicinale."
+  ]
+ },
+ "source": {
+  "table": "IV",
+  "line": 818
+ }
+}

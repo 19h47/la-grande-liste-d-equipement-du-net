@@ -1,0 +1,33 @@
+{
+ "id": "hachette-hache-de-lancer",
+ "category": "armes",
+ "name": {
+  "fr": "Hachette/hache de lancer",
+  "en": "Hand/Throwing axe"
+ },
+ "full_name": {
+  "fr": "Hachette/hache de lancer",
+  "en": "Hand/Throwing axe"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3624
+ }
+}

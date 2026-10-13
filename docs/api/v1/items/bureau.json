@@ -1,0 +1,33 @@
+{
+ "id": "bureau",
+ "category": "mobilier",
+ "name": {
+  "fr": "Bureau",
+  "en": "Desk"
+ },
+ "full_name": {
+  "fr": "Bureau",
+  "en": "Desk"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "72",
+  "lb": 72
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1579
+ }
+}

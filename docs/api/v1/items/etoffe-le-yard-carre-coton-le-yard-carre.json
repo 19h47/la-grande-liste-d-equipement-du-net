@@ -1,0 +1,38 @@
+{
+ "id": "etoffe-le-yard-carre-coton-le-yard-carre",
+ "category": "tissus",
+ "name": {
+  "fr": "Coton, le yard carré",
+  "en": "Cotton, per sq. yard"
+ },
+ "full_name": {
+  "fr": "Étoffe, le yard carré — Coton, le yard carré",
+  "en": "Cloth, per sq yard — Cotton, per sq. yard"
+ },
+ "group": [
+  {
+   "fr": "Étoffe, le yard carré",
+   "en": "Cloth, per sq yard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1726
+ }
+}

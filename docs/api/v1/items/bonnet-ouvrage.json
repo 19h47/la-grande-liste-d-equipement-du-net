@@ -1,0 +1,38 @@
+{
+ "id": "bonnet-ouvrage",
+ "category": "vetements",
+ "name": {
+  "fr": "Ouvragé",
+  "en": "Fancy"
+ },
+ "full_name": {
+  "fr": "Bonnet — Ouvragé",
+  "en": "Cap — Fancy"
+ },
+ "group": [
+  {
+   "fr": "Bonnet",
+   "en": "Cap"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5+ pa",
+   "en": "5+sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": true
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 134
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "statue-d-animal-en-ivoire",
+ "category": "oeuvres-d-art",
+ "name": {
+  "fr": "Statue d'animal en ivoire",
+  "en": "Statue, animal, ivory"
+ },
+ "full_name": {
+  "fr": "Statue d'animal en ivoire",
+  "en": "Statue, animal, ivory"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "weight": {
+  "text": "250",
+  "lb": 250
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXX",
+  "line": 3468
+ }
+}

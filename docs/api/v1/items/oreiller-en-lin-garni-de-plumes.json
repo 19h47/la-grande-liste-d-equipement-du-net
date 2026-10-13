@@ -1,0 +1,38 @@
+{
+ "id": "oreiller-en-lin-garni-de-plumes",
+ "category": "mobilier",
+ "name": {
+  "fr": "Garni de plumes",
+  "en": "Feather"
+ },
+ "full_name": {
+  "fr": "Oreiller en lin — Garni de plumes",
+  "en": "Pillow, linen — Feather"
+ },
+ "group": [
+  {
+   "fr": "Oreiller en lin",
+   "en": "Pillow, linen"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1588
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "racine-de-reglisse-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Racine de réglisse, l'once",
+  "en": "Liquorice root, per oz"
+ },
+ "full_name": {
+  "fr": "Racine de réglisse, l'once",
+  "en": "Liquorice root, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 833
+ }
+}

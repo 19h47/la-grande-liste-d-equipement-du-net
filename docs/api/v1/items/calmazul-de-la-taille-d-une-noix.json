@@ -1,0 +1,35 @@
+{
+ "id": "calmazul-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Calmazul — De la taille d'une noix",
+  "en": "Calmazul — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Calmazul",
+   "en": "Calmazul"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2033
+ }
+}

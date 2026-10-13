@@ -1,0 +1,40 @@
+{
+ "id": "tambours-changgo",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Changgo",
+  "en": "Changgo"
+ },
+ "full_name": {
+  "fr": "Tambours — Changgo",
+  "en": "Drums — Changgo"
+ },
+ "group": [
+  {
+   "fr": "Tambours",
+   "en": "Drums"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": [
+   "Changgo : tambour coréen en forme de sablier, à deux peaux, frappé à la main ou avec des baguettes."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3341
+ }
+}

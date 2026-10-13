@@ -1,0 +1,38 @@
+{
+ "id": "homme-lezard",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Homme-lézard",
+  "en": "Lizard man"
+ },
+ "full_name": {
+  "fr": "Homme-lézard",
+  "en": "Lizard man"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "100-300 po",
+   "en": "100-300gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "200-400 po",
+   "en": "200-400gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1533
+ }
+}

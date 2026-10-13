@@ -1,0 +1,30 @@
+{
+ "id": "larcin-valeur-inferieure-a-50-po",
+ "category": "amendes-et-peines",
+ "name": {
+  "fr": "Larcin (valeur inférieure à 50 po)",
+  "en": "Petty Theft, under 50gp value"
+ },
+ "full_name": {
+  "fr": "Larcin (valeur inférieure à 50 po)",
+  "en": "Petty Theft, under 50gp value"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVI",
+  "line": 3183
+ }
+}

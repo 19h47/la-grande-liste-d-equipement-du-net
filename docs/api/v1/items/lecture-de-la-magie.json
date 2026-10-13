@@ -1,0 +1,30 @@
+{
+ "id": "lecture-de-la-magie",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Lecture de la magie",
+  "en": "Read Magic"
+ },
+ "full_name": {
+  "fr": "Lecture de la magie",
+  "en": "Read Magic"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3240
+ }
+}

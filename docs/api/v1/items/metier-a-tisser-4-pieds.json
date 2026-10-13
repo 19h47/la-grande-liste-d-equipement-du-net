@@ -1,0 +1,38 @@
+{
+ "id": "metier-a-tisser-4-pieds",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "4 pieds",
+  "en": "4 foot"
+ },
+ "full_name": {
+  "fr": "Métier à tisser — 4 pieds",
+  "en": "Loom — 4 foot"
+ },
+ "group": [
+  {
+   "fr": "Métier à tisser",
+   "en": "Loom"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "weight": {
+  "text": "16",
+  "lb": 16
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3017
+ }
+}

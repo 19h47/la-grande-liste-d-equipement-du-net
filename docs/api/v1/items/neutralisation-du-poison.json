@@ -1,0 +1,30 @@
+{
+ "id": "neutralisation-du-poison",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Neutralisation du poison",
+  "en": "Neutralize Poison"
+ },
+ "full_name": {
+  "fr": "Neutralisation du poison",
+  "en": "Neutralize Poison"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3234
+ }
+}

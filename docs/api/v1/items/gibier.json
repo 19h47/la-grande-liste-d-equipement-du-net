@@ -1,0 +1,30 @@
+{
+ "id": "gibier",
+ "category": "carcasses",
+ "name": {
+  "fr": "Gibier",
+  "en": "Wild Game"
+ },
+ "full_name": {
+  "fr": "Gibier",
+  "en": "Wild Game"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "DV x 1 po",
+   "en": "HD x 1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIV",
+  "line": 1618
+ }
+}

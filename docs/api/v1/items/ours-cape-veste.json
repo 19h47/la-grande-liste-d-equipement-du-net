@@ -1,0 +1,35 @@
+{
+ "id": "ours-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Ours — Cape, veste",
+  "en": "Bear — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Ours",
+   "en": "Bear"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1095
+ }
+}

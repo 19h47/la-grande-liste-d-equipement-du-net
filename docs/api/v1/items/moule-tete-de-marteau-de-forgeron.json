@@ -1,0 +1,39 @@
+{
+ "id": "moule-tete-de-marteau-de-forgeron",
+ "category": "outils",
+ "name": {
+  "fr": "De forgeron",
+  "en": "Smithing"
+ },
+ "full_name": {
+  "fr": "Moule — Tête de marteau — De forgeron",
+  "en": "Mold — Hammerhead — Smithing"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Tête de marteau",
+   "en": "Hammerhead"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "12 pa",
+   "en": "12sp"
+  },
+  "min_cp": 120,
+  "max_cp": 120,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2545
+ }
+}

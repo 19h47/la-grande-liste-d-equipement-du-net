@@ -1,0 +1,38 @@
+{
+ "id": "bonnet-simple",
+ "category": "vetements",
+ "name": {
+  "fr": "Simple",
+  "en": "Plain"
+ },
+ "full_name": {
+  "fr": "Bonnet — Simple",
+  "en": "Cap — Plain"
+ },
+ "group": [
+  {
+   "fr": "Bonnet",
+   "en": "Cap"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 133
+ }
+}

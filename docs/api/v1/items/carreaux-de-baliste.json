@@ -1,0 +1,30 @@
+{
+ "id": "carreaux-de-baliste",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Carreaux de baliste",
+  "en": "Ballista Bolts"
+ },
+ "full_name": {
+  "fr": "Carreaux de baliste",
+  "en": "Ballista Bolts"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3482
+ }
+}

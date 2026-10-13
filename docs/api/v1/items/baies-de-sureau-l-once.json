@@ -1,0 +1,38 @@
+{
+ "id": "baies-de-sureau-l-once",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Baies de sureau, l'once",
+  "en": "Elderberries, per oz"
+ },
+ "full_name": {
+  "fr": "Baies — Baies de sureau, l'once",
+  "en": "Berries — Elderberries, per oz"
+ },
+ "group": [
+  {
+   "fr": "Baies",
+   "en": "Berries"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 469
+ }
+}

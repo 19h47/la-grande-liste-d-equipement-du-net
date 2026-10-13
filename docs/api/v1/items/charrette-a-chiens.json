@@ -1,0 +1,30 @@
+{
+ "id": "charrette-a-chiens",
+ "category": "transports",
+ "name": {
+  "fr": "Charrette à chiens",
+  "en": "Dog Cart"
+ },
+ "full_name": {
+  "fr": "Charrette à chiens",
+  "en": "Dog Cart"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 966
+ }
+}

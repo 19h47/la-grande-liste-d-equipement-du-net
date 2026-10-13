@@ -1,0 +1,35 @@
+{
+ "id": "loutre-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Loutre — Cape, veste",
+  "en": "Otter — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Loutre",
+   "en": "Otter"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "250 po",
+   "en": "250gp"
+  },
+  "min_cp": 25000,
+  "max_cp": 25000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1188
+ }
+}

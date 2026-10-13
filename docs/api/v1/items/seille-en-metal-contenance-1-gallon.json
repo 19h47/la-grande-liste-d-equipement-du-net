@@ -1,0 +1,40 @@
+{
+ "id": "seille-en-metal-contenance-1-gallon",
+ "category": "contenants",
+ "name": {
+  "fr": "En métal, contenance 1 gallon",
+  "en": "Metal, hold 1 gallon"
+ },
+ "full_name": {
+  "fr": "Seille — En métal, contenance 1 gallon",
+  "en": "Pail — Metal, hold 1 gallon"
+ },
+ "group": [
+  {
+   "fr": "Seille",
+   "en": "Pail"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Seille : seau de bois évasé, muni d'anses."
+  ]
+ },
+ "source": {
+  "table": "XI",
+  "line": 1418
+ }
+}

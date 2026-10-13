@@ -1,0 +1,40 @@
+{
+ "id": "repas-a-l-unite-porc-cotelettes-ou-travers",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Porc (côtelettes ou travers)",
+  "en": "Pork (chops or ribs)"
+ },
+ "full_name": {
+  "fr": "Repas (à l'unité) — Porc (côtelettes ou travers)",
+  "en": "Meals (individual) — Pork (chops or ribs)"
+ },
+ "group": [
+  {
+   "fr": "Repas (à l'unité)",
+   "en": "Meals (individual)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": [
+   "Travers : côtes de porc, servies en morceaux."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 389
+ }
+}

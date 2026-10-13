@@ -1,0 +1,38 @@
+{
+ "id": "arpenteur-geant",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Arpenteur géant",
+  "en": "Giant Strider"
+ },
+ "full_name": {
+  "fr": "Arpenteur géant",
+  "en": "Giant Strider"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "1 500 po",
+   "en": "1,500gp"
+  },
+  "min_cp": 150000,
+  "max_cp": 150000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "2 500-2 800 po",
+   "en": "2,500-2,800gp"
+  },
+  "min_cp": 250000,
+  "max_cp": 280000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "X",
+  "line": 1261
+ }
+}

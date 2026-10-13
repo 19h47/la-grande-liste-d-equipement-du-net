@@ -1,0 +1,38 @@
+{
+ "id": "pantalon-jupe-en-coton",
+ "category": "vetements",
+ "name": {
+  "fr": "En coton",
+  "en": "Cotton"
+ },
+ "full_name": {
+  "fr": "Pantalon / jupe — En coton",
+  "en": "Trousers / Skirt, — Cotton"
+ },
+ "group": [
+  {
+   "fr": "Pantalon / jupe",
+   "en": "Trousers / Skirt,"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3+ pa",
+   "en": "3+sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": true
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 292
+ }
+}

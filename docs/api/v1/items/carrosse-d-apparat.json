@@ -1,0 +1,30 @@
+{
+ "id": "carrosse-d-apparat",
+ "category": "transports",
+ "name": {
+  "fr": "Carrosse d'apparat",
+  "en": "Coach, ornamental"
+ },
+ "full_name": {
+  "fr": "Carrosse d'apparat",
+  "en": "Coach, ornamental"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "7 000 po",
+   "en": "7,000gp"
+  },
+  "min_cp": 700000,
+  "max_cp": 700000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 953
+ }
+}

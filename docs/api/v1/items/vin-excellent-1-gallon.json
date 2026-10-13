@@ -1,0 +1,38 @@
+{
+ "id": "vin-excellent-1-gallon",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Excellent, 1 gallon",
+  "en": "Excellant, 1 gallon"
+ },
+ "full_name": {
+  "fr": "Vin — Excellent, 1 gallon",
+  "en": "Wine — Excellant, 1 gallon"
+ },
+ "group": [
+  {
+   "fr": "Vin",
+   "en": "Wine"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 423
+ }
+}

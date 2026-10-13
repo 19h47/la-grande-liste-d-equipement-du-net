@@ -1,0 +1,38 @@
+{
+ "id": "chaine-en-argent-fine-1-pied",
+ "category": "outils",
+ "name": {
+  "fr": "En argent, fine, 1 pied",
+  "en": "Silver, Fine, 1 ft"
+ },
+ "full_name": {
+  "fr": "Chaîne — En argent, fine, 1 pied",
+  "en": "Chain — Silver, Fine, 1 ft"
+ },
+ "group": [
+  {
+   "fr": "Chaîne",
+   "en": "Chain"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2475
+ }
+}

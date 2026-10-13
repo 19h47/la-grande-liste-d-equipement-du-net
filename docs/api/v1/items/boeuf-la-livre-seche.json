@@ -1,0 +1,38 @@
+{
+ "id": "boeuf-la-livre-seche",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Séché",
+  "en": "dried"
+ },
+ "full_name": {
+  "fr": "Bœuf, la livre — Séché",
+  "en": "Beef, per lb — dried"
+ },
+ "group": [
+  {
+   "fr": "Bœuf, la livre",
+   "en": "Beef, per lb"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 459
+ }
+}

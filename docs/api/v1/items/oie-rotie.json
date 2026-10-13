@@ -1,0 +1,33 @@
+{
+ "id": "oie-rotie",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Oie rôtie",
+  "en": "Roast Goose"
+ },
+ "full_name": {
+  "fr": "Oie rôtie",
+  "en": "Roast Goose"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 721
+ }
+}

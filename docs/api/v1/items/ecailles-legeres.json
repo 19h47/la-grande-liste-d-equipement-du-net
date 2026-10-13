@@ -1,0 +1,33 @@
+{
+ "id": "ecailles-legeres",
+ "category": "armures",
+ "name": {
+  "fr": "Écailles légères",
+  "en": "Light scale"
+ },
+ "full_name": {
+  "fr": "Écailles légères",
+  "en": "Light scale"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "80 po",
+   "en": "80gp"
+  },
+  "min_cp": 8000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3809
+ }
+}

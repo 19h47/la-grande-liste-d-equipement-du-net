@@ -1,0 +1,37 @@
+{
+ "id": "renard-de-givre-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Renard de givre — Peau",
+  "en": "Fox, hoar — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Renard de givre",
+   "en": "Fox, hoar"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Renard de givre : renard à fourrure gris argenté d'AD&D, capable de produire un cône de froid (Fiend Folio)."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1143
+ }
+}

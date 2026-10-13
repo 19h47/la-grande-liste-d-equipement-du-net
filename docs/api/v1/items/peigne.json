@@ -1,0 +1,33 @@
+{
+ "id": "peigne",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Peigne",
+  "en": "Comb"
+ },
+ "full_name": {
+  "fr": "Peigne",
+  "en": "Comb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2939
+ }
+}

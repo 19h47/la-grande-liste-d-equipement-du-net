@@ -1,0 +1,38 @@
+{
+ "id": "chopes-en-verre",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En verre",
+  "en": "Glass"
+ },
+ "full_name": {
+  "fr": "Chopes — En verre",
+  "en": "Mugs — Glass"
+ },
+ "group": [
+  {
+   "fr": "Chopes",
+   "en": "Mugs"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "9 pc",
+   "en": "9cp"
+  },
+  "min_cp": 9,
+  "max_cp": 9,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3038
+ }
+}

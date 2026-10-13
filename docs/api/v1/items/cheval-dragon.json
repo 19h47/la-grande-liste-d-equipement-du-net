@@ -1,0 +1,30 @@
+{
+ "id": "cheval-dragon",
+ "category": "peaux",
+ "name": {
+  "fr": "Cheval-dragon",
+  "en": "Dragon horse"
+ },
+ "full_name": {
+  "fr": "Cheval-dragon",
+  "en": "Dragon horse"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 000 po",
+   "en": "20,000gp"
+  },
+  "min_cp": 2000000,
+  "max_cp": 2000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "V",
+  "line": 874
+ }
+}

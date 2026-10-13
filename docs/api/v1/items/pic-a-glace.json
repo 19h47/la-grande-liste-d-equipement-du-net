@@ -1,0 +1,33 @@
+{
+ "id": "pic-a-glace",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Pic à glace",
+  "en": "Icepick"
+ },
+ "full_name": {
+  "fr": "Pic à glace",
+  "en": "Icepick"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2996
+ }
+}

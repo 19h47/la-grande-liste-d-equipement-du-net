@@ -1,0 +1,40 @@
+{
+ "id": "black-rose",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Black Rose",
+  "en": "Black Rose"
+ },
+ "full_name": {
+  "fr": "Black Rose",
+  "en": "Black Rose"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Black Rose : rose du Net Book of Herbs dont les racines extraient le poison ou préviennent l'ivresse."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2733
+ }
+}

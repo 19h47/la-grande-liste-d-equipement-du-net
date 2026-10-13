@@ -1,0 +1,40 @@
+{
+ "id": "houe-a-lame-de-fer",
+ "category": "outils",
+ "name": {
+  "fr": "À lame de fer",
+  "en": "Iron Head"
+ },
+ "full_name": {
+  "fr": "Houe — À lame de fer",
+  "en": "Hoe — Iron Head"
+ },
+ "group": [
+  {
+   "fr": "Houe",
+   "en": "Hoe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Houe : outil agricole à lame large fixée perpendiculairement au manche, servant à biner et ameublir la terre."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2509
+ }
+}

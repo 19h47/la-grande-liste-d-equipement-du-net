@@ -1,0 +1,38 @@
+{
+ "id": "oeufs-de-serpent",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De serpent",
+  "en": "Snake"
+ },
+ "full_name": {
+  "fr": "Œufs — De serpent",
+  "en": "Egg — Snake"
+ },
+ "group": [
+  {
+   "fr": "Œufs",
+   "en": "Egg"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 577
+ }
+}

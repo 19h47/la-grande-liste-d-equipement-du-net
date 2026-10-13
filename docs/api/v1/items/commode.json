@@ -1,0 +1,33 @@
+{
+ "id": "commode",
+ "category": "mobilier",
+ "name": {
+  "fr": "Commode",
+  "en": "Chest of Drawers"
+ },
+ "full_name": {
+  "fr": "Commode",
+  "en": "Chest of Drawers"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5-7 po",
+   "en": "5-7gp"
+  },
+  "min_cp": 500,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "30",
+  "lb": 30
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1578
+ }
+}

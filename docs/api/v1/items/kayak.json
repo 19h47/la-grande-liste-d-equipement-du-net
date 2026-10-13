@@ -1,0 +1,30 @@
+{
+ "id": "kayak",
+ "category": "transports",
+ "name": {
+  "fr": "Kayak",
+  "en": "Kayak"
+ },
+ "full_name": {
+  "fr": "Kayak",
+  "en": "Kayak"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "250 po",
+   "en": "250gp"
+  },
+  "min_cp": 25000,
+  "max_cp": 25000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 977
+ }
+}

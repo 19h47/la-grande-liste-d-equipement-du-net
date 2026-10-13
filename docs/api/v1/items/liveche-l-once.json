@@ -1,0 +1,35 @@
+{
+ "id": "liveche-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Livèche, l'once",
+  "en": "Lovage, per oz"
+ },
+ "full_name": {
+  "fr": "Livèche, l'once",
+  "en": "Lovage, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Livèche : plante très aromatique dont les fruits et les racines s'emploient en décoction."
+  ]
+ },
+ "source": {
+  "table": "IV",
+  "line": 834
+ }
+}

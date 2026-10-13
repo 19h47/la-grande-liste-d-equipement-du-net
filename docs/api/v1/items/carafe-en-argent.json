@@ -1,0 +1,38 @@
+{
+ "id": "carafe-en-argent",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "En argent",
+  "en": "Silver"
+ },
+ "full_name": {
+  "fr": "Carafe — En argent",
+  "en": "Decanter — Silver"
+ },
+ "group": [
+  {
+   "fr": "Carafe",
+   "en": "Decanter"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1843
+ }
+}

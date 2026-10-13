@@ -1,0 +1,38 @@
+{
+ "id": "corde-de-soie-le-rouleau-de-100-pieds",
+ "category": "outils",
+ "name": {
+  "fr": "De soie, le rouleau de 100 pieds",
+  "en": "Silk, per 100' coil"
+ },
+ "full_name": {
+  "fr": "Corde — De soie, le rouleau de 100 pieds",
+  "en": "Rope — Silk, per 100' coil"
+ },
+ "group": [
+  {
+   "fr": "Corde",
+   "en": "Rope"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pp",
+   "en": "5pp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "50",
+  "lb": 50
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2623
+ }
+}

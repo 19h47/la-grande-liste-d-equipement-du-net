@@ -1,0 +1,40 @@
+{
+ "id": "vieles-lirica",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Lirica",
+  "en": "Lirica"
+ },
+ "full_name": {
+  "fr": "Vièles — Lirica",
+  "en": "Fiddle — Lirica"
+ },
+ "group": [
+  {
+   "fr": "Vièles",
+   "en": "Fiddle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Vièles : instruments à cordes frottées par un archet, ancêtres médiévaux du violon."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3358
+ }
+}

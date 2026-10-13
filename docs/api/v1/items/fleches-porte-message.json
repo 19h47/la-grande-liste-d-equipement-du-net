@@ -1,0 +1,38 @@
+{
+ "id": "fleches-porte-message",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Porte-message",
+  "en": "Message"
+ },
+ "full_name": {
+  "fr": "Flèches — Porte-message",
+  "en": "Arrow — Message"
+ },
+ "group": [
+  {
+   "fr": "Flèches",
+   "en": "Arrow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1762
+ }
+}

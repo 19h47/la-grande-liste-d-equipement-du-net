@@ -1,0 +1,33 @@
+{
+ "id": "canon-leger",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Canon léger",
+  "en": "Cannon, Light"
+ },
+ "full_name": {
+  "fr": "Canon léger",
+  "en": "Cannon, Light"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 000",
+   "en": "10,000"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": {
+  "text": "400",
+  "lb": 400
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3486
+ }
+}

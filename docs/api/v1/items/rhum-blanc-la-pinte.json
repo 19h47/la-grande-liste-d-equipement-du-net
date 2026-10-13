@@ -1,0 +1,38 @@
+{
+ "id": "rhum-blanc-la-pinte",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Blanc, la pinte",
+  "en": "Light, per pint"
+ },
+ "full_name": {
+  "fr": "Rhum — Blanc, la pinte",
+  "en": "Rum — Light, per pint"
+ },
+ "group": [
+  {
+   "fr": "Rhum",
+   "en": "Rum"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 404
+ }
+}

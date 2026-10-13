@@ -1,0 +1,40 @@
+{
+ "id": "chandeliers-en-cuivre",
+ "category": "eclairage",
+ "name": {
+  "fr": "En cuivre",
+  "en": "copper"
+ },
+ "full_name": {
+  "fr": "Chandeliers — En cuivre",
+  "en": "Candlesticks — copper"
+ },
+ "group": [
+  {
+   "fr": "Chandeliers",
+   "en": "Candlesticks"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": [
+   "Chandeliers : ici, bougeoirs portant une chandelle, et non lustres suspendus."
+  ]
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2660
+ }
+}

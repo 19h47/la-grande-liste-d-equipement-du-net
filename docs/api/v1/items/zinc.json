@@ -1,0 +1,30 @@
+{
+ "id": "zinc",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Zinc",
+  "en": "Zinc"
+ },
+ "full_name": {
+  "fr": "Zinc",
+  "en": "Zinc"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2343
+ }
+}

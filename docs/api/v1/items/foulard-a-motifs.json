@@ -1,0 +1,38 @@
+{
+ "id": "foulard-a-motifs",
+ "category": "vetements",
+ "name": {
+  "fr": "À motifs",
+  "en": "Pattern"
+ },
+ "full_name": {
+  "fr": "Foulard — À motifs",
+  "en": "Scarf — Pattern"
+ },
+ "group": [
+  {
+   "fr": "Foulard",
+   "en": "Scarf"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 258
+ }
+}

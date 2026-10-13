@@ -1,0 +1,40 @@
+{
+ "id": "outres-a-huile",
+ "category": "contenants",
+ "name": {
+  "fr": "À huile",
+  "en": "Oil"
+ },
+ "full_name": {
+  "fr": "Outres — À huile",
+  "en": "Skins — Oil"
+ },
+ "group": [
+  {
+   "fr": "Outres",
+   "en": "Skins"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Outres : sacs en peau cousue servant à transporter des liquides."
+  ]
+ },
+ "source": {
+  "table": "XI",
+  "line": 1456
+ }
+}

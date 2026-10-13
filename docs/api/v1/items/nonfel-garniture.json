@@ -1,0 +1,35 @@
+{
+ "id": "nonfel-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Nonfel — Garniture",
+  "en": "Nonfel — Trim"
+ },
+ "group": [
+  {
+   "fr": "Nonfel",
+   "en": "Nonfel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1182
+ }
+}

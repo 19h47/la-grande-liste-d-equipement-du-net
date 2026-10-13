@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-harpes-lyre",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Lyre",
+  "en": "Lyre"
+ },
+ "full_name": {
+  "fr": "Famille des harpes — Lyre",
+  "en": "Harp Family — Lyre"
+ },
+ "group": [
+  {
+   "fr": "Famille des harpes",
+   "en": "Harp Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3392
+ }
+}

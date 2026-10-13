@@ -1,0 +1,35 @@
+{
+ "id": "manoeuvre-par-mois",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Par mois",
+  "en": "Per Month"
+ },
+ "full_name": {
+  "fr": "Manœuvre — Par mois",
+  "en": "Laborer — Per Month"
+ },
+ "group": [
+  {
+   "fr": "Manœuvre",
+   "en": "Laborer"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2404
+ }
+}

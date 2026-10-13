@@ -1,0 +1,38 @@
+{
+ "id": "symbole-en-or",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En or",
+  "en": "Gold"
+ },
+ "full_name": {
+  "fr": "Symbole — En or",
+  "en": "Symbol — Gold"
+ },
+ "group": [
+  {
+   "fr": "Symbole",
+   "en": "Symbol"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3131
+ }
+}

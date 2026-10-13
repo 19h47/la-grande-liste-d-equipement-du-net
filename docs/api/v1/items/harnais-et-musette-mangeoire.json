@@ -1,0 +1,35 @@
+{
+ "id": "harnais-et-musette-mangeoire",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Harnais et musette-mangeoire",
+  "en": "Harness and Feeding Bag"
+ },
+ "full_name": {
+  "fr": "Harnais et musette-mangeoire",
+  "en": "Harness and Feeding Bag"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Musette-mangeoire : sac de fourrage suspendu à la tête du cheval pour le nourrir."
+  ]
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1063
+ }
+}

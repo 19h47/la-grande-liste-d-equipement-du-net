@@ -1,0 +1,33 @@
+{
+ "id": "bouilloire-en-fer-tailles-diverses",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Bouilloire en fer (tailles diverses)",
+  "en": "Kettle, Iron (various Sizes)"
+ },
+ "full_name": {
+  "fr": "Bouilloire en fer (tailles diverses)",
+  "en": "Kettle, Iron (various Sizes)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2-12 po",
+   "en": "2-12gp"
+  },
+  "min_cp": 200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "weight": {
+  "text": "variable",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2999
+ }
+}

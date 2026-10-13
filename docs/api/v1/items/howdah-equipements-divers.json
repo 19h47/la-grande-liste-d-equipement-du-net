@@ -1,0 +1,35 @@
+{
+ "id": "howdah-equipements-divers",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Howdah",
+  "en": "Howdah"
+ },
+ "full_name": {
+  "fr": "Howdah",
+  "en": "Howdah"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": [
+   "Howdah : nacelle, souvent couverte, installée sur le dos d'un éléphant ou d'un chameau pour transporter des passagers."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2995
+ }
+}

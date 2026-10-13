@@ -1,0 +1,38 @@
+{
+ "id": "lampe-en-or",
+ "category": "eclairage",
+ "name": {
+  "fr": "En or",
+  "en": "Gold"
+ },
+ "full_name": {
+  "fr": "Lampe — En or",
+  "en": "Lamp — Gold"
+ },
+ "group": [
+  {
+   "fr": "Lampe",
+   "en": "Lamp"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2681
+ }
+}

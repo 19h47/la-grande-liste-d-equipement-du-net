@@ -1,0 +1,41 @@
+{
+ "id": "vieles-a-pique",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "À pique",
+  "en": "Spiked"
+ },
+ "full_name": {
+  "fr": "Vièles — À pique",
+  "en": "Fiddle — Spiked"
+ },
+ "group": [
+  {
+   "fr": "Vièles",
+   "en": "Fiddle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Vièles : instruments à cordes frottées par un archet, ancêtres médiévaux du violon.",
+   "À pique : vièle dont le manche traverse la caisse et dépasse en pointe, posée au sol ou sur le genou."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3359
+ }
+}

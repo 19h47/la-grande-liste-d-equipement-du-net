@@ -1,0 +1,38 @@
+{
+ "id": "miroir-en-argent-petit-3-x-2-pouces",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En argent, petit, 3 x 2 pouces",
+  "en": "Silver, small, 3\" x 2\""
+ },
+ "full_name": {
+  "fr": "Miroir — En argent, petit, 3 x 2 pouces",
+  "en": "Mirror — Silver, small, 3\" x 2\""
+ },
+ "group": [
+  {
+   "fr": "Miroir",
+   "en": "Mirror"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5 po",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3031
+ }
+}

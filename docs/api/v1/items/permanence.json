@@ -1,0 +1,32 @@
+{
+ "id": "permanence",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Permanence",
+  "en": "Permanency"
+ },
+ "full_name": {
+  "fr": "Permanence",
+  "en": "Permanency"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 000 po",
+   "en": "20,000gp"
+  },
+  "min_cp": 2000000,
+  "max_cp": 2000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Permanence : sort rendant permanents les effets de certains autres sorts."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3235
+ }
+}

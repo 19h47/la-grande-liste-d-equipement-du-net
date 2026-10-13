@@ -1,0 +1,35 @@
+{
+ "id": "logement-a-l-auberge-par-jour-semaine-chambre-particuliere",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Chambre particulière",
+  "en": "Private"
+ },
+ "full_name": {
+  "fr": "Logement à l'auberge (par jour/semaine) — Chambre particulière",
+  "en": "Inn Lodging (per day/week) — Private"
+ },
+ "group": [
+  {
+   "fr": "Logement à l'auberge (par jour/semaine)",
+   "en": "Inn Lodging (per day/week)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po/8 po",
+   "en": "2gp/8gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 366
+ }
+}

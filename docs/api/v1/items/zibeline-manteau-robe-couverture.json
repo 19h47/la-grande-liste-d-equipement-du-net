@@ -1,0 +1,37 @@
+{
+ "id": "zibeline-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Zibeline — Manteau, robe, couverture",
+  "en": "Sable — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Zibeline",
+   "en": "Sable"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "9 000 po",
+   "en": "9,000gp"
+  },
+  "min_cp": 900000,
+  "max_cp": 900000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Zibeline : martre de Sibérie dont la fourrure brune est l'une des plus précieuses."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1209
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tenue-complete-en-laine-humain",
+ "category": "vetements",
+ "name": {
+  "fr": "Humain",
+  "en": "Human"
+ },
+ "full_name": {
+  "fr": "Tenue complète, en laine — Humain",
+  "en": "Fullcloth, wool — Human"
+ },
+ "group": [
+  {
+   "fr": "Tenue complète, en laine",
+   "en": "Fullcloth, wool"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 163
+ }
+}

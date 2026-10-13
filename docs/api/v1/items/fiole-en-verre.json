@@ -1,0 +1,38 @@
+{
+ "id": "fiole-en-verre",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "En verre",
+  "en": "Glass"
+ },
+ "full_name": {
+  "fr": "Fiole — En verre",
+  "en": "Vial — Glass"
+ },
+ "group": [
+  {
+   "fr": "Fiole",
+   "en": "Vial"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1893
+ }
+}

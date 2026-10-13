@@ -1,0 +1,33 @@
+{
+ "id": "tapis",
+ "category": "mobilier",
+ "name": {
+  "fr": "Tapis",
+  "en": "Rug"
+ },
+ "full_name": {
+  "fr": "Tapis",
+  "en": "Rug"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1-2 po",
+   "en": "1-2gp"
+  },
+  "min_cp": 100,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1591
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "parchemin-la-feuille",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "Parchemin, la feuille",
+  "en": "Parchment, per sheet"
+ },
+ "full_name": {
+  "fr": "Parchemin, la feuille",
+  "en": "Parchment, per sheet"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pe",
+   "en": "1ep"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1953
+ }
+}

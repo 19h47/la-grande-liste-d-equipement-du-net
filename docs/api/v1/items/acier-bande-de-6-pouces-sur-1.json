@@ -1,0 +1,35 @@
+{
+ "id": "acier-bande-de-6-pouces-sur-1",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Bande de 6 pouces sur 1",
+  "en": "Strip, 6 by 1 in"
+ },
+ "full_name": {
+  "fr": "Acier — Bande de 6 pouces sur 1",
+  "en": "Steel — Strip, 6 by 1 in"
+ },
+ "group": [
+  {
+   "fr": "Acier",
+   "en": "Steel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2302
+ }
+}

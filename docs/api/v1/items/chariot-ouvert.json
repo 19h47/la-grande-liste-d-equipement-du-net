@@ -1,0 +1,35 @@
+{
+ "id": "chariot-ouvert",
+ "category": "transports",
+ "name": {
+  "fr": "Ouvert",
+  "en": "Open"
+ },
+ "full_name": {
+  "fr": "Chariot — Ouvert",
+  "en": "Wagon — Open"
+ },
+ "group": [
+  {
+   "fr": "Chariot",
+   "en": "Wagon"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 1041
+ }
+}

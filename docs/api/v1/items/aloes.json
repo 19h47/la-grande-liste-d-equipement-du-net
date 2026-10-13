@@ -1,0 +1,38 @@
+{
+ "id": "aloes",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Aloès",
+  "en": "Aloe"
+ },
+ "full_name": {
+  "fr": "Aloès",
+  "en": "Aloe"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2704
+ }
+}

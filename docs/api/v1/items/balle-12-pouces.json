@@ -1,0 +1,38 @@
+{
+ "id": "balle-12-pouces",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "12 pouces",
+  "en": "12\""
+ },
+ "full_name": {
+  "fr": "Balle — 12 pouces",
+  "en": "Ball — 12\""
+ },
+ "group": [
+  {
+   "fr": "Balle",
+   "en": "Ball"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2869
+ }
+}

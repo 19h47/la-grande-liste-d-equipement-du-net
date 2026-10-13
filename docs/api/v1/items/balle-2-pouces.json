@@ -1,0 +1,38 @@
+{
+ "id": "balle-2-pouces",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "2 pouces",
+  "en": "2\""
+ },
+ "full_name": {
+  "fr": "Balle — 2 pouces",
+  "en": "Ball — 2\""
+ },
+ "group": [
+  {
+   "fr": "Balle",
+   "en": "Ball"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2867
+ }
+}

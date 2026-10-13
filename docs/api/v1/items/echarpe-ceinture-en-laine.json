@@ -1,0 +1,38 @@
+{
+ "id": "echarpe-ceinture-en-laine",
+ "category": "vetements",
+ "name": {
+  "fr": "En laine",
+  "en": "Wool"
+ },
+ "full_name": {
+  "fr": "Écharpe-ceinture — En laine",
+  "en": "Sash — Wool"
+ },
+ "group": [
+  {
+   "fr": "Écharpe-ceinture",
+   "en": "Sash"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 253
+ }
+}

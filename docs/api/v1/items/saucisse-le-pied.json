@@ -1,0 +1,30 @@
+{
+ "id": "saucisse-le-pied",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Saucisse, le pied",
+  "en": "Sausage, per ft long"
+ },
+ "full_name": {
+  "fr": "Saucisse, le pied",
+  "en": "Sausage, per ft long"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pe",
+   "en": "1ep"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 739
+ }
+}

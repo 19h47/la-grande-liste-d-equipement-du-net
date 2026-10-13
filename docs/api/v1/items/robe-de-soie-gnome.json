@@ -1,0 +1,38 @@
+{
+ "id": "robe-de-soie-gnome",
+ "category": "vetements",
+ "name": {
+  "fr": "Gnome",
+  "en": "Gnome"
+ },
+ "full_name": {
+  "fr": "Robe de soie — Gnome",
+  "en": "Gown, Silk — Gnome"
+ },
+ "group": [
+  {
+   "fr": "Robe de soie",
+   "en": "Gown, Silk"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 177
+ }
+}

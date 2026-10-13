@@ -1,0 +1,33 @@
+{
+ "id": "enclume-en-fer-grande",
+ "category": "outils",
+ "name": {
+  "fr": "Enclume en fer, grande",
+  "en": "Anvil, Large, Iron"
+ },
+ "full_name": {
+  "fr": "Enclume en fer, grande",
+  "en": "Anvil, Large, Iron"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "95 po",
+   "en": "95gp"
+  },
+  "min_cp": 9500,
+  "max_cp": 9500,
+  "plus": false
+ },
+ "weight": {
+  "text": "160",
+  "lb": 160
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2456
+ }
+}

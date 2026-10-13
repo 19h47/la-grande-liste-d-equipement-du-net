@@ -1,0 +1,33 @@
+{
+ "id": "chemise-de-nuit",
+ "category": "vetements",
+ "name": {
+  "fr": "Chemise de nuit",
+  "en": "Nightshirt"
+ },
+ "full_name": {
+  "fr": "Chemise de nuit",
+  "en": "Nightshirt"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 236
+ }
+}

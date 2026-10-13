@@ -1,0 +1,38 @@
+{
+ "id": "pots-bouches-en-verre-4-onces",
+ "category": "contenants",
+ "name": {
+  "fr": "4 onces",
+  "en": "4oz"
+ },
+ "full_name": {
+  "fr": "Pots bouchés, en verre — 4 onces",
+  "en": "Jars, stoppered Glass — 4oz"
+ },
+ "group": [
+  {
+   "fr": "Pots bouchés, en verre",
+   "en": "Jars, stoppered Glass"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1400
+ }
+}

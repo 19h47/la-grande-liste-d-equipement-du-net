@@ -1,0 +1,38 @@
+{
+ "id": "boite-a-pain",
+ "category": "contenants",
+ "name": {
+  "fr": "À pain",
+  "en": "Bread"
+ },
+ "full_name": {
+  "fr": "Boîte — À pain",
+  "en": "Box — Bread"
+ },
+ "group": [
+  {
+   "fr": "Boîte",
+   "en": "Box"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1320
+ }
+}

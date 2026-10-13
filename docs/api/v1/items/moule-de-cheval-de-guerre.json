@@ -1,0 +1,39 @@
+{
+ "id": "moule-de-cheval-de-guerre",
+ "category": "outils",
+ "name": {
+  "fr": "De cheval de guerre",
+  "en": "War"
+ },
+ "full_name": {
+  "fr": "Moule — Fer à cheval — De cheval de guerre",
+  "en": "Mold — Horseshoe — War"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Fer à cheval",
+   "en": "Horseshoe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2554
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "coque-de-navire-epaisseur-accrue-par-tonneau-de-jauge",
+ "category": "armures",
+ "name": {
+  "fr": "Épaisseur accrue, par tonneau de jauge",
+  "en": "Increased Thickness, per ship tonage"
+ },
+ "full_name": {
+  "fr": "Coque de navire — Épaisseur accrue, par tonneau de jauge",
+  "en": "Hull, ship — Increased Thickness, per ship tonage"
+ },
+ "group": [
+  {
+   "fr": "Coque de navire",
+   "en": "Hull, ship"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Tonneau de jauge : unité de capacité des navires ; dans Spelljammer, le tonnage mesure la taille d'un vaisseau."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3802
+ }
+}

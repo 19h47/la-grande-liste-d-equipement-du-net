@@ -1,0 +1,40 @@
+{
+ "id": "chausses-gnome",
+ "category": "vetements",
+ "name": {
+  "fr": "Gnome",
+  "en": "Gnome"
+ },
+ "full_name": {
+  "fr": "Chausses — Gnome",
+  "en": "Hose — Gnome"
+ },
+ "group": [
+  {
+   "fr": "Chausses",
+   "en": "Hose"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Chausses : bas-de-jambes d'étoffe couvrant le pied et la jambe."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 193
+ }
+}

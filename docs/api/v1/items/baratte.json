@@ -1,0 +1,24 @@
+{
+ "id": "baratte",
+ "category": "outils",
+ "name": {
+  "fr": "Baratte",
+  "en": "Churn"
+ },
+ "full_name": {
+  "fr": "Baratte",
+  "en": "Churn"
+ },
+ "group": null,
+ "price": null,
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Baratte : récipient dans lequel on bat la crème pour obtenir du beurre."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2482
+ }
+}

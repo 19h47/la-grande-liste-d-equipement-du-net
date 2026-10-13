@@ -1,0 +1,35 @@
+{
+ "id": "rame-de-galere",
+ "category": "transports",
+ "name": {
+  "fr": "De galère",
+  "en": "Galley"
+ },
+ "full_name": {
+  "fr": "Rame — De galère",
+  "en": "Oar — Galley"
+ },
+ "group": [
+  {
+   "fr": "Rame",
+   "en": "Oar"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 982
+ }
+}

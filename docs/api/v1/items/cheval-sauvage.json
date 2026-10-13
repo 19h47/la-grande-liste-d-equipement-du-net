@@ -1,0 +1,30 @@
+{
+ "id": "cheval-sauvage",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Cheval sauvage",
+  "en": "Horse, wild"
+ },
+ "full_name": {
+  "fr": "Cheval sauvage",
+  "en": "Horse, wild"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "11-20 po",
+   "en": "11-20gp"
+  },
+  "min_cp": 1100,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "X",
+  "line": 1265
+ }
+}

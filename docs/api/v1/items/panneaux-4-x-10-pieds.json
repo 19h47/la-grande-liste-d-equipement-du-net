@@ -1,0 +1,35 @@
+{
+ "id": "panneaux-4-x-10-pieds",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "4 x 10 pieds",
+  "en": "4'x10'"
+ },
+ "full_name": {
+  "fr": "Panneaux — 4 x 10 pieds",
+  "en": "Boards — 4'x10'"
+ },
+ "group": [
+  {
+   "fr": "Panneaux",
+   "en": "Boards"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "41 pa",
+   "en": "41sp"
+  },
+  "min_cp": 410,
+  "max_cp": 410,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2202
+ }
+}

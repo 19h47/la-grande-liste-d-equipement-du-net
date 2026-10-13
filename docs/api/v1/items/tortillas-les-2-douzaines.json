@@ -1,0 +1,33 @@
+{
+ "id": "tortillas-les-2-douzaines",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Tortillas, les 2 douzaines",
+  "en": "Tortilla, per 2 dozen"
+ },
+ "full_name": {
+  "fr": "Tortillas, les 2 douzaines",
+  "en": "Tortilla, per 2 dozen"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "25 pc",
+   "en": "25cp"
+  },
+  "min_cp": 25,
+  "max_cp": 25,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 776
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "fourreau-de-couteau",
+ "category": "vetements",
+ "name": {
+  "fr": "Fourreau de couteau",
+  "en": "Knife Sheath"
+ },
+ "full_name": {
+  "fr": "Fourreau de couteau",
+  "en": "Knife Sheath"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 216
+ }
+}

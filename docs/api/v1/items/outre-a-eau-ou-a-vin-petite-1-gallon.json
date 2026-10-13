@@ -1,0 +1,33 @@
+{
+ "id": "outre-a-eau-ou-a-vin-petite-1-gallon",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Outre à eau ou à vin, petite, 1 gallon",
+  "en": "Water / Wineskin, small, 1 gallon"
+ },
+ "full_name": {
+  "fr": "Outre à eau ou à vin, petite, 1 gallon",
+  "en": "Water / Wineskin, small, 1 gallon"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1803
+ }
+}

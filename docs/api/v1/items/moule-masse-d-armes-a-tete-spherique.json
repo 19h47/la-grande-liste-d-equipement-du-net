@@ -1,0 +1,39 @@
+{
+ "id": "moule-masse-d-armes-a-tete-spherique",
+ "category": "outils",
+ "name": {
+  "fr": "À tête sphérique",
+  "en": "Ball"
+ },
+ "full_name": {
+  "fr": "Moule — Masse d'armes — À tête sphérique",
+  "en": "Mold — Mace — Ball"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Masse d'armes",
+   "en": "Mace"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2561
+ }
+}

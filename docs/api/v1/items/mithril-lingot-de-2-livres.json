@@ -1,0 +1,37 @@
+{
+ "id": "mithril-lingot-de-2-livres",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Lingot de 2 livres",
+  "en": "Ingot, 2 lb"
+ },
+ "full_name": {
+  "fr": "Mithril — Lingot de 2 livres",
+  "en": "Mithril — Ingot, 2 lb"
+ },
+ "group": [
+  {
+   "fr": "Mithril",
+   "en": "Mithril"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Mithril : métal argenté léger et presque inaltérable, créé par Tolkien et repris par AD&D."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2209
+ }
+}

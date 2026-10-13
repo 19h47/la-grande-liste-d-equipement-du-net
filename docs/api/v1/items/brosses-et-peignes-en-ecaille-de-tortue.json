@@ -1,0 +1,38 @@
+{
+ "id": "brosses-et-peignes-en-ecaille-de-tortue",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En écaille de tortue",
+  "en": "Tortoise shell"
+ },
+ "full_name": {
+  "fr": "Brosses et peignes — En écaille de tortue",
+  "en": "Brush & Combs — Tortoise shell"
+ },
+ "group": [
+  {
+   "fr": "Brosses et peignes",
+   "en": "Brush & Combs"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2906
+ }
+}

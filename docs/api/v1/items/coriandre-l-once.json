@@ -1,0 +1,33 @@
+{
+ "id": "coriandre-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Coriandre, l'once",
+  "en": "Coriander, per oz"
+ },
+ "full_name": {
+  "fr": "Coriandre, l'once",
+  "en": "Coriander, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 817
+ }
+}

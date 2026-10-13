@@ -1,0 +1,40 @@
+{
+ "id": "vouivre",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Vouivre",
+  "en": "Wyvern"
+ },
+ "full_name": {
+  "fr": "Vouivre",
+  "en": "Wyvern"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "2 000 po",
+   "en": "2,000gp"
+  },
+  "min_cp": 200000,
+  "max_cp": 200000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Vouivre : nom français du wyvern, dragon à deux pattes dont la queue porte un dard venimeux."
+  ]
+ },
+ "source": {
+  "table": "X",
+  "line": 1276
+ }
+}

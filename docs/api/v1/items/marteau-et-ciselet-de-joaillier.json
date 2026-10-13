@@ -1,0 +1,35 @@
+{
+ "id": "marteau-et-ciselet-de-joaillier",
+ "category": "outils",
+ "name": {
+  "fr": "Marteau et ciselet de joaillier",
+  "en": "Jewler Hammer and Chisel"
+ },
+ "full_name": {
+  "fr": "Marteau et ciselet de joaillier",
+  "en": "Jewler Hammer and Chisel"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Marteau et ciselet de joaillier : le ciselet est un petit ciseau d'orfèvre servant à graver et modeler le métal."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2512
+ }
+}

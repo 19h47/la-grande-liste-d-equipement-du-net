@@ -1,0 +1,35 @@
+{
+ "id": "panthere-des-neiges-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Panthère des neiges — Manteau, robe, couverture",
+  "en": "Snow leopard — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Panthère des neiges",
+   "en": "Snow leopard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1219
+ }
+}

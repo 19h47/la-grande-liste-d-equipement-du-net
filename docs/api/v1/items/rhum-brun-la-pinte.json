@@ -1,0 +1,38 @@
+{
+ "id": "rhum-brun-la-pinte",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Brun, la pinte",
+  "en": "Dark, per pint"
+ },
+ "full_name": {
+  "fr": "Rhum — Brun, la pinte",
+  "en": "Rum — Dark, per pint"
+ },
+ "group": [
+  {
+   "fr": "Rhum",
+   "en": "Rum"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 405
+ }
+}

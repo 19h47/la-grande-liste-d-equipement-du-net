@@ -1,0 +1,40 @@
+{
+ "id": "armes-saurials-masse-de-dos-de-lame",
+ "category": "armes",
+ "name": {
+  "fr": "Masse de dos-de-lame",
+  "en": "Bladeback Mace"
+ },
+ "full_name": {
+  "fr": "Armes saurials — Masse de dos-de-lame",
+  "en": "Saurial Weapons — Bladeback Mace"
+ },
+ "group": [
+  {
+   "fr": "Armes saurials",
+   "en": "Saurial Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": [
+   "Armes saurials : armes des saurials, hommes-lézards des Royaumes oubliés ; dos-de-lame, tête-cornue et tête-crêtée en sont des sous-races."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3694
+ }
+}

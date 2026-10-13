@@ -1,0 +1,38 @@
+{
+ "id": "carafe-en-ceramique",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "En céramique",
+  "en": "Ceramic"
+ },
+ "full_name": {
+  "fr": "Carafe — En céramique",
+  "en": "Decanter — Ceramic"
+ },
+ "group": [
+  {
+   "fr": "Carafe",
+   "en": "Decanter"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pc",
+   "en": "6cp"
+  },
+  "min_cp": 6,
+  "max_cp": 6,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1842
+ }
+}

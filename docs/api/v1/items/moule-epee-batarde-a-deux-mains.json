@@ -1,0 +1,39 @@
+{
+ "id": "moule-epee-batarde-a-deux-mains",
+ "category": "outils",
+ "name": {
+  "fr": "Bâtarde (à deux mains)",
+  "en": "Bastard (two handed)"
+ },
+ "full_name": {
+  "fr": "Moule — Épée — Bâtarde (à deux mains)",
+  "en": "Mold — Sword — Bastard (two handed)"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Épée",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2596
+ }
+}

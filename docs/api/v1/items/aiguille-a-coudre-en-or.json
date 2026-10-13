@@ -1,0 +1,33 @@
+{
+ "id": "aiguille-a-coudre-en-or",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Aiguille à coudre en or",
+  "en": "Needle, Sewing, golden"
+ },
+ "full_name": {
+  "fr": "Aiguille à coudre en or",
+  "en": "Needle, Sewing, golden"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3043
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "licol",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Licol",
+  "en": "Halter"
+ },
+ "full_name": {
+  "fr": "Licol",
+  "en": "Halter"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Licol : harnais de tête sans mors, servant à attacher ou à mener un animal."
+  ]
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1056
+ }
+}

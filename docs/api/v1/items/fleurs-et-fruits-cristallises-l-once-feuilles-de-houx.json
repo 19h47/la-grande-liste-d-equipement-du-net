@@ -1,0 +1,38 @@
+{
+ "id": "fleurs-et-fruits-cristallises-l-once-feuilles-de-houx",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Feuilles de houx",
+  "en": "Holly Leaves"
+ },
+ "full_name": {
+  "fr": "Fleurs et fruits cristallisés, l'once — Feuilles de houx",
+  "en": "Crystallized, per oz — Holly Leaves"
+ },
+ "group": [
+  {
+   "fr": "Fleurs et fruits cristallisés, l'once",
+   "en": "Crystallized, per oz"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 568
+ }
+}

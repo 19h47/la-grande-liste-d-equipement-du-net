@@ -1,0 +1,39 @@
+{
+ "id": "moule-epee-courte",
+ "category": "outils",
+ "name": {
+  "fr": "Courte",
+  "en": "Short"
+ },
+ "full_name": {
+  "fr": "Moule — Épée — Courte",
+  "en": "Mold — Sword — Short"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Épée",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2603
+ }
+}

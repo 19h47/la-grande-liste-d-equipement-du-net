@@ -1,0 +1,38 @@
+{
+ "id": "boite-en-or-decorative",
+ "category": "contenants",
+ "name": {
+  "fr": "En or, décorative",
+  "en": "Gold, ornamental"
+ },
+ "full_name": {
+  "fr": "Boîte — En or, décorative",
+  "en": "Box — Gold, ornamental"
+ },
+ "group": [
+  {
+   "fr": "Boîte",
+   "en": "Box"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1321
+ }
+}

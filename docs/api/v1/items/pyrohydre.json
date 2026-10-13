@@ -1,0 +1,38 @@
+{
+ "id": "pyrohydre",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Pyrohydre",
+  "en": "Hydra, pyro"
+ },
+ "full_name": {
+  "fr": "Pyrohydre",
+  "en": "Hydra, pyro"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "3 500 po",
+   "en": "3,500gp"
+  },
+  "min_cp": 350000,
+  "max_cp": 350000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "700 po/tête",
+   "en": "700gp/head"
+  },
+  "min_cp": 70000,
+  "max_cp": 70000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1526
+ }
+}

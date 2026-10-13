@@ -1,0 +1,35 @@
+{
+ "id": "diamant-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Diamant — De la taille d'une boule",
+  "en": "Diamond — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Diamant",
+   "en": "Diamond"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 000 po",
+   "en": "6,000gp"
+  },
+  "min_cp": 600000,
+  "max_cp": 600000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2072
+ }
+}

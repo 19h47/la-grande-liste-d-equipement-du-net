@@ -1,0 +1,38 @@
+{
+ "id": "ceinture-de-lest-de-plongeur-lourde",
+ "category": "outils",
+ "name": {
+  "fr": "Lourde",
+  "en": "Heavy"
+ },
+ "full_name": {
+  "fr": "Ceinture de lest de plongeur — Lourde",
+  "en": "Divers Weight Belt — Heavy"
+ },
+ "group": [
+  {
+   "fr": "Ceinture de lest de plongeur",
+   "en": "Divers Weight Belt"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2496
+ }
+}

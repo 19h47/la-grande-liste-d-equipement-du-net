@@ -1,0 +1,33 @@
+{
+ "id": "fourche-de-guerre",
+ "category": "armes",
+ "name": {
+  "fr": "Fourche de guerre",
+  "en": "Military Fork"
+ },
+ "full_name": {
+  "fr": "Fourche de guerre",
+  "en": "Military Fork"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3650
+ }
+}

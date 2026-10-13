@@ -1,0 +1,38 @@
+{
+ "id": "chemise-de-mailles",
+ "category": "armures",
+ "name": {
+  "fr": "De mailles",
+  "en": "Chainmail"
+ },
+ "full_name": {
+  "fr": "Chemise — De mailles",
+  "en": "Chemise — Chainmail"
+ },
+ "group": [
+  {
+   "fr": "Chemise",
+   "en": "Chemise"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "45 po",
+   "en": "45gp"
+  },
+  "min_cp": 4500,
+  "max_cp": 4500,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3781
+ }
+}

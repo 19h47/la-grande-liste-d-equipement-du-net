@@ -1,0 +1,35 @@
+{
+ "id": "diamant-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Diamant — De la taille d'une noix",
+  "en": "Diamond — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Diamant",
+   "en": "Diamond"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 000 po",
+   "en": "2,000gp"
+  },
+  "min_cp": 200000,
+  "max_cp": 200000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2071
+ }
+}

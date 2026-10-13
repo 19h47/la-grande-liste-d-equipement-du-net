@@ -1,0 +1,38 @@
+{
+ "id": "edredon-en-lin-fourre-de-duvet",
+ "category": "tissus",
+ "name": {
+  "fr": "Fourré de duvet",
+  "en": "Down"
+ },
+ "full_name": {
+  "fr": "Édredon en lin — Fourré de duvet",
+  "en": "Comforter, linen — Down"
+ },
+ "group": [
+  {
+   "fr": "Édredon en lin",
+   "en": "Comforter, linen"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1721
+ }
+}

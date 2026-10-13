@@ -1,0 +1,40 @@
+{
+ "id": "felmather",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Felmather",
+  "en": "Felmather"
+ },
+ "full_name": {
+  "fr": "Felmather",
+  "en": "Felmather"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Felmather : plante côtière du Net Book of Herbs qui, placée sous la langue, tire un comateux de son coma."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2769
+ }
+}

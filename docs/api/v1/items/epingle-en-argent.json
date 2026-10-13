@@ -1,0 +1,33 @@
+{
+ "id": "epingle-en-argent",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Épingle en argent",
+  "en": "Pin, silver"
+ },
+ "full_name": {
+  "fr": "Épingle en argent",
+  "en": "Pin, silver"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3068
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "cornue",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Cornue",
+  "en": "Retort"
+ },
+ "full_name": {
+  "fr": "Cornue",
+  "en": "Retort"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": [
+   "Cornue : vase de distillation à col long et recourbé, utilisé par les alchimistes."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3096
+ }
+}

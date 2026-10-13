@@ -1,0 +1,38 @@
+{
+ "id": "gants-en-peau-de-serpent",
+ "category": "vetements",
+ "name": {
+  "fr": "En peau de serpent",
+  "en": "Snakeskin"
+ },
+ "full_name": {
+  "fr": "Gants — En peau de serpent",
+  "en": "Gloves — Snakeskin"
+ },
+ "group": [
+  {
+   "fr": "Gants",
+   "en": "Gloves"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "16 po",
+   "en": "16gp"
+  },
+  "min_cp": 1600,
+  "max_cp": 1600,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 174
+ }
+}

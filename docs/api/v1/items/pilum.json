@@ -1,0 +1,35 @@
+{
+ "id": "pilum",
+ "category": "armes",
+ "name": {
+  "fr": "Pilum",
+  "en": "Pilum"
+ },
+ "full_name": {
+  "fr": "Pilum",
+  "en": "Pilum"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Pilum : javelot lourd des légionnaires romains, à long fer de métal."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3660
+ }
+}

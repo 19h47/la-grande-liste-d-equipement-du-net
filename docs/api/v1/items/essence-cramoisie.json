@@ -1,0 +1,32 @@
+{
+ "id": "essence-cramoisie",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Essence cramoisie",
+  "en": "Crimson essence"
+ },
+ "full_name": {
+  "fr": "Essence cramoisie",
+  "en": "Crimson essence"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Essence cramoisie : liquide rouge tiré du cinnabryl (décor Red Steel), aux propriétés magiques."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2066
+ }
+}

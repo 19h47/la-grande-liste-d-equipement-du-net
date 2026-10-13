@@ -1,0 +1,33 @@
+{
+ "id": "barre-de-fer-aimantee",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Barre de fer aimantée",
+  "en": "Bar, Iron, magnetized"
+ },
+ "full_name": {
+  "fr": "Barre de fer aimantée",
+  "en": "Bar, Iron, magnetized"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 pc",
+   "en": "8cp"
+  },
+  "min_cp": 8,
+  "max_cp": 8,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2872
+ }
+}

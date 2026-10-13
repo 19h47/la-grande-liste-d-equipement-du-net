@@ -1,0 +1,38 @@
+{
+ "id": "fiole-en-argile",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "En argile",
+  "en": "Clay"
+ },
+ "full_name": {
+  "fr": "Fiole — En argile",
+  "en": "Vial — Clay"
+ },
+ "group": [
+  {
+   "fr": "Fiole",
+   "en": "Vial"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 pc",
+   "en": "25cp"
+  },
+  "min_cp": 25,
+  "max_cp": 25,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1891
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "chasseur-par-semaine",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Par semaine",
+  "en": "Per Week"
+ },
+ "full_name": {
+  "fr": "Chasseur — Par semaine",
+  "en": "Huntsman — Per Week"
+ },
+ "group": [
+  {
+   "fr": "Chasseur",
+   "en": "Huntsman"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2400
+ }
+}

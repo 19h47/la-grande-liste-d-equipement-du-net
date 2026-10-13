@@ -1,0 +1,38 @@
+{
+ "id": "chopes-a-couvercle-en-etain",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En étain",
+  "en": "Pewter"
+ },
+ "full_name": {
+  "fr": "Chopes à couvercle — En étain",
+  "en": "Steins — Pewter"
+ },
+ "group": [
+  {
+   "fr": "Chopes à couvercle",
+   "en": "Steins"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3123
+ }
+}

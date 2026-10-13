@@ -1,0 +1,32 @@
+{
+ "id": "archere-cruciforme",
+ "category": "constructions",
+ "name": {
+  "fr": "Archère cruciforme",
+  "en": "Arrow slit, crossletted"
+ },
+ "full_name": {
+  "fr": "Archère cruciforme",
+  "en": "Arrow slit, crossletted"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Archère : fente verticale étroite percée dans un mur pour le tir à l'arc ; la version cruciforme permet aussi le tir latéral et à l'arbalète."
+  ]
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3263
+ }
+}

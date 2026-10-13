@@ -1,0 +1,40 @@
+{
+ "id": "thri-kreen",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Thri-kreen",
+  "en": "Thri-kreen"
+ },
+ "full_name": {
+  "fr": "Thri-kreen",
+  "en": "Thri-kreen"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "600 po",
+   "en": "600gp"
+  },
+  "min_cp": 60000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Thri-kreen : humanoïde insectoïde semblable à une mante religieuse, emblématique de l'univers Dark Sun."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1543
+ }
+}

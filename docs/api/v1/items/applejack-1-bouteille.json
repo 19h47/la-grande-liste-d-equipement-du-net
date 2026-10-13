@@ -1,0 +1,40 @@
+{
+ "id": "applejack-1-bouteille",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "1 bouteille",
+  "en": "1 bottle"
+ },
+ "full_name": {
+  "fr": "Applejack — 1 bouteille",
+  "en": "Applejack — 1 bottle"
+ },
+ "group": [
+  {
+   "fr": "Applejack",
+   "en": "Applejack"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "9 pc",
+   "en": "9cp"
+  },
+  "min_cp": 9,
+  "max_cp": 9,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Applejack : eau-de-vie de pomme."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 323
+ }
+}

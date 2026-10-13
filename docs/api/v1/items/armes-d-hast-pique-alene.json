@@ -1,0 +1,40 @@
+{
+ "id": "armes-d-hast-pique-alene",
+ "category": "armes",
+ "name": {
+  "fr": "Pique-alène",
+  "en": "Awl Pike"
+ },
+ "full_name": {
+  "fr": "Armes d'hast — Pique-alène",
+  "en": "Polearm — Awl Pike"
+ },
+ "group": [
+  {
+   "fr": "Armes d'hast",
+   "en": "Polearm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": [
+   "Pique-alène : pique à fer long et étroit, conçu pour percer les armures."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3671
+ }
+}

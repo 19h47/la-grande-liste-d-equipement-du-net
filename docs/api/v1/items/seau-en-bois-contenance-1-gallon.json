@@ -1,0 +1,38 @@
+{
+ "id": "seau-en-bois-contenance-1-gallon",
+ "category": "contenants",
+ "name": {
+  "fr": "En bois, contenance 1 gallon",
+  "en": "Wooden, holds 1 gallon"
+ },
+ "full_name": {
+  "fr": "Seau — En bois, contenance 1 gallon",
+  "en": "Bucket — Wooden, holds 1 gallon"
+ },
+ "group": [
+  {
+   "fr": "Seau",
+   "en": "Bucket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1332
+ }
+}

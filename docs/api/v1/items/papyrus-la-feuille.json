@@ -1,0 +1,33 @@
+{
+ "id": "papyrus-la-feuille",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "Papyrus, la feuille",
+  "en": "Papyrus, per sheet"
+ },
+ "full_name": {
+  "fr": "Papyrus, la feuille",
+  "en": "Papyrus, per sheet"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1952
+ }
+}

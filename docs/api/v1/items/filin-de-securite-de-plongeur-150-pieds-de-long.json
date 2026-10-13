@@ -1,0 +1,33 @@
+{
+ "id": "filin-de-securite-de-plongeur-150-pieds-de-long",
+ "category": "outils",
+ "name": {
+  "fr": "Filin de sécurité de plongeur, 150 pieds de long",
+  "en": "Divers Safety Line, 150ft long"
+ },
+ "full_name": {
+  "fr": "Filin de sécurité de plongeur, 150 pieds de long",
+  "en": "Divers Safety Line, 150ft long"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2485
+ }
+}

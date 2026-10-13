@@ -1,0 +1,30 @@
+{
+ "id": "drake-de-feu-carcasses",
+ "category": "carcasses",
+ "name": {
+  "fr": "Drake de feu",
+  "en": "Firedrake"
+ },
+ "full_name": {
+  "fr": "Drake de feu",
+  "en": "Firedrake"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "201-220 po",
+   "en": "201-220gp"
+  },
+  "min_cp": 20100,
+  "max_cp": 22000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIV",
+  "line": 1609
+ }
+}

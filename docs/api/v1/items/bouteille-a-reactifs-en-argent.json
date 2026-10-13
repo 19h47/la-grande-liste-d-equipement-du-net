@@ -1,0 +1,38 @@
+{
+ "id": "bouteille-a-reactifs-en-argent",
+ "category": "contenants",
+ "name": {
+  "fr": "À réactifs, en argent",
+  "en": "Reagent, Silver"
+ },
+ "full_name": {
+  "fr": "Bouteille — À réactifs, en argent",
+  "en": "Bottle — Reagent, Silver"
+ },
+ "group": [
+  {
+   "fr": "Bouteille",
+   "en": "Bottle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1318
+ }
+}

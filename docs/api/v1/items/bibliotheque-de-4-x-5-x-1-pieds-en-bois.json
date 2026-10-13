@@ -1,0 +1,33 @@
+{
+ "id": "bibliotheque-de-4-x-5-x-1-pieds-en-bois",
+ "category": "mobilier",
+ "name": {
+  "fr": "Bibliothèque de 4 x 5 x 1 pieds, en bois",
+  "en": "Bookcase, 4' x 5'x 1' , Wooden"
+ },
+ "full_name": {
+  "fr": "Bibliothèque de 4 x 5 x 1 pieds, en bois",
+  "en": "Bookcase, 4' x 5'x 1' , Wooden"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1567
+ }
+}

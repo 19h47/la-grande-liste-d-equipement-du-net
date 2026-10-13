@@ -1,0 +1,33 @@
+{
+ "id": "selle-d-equitation",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Selle d'équitation",
+  "en": "Saddle, Riding"
+ },
+ "full_name": {
+  "fr": "Selle d'équitation",
+  "en": "Saddle, Riding"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "35",
+  "lb": 35
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1069
+ }
+}

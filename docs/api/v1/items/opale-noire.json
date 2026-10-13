@@ -1,0 +1,30 @@
+{
+ "id": "opale-noire",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Opale noire",
+  "en": "Black Opal"
+ },
+ "full_name": {
+  "fr": "Opale noire",
+  "en": "Black Opal"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2012
+ }
+}

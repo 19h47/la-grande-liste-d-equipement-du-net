@@ -1,0 +1,40 @@
+{
+ "id": "bustenhalt-en-plates-d-or",
+ "category": "armures",
+ "name": {
+  "fr": "En plates d'or",
+  "en": "Golf Plate"
+ },
+ "full_name": {
+  "fr": "Bustenhalt — En plates d'or",
+  "en": "Bustenhalt — Golf Plate"
+ },
+ "group": [
+  {
+   "fr": "Bustenhalt",
+   "en": "Bustenhalt"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "85 po",
+   "en": "85gp"
+  },
+  "min_cp": 8500,
+  "max_cp": 8500,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": [
+   "Bustenhalt : protection de poitrine féminine en forme de soutien-gorge (de l'allemand « Büstenhalter »)."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3769
+ }
+}

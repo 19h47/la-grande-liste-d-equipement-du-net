@@ -1,0 +1,38 @@
+{
+ "id": "vin-passable-petit-tonneau-5-gallons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Passable, petit tonneau, 5 gallons",
+  "en": "Fair, Small Barrel, 5 gallons"
+ },
+ "full_name": {
+  "fr": "Vin — Passable, petit tonneau, 5 gallons",
+  "en": "Wine — Fair, Small Barrel, 5 gallons"
+ },
+ "group": [
+  {
+   "fr": "Vin",
+   "en": "Wine"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 422
+ }
+}

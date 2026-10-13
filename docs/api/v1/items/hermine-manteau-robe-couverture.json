@@ -1,0 +1,35 @@
+{
+ "id": "hermine-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Hermine — Manteau, robe, couverture",
+  "en": "Ermine — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Hermine",
+   "en": "Ermine"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 200 po",
+   "en": "7,200gp"
+  },
+  "min_cp": 720000,
+  "max_cp": 720000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1136
+ }
+}

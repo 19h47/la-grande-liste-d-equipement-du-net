@@ -1,0 +1,38 @@
+{
+ "id": "fermoir-de-livre-a-serrure-passable",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "Passable",
+  "en": "Fair"
+ },
+ "full_name": {
+  "fr": "Fermoir de livre à serrure — Passable",
+  "en": "Book lock — Fair"
+ },
+ "group": [
+  {
+   "fr": "Fermoir de livre à serrure",
+   "en": "Book lock"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "65 po",
+   "en": "65gp"
+  },
+  "min_cp": 6500,
+  "max_cp": 6500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1939
+ }
+}

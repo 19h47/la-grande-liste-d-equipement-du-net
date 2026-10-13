@@ -1,0 +1,38 @@
+{
+ "id": "bracelets-en-or",
+ "category": "vetements",
+ "name": {
+  "fr": "En or",
+  "en": "Gold"
+ },
+ "full_name": {
+  "fr": "Bracelets — En or",
+  "en": "Bracelets — Gold"
+ },
+ "group": [
+  {
+   "fr": "Bracelets",
+   "en": "Bracelets"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 97
+ }
+}

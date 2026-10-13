@@ -1,0 +1,30 @@
+{
+ "id": "comprehension-des-langues",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Compréhension des langues",
+  "en": "Comprehend Languages"
+ },
+ "full_name": {
+  "fr": "Compréhension des langues",
+  "en": "Comprehend Languages"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3205
+ }
+}

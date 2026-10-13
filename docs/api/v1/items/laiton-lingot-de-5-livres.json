@@ -1,0 +1,35 @@
+{
+ "id": "laiton-lingot-de-5-livres",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Lingot de 5 livres",
+  "en": "Ingot, 5lb"
+ },
+ "full_name": {
+  "fr": "Laiton — Lingot de 5 livres",
+  "en": "Brass — Ingot, 5lb"
+ },
+ "group": [
+  {
+   "fr": "Laiton",
+   "en": "Brass"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2021
+ }
+}

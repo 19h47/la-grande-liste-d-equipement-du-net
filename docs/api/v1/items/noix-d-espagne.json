@@ -1,0 +1,40 @@
+{
+ "id": "noix-d-espagne",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Noix d'Espagne",
+  "en": "Spanish Nut"
+ },
+ "full_name": {
+  "fr": "Noix d'Espagne",
+  "en": "Spanish Nut"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Noix d'Espagne : dans le Net Book of Herbs, puissant aphrodisiaque."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2826
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "argent-feuille-de-5-pouces-de-cote",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Feuille de 5 pouces de côté",
+  "en": "Sheet, 5 in sq"
+ },
+ "full_name": {
+  "fr": "Argent — Feuille de 5 pouces de côté",
+  "en": "Silver — Sheet, 5 in sq"
+ },
+ "group": [
+  {
+   "fr": "Argent",
+   "en": "Silver"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "9 po",
+   "en": "9gp"
+  },
+  "min_cp": 900,
+  "max_cp": 900,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2285
+ }
+}

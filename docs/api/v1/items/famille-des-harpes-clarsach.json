@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-harpes-clarsach",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Clàrsach",
+  "en": "Carsach"
+ },
+ "full_name": {
+  "fr": "Famille des harpes — Clàrsach",
+  "en": "Harp Family — Carsach"
+ },
+ "group": [
+  {
+   "fr": "Famille des harpes",
+   "en": "Harp Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Clàrsach : harpe traditionnelle d'Écosse et d'Irlande."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3391
+ }
+}

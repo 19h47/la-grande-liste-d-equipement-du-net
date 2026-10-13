@@ -1,0 +1,33 @@
+{
+ "id": "fonderie-grande-75-x-75-pieds",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Fonderie, grande, 75 x 75 pieds",
+  "en": "Smelter, large, 75' x 75'"
+ },
+ "full_name": {
+  "fr": "Fonderie, grande, 75 x 75 pieds",
+  "en": "Smelter, large, 75' x 75'"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": {
+  "text": "175",
+  "lb": 175
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3104
+ }
+}

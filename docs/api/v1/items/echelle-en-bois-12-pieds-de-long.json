@@ -1,0 +1,38 @@
+{
+ "id": "echelle-en-bois-12-pieds-de-long",
+ "category": "outils",
+ "name": {
+  "fr": "En bois, 12 pieds de long",
+  "en": "Wooden, 12 ft long"
+ },
+ "full_name": {
+  "fr": "Échelle — En bois, 12 pieds de long",
+  "en": "Ladder — Wooden, 12 ft long"
+ },
+ "group": [
+  {
+   "fr": "Échelle",
+   "en": "Ladder"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2515
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "charbon-de-bois-sac-de-10-livres",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Charbon de bois, sac de 10 livres",
+  "en": "Charcoal, 10lbs bag"
+ },
+ "full_name": {
+  "fr": "Charbon de bois, sac de 10 livres",
+  "en": "Charcoal, 10lbs bag"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pe",
+   "en": "1ep"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2928
+ }
+}

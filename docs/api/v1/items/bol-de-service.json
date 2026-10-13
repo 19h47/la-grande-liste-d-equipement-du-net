@@ -1,0 +1,38 @@
+{
+ "id": "bol-de-service",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "De service",
+  "en": "Serving"
+ },
+ "full_name": {
+  "fr": "Bol — De service",
+  "en": "Bowl — Serving"
+ },
+ "group": [
+  {
+   "fr": "Bol",
+   "en": "Bowl"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2892
+ }
+}

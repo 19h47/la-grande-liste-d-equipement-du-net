@@ -1,0 +1,38 @@
+{
+ "id": "etoffe-le-yard-carre-flanelle",
+ "category": "tissus",
+ "name": {
+  "fr": "Flanelle",
+  "en": "Flannel"
+ },
+ "full_name": {
+  "fr": "Étoffe, le yard carré — Flanelle",
+  "en": "Cloth, per sq yard — Flannel"
+ },
+ "group": [
+  {
+   "fr": "Étoffe, le yard carré",
+   "en": "Cloth, per sq yard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1727
+ }
+}

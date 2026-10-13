@@ -1,0 +1,35 @@
+{
+ "id": "lynx-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Lynx — Cape, veste",
+  "en": "Lynx — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Lynx",
+   "en": "Lynx"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "125 po",
+   "en": "125gp"
+  },
+  "min_cp": 12500,
+  "max_cp": 12500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1165
+ }
+}

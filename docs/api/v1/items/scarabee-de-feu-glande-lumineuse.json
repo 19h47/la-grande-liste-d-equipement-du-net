@@ -1,0 +1,32 @@
+{
+ "id": "scarabee-de-feu-glande-lumineuse",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Scarabée de feu (glande lumineuse)",
+  "en": "Beetle, fire (light gland)"
+ },
+ "full_name": {
+  "fr": "Scarabée de feu (glande lumineuse)",
+  "en": "Beetle, fire (light gland)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Scarabée de feu : coléoptère géant dont les glandes lumineuses brillent encore plusieurs jours après sa mort."
+  ]
+ },
+ "source": {
+  "table": "VI",
+  "line": 901
+ }
+}

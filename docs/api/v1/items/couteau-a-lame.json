@@ -1,0 +1,33 @@
+{
+ "id": "couteau-a-lame",
+ "category": "outils",
+ "name": {
+  "fr": "Couteau à lame",
+  "en": "Blade Knife"
+ },
+ "full_name": {
+  "fr": "Couteau à lame",
+  "en": "Blade Knife"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2462
+ }
+}

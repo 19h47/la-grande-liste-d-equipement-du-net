@@ -1,0 +1,38 @@
+{
+ "id": "pots-bouches-en-ceramique-6-onces",
+ "category": "contenants",
+ "name": {
+  "fr": "6 onces",
+  "en": "6oz"
+ },
+ "full_name": {
+  "fr": "Pots bouchés, en céramique — 6 onces",
+  "en": "Jars, Stoppered Ceramic — 6oz"
+ },
+ "group": [
+  {
+   "fr": "Pots bouchés, en céramique",
+   "en": "Jars, Stoppered Ceramic"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1387
+ }
+}

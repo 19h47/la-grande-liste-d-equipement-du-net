@@ -1,0 +1,40 @@
+{
+ "id": "dagues-jambiya",
+ "category": "armes",
+ "name": {
+  "fr": "Jambiya",
+  "en": "Jambiya"
+ },
+ "full_name": {
+  "fr": "Dagues — Jambiya",
+  "en": "Dagger — Jambiya"
+ },
+ "group": [
+  {
+   "fr": "Dagues",
+   "en": "Dagger"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Jambiya : dague arabe à lame courbe et à double tranchant."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3569
+ }
+}

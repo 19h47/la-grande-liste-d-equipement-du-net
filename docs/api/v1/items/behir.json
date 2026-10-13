@@ -1,0 +1,40 @@
+{
+ "id": "behir",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Béhir",
+  "en": "Behir"
+ },
+ "full_name": {
+  "fr": "Béhir",
+  "en": "Behir"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "4 000 po",
+   "en": "4,000gp"
+  },
+  "min_cp": 400000,
+  "max_cp": 400000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "6 500 po",
+   "en": "6,500gp"
+  },
+  "min_cp": 650000,
+  "max_cp": 650000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Béhir : long reptile serpentiforme à douze pattes, qui crache la foudre et avale ses proies."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1481
+ }
+}

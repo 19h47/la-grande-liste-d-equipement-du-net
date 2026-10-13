@@ -1,0 +1,35 @@
+{
+ "id": "howdah",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Howdah",
+  "en": "Howdah"
+ },
+ "full_name": {
+  "fr": "Howdah",
+  "en": "Howdah"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "85 po",
+   "en": "85gp"
+  },
+  "min_cp": 8500,
+  "max_cp": 8500,
+  "plus": false
+ },
+ "weight": {
+  "text": "120",
+  "lb": 120
+ },
+ "notes": {
+  "fr": [
+   "Howdah : nacelle, souvent couverte, fixée sur le dos d'un éléphant."
+  ]
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1067
+ }
+}

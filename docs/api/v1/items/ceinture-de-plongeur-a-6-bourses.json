@@ -1,0 +1,33 @@
+{
+ "id": "ceinture-de-plongeur-a-6-bourses",
+ "category": "outils",
+ "name": {
+  "fr": "Ceinture de plongeur à 6 bourses",
+  "en": "Divers Belt w/6 Pouches"
+ },
+ "full_name": {
+  "fr": "Ceinture de plongeur à 6 bourses",
+  "en": "Divers Belt w/6 Pouches"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2486
+ }
+}

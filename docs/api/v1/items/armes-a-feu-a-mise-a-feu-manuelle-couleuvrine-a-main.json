@@ -1,0 +1,44 @@
+{
+ "id": "armes-a-feu-a-mise-a-feu-manuelle-couleuvrine-a-main",
+ "category": "armes",
+ "name": {
+  "fr": "Couleuvrine à main",
+  "en": "Handgunne"
+ },
+ "full_name": {
+  "fr": "Armes à feu — À mise à feu manuelle — Couleuvrine à main",
+  "en": "Firearms — Hand Match — Handgunne"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "À mise à feu manuelle",
+   "en": "Hand Match"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "125 po",
+   "en": "125gp"
+  },
+  "min_cp": 12500,
+  "max_cp": 12500,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": [
+   "Couleuvrine à main : arme à feu primitive, simple tube mis à feu à la main avec une mèche."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3581
+ }
+}

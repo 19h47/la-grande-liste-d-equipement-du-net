@@ -1,0 +1,38 @@
+{
+ "id": "souliers-pour-bebe",
+ "category": "vetements",
+ "name": {
+  "fr": "Pour bébé",
+  "en": "Baby"
+ },
+ "full_name": {
+  "fr": "Souliers — Pour bébé",
+  "en": "Shoes — Baby"
+ },
+ "group": [
+  {
+   "fr": "Souliers",
+   "en": "Shoes"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa/paire",
+   "en": "7sp/pair"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 268
+ }
+}

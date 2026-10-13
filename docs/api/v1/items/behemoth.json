@@ -1,0 +1,30 @@
+{
+ "id": "behemoth",
+ "category": "peaux",
+ "name": {
+  "fr": "Béhémoth",
+  "en": "Behemoth"
+ },
+ "full_name": {
+  "fr": "Béhémoth",
+  "en": "Behemoth"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20-50 po",
+   "en": "20-50gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "V",
+  "line": 870
+ }
+}

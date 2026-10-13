@@ -1,0 +1,35 @@
+{
+ "id": "rubis-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Rubis — De la taille d'un raisin",
+  "en": "Ruby — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Rubis",
+   "en": "Ruby"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "700 po",
+   "en": "700gp"
+  },
+  "min_cp": 70000,
+  "max_cp": 70000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2261
+ }
+}

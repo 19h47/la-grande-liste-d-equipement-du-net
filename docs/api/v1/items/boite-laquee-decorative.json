@@ -1,0 +1,38 @@
+{
+ "id": "boite-laquee-decorative",
+ "category": "contenants",
+ "name": {
+  "fr": "Laquée, décorative",
+  "en": "Lacquer, ornamental"
+ },
+ "full_name": {
+  "fr": "Boîte — Laquée, décorative",
+  "en": "Box — Lacquer, ornamental"
+ },
+ "group": [
+  {
+   "fr": "Boîte",
+   "en": "Box"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1325
+ }
+}

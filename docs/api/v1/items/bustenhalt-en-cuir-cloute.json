@@ -1,0 +1,40 @@
+{
+ "id": "bustenhalt-en-cuir-cloute",
+ "category": "armures",
+ "name": {
+  "fr": "En cuir clouté",
+  "en": "Studded Leather"
+ },
+ "full_name": {
+  "fr": "Bustenhalt — En cuir clouté",
+  "en": "Bustenhalt — Studded Leather"
+ },
+ "group": [
+  {
+   "fr": "Bustenhalt",
+   "en": "Bustenhalt"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Bustenhalt : protection de poitrine féminine en forme de soutien-gorge (de l'allemand « Büstenhalter »)."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3761
+ }
+}

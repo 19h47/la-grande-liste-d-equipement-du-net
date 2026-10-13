@@ -1,0 +1,37 @@
+{
+ "id": "chien-du-diable-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Chien du diable — Cape, veste",
+  "en": "Devil Dog — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Chien du diable",
+   "en": "Devil Dog"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Chien du diable : canidé monstrueux d'AD&D à fourrure blanche, chassant en meute dans les régions glacées."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1130
+ }
+}

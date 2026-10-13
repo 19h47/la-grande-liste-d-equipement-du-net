@@ -1,0 +1,38 @@
+{
+ "id": "fourchette-l-unite-de-table-en-laiton",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "De table, en laiton",
+  "en": "Dinner, brass"
+ },
+ "full_name": {
+  "fr": "Fourchette, l'unité — De table, en laiton",
+  "en": "Fork, each — Dinner, brass"
+ },
+ "group": [
+  {
+   "fr": "Fourchette, l'unité",
+   "en": "Fork, each"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2978
+ }
+}

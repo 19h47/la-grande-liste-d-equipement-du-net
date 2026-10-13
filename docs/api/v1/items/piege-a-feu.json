@@ -1,0 +1,32 @@
+{
+ "id": "piege-a-feu",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Piège à feu",
+  "en": "Fire Trap"
+ },
+ "full_name": {
+  "fr": "Piège à feu",
+  "en": "Fire Trap"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Piège à feu : sort posé sur un objet qui se ferme, explosant en flammes lorsqu'on l'ouvre."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3222
+ }
+}

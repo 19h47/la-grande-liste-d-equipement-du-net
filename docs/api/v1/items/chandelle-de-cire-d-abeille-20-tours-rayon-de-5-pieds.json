@@ -1,0 +1,40 @@
+{
+ "id": "chandelle-de-cire-d-abeille-20-tours-rayon-de-5-pieds",
+ "category": "eclairage",
+ "name": {
+  "fr": "De cire d'abeille, 20 tours, rayon de 5 pieds",
+  "en": "Beeswax, 20 turns, 5' radius"
+ },
+ "full_name": {
+  "fr": "Chandelle — De cire d'abeille, 20 tours, rayon de 5 pieds",
+  "en": "Candle — Beeswax, 20 turns, 5' radius"
+ },
+ "group": [
+  {
+   "fr": "Chandelle",
+   "en": "Candle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Tour : unité de temps de jeu valant 10 rounds (environ 10 minutes)."
+  ]
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2655
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "carquois-a-fleches-grand-contenance-24-fleches",
+ "category": "contenants",
+ "name": {
+  "fr": "Grand, contenance 24 flèches",
+  "en": "Large, holds 24 arrows"
+ },
+ "full_name": {
+  "fr": "Carquois — À flèches — Grand, contenance 24 flèches",
+  "en": "Quiver — Arrow — Large, holds 24 arrows"
+ },
+ "group": [
+  {
+   "fr": "Carquois",
+   "en": "Quiver"
+  },
+  {
+   "fr": "À flèches",
+   "en": "Arrow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pe",
+   "en": "1ep"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1428
+ }
+}

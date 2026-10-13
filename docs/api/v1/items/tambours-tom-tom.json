@@ -1,0 +1,38 @@
+{
+ "id": "tambours-tom-tom",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Tom-tom",
+  "en": "Tom-tom"
+ },
+ "full_name": {
+  "fr": "Tambours — Tom-tom",
+  "en": "Drums — Tom-tom"
+ },
+ "group": [
+  {
+   "fr": "Tambours",
+   "en": "Drums"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "30",
+  "lb": 30
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3346
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "babouin",
+ "category": "animaux",
+ "name": {
+  "fr": "Babouin",
+  "en": "Baboon"
+ },
+ "full_name": {
+  "fr": "Babouin",
+  "en": "Baboon"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1629
+ }
+}

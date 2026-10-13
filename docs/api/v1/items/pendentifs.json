@@ -1,0 +1,33 @@
+{
+ "id": "pendentifs",
+ "category": "vetements",
+ "name": {
+  "fr": "Pendentifs",
+  "en": "Pendants"
+ },
+ "full_name": {
+  "fr": "Pendentifs",
+  "en": "Pendants"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "45 po",
+   "en": "45gp"
+  },
+  "min_cp": 4500,
+  "max_cp": 4500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 237
+ }
+}

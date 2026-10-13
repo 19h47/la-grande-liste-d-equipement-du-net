@@ -1,0 +1,38 @@
+{
+ "id": "repas-par-jour-pauvre",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Pauvre",
+  "en": "Poor"
+ },
+ "full_name": {
+  "fr": "Repas (par jour) — Pauvre",
+  "en": "Meals (per Day) — Poor"
+ },
+ "group": [
+  {
+   "fr": "Repas (par jour)",
+   "en": "Meals (per Day)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 375
+ }
+}

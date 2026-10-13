@@ -1,0 +1,30 @@
+{
+ "id": "pierres-de-catapulte",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Pierres de catapulte",
+  "en": "Catapult Stones"
+ },
+ "full_name": {
+  "fr": "Pierres de catapulte",
+  "en": "Catapult Stones"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3492
+ }
+}

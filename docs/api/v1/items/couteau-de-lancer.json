@@ -1,0 +1,38 @@
+{
+ "id": "couteau-de-lancer",
+ "category": "armes",
+ "name": {
+  "fr": "Couteau de lancer",
+  "en": "Trowing knife"
+ },
+ "full_name": {
+  "fr": "Couteau — Couteau de lancer",
+  "en": "Knife — Trowing knife"
+ },
+ "group": [
+  {
+   "fr": "Couteau",
+   "en": "Knife"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3641
+ }
+}

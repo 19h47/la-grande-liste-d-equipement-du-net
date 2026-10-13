@@ -1,0 +1,35 @@
+{
+ "id": "galere-petite",
+ "category": "transports",
+ "name": {
+  "fr": "Petite",
+  "en": "Small"
+ },
+ "full_name": {
+  "fr": "Galère — Petite",
+  "en": "Galley — Small"
+ },
+ "group": [
+  {
+   "fr": "Galère",
+   "en": "Galley"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 000 po",
+   "en": "10,000gp"
+  },
+  "min_cp": 1000000,
+  "max_cp": 1000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 973
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "chauve-souris-guano",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Guano",
+  "en": "Guano"
+ },
+ "full_name": {
+  "fr": "Chauve-souris — Guano",
+  "en": "Bat — Guano"
+ },
+ "group": [
+  {
+   "fr": "Chauve-souris",
+   "en": "Bat"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VI",
+  "line": 898
+ }
+}

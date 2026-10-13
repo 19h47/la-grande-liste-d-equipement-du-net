@@ -1,0 +1,40 @@
+{
+ "id": "faucon-de-sang",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Faucon de sang",
+  "en": "Bloodhawk"
+ },
+ "full_name": {
+  "fr": "Faucon de sang",
+  "en": "Bloodhawk"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "70-120 po",
+   "en": "70-120gp"
+  },
+  "min_cp": 7000,
+  "max_cp": 12000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "70-120 po",
+   "en": "70-120gp"
+  },
+  "min_cp": 7000,
+  "max_cp": 12000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Faucon de sang : rapace agressif chassant en bande, friand de chair humaine."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1483
+ }
+}

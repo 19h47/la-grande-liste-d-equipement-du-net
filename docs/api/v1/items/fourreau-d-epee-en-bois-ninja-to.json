@@ -1,0 +1,40 @@
+{
+ "id": "fourreau-d-epee-en-bois-ninja-to",
+ "category": "contenants",
+ "name": {
+  "fr": "En bois, ninja-to",
+  "en": "Wooden, Ninja-to"
+ },
+ "full_name": {
+  "fr": "Fourreau d'épée — En bois, ninja-to",
+  "en": "Scabbard, Sword — Wooden, Ninja-to"
+ },
+ "group": [
+  {
+   "fr": "Fourreau d'épée",
+   "en": "Scabbard, Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 pa",
+   "en": "25sp"
+  },
+  "min_cp": 250,
+  "max_cp": 250,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Ninja-to : sabre court à lame droite attribué aux ninjas, dont l'authenticité historique est discutée."
+  ]
+ },
+ "source": {
+  "table": "XI",
+  "line": 1453
+ }
+}

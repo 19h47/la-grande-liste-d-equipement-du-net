@@ -1,0 +1,37 @@
+{
+ "id": "chien-du-diable-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Chien du diable — Garniture",
+  "en": "Devil Dog — Trim"
+ },
+ "group": [
+  {
+   "fr": "Chien du diable",
+   "en": "Devil Dog"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Chien du diable : canidé monstrueux d'AD&D à fourrure blanche, chassant en meute dans les régions glacées."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1129
+ }
+}

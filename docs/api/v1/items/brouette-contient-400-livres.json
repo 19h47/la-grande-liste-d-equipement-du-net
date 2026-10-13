@@ -1,0 +1,33 @@
+{
+ "id": "brouette-contient-400-livres",
+ "category": "outils",
+ "name": {
+  "fr": "Brouette, contient 400 livres",
+  "en": "Wheelbarrow, holds 400lb"
+ },
+ "full_name": {
+  "fr": "Brouette, contient 400 livres",
+  "en": "Wheelbarrow, holds 400lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "35",
+  "lb": 35
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2645
+ }
+}

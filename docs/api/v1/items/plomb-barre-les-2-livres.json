@@ -1,0 +1,35 @@
+{
+ "id": "plomb-barre-les-2-livres",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Barre, les 2 livres",
+  "en": "Bar, per 2 lb"
+ },
+ "full_name": {
+  "fr": "Plomb — Barre, les 2 livres",
+  "en": "Lead — Bar, per 2 lb"
+ },
+ "group": [
+  {
+   "fr": "Plomb",
+   "en": "Lead"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pc",
+   "en": "7cp"
+  },
+  "min_cp": 7,
+  "max_cp": 7,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2145
+ }
+}

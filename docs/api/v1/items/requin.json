@@ -1,0 +1,30 @@
+{
+ "id": "requin",
+ "category": "carcasses",
+ "name": {
+  "fr": "Requin",
+  "en": "Shark"
+ },
+ "full_name": {
+  "fr": "Requin",
+  "en": "Shark"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "DV x 10 po",
+   "en": "HD x 10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIV",
+  "line": 1613
+ }
+}

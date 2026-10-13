@@ -1,0 +1,32 @@
+{
+ "id": "benediction",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Bénédiction",
+  "en": "Bless"
+ },
+ "full_name": {
+  "fr": "Bénédiction",
+  "en": "Bless"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "Spécial",
+   "en": "Special"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Bénédiction : sort accordant aux alliés un bonus aux jets d'attaque et au moral."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3201
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "canide-sauvage",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Canidé sauvage",
+  "en": "Canine, Wild"
+ },
+ "full_name": {
+  "fr": "Canidé sauvage",
+  "en": "Canine, Wild"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "1 po/DV adulte",
+   "en": "1gp/adult HD"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1488
+ }
+}

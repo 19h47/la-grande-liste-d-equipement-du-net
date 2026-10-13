@@ -1,0 +1,30 @@
+{
+ "id": "hippopotame",
+ "category": "peaux",
+ "name": {
+  "fr": "Hippopotame",
+  "en": "Hippopotamus"
+ },
+ "full_name": {
+  "fr": "Hippopotame",
+  "en": "Hippopotamus"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 - 40 po",
+   "en": "10 - 40gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "V",
+  "line": 878
+ }
+}

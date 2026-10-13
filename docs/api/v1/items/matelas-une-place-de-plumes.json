@@ -1,0 +1,38 @@
+{
+ "id": "matelas-une-place-de-plumes",
+ "category": "mobilier",
+ "name": {
+  "fr": "Une place, de plumes",
+  "en": "Single, feather"
+ },
+ "full_name": {
+  "fr": "Matelas — Une place, de plumes",
+  "en": "Mattress — Single, feather"
+ },
+ "group": [
+  {
+   "fr": "Matelas",
+   "en": "Mattress"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1581
+ }
+}

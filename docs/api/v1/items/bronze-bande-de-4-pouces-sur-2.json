@@ -1,0 +1,35 @@
+{
+ "id": "bronze-bande-de-4-pouces-sur-2",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Bande de 4 pouces sur 2",
+  "en": "Strip, 4 by 2 in"
+ },
+ "full_name": {
+  "fr": "Bronze — Bande de 4 pouces sur 2",
+  "en": "Bronze — Strip, 4 by 2 in"
+ },
+ "group": [
+  {
+   "fr": "Bronze",
+   "en": "Bronze"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pc",
+   "en": "2cp"
+  },
+  "min_cp": 2,
+  "max_cp": 2,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2029
+ }
+}

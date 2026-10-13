@@ -1,0 +1,38 @@
+{
+ "id": "instruments-en-bois-divers-sabot",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Sabot",
+  "en": "Clog"
+ },
+ "full_name": {
+  "fr": "Instruments en bois divers — Sabot",
+  "en": "Wooden Special — Clog"
+ },
+ "group": [
+  {
+   "fr": "Instruments en bois divers",
+   "en": "Wooden Special"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3440
+ }
+}

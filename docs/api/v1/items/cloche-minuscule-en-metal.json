@@ -1,0 +1,38 @@
+{
+ "id": "cloche-minuscule-en-metal",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Minuscule, en métal",
+  "en": "Tiny, metal"
+ },
+ "full_name": {
+  "fr": "Cloche — Minuscule, en métal",
+  "en": "Bell — Tiny, metal"
+ },
+ "group": [
+  {
+   "fr": "Cloche",
+   "en": "Bell"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2884
+ }
+}

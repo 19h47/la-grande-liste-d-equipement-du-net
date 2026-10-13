@@ -1,0 +1,32 @@
+{
+ "id": "courtine-10-pieds-d-epaisseur-20-pieds-de-haut-40-pieds-de-long",
+ "category": "constructions",
+ "name": {
+  "fr": "Courtine, 10 pieds d'épaisseur, 20 pieds de haut, 40 pieds de long",
+  "en": "Wall, curtain, 10'w 20'h 40'l"
+ },
+ "full_name": {
+  "fr": "Courtine, 10 pieds d'épaisseur, 20 pieds de haut, 40 pieds de long",
+  "en": "Wall, curtain, 10'w 20'h 40'l"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Courtine : pan de muraille reliant deux tours ou deux bastions."
+  ]
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3303
+ }
+}

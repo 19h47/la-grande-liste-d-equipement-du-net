@@ -1,0 +1,33 @@
+{
+ "id": "grenouille-sauteuse-en-bois-jouet",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Grenouille sauteuse en bois (jouet)",
+  "en": "Frog, Toy, Wooden, Jumping"
+ },
+ "full_name": {
+  "fr": "Grenouille sauteuse en bois (jouet)",
+  "en": "Frog, Toy, Wooden, Jumping"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2982
+ }
+}

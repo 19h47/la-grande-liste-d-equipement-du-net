@@ -1,0 +1,33 @@
+{
+ "id": "bourrache-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Bourrache, l'once",
+  "en": "Borage, per oz"
+ },
+ "full_name": {
+  "fr": "Bourrache, l'once",
+  "en": "Borage, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pc",
+   "en": "2cp"
+  },
+  "min_cp": 2,
+  "max_cp": 2,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 807
+ }
+}

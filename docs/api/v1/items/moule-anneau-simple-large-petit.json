@@ -1,0 +1,39 @@
+{
+ "id": "moule-anneau-simple-large-petit",
+ "category": "outils",
+ "name": {
+  "fr": "Petit",
+  "en": "Small"
+ },
+ "full_name": {
+  "fr": "Moule — Anneau simple, large — Petit",
+  "en": "Mold — Ring, plain wide — Small"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Anneau simple, large",
+   "en": "Ring, plain wide"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2575
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "cerfeuil-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Cerfeuil, l'once",
+  "en": "Chervil, per oz"
+ },
+ "full_name": {
+  "fr": "Cerfeuil, l'once",
+  "en": "Chervil, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 812
+ }
+}

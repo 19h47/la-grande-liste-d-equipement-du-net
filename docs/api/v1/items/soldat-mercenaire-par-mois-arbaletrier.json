@@ -1,0 +1,35 @@
+{
+ "id": "soldat-mercenaire-par-mois-arbaletrier",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Arbalétrier",
+  "en": "Crossbowman"
+ },
+ "full_name": {
+  "fr": "Soldat mercenaire, par mois — Arbalétrier",
+  "en": "Mercenary Soldier, per month — Crossbowman"
+ },
+ "group": [
+  {
+   "fr": "Soldat mercenaire, par mois",
+   "en": "Mercenary Soldier, per month"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2418
+ }
+}

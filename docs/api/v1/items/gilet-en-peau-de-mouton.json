@@ -1,0 +1,35 @@
+{
+ "id": "gilet-en-peau-de-mouton",
+ "category": "vetements",
+ "name": {
+  "fr": "En peau de mouton",
+  "en": "Sheepskin"
+ },
+ "full_name": {
+  "fr": "Gilet — En peau de mouton",
+  "en": "Vest, — Sheepskin"
+ },
+ "group": [
+  {
+   "fr": "Gilet",
+   "en": "Vest,"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "12 pa",
+   "en": "12sp"
+  },
+  "min_cp": 120,
+  "max_cp": 120,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 301
+ }
+}

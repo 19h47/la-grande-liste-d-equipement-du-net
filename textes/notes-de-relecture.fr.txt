@@ -1,0 +1,661 @@
+LA GRANDE LISTE D'ÉQUIPEMENT DU NET : NOTES DE RELECTURE
+========================================================
+
+CONVENTIONS ADOPTÉES
+- Monnaies : pc, pa, pe, po, pp. Les milliers sont séparés par une espace (5 000 po).
+- Les unités impériales sont conservées (livre, once, pinte, quart, gallon, pied) :
+  les convertir fausserait les prix et les poids.
+- Races : Gnome, Halfelin, Elfe, Nain, Humain. Halfelin est utilisé partout.
+- Monstres, sorts et lieux : noms de la VF officielle d'AD&D quand elle existe
+  (ours-hibou, ombre des roches, Eauprofonde, Éternelle-Rencontre,
+  Dissipation de la magie...).
+- Vocabulaire d'époque : pas de casquette, de cagoule ni de porte-monnaie.
+- Les définitions sont regroupées en « Notes » sous chaque tableau (environ 710),
+  pour que les colonnes Prix et Poids restent alignées. Tes définitions y sont,
+  corrigées et raccourcies. Les plantes et créatures inventées ne sont notées que
+  si leur source a pu être vérifiée.
+- Aucun prix ni poids n'a été modifié (vérifié ligne par ligne par script).
+- La notice de copyright originale est reproduite en anglais, sans modification.
+
+CORRECTIONS APPORTÉES
+(erreurs de sens, d'orthographe ou anachronismes de ta traduction, et quelques
+coquilles de l'original ; les lignes restées en anglais ont simplement été traduites)
+
+Début du document
+-----------------
+- « TABLEAU A: » → « TABLEAU A : » : espace insécable avant le deux-points en
+  français.
+- « VALEUR » → « VALEUR DES LINGOTS » : « bar » (lingot) avait été omis.
+- « PIÈCES DE CRÉATURE » → « PARTIES DE CRÉATURES » : il s'agit de morceaux de
+  corps, non de pièces.
+- « ILLUMINATIONS » → « ÉCLAIRAGE » : faux ami ; le tableau liste des sources de
+  lumière, pas des décorations lumineuses.
+- « ARMES DE SIEGE » → « ARMES DE SIÈGE » : accent manquant sur la majuscule.
+- « Tellurium » → « Tellon » : métal inventé par l'auteur, sans rapport avec le
+  tellure ; la définition « acier des titans » est à supprimer.
+
+Tableau I : Vêtements
+---------------------
+- « ceinturon » → « écharpe » : « belt sash » désigne une écharpe portée en
+  bandoulière, non un ceinturon.
+- « Plate » → « Simple » : calque de « plain » (sans ornement).
+- « Fantaisiste » → « Ouvragée » : « fantaisiste » qualifie une personne ; «
+  fancy » signifie ici décorée.
+- « De sécurité » → « De hanches » : contresens, « girdled » n'a rien à voir
+  avec la sécurité.
+- « Épée et dague » → « Pour épée et dague » : il s'agit d'une ceinture porte-
+  armes, pas des armes elles-mêmes.
+- « Latéral » → « Latérale » : accord avec « tournure » (féminin).
+- « Cannons » → « Canons » : le terme français existe (orthographe à un seul n).
+- « cotton » → « coton » : anglicisme orthographique (même faute aux lignes 206
+  et 292).
+- « Pèlerine » → « Manteau » : la pèlerine est une courte cape d'épaules ; «
+  cloak » est le grand manteau sans manches.
+- « Casquette » → « Bonnet » : anachronisme.
+- « Cote » → « Cotte » : le vêtement médiéval s'écrit avec deux t.
+- « Semi-homme » → « Halfelin » : terme officiel retenu pour toute la liste.
+- « Filet » → « Bandeau frontal » : « fillet » est ici un bijou ceignant le
+  front, pas une résille.
+- « Tissu complet » → « Tenue complète » : les tailles par race indiquent un
+  vêtement, non une étoffe.
+- « Gaine » → « Ceinturon » : « girdle » est une ceinture (cf. ceinturon de
+  force de géant), pas un sous-vêtement.
+- « Chemise, soie » → « Robe de soie » : « gown » désigne une robe.
+- « Cagoules » → « Capuchons » : anachronisme.
+- « Justaucorps » → « Casaques » : le justaucorps est un habit du XVIIe s. (ou
+  un maillot) ; « jerkin » est une casaque courte, souvent sans manches.
+- « Chapeau de bouffon » → « Costume de bouffon » : la rubrique regroupe toute
+  la tenue.
+- « 3 coins avec cloches » → « Chapeau à 3 pointes et grelots » : le chapeau
+  avait disparu et « bells » sont ici des grelots.
+- « Bas, brillant » → « Bas de couleurs vives » : « bright » désigne la couleur,
+  et l'accord était fautif.
+- « Culottes bouffante » → « Culottes bouffantes » : accord au pluriel.
+- « Moufle/Mitaines » → « Moufles » : les mitaines laissent les doigts nus, ce
+  ne sont pas des « mittens ».
+- « Pendants » → « Pendentifs » : faux ami (le bijou se dit pendentif).
+- « Porte-monnaie » → « Bourses » : anachronisme.
+- « En fourrure, garnie » → « Bordée de fourrure » : « fur-trimmed » signifie
+  garnie de fourrure en bordure.
+- « Longue » → « D'intérieur » : contresens, « lounging robe » est une robe
+  d'intérieur.
+- « Écharpes » → « Écharpe-ceinture » : la « sash » se noue à la taille, ce
+  n'est pas une écharpe de cou.
+- « De dance » → « De danse » : anglicisme orthographique.
+- « De neige » → « Raquettes à neige » : « snow shoes » sont des raquettes.
+- « Chaussons d'extérieur » → « Chaussons » : contresens, « slippers » se
+  portent à l'intérieur.
+- « En soie » → « En soie matelassée » : « quilted » avait été omis.
+- « La tage » → « La toge » : coquille dans la définition.
+- « Vestes » → « Gilet » : faux ami, « vest » désigne un gilet sans manches.
+- « En toile de jute » → « En tissu » : « cloth » est une étoffe quelconque.
+
+Tableau II : Taverne et auberge
+-------------------------------
+- « Liqueur d'amande » → « Eau-de-vie d'amande » : « brandy » est une eau-de-
+  vie, et « Moonshae » se traduit par îles Sélénae.
+- « Lègere » → « Blonde » : faute d'accent (légère), et « light beer » désigne
+  ici une blonde.
+- « Hydromel elfe » → « Evermead » : « elfe » n'est pas un adjectif (elfique) ;
+  nom propre conservé, et « Éternelle-Rencontre » prend une majuscule.
+- « Vieuw empires » → « Vieux Empires » : coquille et majuscule du nom propre.
+- « Pïnte » → « Pinte » : tréma fautif.
+- « Étage de l'écurie » → « Sol de l'écurie » : « floor » est ici le sol (on
+  dort sur la paille).
+- « Loft de l'écurie » → « Fenil » : anglicisme et anachronisme.
+- Définition de l'hydromel fausse (salsepareille, gaz carbonique = root beer) :
+  c'est du miel fermenté.
+- « Saucisse chaude » → « Saucisse épicée » : « hot » signifie ici relevé.
+
+Tableau III : Denrées alimentaires
+----------------------------------
+- « TABLEAU III: » → « TABLEAU III : » : espace insécable avant le deux-points.
+- « salade de fruit » → « salade de fruits » : pluriel, il y a plusieurs fruits.
+- « par oz » → « l'once » : abréviation anglaise ; écrire « once » en toutes
+  lettres (valable pour tout le tableau).
+- « Artichauts, hachés » → « Topinambours » : « ground artichokes » désigne le
+  topinambour, pas un artichaut haché.
+- « par portion » → « la pinte » : « pt » est l'abréviation de « pint ».
+- « Graines d'oiseaux » → « Graines pour oiseaux » : ce sont des graines
+  destinées aux oiseaux.
+- « Fruits confits » → « Fruits à l'eau-de-vie » : « brandied » signifie macérés
+  dans le brandy, non confits au sucre.
+- « Galette » → « Biscuit de mer » : « hard tack » est le biscuit sec des
+  marins, terme consacré.
+- « Arbre à pain » → « Fruit à pain » : on vend le fruit, non l'arbre.
+- « Sarrasin, maïs » → « Sarrasin en grains » : « corn » a ici le sens ancien de
+  « grain », pas de maïs.
+- « Séché et assaisoné » → « Séché en lanières (jerky) » : faute d'orthographe
+  (« assaisonné ») et « jerked » désigne la viande séchée en lanières.
+- « Tomme » → « Meule » : « wheel » désigne la forme du fromage (meule), la
+  tomme est un type de fromage.
+- « Royaumes oubliés » (annotation) → à supprimer : Baator relève de Planescape,
+  non des Royaumes oubliés.
+- « Gâteau » → « Cobbler » : ce n'est pas un gâteau mais une tourte aux fruits.
+- « Pommier Sauvage » → « Pommes sauvages » : on vend le fruit, non l'arbre.
+- « Lard » → « Saindoux » : faux ami, l'anglais « lard » est la graisse de porc
+  fondue.
+- « Royaumes oubliés » (annotation) → à supprimer : cette créature vient de
+  Spelljammer.
+- « Cornichons, per qt » → « Conserves au vinaigre, le quart » : « pickles »
+  couvre ici betteraves, œufs, fruits, etc. ; « qt » non traduit.
+- « Prunes » → « Pruneaux » : faux ami, « prunes » désigne en anglais les prunes
+  séchées.
+- « Raisins » → « Raisins secs » : faux ami, « raisins » désigne en anglais le
+  raisin sec.
+- « Gâteau de riz » → « Galettes de riz » : le gâteau de riz est un dessert au
+  lait, ici il s'agit de provisions.
+- « Rôti de porc » → « Roc rôti » : contresens, « Roc » est l'oiseau géant, d'où
+  le prix.
+- « Crevettes saumurées » → « Artémies » : « brine shrimp » désigne un petit
+  crustacé des eaux salées (artémie).
+- « Violet » → « À la violette » : il s'agit de la fleur, non de la couleur.
+- « pour 30 g » → « l'once » : ne jamais convertir les unités (vaut aussi pour «
+  500 g », « 4,5 kilos » plus bas et tout le tableau IV).
+- « par hachis » → « le cuissot » : « haunch » désigne la cuisse de l'animal,
+  non de la viande hachée.
+- « par quintal » → « le quart » : « qt » est le quart (de gallon), unité de
+  volume, non le quintal.
+- « Baies noires » → « De mûre » : « blackberry » est la mûre.
+- « Pain de chemin » → « Pain de route » : calque ; « pain de route » est le
+  terme consacré (lembas chez Tolkien).
+- « Baies de blé » → « Grains de blé » : calque de « wheat berries », qui
+  désigne le grain entier.
+
+Tableau IV : Épices
+-------------------
+- Lignes 800 à 861 : la traduction actuelle est décalée par rapport à l'anglais
+  (tri alphabétique français) ; chaque nom et ses définitions ont été réalignés
+  sur le bon objet et le bon prix.
+- « Bergamote » → « Monarde (bergamote) » : parmi les herbes, il s'agit de la
+  monarde (Monarda), non de l'agrume.
+- « Millepertuis » → « Morelle » : « nightshade » désigne la morelle (plante
+  vénéneuse) ; le millepertuis est « St John's wort » ; sa définition est à
+  supprimer.
+- « Le cynorhodon est un arbrisseau… » → « faux-fruit de l'églantier » : le
+  cynorhodon est le fruit, non l'arbuste ; accords fautifs (« faux-fruit
+  ovoïdal… charnue »).
+
+Tableau V : Peaux
+-----------------
+- « po/HD » → « po/DV » : en français, « Hit Dice » se dit « dés de vie » (DV).
+- « 1,800 » → « 1 800 » : séparateur des milliers à la française.
+
+Tableau VI : Parties de créatures
+---------------------------------
+- « PIÈCES DE CRÉATURE » → « PARTIES DE CRÉATURES » : il s'agit de morceaux de
+  corps, non de pièces.
+
+Tableau VII : Transports
+------------------------
+- « Rançon du roi » → « Une rançon de roi » : idiome anglais « a king's ransom »
+  = une somme colossale.
+
+Tableau XI : Contenants
+-----------------------
+- « Étui de rangement » → « Étui à carreaux » : « bolt » désigne ici le carreau
+  d'arbalète.
+- « Or, ornamental » → « En or, décorative » : « ornamental » est un anglicisme
+  ; accorder avec « Boîte ».
+- « Argent, ornamental » → « En argent, décorative » : même anglicisme.
+- « Ceinture, … » → « De ceinture, … » : il s'agit de bourses de ceinture, pas
+  de ceintures (idem 1422-1424).
+
+Tableau XIII : Mobilier
+-----------------------
+- « MEUBLES » → « MOBILIER » : titre harmonisé avec la table des matières.
+
+Tableau XIV : Carcasses
+-----------------------
+- « DV x 1.20 po » → « DV x 1,20 po » : séparateur décimal français.
+- « Dragon, Tortue » → « Tortue-dragon » : il s'agit d'une seule créature
+  (dragon turtle).
+- « DV x 1.20 po » → « DV x 1,20 po » : séparateur décimal français.
+- « Tarrasque » → « Tarasque » : orthographe française du monstre (et de la
+  légende provençale).
+
+Tableau XV : Animaux
+--------------------
+- « Aigle … 25 po ⟨+⟩ Âne, mule ou baudet » → « Grand singe ¦ 150 po » :
+  traduction décalée par rapport aux lignes anglaises (lignes 1628 à 1664 à
+  réaligner).
+- « Song » → « Chanteur » : mot laissé en anglais dans le FR actuel (ligne
+  1663).
+- « Chat de chasse … 5 000 po » → « Chat domestique ¦ 10 pa » : décalage ; « Cat
+  house » est le chat domestique.
+- « Cricket de combat » → « Grillon de combat » : anglicisme (cricket = grillon)
+  ; le FR actuel mettait en outre « Chat de maison » sur cette ligne.
+- « Chevreuil » → « Cerf » : stag désigne le cerf mâle, pas le chevreuil.
+- « De guarde » → « De garde » : faute d'orthographe.
+- « Faucon » → « Autour » (lignes 1669 à 1672) : hawk (autour) se distingue de
+  falcon (faucon), qui a sa propre ligne.
+- « D'équitation » → « De selle » : terme consacré (cheval de selle).
+- « Mastodon » → « Mastodonte » : forme française.
+- « Porcinet » → « Porcelet » : « porcinet » n'existe pas en français.
+- « Thamnophis » → « Couleuvre rayée » : nom savant du genre, peu parlant ; le
+  nom courant est préférable.
+
+Tableau XVI : Tissus
+--------------------
+- « TEXTILE » → « TISSUS » : titre harmonisé avec la table des matières.
+- « Flanel » → « En flanelle » (aussi ligne 1717) : orthographe française.
+- « Couvertures, double » → « Couverture deux places » : singulier, et « double
+  » désigne la taille du lit.
+- « au yard carrée » → « le yard carré » : faute d'accord (yard est masculin).
+
+Tableau XVII : Équipement d'aventurier
+--------------------------------------
+- « Enflammable » → « Éclairante » : une flare est une flèche lumineuse de
+  signalisation, pas une matière inflammable (et l'adjectif correct serait «
+  inflammable »).
+- « Paillasse » → « Couchage roulé » : une paillasse est un matelas de paille,
+  pas un couchage qu'on roule et emporte.
+- « Bracelets » → « Brassards » : bracers protègent l'avant-bras ; ce ne sont
+  pas des bijoux.
+- « Silex et acier » → « Silex et briquet » : le briquet (pièce d'acier) est le
+  terme consacré.
+- « Eau / Outre » → « Outre à eau ou à vin » (aussi ligne 1804) : contresens, il
+  s'agit d'une outre pour l'eau ou le vin.
+
+Tableau XVIII : Le laboratoire
+------------------------------
+- « Aspirine » → « Acide acétylsalicylique » : « Aspirine » est un nom de marque
+  moderne, anachronique.
+- « Balance and Poidss » → « Balance et poids » : traduction partielle et
+  coquille.
+
+Tableau XX : Matériaux bruts
+----------------------------
+- « TABLEAU XX: » → « TABLEAU XX : » : espace avant le deux-points en français.
+- « Variété de cymophane » → « variété de chrysobéryl » : la cymophane est une
+  autre variété (œil-de-chat) du chrysobéryl.
+- « Pierre précieuse » → « pierre fine » : en français, « pierre précieuse » est
+  réservé au diamant, au rubis, au saphir et à l'émeraude.
+- « Minerai » → « minéral » : un minerai est une roche exploitée pour en
+  extraire un métal.
+- « Aquamarine » → « Aigue-marine » : nom français de ce béryl bleu.
+- « Diamants », « Émeraudes », « Verres » → singulier : les rubriques du tableau
+  désignent une matière, au singulier comme en anglais.
+
+Tableau XXI : Services et salaires
+----------------------------------
+- « Groom » → « Palefrenier » : faux ami, le groom français est un jeune employé
+  d'hôtel.
+- « Dames du soir » → « Fille de joie » : calque de l'anglais « Lady of the
+  Evening », peu idiomatique.
+- « Classe inférieure/moyenne/supérieure » → « De bas étage / De moyenne
+  condition / De haut rang » : vocabulaire sociologique moderne, anachronique.
+- « Lanterne ou porteur de torche » → « Porte-lanterne ou porte-flambeau » :
+  contresens, il s'agit de deux porteurs, pas d'une lanterne.
+- « Stabulation, pour monture » → « Pension d'écurie, par monture » : la
+  stabulation est un terme d'élevage bovin ; la définition ajoutée devient
+  inutile.
+- « Équipier avec chariot … 1 pa/mile » → « Charretier avec chariot … 1 pa/mille
+  » : « teamster » désigne le conducteur d'attelage ; « mile » se traduit «
+  mille ».
+- « Armurier » → « Fabricant d'armes » : « Armurier » traduit déjà « Armorer »
+  (armures) ; « Weaponmaker » fabrique les armes.
+
+Tableau XXII : Outils
+---------------------
+- « Poinçon pour le travail du cuir » → « Alène de bourrelier » : terme
+  technique exact pour l'outil à percer le cuir.
+- « Palan, soulève 500 kilos » → « Palan, soulève 1 000 livres » : ne jamais
+  convertir les valeurs ; garder l'unité de l'original.
+- « Fer à repasser » → « Fer à marquer » : contresens ; un branding iron sert à
+  marquer le bétail (ou les condamnés) au fer rouge.
+- « Marteau attendrisseur » → « Maillet d'abattage » : un maillet de 20 livres
+  sert à assommer les bêtes, pas à attendrir la viande.
+- « Couteau à dépecer » → « Couteau à dépouiller » : skinning = retirer la peau
+  (dépouiller), dépecer = découper en morceaux.
+- « Divers Ceinture w/6 Pouches » → « Ceinture de plongeur à 6 bourses » : «
+  Divers » signifie ici « plongeurs », pas « divers » en français (faux ami,
+  vaut pour toutes les lignes 2485-2493).
+- « Divers Poidss (Lead) » → « Lests de plongeur (plomb) » : faute d'orthographe
+  (« Poidss ») et terme exact « lest ».
+- « Pierre à aiguiser » → « Meule à aiguiser » : grindstone = meule rotative (50
+  livres) ; la pierre à aiguiser se dit whetstone.
+
+Tableau XXIII : Éclairage
+-------------------------
+- « TABLEAU XXIII: ILLUMINATIONS » → « TABLEAU XXIII : ÉCLAIRAGE » : «
+  illuminations » est un faux ami ici ; espace manquante avant le deux-points.
+
+Tableau XXIV : Herbes et poisons
+--------------------------------
+- « Shuana Henly » → « Shaun Hately » : nom réel de l'auteur du Net Book of
+  Herbs, déformé dans l'original.
+- « Oren Lungwort » → « Épervière des murs » : « Oren » est une coquille (Golden
+  → Or + en ?) ; le golden lungwort des herboristes est Hieracium murorum.
+
+Tableau XXV : Équipements divers
+--------------------------------
+- « Valise d'autel » → « Coffret d'autel » : « valise » est anachronique ; il
+  s'agit d'un coffret ou étui contenant un autel portatif.
+- « Oren » → « En or » : faute de frappe.
+- « En porcelaine » → « À désosser » : décalage de ligne, « En porcelaine »
+  correspond à la ligne 2889 (Porcelain).
+- « 40 litres » → « 10 gallons » (idem 2919-2920) : les unités d'origine ne
+  doivent pas être converties.
+- « Cologne / Parfum, par oz » → « Eau de senteur / parfum, l'once » : « eau de
+  Cologne » est anachronique (XVIIIe s.) et « oz » doit être traduit.
+- « par piece » → « la pièce » : accent manquant (idem 2953-2954).
+- « 60 centimètres » → « 2 pieds » (idem 3017-3018) : les unités d'origine ne
+  doivent pas être converties.
+- « À dîner » → « De table » : calque de l'anglais « dinner spoon » (idem 3113).
+- « pour 500 grammes » → « la livre » : les unités d'origine ne doivent pas être
+  converties.
+- « Pierres à aiguiser » → « Sifflet » : décalage de lignes ; les pierres à
+  aiguiser sont aux lignes 3153-3154.
+- « Un cours » → « En os » : décalage de lignes et contresens (« course » est
+  une coquille pour « coarse », grossier).
+- « Fine … 1 po 1 » → « En métal ¦ 5 pa ¦ * » : décalage de lignes, prix et
+  poids faux.
+
+Tableau XXVI : Amendes et peines
+--------------------------------
+- « Agression grave … 5 000 po ou 3 ans » → « Vol à main armée / agression de
+  rue ¦ 10 000 po ou 3 ans » : tout le tableau XXVI est décalé (traductions
+  classées par ordre alphabétique français et non alignées sur les lignes
+  anglaises).
+- « Troubles à la paix » → « Trouble à l'ordre public » : calque de « disturbing
+  the peace ».
+- « Vol à l'étalage » → « Larcin » : « petty theft » désigne tout petit vol, pas
+  seulement le vol à l'étalage.
+- « Meurtre » → « Viol » : contresens dû au décalage de lignes.
+- « Vol par ruse » → « Escroquerie » : terme juridique consacré pour « theft by
+  deception ».
+
+Tableau XXVII : Coût des sorts
+------------------------------
+- « Augure … 200 po » → « Projection astrale ¦ 2 000 po par personne » : tout le
+  tableau XXVII est décalé (traductions classées par ordre alphabétique français
+  et non alignées sur les lignes anglaises).
+- « 1 000 po par identification » → « 1 000 po par propriété » : « per function
+  » désigne chaque propriété magique révélée.
+
+Tableau XXVIII : Constructions
+------------------------------
+- « l500 po » → « 1 500 po » : le « l » de la source est une coquille pour le
+  chiffre 1 (1,500gp).
+- « Fenêtre, volets, 2'w 4'h » → « Fenêtre à volets, 2 pieds de large, 4 pieds
+  de haut » : construction maladroite et cotes non traduites (idem 3305).
+
+Tableau XXX : Œuvres d'art
+--------------------------
+- « Tête de proue » → « Figure de proue » : terme consacré en français.
+
+Tableau XXXI : Armes de siège
+-----------------------------
+- « ARMES DE SIEGE » → « ARMES DE SIÈGE » : accent sur la majuscule.
+
+Tableau XXXII : Armes
+---------------------
+- « Ceinture pistol » → « Pistolet de ceinture » : calque mot à mot, « Belt »
+  qualifie le pistolet (même chose lignes 3592 et 3596).
+- « La broadsword est […] un panier, sorte de coque capitonnée de velours » → «
+  Large épée : épée droite à lame large » : nom laissé en anglais et description
+  fantaisiste de la garde en panier.
+- « épée à une main et demie ou 2 mains » → « grande épée écossaise à deux mains
+  » : la claymore est une arme à deux mains.
+- « Le fauchon est un sabre droit » → « épée à un seul tranchant, à lame large
+  et légèrement courbe » : contresens, le fauchon n'est pas droit.
+- « Glaive » → « Gladius » : « glaive » désigne ici l'arme d'hast (ligne 3677),
+  source de confusion.
+- « Tige en trois pièces » → « Bâton à trois sections » : traduction littérale,
+  il s'agit du sansetsukon.
+- « Club de guerre » → « Massue de guerre » : anglicisme (« club » = massue,
+  gourdin).
+
+Tableau XXXIII : Armures
+------------------------
+- « TABLEAU XXXIII: ARMURES » → « TABLEAU XXXIII : ARMURES » : espace avant le
+  deux-points.
+- « Item » → « Objet » : en-tête non traduit, contraire à la convention.
+- « Argent Plate » → « En plates d'argent » : traduction partielle et ordre des
+  mots anglais.
+- « pèsent 500 grammes » → « pèsent une livre » : les unités ne doivent pas être
+  converties.
+- Texte regroupé sur la ligne 3831 → réparti sur 3831 et 3832 : chaque ligne
+  doit garder sa propre portion de texte.
+
+
+POINTS À VÉRIFIER
+(termes ambigus, coquilles probables de l'original, noms officiels incertains)
+
+Tableau I : Vêtements
+---------------------
+- « Girdled » : probablement une ceinture portée basse sur les hanches (girdle)
+  ; sens exact incertain.
+- « Fullcloth » : terme inconnu ; vêtement intégral en laine supposé (ou drap
+  foulé ?).
+
+Tableau II : Taverne et auberge
+-------------------------------
+- « Dwarven » seul : boisson naine non précisée (bière ou ale probablement, vu
+  les contenants).
+- « Sharp » / « Candy » brandy : interprétés comme eau-de-vie sèche et
+  liquoreuse (sucrée).
+- Pas d'équivalent officiel français connu pour « Evermead » ; « hydromel
+  elfique » serait possible.
+- « 1ap » dans l'original : lu comme « 1 pa » (coquille probable pour « 1 sp »).
+
+Tableau III : Denrées alimentaires
+----------------------------------
+- « Pepper Nuts » : sans doute les petits biscuits épicés germaniques
+  (pfeffernüsse) ; pourrait aussi désigner des grains de poivre.
+- « Iron rations » : rations de survie longue conservation ; vérifier
+  l'équivalent retenu dans le Manuel des joueurs français.
+
+Tableau IV : Épices
+-------------------
+- « Arsenic, 1 sprig » : l'arsenic est un minéral, « brin » est incohérent ;
+  erreur probable de l'original (plante vénéneuse ?).
+
+Tableau V : Peaux
+-----------------
+- « sp.ft. » lu comme « sq. ft. » (pied carré), coquille probable de l'original.
+
+Tableau VI : Parties de créatures
+---------------------------------
+- « Cetus, Lesser » : monstre marin ; nom français officiel non vérifié.
+- « Flail Snail » : équivalent français officiel non vérifié (« escargot à
+  fléaux » proposé).
+- « Gloomwing » : papillon nocturne géant ; nom gardé faute d'équivalent
+  français officiel connu.
+- « Imorph » : créature obscure, nom gardé tel quel.
+- « Pernicorn » : nom gardé, équivalent français officiel non vérifié.
+
+Tableau VII : Transports
+------------------------
+- « Caravel » listée sous « Carriage » : doublon visiblement mal placé dans
+  l'original (cf. 950) ; traduit tel quel.
+- « Great » face à « Large » pour les galères : rendu « Très grande » (et 1011 «
+  Très grande galère ») pour les distinguer ; pas d'équivalent officiel FR
+  (Spelljammer non traduit).
+- « Peacock » sous « Oar » : sens incertain (rame décorée de plumes de paon ?) ;
+  rendu « D'apparat ».
+- « Windship » : vaisseau volant mû par le vent (Xakhun en serait un modèle) ;
+  pas d'équivalent officiel connu.
+
+Tableau IX : Fourrures
+----------------------
+- Caterwaul : créature féline du Monstrous Compendium ; nom anglais conservé,
+  faute de traduction officielle connue.
+- « Devil Dog » : rendu « Chien du diable » ; nom FR officiel non vérifié.
+- « Fox, hoar » : rendu « Renard de givre » ; nom FR officiel non vérifié.
+
+Tableau X : Œufs et petits de montures
+--------------------------------------
+- « Giant Strider » : rendu « Arpenteur géant » ; nom FR officiel non vérifié.
+
+Tableau XI : Contenants
+-----------------------
+- « Yhaunn » : mot inconnu, probablement corrompu dans l'original (les sous-
+  éléments sont des types de paniers) ; conservé.
+- « longbox » : unité d'entreposage non définie dans l'original ; rendue «
+  caisse longue ».
+
+Tableau XII : Œufs et petits de créatures
+-----------------------------------------
+- Babbler : « babilleur » proposé, nom français officiel non vérifié.
+- Bloodhawk : « faucon de sang » proposé, nom français officiel non vérifié.
+- Clubneck : oiseau coureur cousin du bec-de-hache ; « cou-de-massue » est une
+  proposition, pas un nom officiel vérifié.
+- Dire corby : « corby funeste » proposé, nom français officiel non vérifié.
+- Firedrake : « drake de feu » proposé ; nom français officiel non vérifié (même
+  choix au tableau XIV).
+- Firenewt : « triton de feu » (newt = triton, l'amphibien) ; à ne pas confondre
+  avec le Triton marin de la ligne 1544.
+- « Kui-toa » dans l'original est presque sûrement une coquille pour « kuo-toa »
+  ; corrigé.
+
+Tableau XIV : Carcasses
+-----------------------
+- « HD x 1.20 po » (aussi ligne 1611) paraît bien faible face au requin (x 10)
+  ou à la baleine (x 100) : peut-être « x 120 po » à l'origine. Valeur recopiée
+  telle quelle.
+
+Tableau XVI : Tissus
+--------------------
+- Honey Leather : matière non identifiée (cuir tanné au miel ? cuir de couleur
+  miel ?) ; traduit littéralement.
+
+Tableau XVIII : Le laboratoire
+------------------------------
+- Braces : sans doute des supports ou pinces de laboratoire maintenant cornues
+  et tubes ; sens non certain.
+
+Tableau XX : Matériaux bruts
+----------------------------
+- « per l oz » lu comme une coquille pour « per 1 oz » ; l'arandur est un métal
+  propre à un décor de campagne, nom conservé.
+- « 1ft sq » / « 16 in sq » compris comme la longueur du côté (1 pied sur 1
+  pied) et non comme une surface ; appliqué à toutes les feuilles du tableau.
+- Calmazul : pierre propre à un décor de campagne (origine non identifiée), nom
+  conservé.
+- Unité absente dans l'original pour 2037 et 2038 (probablement « po ») ;
+  laissée telle quelle.
+- « Boards » de 4 x 8 pieds sur 3/8 à 5/8 pouce d'épaisseur évoque le
+  contreplaqué moderne ; rendu par « Panneaux » (assemblage de planches) pour
+  éviter l'anachronisme.
+
+Tableau XXI : Services et salaires
+----------------------------------
+- « Clerk » : « clerc » aurait été historiquement juste, mais prête à confusion
+  avec la classe de personnage ; « commis aux écritures » ou « écrivain public »
+  retenu.
+
+Tableau XXII : Outils
+---------------------
+- « Blade Knife » : sens imprécis dans l'original (couteau à lame fixe ? couteau
+  d'atelier ?) ; traduction littérale conservée.
+- « Jewel spotter gem » : objet propre à l'original, sans équivalent établi ;
+  sans doute une pierre servant à repérer ou évaluer les gemmes.
+- « Splint mail » : rendu par « armure à lamelles » ; la VF de D&D 3e emploie «
+  clibanion ».
+- « Reaver » : outil non identifié (outil de moisson ? de défrichage ?) ; nom
+  conservé faute d'équivalent sûr.
+- Ligne parasite de l'original (« gp » isolé, sans doute un reste de colonne) ;
+  peut être supprimée à la mise en page.
+
+Tableau XXIII : Éclairage
+-------------------------
+- « w/1 flag » : probablement une coquille pour « flap » (volet), comme à la
+  ligne 2671.
+
+Tableau XXIV : Herbes et poisons
+--------------------------------
+- « All-Heale » : nom ancien désignant plusieurs plantes (opopanax, épiaire des
+  marais, brunelle) ; « panacée d'Hercule » suit l'usage de Culpeper.
+- « Base Mullein » : variété secondaire de molène (bouillon-blanc) chez les
+  herboristes anciens ; espèce exacte incertaine.
+- Prix préparé (1 pc) inférieur au prix brut (9 pa) : probable erreur de
+  l'original, recopiée telle quelle.
+- « Serapias Turbith » : nom tiré des herbiers anciens (Gerard), espèce
+  incertaine (peut-être l'aster maritime) ; rendu littéral.
+
+Tableau XXV : Équipements divers
+--------------------------------
+- « Boning » pour un bol est étrange (sans doute repris de la liste des
+  couteaux) ; traduit littéralement « À désosser ».
+- La colonne « Poids » contient des valeurs en po (lignes 3029-3035), sans doute
+  une erreur de l'original ; recopiées telles quelles.
+- Sune est rendue « Sunie » dans les traductions françaises des Royaumes oubliés
+  ; à vérifier selon la source de référence.
+- « Poison Pin, w/ 2 keys » : sans doute une serrure piégée par une aiguille
+  empoisonnée (mention des clés) ; interprétation à confirmer.
+- « Punk Pot, smolder 2 » : pot contenant de l'amadou qui couve ; l'unité du « 2
+  » (heures ? jours ?) n'est pas précisée.
+- « 3' » est probablement une erreur pour 3 pouces (3"), vu le prix et le poids
+  ; recopié tel quel.
+- « Sashling » : terme inconnu, interprété comme un diminutif de « sash »
+  (écharpe-ceinture).
+- « per 80z » est probablement une coquille pour « 8oz » (8 onces) ; valeur
+  conservée.
+
+Tableau XXVII : Coût des sorts
+------------------------------
+- « Atonement » : « Pénitence » ou « Expiation » selon les éditions françaises ;
+  à vérifier dans le Manuel des Joueurs.
+- Nom officiel incertain : « Compréhension des langues » ou « Compréhension des
+  langages ».
+- Nom officiel des sorts de soins (3211-3213) à vérifier : « Soins des
+  blessures… » ou « Soin des blessures… ».
+- « ESP » (perception extrasensorielle) : sigle conservé ; la traduction
+  officielle du nom de ce sort est à vérifier.
+- « Find the Path » : « Orientation » ou « Découverte du chemin » ; nom officiel
+  à vérifier.
+- « Glyph of Warding » : « Glyphe de garde » ou « Glyphe de protection » ; nom
+  officiel à vérifier.
+- « Invisible Stalker » : « Traqueur invisible » ou « Chasseur invisible » ; nom
+  officiel à vérifier.
+- « Tongues » : « Langues » ou « Don des langues » ; nom officiel à vérifier.
+
+Tableau XXVIII : Constructions
+------------------------------
+- Les hourds sont normalement en bois ; « stone hoardings » désigne peut-être
+  des supports en pierre ou des mâchicoulis.
+- Dimensions de la fosse visiblement reprises de la ligne du pilastre ;
+  traduites littéralement.
+- Prix « l500 po » recopié tel quel : probablement 1 500 po (coquille « l » pour
+  « 1 ») ; la troisième cote « 10' » est supposée être la longueur.
+
+Tableau XXVIX : 
+----------------
+- L'original porte « XXVIX », numéro impossible ; corrigé en XXIX par cohérence
+  avec les tableaux XXX et suivants.
+- « Balaika » est vraisemblablement une coquille pour « balalaïka ».
+- « Carsach » est sans doute une déformation de « clàrsach », petite harpe
+  gaélique.
+- « Tallharpa » est probablement la talharpa (lyre à archet estonienne/suédoise)
+  ; orthographe rectifiée.
+- « Rota » peut désigner la rote (lyre médiévale) ou un nom ancien de la vielle
+  à roue ; « Rote » retenu, la ligne étant placée après la vielle à roue.
+- « Clavecin » est déjà un mot français ; pour le distinguer de « Harpsichord »
+  (ligne 3408), rendu par « Clavecin à la française » ; de même « Clavicembalo »
+  précisé « (clavecin italien) ».
+
+Tableau XXXI : Armes de siège
+-----------------------------
+- « Gnomish Sweepers » : engin de siège gnome dont la source exacte n'a pu être
+  identifiée ; traduction littérale.
+- « Battering / Catcher / Piercing » ressemblent aux éperons de navire de
+  Spelljammer ; rendus par « Bélier », « Éperon à grappin », « Éperon perforant
+  ».
+
+Tableau XXXII : Armes
+---------------------
+- « Battak ; slapstick » : arme mal documentée ; « bâton claquant » traduit
+  littéralement « slapstick ».
+- « Chapak ; snapper axe » : arme mal documentée ; « hache à ressort » est une
+  interprétation de « snapper ».
+- Ligne mal formée dans l'original (« Heavy quarre ¦ l2 pa ») ; réparée en «
+  Carreau lourd ¦ 2 pa ».
+- « Ice » sous Arbalètes : objet obscur (arbalète ou carreaux de glace ?) ;
+  rendu par « De glace ».
+
+Tableau XXXIII : Armures
+------------------------
+- L'original dit « that it should be coppied into another work », manifestement
+  pour « should not be copied » ; traduit au sens négatif.

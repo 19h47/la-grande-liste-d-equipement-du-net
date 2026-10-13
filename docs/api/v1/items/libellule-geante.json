@@ -1,0 +1,30 @@
+{
+ "id": "libellule-geante",
+ "category": "peaux",
+ "name": {
+  "fr": "Libellule géante",
+  "en": "Dragonfly, giant"
+ },
+ "full_name": {
+  "fr": "Libellule géante",
+  "en": "Dragonfly, giant"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "600 po/pied carré",
+   "en": "600gp/sp.ft."
+  },
+  "min_cp": 60000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "V",
+  "line": 875
+ }
+}

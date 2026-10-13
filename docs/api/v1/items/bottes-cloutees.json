@@ -1,0 +1,38 @@
+{
+ "id": "bottes-cloutees",
+ "category": "vetements",
+ "name": {
+  "fr": "Cloutées",
+  "en": "Hobnailed"
+ },
+ "full_name": {
+  "fr": "Bottes — Cloutées",
+  "en": "Boots — Hobnailed"
+ },
+ "group": [
+  {
+   "fr": "Bottes",
+   "en": "Boots"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 92
+ }
+}

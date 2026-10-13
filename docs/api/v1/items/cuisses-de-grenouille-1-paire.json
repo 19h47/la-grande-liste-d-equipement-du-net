@@ -1,0 +1,33 @@
+{
+ "id": "cuisses-de-grenouille-1-paire",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Cuisses de grenouille, 1 paire",
+  "en": "Frog Legs, 1 set"
+ },
+ "full_name": {
+  "fr": "Cuisses de grenouille, 1 paire",
+  "en": "Frog Legs, 1 set"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2981
+ }
+}

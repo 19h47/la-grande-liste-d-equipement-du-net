@@ -1,0 +1,42 @@
+{
+ "id": "armes-a-feu-armes-combinees-dague-pistolet",
+ "category": "armes",
+ "name": {
+  "fr": "Dague-pistolet",
+  "en": "Dagger-pistol"
+ },
+ "full_name": {
+  "fr": "Armes à feu — Armes combinées — Dague-pistolet",
+  "en": "Firearms — Combined Weapons — Dagger-pistol"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "Armes combinées",
+   "en": "Combined Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3604
+ }
+}

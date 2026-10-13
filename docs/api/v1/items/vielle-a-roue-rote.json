@@ -1,0 +1,40 @@
+{
+ "id": "vielle-a-roue-rote",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Rote",
+  "en": "Rota"
+ },
+ "full_name": {
+  "fr": "Vielle à roue — Rote",
+  "en": "Hurdy gurdy — Rota"
+ },
+ "group": [
+  {
+   "fr": "Vielle à roue",
+   "en": "Hurdy gurdy"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "80 po",
+   "en": "80gp"
+  },
+  "min_cp": 8000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": [
+   "Vielle à roue : instrument dont les cordes sont frottées par une roue à manivelle et raccourcies par un petit clavier."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3405
+ }
+}

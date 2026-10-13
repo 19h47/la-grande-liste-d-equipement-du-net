@@ -1,0 +1,37 @@
+{
+ "id": "logement-a-l-auberge-par-jour-semaine-fenil",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Fenil",
+  "en": "Stable loft"
+ },
+ "full_name": {
+  "fr": "Logement à l'auberge (par jour/semaine) — Fenil",
+  "en": "Inn Lodging (per day/week) — Stable loft"
+ },
+ "group": [
+  {
+   "fr": "Logement à l'auberge (par jour/semaine)",
+   "en": "Inn Lodging (per day/week)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc/2 pa",
+   "en": "5cp/2sp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Fenil : grenier à foin aménagé au-dessus de l'écurie."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 368
+ }
+}

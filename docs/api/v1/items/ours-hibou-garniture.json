@@ -1,0 +1,35 @@
+{
+ "id": "ours-hibou-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Ours-hibou — Garniture",
+  "en": "Owlbear — Trim"
+ },
+ "group": [
+  {
+   "fr": "Ours-hibou",
+   "en": "Owlbear"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1197
+ }
+}

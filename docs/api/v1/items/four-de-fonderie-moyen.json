@@ -1,0 +1,40 @@
+{
+ "id": "four-de-fonderie-moyen",
+ "category": "outils",
+ "name": {
+  "fr": "Moyen",
+  "en": "medium"
+ },
+ "full_name": {
+  "fr": "Four de fonderie — Moyen",
+  "en": "Smelter — medium"
+ },
+ "group": [
+  {
+   "fr": "Four de fonderie",
+   "en": "Smelter"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 000 po",
+   "en": "2000gp"
+  },
+  "min_cp": 200000,
+  "max_cp": 200000,
+  "plus": false
+ },
+ "weight": {
+  "text": "100",
+  "lb": 100
+ },
+ "notes": {
+  "fr": [
+   "Four de fonderie : four où l'on fond le minerai pour en extraire le métal."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2633
+ }
+}

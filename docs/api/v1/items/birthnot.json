@@ -1,0 +1,40 @@
+{
+ "id": "birthnot",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Birthnot",
+  "en": "Birthnot"
+ },
+ "full_name": {
+  "fr": "Birthnot",
+  "en": "Birthnot"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "2 pc",
+   "en": "2cp"
+  },
+  "min_cp": 2,
+  "max_cp": 2,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "2 pc",
+   "en": "2cp"
+  },
+  "min_cp": 2,
+  "max_cp": 2,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Birthnot : herbe de colline du Net Book of Herbs, dont la tisane sert de contraceptif."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2728
+ }
+}

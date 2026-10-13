@@ -1,0 +1,30 @@
+{
+ "id": "colombe",
+ "category": "animaux",
+ "name": {
+  "fr": "Colombe",
+  "en": "Dove"
+ },
+ "full_name": {
+  "fr": "Colombe",
+  "en": "Dove"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1659
+ }
+}

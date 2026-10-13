@@ -1,0 +1,38 @@
+{
+ "id": "bibliotheque-60-75-livres-ordinaires-ou-40-50-tomes",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "60-75 livres ordinaires ou 40-50 tomes",
+  "en": "60-75 Normal books, 40-50 Tomes"
+ },
+ "full_name": {
+  "fr": "Bibliothèque — 60-75 livres ordinaires ou 40-50 tomes",
+  "en": "Book Case, — 60-75 Normal books, 40-50 Tomes"
+ },
+ "group": [
+  {
+   "fr": "Bibliothèque",
+   "en": "Book Case,"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "275 po",
+   "en": "275gp"
+  },
+  "min_cp": 27500,
+  "max_cp": 27500,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1937
+ }
+}

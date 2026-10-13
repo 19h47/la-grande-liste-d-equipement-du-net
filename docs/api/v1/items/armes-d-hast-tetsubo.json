@@ -1,0 +1,40 @@
+{
+ "id": "armes-d-hast-tetsubo",
+ "category": "armes",
+ "name": {
+  "fr": "Tetsubo",
+  "en": "Tetsubo"
+ },
+ "full_name": {
+  "fr": "Armes d'hast — Tetsubo",
+  "en": "Polearm — Tetsubo"
+ },
+ "group": [
+  {
+   "fr": "Armes d'hast",
+   "en": "Polearm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Tetsubo : longue massue japonaise en bois, cerclée ou cloutée de fer."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3687
+ }
+}

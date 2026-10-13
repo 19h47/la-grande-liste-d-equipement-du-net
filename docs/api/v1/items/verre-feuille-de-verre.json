@@ -1,0 +1,35 @@
+{
+ "id": "verre-feuille-de-verre",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Feuille de verre",
+  "en": "Glass sheet"
+ },
+ "full_name": {
+  "fr": "Verre — Feuille de verre",
+  "en": "Glass — Glass sheet"
+ },
+ "group": [
+  {
+   "fr": "Verre",
+   "en": "Glass"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2087
+ }
+}

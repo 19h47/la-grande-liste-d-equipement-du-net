@@ -1,0 +1,38 @@
+{
+ "id": "cable-de-remorquage-les-100-pieds",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "De remorquage, les 100 pieds",
+  "en": "Tow, per 100'"
+ },
+ "full_name": {
+  "fr": "Câble — De remorquage, les 100 pieds",
+  "en": "Cable — Tow, per 100'"
+ },
+ "group": [
+  {
+   "fr": "Câble",
+   "en": "Cable"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1770
+ }
+}

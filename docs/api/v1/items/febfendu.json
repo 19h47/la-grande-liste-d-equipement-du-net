@@ -1,0 +1,40 @@
+{
+ "id": "febfendu",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Febfendu",
+  "en": "Febfendu"
+ },
+ "full_name": {
+  "fr": "Febfendu",
+  "en": "Febfendu"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "90 po",
+   "en": "90gp"
+  },
+  "min_cp": 9000,
+  "max_cp": 9000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "900 po",
+   "en": "900gp"
+  },
+  "min_cp": 90000,
+  "max_cp": 90000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Febfendu : plante du Net Book of Herbs dont les racines infusées rendent l'ouïe."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2768
+ }
+}

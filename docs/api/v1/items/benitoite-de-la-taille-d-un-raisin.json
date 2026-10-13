@@ -1,0 +1,37 @@
+{
+ "id": "benitoite-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Bénitoïte — De la taille d'un raisin",
+  "en": "Benitoite — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Bénitoïte",
+   "en": "Benitoite"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Bénitoïte : silicate rare d'un bleu saphir, découvert en Californie au début du XXe siècle."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2004
+ }
+}

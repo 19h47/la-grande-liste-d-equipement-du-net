@@ -1,0 +1,35 @@
+{
+ "id": "felins-tachetes-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Félins tachetés — Peau",
+  "en": "Spotted cats — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Félins tachetés",
+   "en": "Spotted cats"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4/6 po",
+   "en": "4/6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1221
+ }
+}

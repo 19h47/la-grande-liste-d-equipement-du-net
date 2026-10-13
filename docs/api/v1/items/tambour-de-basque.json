@@ -1,0 +1,33 @@
+{
+ "id": "tambour-de-basque",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Tambour de basque",
+  "en": "Tambourine"
+ },
+ "full_name": {
+  "fr": "Tambour de basque",
+  "en": "Tambourine"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3431
+ }
+}

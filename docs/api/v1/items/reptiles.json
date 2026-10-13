@@ -1,0 +1,30 @@
+{
+ "id": "reptiles",
+ "category": "peaux",
+ "name": {
+  "fr": "Reptiles",
+  "en": "Reptiles"
+ },
+ "full_name": {
+  "fr": "Reptiles",
+  "en": "Reptiles"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po/DV",
+   "en": "2gp/HD"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "V",
+  "line": 882
+ }
+}

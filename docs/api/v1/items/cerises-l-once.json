@@ -1,0 +1,33 @@
+{
+ "id": "cerises-l-once",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Cerises, l'once",
+  "en": "Cherries, per oz"
+ },
+ "full_name": {
+  "fr": "Cerises, l'once",
+  "en": "Cherries, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 534
+ }
+}

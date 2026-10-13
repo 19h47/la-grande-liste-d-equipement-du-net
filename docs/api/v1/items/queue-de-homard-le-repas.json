@@ -1,0 +1,33 @@
+{
+ "id": "queue-de-homard-le-repas",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Queue de homard, le repas",
+  "en": "Lobster tail, meal"
+ },
+ "full_name": {
+  "fr": "Queue de homard, le repas",
+  "en": "Lobster tail, meal"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 634
+ }
+}

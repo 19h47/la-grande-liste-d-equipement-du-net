@@ -1,0 +1,33 @@
+{
+ "id": "poivre-1-once",
+ "category": "epices",
+ "name": {
+  "fr": "Poivre, 1 once",
+  "en": "Pepper, 1 oz"
+ },
+ "full_name": {
+  "fr": "Poivre, 1 once",
+  "en": "Pepper, 1 oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 844
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "roue-de-chariot-ou-de-charrette",
+ "category": "transports",
+ "name": {
+  "fr": "Roue de chariot ou de charrette",
+  "en": "Wagon or cart wheel"
+ },
+ "full_name": {
+  "fr": "Roue de chariot ou de charrette",
+  "en": "Wagon or cart wheel"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 1042
+ }
+}

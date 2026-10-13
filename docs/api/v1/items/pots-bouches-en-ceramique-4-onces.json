@@ -1,0 +1,38 @@
+{
+ "id": "pots-bouches-en-ceramique-4-onces",
+ "category": "contenants",
+ "name": {
+  "fr": "4 onces",
+  "en": "4oz"
+ },
+ "full_name": {
+  "fr": "Pots bouchés, en céramique — 4 onces",
+  "en": "Jars, Stoppered Ceramic — 4oz"
+ },
+ "group": [
+  {
+   "fr": "Pots bouchés, en céramique",
+   "en": "Jars, Stoppered Ceramic"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1386
+ }
+}

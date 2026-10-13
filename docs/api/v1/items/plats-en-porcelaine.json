@@ -1,0 +1,38 @@
+{
+ "id": "plats-en-porcelaine",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En porcelaine",
+  "en": "Porcelain"
+ },
+ "full_name": {
+  "fr": "Plats — En porcelaine",
+  "en": "Plates — Porcelain"
+ },
+ "group": [
+  {
+   "fr": "Plats",
+   "en": "Plates"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3081
+ }
+}

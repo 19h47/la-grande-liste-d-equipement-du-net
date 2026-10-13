@@ -1,0 +1,40 @@
+{
+ "id": "dagues-main-gauche",
+ "category": "armes",
+ "name": {
+  "fr": "Main-gauche",
+  "en": "Main-gauche"
+ },
+ "full_name": {
+  "fr": "Dagues — Main-gauche",
+  "en": "Dagger — Main-gauche"
+ },
+ "group": [
+  {
+   "fr": "Dagues",
+   "en": "Dagger"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Main-gauche : dague tenue de la main gauche pour parer, en complément de la rapière."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3571
+ }
+}

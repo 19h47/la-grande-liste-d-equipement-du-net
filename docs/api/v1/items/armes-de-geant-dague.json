@@ -1,0 +1,38 @@
+{
+ "id": "armes-de-geant-dague",
+ "category": "armes",
+ "name": {
+  "fr": "Dague",
+  "en": "Dagger"
+ },
+ "full_name": {
+  "fr": "Armes de géant — Dague",
+  "en": "Giant Weapons — Dagger"
+ },
+ "group": [
+  {
+   "fr": "Armes de géant",
+   "en": "Giant Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3618
+ }
+}

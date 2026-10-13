@@ -1,0 +1,33 @@
+{
+ "id": "chausse-trapes",
+ "category": "armes",
+ "name": {
+  "fr": "Chausse-trapes",
+  "en": "Caltrop"
+ },
+ "full_name": {
+  "fr": "Chausse-trapes",
+  "en": "Caltrop"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po/12",
+   "en": "2gp/12"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3548
+ }
+}

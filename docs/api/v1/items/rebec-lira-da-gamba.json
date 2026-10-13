@@ -1,0 +1,41 @@
+{
+ "id": "rebec-lira-da-gamba",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Lira da gamba",
+  "en": "Lira da gamba"
+ },
+ "full_name": {
+  "fr": "Rebec — Lira da gamba",
+  "en": "Rebec — Lira da gamba"
+ },
+ "group": [
+  {
+   "fr": "Rebec",
+   "en": "Rebec"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "65 po",
+   "en": "65gp"
+  },
+  "min_cp": 6500,
+  "max_cp": 6500,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Rebec : petite vièle médiévale en forme de poire, à trois cordes.",
+   "Lira da gamba : grande lira à archet de la Renaissance, tenue entre les genoux."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3429
+ }
+}

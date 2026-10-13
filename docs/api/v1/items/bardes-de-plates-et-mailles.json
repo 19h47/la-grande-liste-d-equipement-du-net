@@ -1,0 +1,40 @@
+{
+ "id": "bardes-de-plates-et-mailles",
+ "category": "armures",
+ "name": {
+  "fr": "De plates et mailles",
+  "en": "Plate and chain"
+ },
+ "full_name": {
+  "fr": "Bardes — De plates et mailles",
+  "en": "Barding — Plate and chain"
+ },
+ "group": [
+  {
+   "fr": "Bardes",
+   "en": "Barding"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "750 po",
+   "en": "750gp"
+  },
+  "min_cp": 75000,
+  "max_cp": 75000,
+  "plus": false
+ },
+ "weight": {
+  "text": "130",
+  "lb": 130
+ },
+ "notes": {
+  "fr": [
+   "Bardes : armure de cheval."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3756
+ }
+}

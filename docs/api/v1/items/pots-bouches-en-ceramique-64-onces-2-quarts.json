@@ -1,0 +1,38 @@
+{
+ "id": "pots-bouches-en-ceramique-64-onces-2-quarts",
+ "category": "contenants",
+ "name": {
+  "fr": "64 onces (2 quarts)",
+  "en": "64oz (2 quart)"
+ },
+ "full_name": {
+  "fr": "Pots bouchés, en céramique — 64 onces (2 quarts)",
+  "en": "Jars, Stoppered Ceramic — 64oz (2 quart)"
+ },
+ "group": [
+  {
+   "fr": "Pots bouchés, en céramique",
+   "en": "Jars, Stoppered Ceramic"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1396
+ }
+}

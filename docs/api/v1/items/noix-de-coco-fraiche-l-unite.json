@@ -1,0 +1,38 @@
+{
+ "id": "noix-de-coco-fraiche-l-unite",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Fraîche, l'unité",
+  "en": "fresh, each"
+ },
+ "full_name": {
+  "fr": "Noix de coco — Fraîche, l'unité",
+  "en": "Coconut — fresh, each"
+ },
+ "group": [
+  {
+   "fr": "Noix de coco",
+   "en": "Coconut"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 549
+ }
+}

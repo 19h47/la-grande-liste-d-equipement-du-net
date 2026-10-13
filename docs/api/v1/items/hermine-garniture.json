@@ -1,0 +1,35 @@
+{
+ "id": "hermine-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Hermine — Garniture",
+  "en": "Ermine — Trim"
+ },
+ "group": [
+  {
+   "fr": "Hermine",
+   "en": "Ermine"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "120 po",
+   "en": "120gp"
+  },
+  "min_cp": 12000,
+  "max_cp": 12000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1134
+ }
+}

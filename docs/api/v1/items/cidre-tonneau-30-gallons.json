@@ -1,0 +1,38 @@
+{
+ "id": "cidre-tonneau-30-gallons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Tonneau, 30 gallons",
+  "en": "Barrel, 30 gallons"
+ },
+ "full_name": {
+  "fr": "Cidre — Tonneau, 30 gallons",
+  "en": "Cider — Barrel, 30 gallons"
+ },
+ "group": [
+  {
+   "fr": "Cidre",
+   "en": "Cider"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "120",
+  "lb": 120
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 341
+ }
+}

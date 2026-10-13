@@ -1,0 +1,38 @@
+{
+ "id": "dragonnet",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Dragonnet",
+  "en": "Dragonet"
+ },
+ "full_name": {
+  "fr": "Dragonnet",
+  "en": "Dragonet"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "X",
+  "line": 1257
+ }
+}

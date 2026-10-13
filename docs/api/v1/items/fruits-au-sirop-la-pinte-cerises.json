@@ -1,0 +1,38 @@
+{
+ "id": "fruits-au-sirop-la-pinte-cerises",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Cerises",
+  "en": "cherry"
+ },
+ "full_name": {
+  "fr": "Fruits au sirop, la pinte — Cerises",
+  "en": "Preserves, per pint — cherry"
+ },
+ "group": [
+  {
+   "fr": "Fruits au sirop, la pinte",
+   "en": "Preserves, per pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 705
+ }
+}

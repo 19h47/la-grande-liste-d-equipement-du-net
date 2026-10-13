@@ -1,0 +1,33 @@
+{
+ "id": "anchois-les-20",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Anchois, les 20",
+  "en": "Anchovies, per 20"
+ },
+ "full_name": {
+  "fr": "Anchois, les 20",
+  "en": "Anchovies, per 20"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 444
+ }
+}

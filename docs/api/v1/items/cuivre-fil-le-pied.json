@@ -1,0 +1,35 @@
+{
+ "id": "cuivre-fil-le-pied",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Fil, le pied",
+  "en": "Wire, per ft"
+ },
+ "full_name": {
+  "fr": "Cuivre — Fil, le pied",
+  "en": "Copper — Wire, per ft"
+ },
+ "group": [
+  {
+   "fr": "Cuivre",
+   "en": "Copper"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2061
+ }
+}

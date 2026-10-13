@@ -1,0 +1,30 @@
+{
+ "id": "viol",
+ "category": "amendes-et-peines",
+ "name": {
+  "fr": "Viol",
+  "en": "Rape"
+ },
+ "full_name": {
+  "fr": "Viol",
+  "en": "Rape"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "Mort",
+   "en": "Death"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVI",
+  "line": 3185
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "viandes-fumees-la-livre-boeuf",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Bœuf",
+  "en": "Beef"
+ },
+ "full_name": {
+  "fr": "Viandes fumées, la livre — Bœuf",
+  "en": "Smoked Meat, per lbs — Beef"
+ },
+ "group": [
+  {
+   "fr": "Viandes fumées, la livre",
+   "en": "Smoked Meat, per lbs"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 741
+ }
+}

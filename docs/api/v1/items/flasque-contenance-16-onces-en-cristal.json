@@ -1,0 +1,38 @@
+{
+ "id": "flasque-contenance-16-onces-en-cristal",
+ "category": "contenants",
+ "name": {
+  "fr": "En cristal",
+  "en": "Crystal"
+ },
+ "full_name": {
+  "fr": "Flasque, contenance 16 onces — En cristal",
+  "en": "Flask, hold 16oz — Crystal"
+ },
+ "group": [
+  {
+   "fr": "Flasque, contenance 16 onces",
+   "en": "Flask, hold 16oz"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1381
+ }
+}

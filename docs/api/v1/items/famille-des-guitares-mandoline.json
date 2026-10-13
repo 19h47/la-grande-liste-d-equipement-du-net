@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-guitares-mandoline",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Mandoline",
+  "en": "Mandoline"
+ },
+ "full_name": {
+  "fr": "Famille des guitares — Mandoline",
+  "en": "Guitar Family — Mandoline"
+ },
+ "group": [
+  {
+   "fr": "Famille des guitares",
+   "en": "Guitar Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3388
+ }
+}

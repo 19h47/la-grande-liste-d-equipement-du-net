@@ -1,0 +1,35 @@
+{
+ "id": "cornet-acoustique-en-laiton-petit",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Cornet acoustique en laiton, petit",
+  "en": "Trumpet, hearing, brass, small"
+ },
+ "full_name": {
+  "fr": "Cornet acoustique en laiton, petit",
+  "en": "Trumpet, hearing, brass, small"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Cornet acoustique : petite trompe que l'on porte à l'oreille pour amplifier les sons, ancêtre de l'appareil auditif."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3145
+ }
+}

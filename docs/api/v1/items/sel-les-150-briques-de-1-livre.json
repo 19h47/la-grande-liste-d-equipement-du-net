@@ -1,0 +1,33 @@
+{
+ "id": "sel-les-150-briques-de-1-livre",
+ "category": "epices",
+ "name": {
+  "fr": "Sel, les 150 briques de 1 livre",
+  "en": "Salt, per 150 1lb bricks"
+ },
+ "full_name": {
+  "fr": "Sel, les 150 briques de 1 livre",
+  "en": "Salt, per 150 1lb bricks"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 852
+ }
+}

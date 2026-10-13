@@ -1,0 +1,35 @@
+{
+ "id": "chevaux-de-guerre-leger",
+ "category": "animaux",
+ "name": {
+  "fr": "De guerre léger",
+  "en": "Light War"
+ },
+ "full_name": {
+  "fr": "Chevaux — De guerre léger",
+  "en": "Horse — Light War"
+ },
+ "group": [
+  {
+   "fr": "Chevaux",
+   "en": "Horse"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1676
+ }
+}

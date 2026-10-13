@@ -1,0 +1,40 @@
+{
+ "id": "olvar",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Olvar",
+  "en": "Olvar"
+ },
+ "full_name": {
+  "fr": "Olvar",
+  "en": "Olvar"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Olvar : plante côtière issue de MERP, qui maintient un mourant en vie pendant plusieurs jours."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2809
+ }
+}

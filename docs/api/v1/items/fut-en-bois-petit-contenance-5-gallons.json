@@ -1,0 +1,38 @@
+{
+ "id": "fut-en-bois-petit-contenance-5-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En bois, petit, contenance 5 gallons",
+  "en": "Wooden, small, holds 5 gallons"
+ },
+ "full_name": {
+  "fr": "Fût — En bois, petit, contenance 5 gallons",
+  "en": "Cask — Wooden, small, holds 5 gallons"
+ },
+ "group": [
+  {
+   "fr": "Fût",
+   "en": "Cask"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pe",
+   "en": "1ep"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1350
+ }
+}

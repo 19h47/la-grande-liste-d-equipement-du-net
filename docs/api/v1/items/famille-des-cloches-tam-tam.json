@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-cloches-tam-tam",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Tam-tam",
+  "en": "Tam-tam"
+ },
+ "full_name": {
+  "fr": "Famille des cloches — Tam-tam",
+  "en": "Chime family — Tam-tam"
+ },
+ "group": [
+  {
+   "fr": "Famille des cloches",
+   "en": "Chime family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "35",
+  "lb": 35
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3322
+ }
+}

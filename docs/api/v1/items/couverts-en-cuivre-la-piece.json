@@ -1,0 +1,38 @@
+{
+ "id": "couverts-en-cuivre-la-piece",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En cuivre, la pièce",
+  "en": "Copper, per piece"
+ },
+ "full_name": {
+  "fr": "Couverts — En cuivre, la pièce",
+  "en": "Cutlery — Copper, per piece"
+ },
+ "group": [
+  {
+   "fr": "Couverts",
+   "en": "Cutlery"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2952
+ }
+}

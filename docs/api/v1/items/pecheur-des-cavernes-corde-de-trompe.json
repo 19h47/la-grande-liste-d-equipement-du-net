@@ -1,0 +1,32 @@
+{
+ "id": "pecheur-des-cavernes-corde-de-trompe",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Pêcheur des cavernes (corde de trompe)",
+  "en": "Cave Fisher (proboscis rope)"
+ },
+ "full_name": {
+  "fr": "Pêcheur des cavernes (corde de trompe)",
+  "en": "Cave Fisher (proboscis rope)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Pêcheur des cavernes : arthropode souterrain qui capture ses proies avec un filament collant très résistant."
+  ]
+ },
+ "source": {
+  "table": "VI",
+  "line": 905
+ }
+}

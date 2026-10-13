@@ -1,0 +1,33 @@
+{
+ "id": "pommes-sauvages-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Pommes sauvages, la livre",
+  "en": "Crabapple, per lb"
+ },
+ "full_name": {
+  "fr": "Pommes sauvages, la livre",
+  "en": "Crabapple, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 555
+ }
+}

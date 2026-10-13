@@ -1,0 +1,35 @@
+{
+ "id": "oiseaux-chanteur",
+ "category": "animaux",
+ "name": {
+  "fr": "Chanteur",
+  "en": "Song"
+ },
+ "full_name": {
+  "fr": "Oiseaux — Chanteur",
+  "en": "Bird — Song"
+ },
+ "group": [
+  {
+   "fr": "Oiseaux",
+   "en": "Bird"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pc",
+   "en": "2cp"
+  },
+  "min_cp": 2,
+  "max_cp": 2,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1634
+ }
+}

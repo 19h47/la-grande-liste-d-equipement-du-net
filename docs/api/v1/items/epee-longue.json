@@ -1,0 +1,38 @@
+{
+ "id": "epee-longue",
+ "category": "armes",
+ "name": {
+  "fr": "Épée longue",
+  "en": "Long Sword"
+ },
+ "full_name": {
+  "fr": "Épées — Épée longue",
+  "en": "Sword — Long Sword"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3716
+ }
+}

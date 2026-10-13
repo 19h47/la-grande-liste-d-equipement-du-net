@@ -1,0 +1,35 @@
+{
+ "id": "plomb-lingot-de-10-livres",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Lingot de 10 livres",
+  "en": "Ingot, 10lb"
+ },
+ "full_name": {
+  "fr": "Plomb — Lingot de 10 livres",
+  "en": "Lead — Ingot, 10lb"
+ },
+ "group": [
+  {
+   "fr": "Plomb",
+   "en": "Lead"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2146
+ }
+}

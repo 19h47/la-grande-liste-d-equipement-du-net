@@ -1,0 +1,37 @@
+{
+ "id": "char-de-promenade",
+ "category": "transports",
+ "name": {
+  "fr": "De promenade",
+  "en": "Riding"
+ },
+ "full_name": {
+  "fr": "Char — De promenade",
+  "en": "Chariot — Riding"
+ },
+ "group": [
+  {
+   "fr": "Char",
+   "en": "Chariot"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Char : véhicule léger à deux roues tiré par des chevaux, employé dans l'Antiquité pour la guerre ou la course."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 960
+ }
+}

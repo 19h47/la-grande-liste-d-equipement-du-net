@@ -1,0 +1,35 @@
+{
+ "id": "patins-a-glace-gnome",
+ "category": "transports",
+ "name": {
+  "fr": "Gnome",
+  "en": "Gnome"
+ },
+ "full_name": {
+  "fr": "Patins à glace — Gnome",
+  "en": "Skates — Gnome"
+ },
+ "group": [
+  {
+   "fr": "Patins à glace",
+   "en": "Skates"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 992
+ }
+}

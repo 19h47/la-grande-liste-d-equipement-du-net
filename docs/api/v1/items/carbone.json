@@ -1,0 +1,30 @@
+{
+ "id": "carbone",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Carbone",
+  "en": "Carbon"
+ },
+ "full_name": {
+  "fr": "Carbone",
+  "en": "Carbon"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2035
+ }
+}

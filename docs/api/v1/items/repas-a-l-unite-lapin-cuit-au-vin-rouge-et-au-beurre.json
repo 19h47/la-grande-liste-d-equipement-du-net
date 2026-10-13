@@ -1,0 +1,38 @@
+{
+ "id": "repas-a-l-unite-lapin-cuit-au-vin-rouge-et-au-beurre",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Lapin (cuit au vin rouge et au beurre)",
+  "en": "Rabbit (cooked in red wine w/ butter)"
+ },
+ "full_name": {
+  "fr": "Repas (à l'unité) — Lapin (cuit au vin rouge et au beurre)",
+  "en": "Meals (individual) — Rabbit (cooked in red wine w/ butter)"
+ },
+ "group": [
+  {
+   "fr": "Repas (à l'unité)",
+   "en": "Meals (individual)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 393
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "kusari-gama",
+ "category": "armes",
+ "name": {
+  "fr": "Kusari-gama",
+  "en": "Kusari-gama"
+ },
+ "full_name": {
+  "fr": "Kusari-gama",
+  "en": "Kusari-gama"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Kusari-gama : faucille japonaise reliée à une chaîne lestée."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3642
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "poix-la-livre",
+ "category": "outils",
+ "name": {
+  "fr": "Poix, la livre",
+  "en": "Pitch, per lb"
+ },
+ "full_name": {
+  "fr": "Poix, la livre",
+  "en": "Pitch, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Poix : résine noire et collante tirée des conifères, servant à étanchéifier coques, tonneaux et toitures."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2610
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "castor-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Castor — Cape, veste",
+  "en": "Beaver — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Castor",
+   "en": "Beaver"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1100
+ }
+}

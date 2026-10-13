@@ -1,0 +1,30 @@
+{
+ "id": "sapeur-par-mois",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Sapeur, par mois",
+  "en": "Sapper, per month"
+ },
+ "full_name": {
+  "fr": "Sapeur, par mois",
+  "en": "Sapper, per month"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2435
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "epees-wakizashi",
+ "category": "armes",
+ "name": {
+  "fr": "Wakizashi",
+  "en": "Wakizashi"
+ },
+ "full_name": {
+  "fr": "Épées — Wakizashi",
+  "en": "Sword — Wakizashi"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Wakizashi : sabre court japonais, porté en paire avec le katana."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3728
+ }
+}

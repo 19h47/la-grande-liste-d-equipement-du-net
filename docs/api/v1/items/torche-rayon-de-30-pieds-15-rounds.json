@@ -1,0 +1,35 @@
+{
+ "id": "torche-rayon-de-30-pieds-15-rounds",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Torche, rayon de 30 pieds, 15 rounds",
+  "en": "Torch, 30' radius, 15 rounds"
+ },
+ "full_name": {
+  "fr": "Torche, rayon de 30 pieds, 15 rounds",
+  "en": "Torch, 30' radius, 15 rounds"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Round : unité de temps du combat dans AD&D 2e, d'environ une minute."
+  ]
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1799
+ }
+}

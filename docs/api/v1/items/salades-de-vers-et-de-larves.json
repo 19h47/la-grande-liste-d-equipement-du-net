@@ -1,0 +1,38 @@
+{
+ "id": "salades-de-vers-et-de-larves",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De vers et de larves",
+  "en": "Worm and Grub"
+ },
+ "full_name": {
+  "fr": "Salades — De vers et de larves",
+  "en": "Salads — Worm and Grub"
+ },
+ "group": [
+  {
+   "fr": "Salades",
+   "en": "Salads"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 729
+ }
+}

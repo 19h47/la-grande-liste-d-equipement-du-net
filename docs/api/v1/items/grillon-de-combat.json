@@ -1,0 +1,32 @@
+{
+ "id": "grillon-de-combat",
+ "category": "animaux",
+ "name": {
+  "fr": "Grillon de combat",
+  "en": "Cricket, Fighting"
+ },
+ "full_name": {
+  "fr": "Grillon de combat",
+  "en": "Cricket, Fighting"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Grillon de combat : grillon élevé pour des combats d'insectes sur lesquels on parie, tradition chinoise ancienne."
+  ]
+ },
+ "source": {
+  "table": "XV",
+  "line": 1646
+ }
+}

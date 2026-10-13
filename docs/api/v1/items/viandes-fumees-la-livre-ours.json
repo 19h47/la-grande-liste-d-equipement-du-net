@@ -1,0 +1,38 @@
+{
+ "id": "viandes-fumees-la-livre-ours",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Ours",
+  "en": "Bear"
+ },
+ "full_name": {
+  "fr": "Viandes fumées, la livre — Ours",
+  "en": "Smoked Meat, per lbs — Bear"
+ },
+ "group": [
+  {
+   "fr": "Viandes fumées, la livre",
+   "en": "Smoked Meat, per lbs"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 pa",
+   "en": "20sp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 744
+ }
+}

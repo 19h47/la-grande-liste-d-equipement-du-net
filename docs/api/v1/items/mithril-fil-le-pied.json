@@ -1,0 +1,37 @@
+{
+ "id": "mithril-fil-le-pied",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Fil, le pied",
+  "en": "Wire, per ft"
+ },
+ "full_name": {
+  "fr": "Mithril — Fil, le pied",
+  "en": "Mithril — Wire, per ft"
+ },
+ "group": [
+  {
+   "fr": "Mithril",
+   "en": "Mithril"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Mithril : métal argenté léger et presque inaltérable, créé par Tolkien et repris par AD&D."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2212
+ }
+}

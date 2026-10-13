@@ -1,0 +1,33 @@
+{
+ "id": "toile-le-yard-carre",
+ "category": "tissus",
+ "name": {
+  "fr": "Toile, le yard carré",
+  "en": "Canvas, per sq yrd"
+ },
+ "full_name": {
+  "fr": "Toile, le yard carré",
+  "en": "Canvas, per sq yrd"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1719
+ }
+}

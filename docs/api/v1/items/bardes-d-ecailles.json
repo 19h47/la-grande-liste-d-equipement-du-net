@@ -1,0 +1,40 @@
+{
+ "id": "bardes-d-ecailles",
+ "category": "armures",
+ "name": {
+  "fr": "D'écailles",
+  "en": "Scale"
+ },
+ "full_name": {
+  "fr": "Bardes — D'écailles",
+  "en": "Barding — Scale"
+ },
+ "group": [
+  {
+   "fr": "Bardes",
+   "en": "Barding"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "350 po",
+   "en": "350gp"
+  },
+  "min_cp": 35000,
+  "max_cp": 35000,
+  "plus": false
+ },
+ "weight": {
+  "text": "80",
+  "lb": 80
+ },
+ "notes": {
+  "fr": [
+   "Bardes : armure de cheval."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3755
+ }
+}

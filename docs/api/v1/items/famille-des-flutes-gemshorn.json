@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-flutes-gemshorn",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Gemshorn",
+  "en": "Gemshorn"
+ },
+ "full_name": {
+  "fr": "Famille des flûtes — Gemshorn",
+  "en": "Flute Family — Gemshorn"
+ },
+ "group": [
+  {
+   "fr": "Famille des flûtes",
+   "en": "Flute Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Gemshorn : flûte à conduit taillée dans une corne d'animal."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3368
+ }
+}

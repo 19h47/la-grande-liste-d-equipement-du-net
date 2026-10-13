@@ -1,0 +1,30 @@
+{
+ "id": "chevre",
+ "category": "animaux",
+ "name": {
+  "fr": "Chèvre",
+  "en": "Goat"
+ },
+ "full_name": {
+  "fr": "Chèvre",
+  "en": "Goat"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1666
+ }
+}

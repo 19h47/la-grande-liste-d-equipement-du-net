@@ -1,0 +1,43 @@
+{
+ "id": "spelljammers-et-equipement-heaume-orbus",
+ "category": "transports",
+ "name": {
+  "fr": "Orbus",
+  "en": "Orbus"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Heaume — Orbus",
+  "en": "Spelljammers and equipment — Helm — Orbus"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  },
+  {
+   "fr": "Heaume",
+   "en": "Helm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "300 000 po",
+   "en": "300,000gp"
+  },
+  "min_cp": 30000000,
+  "max_cp": 30000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Heaume : siège magique qui convertit l'énergie d'un lanceur de sorts en propulsion pour un spelljammer.",
+   "Orbus : créature apparentée aux tyrannœils, servant de heaume vivant à leurs vaisseaux."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1024
+ }
+}

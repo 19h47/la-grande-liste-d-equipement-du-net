@@ -1,0 +1,38 @@
+{
+ "id": "veste-en-soie",
+ "category": "vetements",
+ "name": {
+  "fr": "En soie",
+  "en": "Silk"
+ },
+ "full_name": {
+  "fr": "Veste — En soie",
+  "en": "Jacket — Silk"
+ },
+ "group": [
+  {
+   "fr": "Veste",
+   "en": "Jacket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "80 po",
+   "en": "80gp"
+  },
+  "min_cp": 8000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 200
+ }
+}

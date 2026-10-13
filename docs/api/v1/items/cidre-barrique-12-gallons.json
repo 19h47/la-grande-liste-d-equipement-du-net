@@ -1,0 +1,38 @@
+{
+ "id": "cidre-barrique-12-gallons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Barrique, 12 gallons",
+  "en": "Cask, 12 gallons"
+ },
+ "full_name": {
+  "fr": "Cidre — Barrique, 12 gallons",
+  "en": "Cider — Cask, 12 gallons"
+ },
+ "group": [
+  {
+   "fr": "Cidre",
+   "en": "Cider"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "48",
+  "lb": 48
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 340
+ }
+}

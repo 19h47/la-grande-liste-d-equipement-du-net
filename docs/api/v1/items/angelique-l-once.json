@@ -1,0 +1,35 @@
+{
+ "id": "angelique-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Angélique, l'once",
+  "en": "Angelica, per oz"
+ },
+ "full_name": {
+  "fr": "Angélique, l'once",
+  "en": "Angelica, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Angélique : plante vivace aromatique et médicinale des terrains humides."
+  ]
+ },
+ "source": {
+  "table": "IV",
+  "line": 801
+ }
+}

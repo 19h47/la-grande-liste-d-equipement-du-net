@@ -1,0 +1,40 @@
+{
+ "id": "pots-bouches-en-ceramique-32-onces-1-quart",
+ "category": "contenants",
+ "name": {
+  "fr": "32 onces (1 quart)",
+  "en": "32oz (1 quart)"
+ },
+ "full_name": {
+  "fr": "Pots bouchés, en céramique — 32 onces (1 quart)",
+  "en": "Jars, Stoppered Ceramic — 32oz (1 quart)"
+ },
+ "group": [
+  {
+   "fr": "Pots bouchés, en céramique",
+   "en": "Jars, Stoppered Ceramic"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Quart : quart de gallon, soit environ 0,95 litre."
+  ]
+ },
+ "source": {
+  "table": "XI",
+  "line": 1395
+ }
+}

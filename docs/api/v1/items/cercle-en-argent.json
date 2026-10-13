@@ -1,0 +1,38 @@
+{
+ "id": "cercle-en-argent",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En argent",
+  "en": "silver"
+ },
+ "full_name": {
+  "fr": "Cercle — En argent",
+  "en": "Circle — silver"
+ },
+ "group": [
+  {
+   "fr": "Cercle",
+   "en": "Circle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2936
+ }
+}

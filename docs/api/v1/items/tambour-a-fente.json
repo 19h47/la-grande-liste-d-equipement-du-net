@@ -1,0 +1,40 @@
+{
+ "id": "tambour-a-fente",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Tambour à fente",
+  "en": "Slit drum"
+ },
+ "full_name": {
+  "fr": "Tambours — Tambour à fente",
+  "en": "Drums — Slit drum"
+ },
+ "group": [
+  {
+   "fr": "Tambours",
+   "en": "Drums"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "80",
+  "lb": 80
+ },
+ "notes": {
+  "fr": [
+   "Tambour à fente : tronc ou bloc de bois évidé par une fente longitudinale, que l'on frappe."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3349
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "raifort-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Raifort, l'once",
+  "en": "Horseradish, per oz"
+ },
+ "full_name": {
+  "fr": "Raifort, l'once",
+  "en": "Horseradish, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Raifort : crucifère à racine charnue et piquante, utilisée comme condiment."
+  ]
+ },
+ "source": {
+  "table": "IV",
+  "line": 828
+ }
+}

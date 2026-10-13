@@ -1,0 +1,38 @@
+{
+ "id": "fourchette-l-unite-a-rotir",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "À rôtir",
+  "en": "Roast"
+ },
+ "full_name": {
+  "fr": "Fourchette, l'unité — À rôtir",
+  "en": "Fork, each — Roast"
+ },
+ "group": [
+  {
+   "fr": "Fourchette, l'unité",
+   "en": "Fork, each"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2980
+ }
+}

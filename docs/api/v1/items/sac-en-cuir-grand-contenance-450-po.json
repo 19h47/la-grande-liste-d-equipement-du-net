@@ -1,0 +1,38 @@
+{
+ "id": "sac-en-cuir-grand-contenance-450-po",
+ "category": "contenants",
+ "name": {
+  "fr": "En cuir, grand, contenance 450 po",
+  "en": "Leather, large, holds 450gp"
+ },
+ "full_name": {
+  "fr": "Sac — En cuir, grand, contenance 450 po",
+  "en": "Sack — Leather, large, holds 450gp"
+ },
+ "group": [
+  {
+   "fr": "Sac",
+   "en": "Sack"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "45 pc",
+   "en": "45cp"
+  },
+  "min_cp": 45,
+  "max_cp": 45,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1440
+ }
+}

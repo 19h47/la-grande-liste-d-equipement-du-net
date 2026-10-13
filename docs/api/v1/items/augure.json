@@ -1,0 +1,32 @@
+{
+ "id": "augure",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Augure",
+  "en": "Augury"
+ },
+ "full_name": {
+  "fr": "Augure",
+  "en": "Augury"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Augure : sort indiquant si une action envisagée dans la demi-heure à venir aura une issue favorable ou funeste."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3200
+ }
+}

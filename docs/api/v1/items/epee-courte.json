@@ -1,0 +1,38 @@
+{
+ "id": "epee-courte",
+ "category": "armes",
+ "name": {
+  "fr": "Épée courte",
+  "en": "Short Sword"
+ },
+ "full_name": {
+  "fr": "Épées — Épée courte",
+  "en": "Sword — Short Sword"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3723
+ }
+}

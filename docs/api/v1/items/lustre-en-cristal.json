@@ -1,0 +1,38 @@
+{
+ "id": "lustre-en-cristal",
+ "category": "mobilier",
+ "name": {
+  "fr": "En cristal",
+  "en": "Crystal"
+ },
+ "full_name": {
+  "fr": "Lustre — En cristal",
+  "en": "Chandelier — Crystal"
+ },
+ "group": [
+  {
+   "fr": "Lustre",
+   "en": "Chandelier"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50+ po",
+   "en": "50+gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": true
+ },
+ "weight": {
+  "text": "40",
+  "lb": 40
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1577
+ }
+}

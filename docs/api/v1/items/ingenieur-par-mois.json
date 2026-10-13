@@ -1,0 +1,30 @@
+{
+ "id": "ingenieur-par-mois",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Ingénieur, par mois",
+  "en": "Engineer, per month"
+ },
+ "full_name": {
+  "fr": "Ingénieur, par mois",
+  "en": "Engineer, per month"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2386
+ }
+}

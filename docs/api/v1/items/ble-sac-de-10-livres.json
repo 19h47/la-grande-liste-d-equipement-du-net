@@ -1,0 +1,33 @@
+{
+ "id": "ble-sac-de-10-livres",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Blé, sac de 10 livres",
+  "en": "Wheat, per 10lbs Sack"
+ },
+ "full_name": {
+  "fr": "Blé, sac de 10 livres",
+  "en": "Wheat, per 10lbs Sack"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 788
+ }
+}

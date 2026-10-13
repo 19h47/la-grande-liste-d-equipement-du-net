@@ -1,0 +1,32 @@
+{
+ "id": "otyugh",
+ "category": "peaux",
+ "name": {
+  "fr": "Otyugh",
+  "en": "Otyugh"
+ },
+ "full_name": {
+  "fr": "Otyugh",
+  "en": "Otyugh"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Otyugh : charognard tentaculaire qui vit dans les immondices des souterrains."
+  ]
+ },
+ "source": {
+  "table": "V",
+  "line": 881
+ }
+}

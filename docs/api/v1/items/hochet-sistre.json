@@ -1,0 +1,40 @@
+{
+ "id": "hochet-sistre",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Sistre",
+  "en": "Sistrum"
+ },
+ "full_name": {
+  "fr": "Hochet — Sistre",
+  "en": "Rattle — Sistrum"
+ },
+ "group": [
+  {
+   "fr": "Hochet",
+   "en": "Rattle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Sistre : hochet métallique de l'Égypte antique, à tiges mobiles garnies de rondelles."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3426
+ }
+}

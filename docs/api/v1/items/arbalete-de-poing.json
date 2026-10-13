@@ -1,0 +1,38 @@
+{
+ "id": "arbalete-de-poing",
+ "category": "armes",
+ "name": {
+  "fr": "Arbalète de poing",
+  "en": "Hand crossbow"
+ },
+ "full_name": {
+  "fr": "Arbalètes — Arbalète de poing",
+  "en": "Crossbow — Hand crossbow"
+ },
+ "group": [
+  {
+   "fr": "Arbalètes",
+   "en": "Crossbow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3558
+ }
+}

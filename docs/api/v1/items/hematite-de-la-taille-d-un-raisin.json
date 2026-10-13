@@ -1,0 +1,37 @@
+{
+ "id": "hematite-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Hématite — De la taille d'un raisin",
+  "en": "Hematite — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Hématite",
+   "en": "Hematite"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Hématite : oxyde de fer gris métallique, principal minerai de fer, poli en bijoux."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2104
+ }
+}

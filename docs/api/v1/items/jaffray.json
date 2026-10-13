@@ -1,0 +1,40 @@
+{
+ "id": "jaffray",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Jaffray",
+  "en": "Jaffray"
+ },
+ "full_name": {
+  "fr": "Jaffray",
+  "en": "Jaffray"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Jaffray : plante du désert du Net Book of Herbs, aphrodisiaque et enivrante."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2785
+ }
+}

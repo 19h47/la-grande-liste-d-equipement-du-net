@@ -1,0 +1,40 @@
+{
+ "id": "tribule-terrestre",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Tribule terrestre",
+  "en": "Land Caltrops"
+ },
+ "full_name": {
+  "fr": "Tribule terrestre",
+  "en": "Land Caltrops"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Tribule terrestre : plante rampante dont les fruits épineux rappellent des chausse-trapes."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2791
+ }
+}

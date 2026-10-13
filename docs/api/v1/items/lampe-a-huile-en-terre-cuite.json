@@ -1,0 +1,38 @@
+{
+ "id": "lampe-a-huile-en-terre-cuite",
+ "category": "eclairage",
+ "name": {
+  "fr": "En terre cuite",
+  "en": "Pottery"
+ },
+ "full_name": {
+  "fr": "Lampe à huile — En terre cuite",
+  "en": "Oil Lamp — Pottery"
+ },
+ "group": [
+  {
+   "fr": "Lampe à huile",
+   "en": "Oil Lamp"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2685
+ }
+}

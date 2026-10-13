@@ -1,0 +1,38 @@
+{
+ "id": "cone-en-cristal",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En cristal",
+  "en": "Crystal"
+ },
+ "full_name": {
+  "fr": "Cône — En cristal",
+  "en": "Cone, — Crystal"
+ },
+ "group": [
+  {
+   "fr": "Cône",
+   "en": "Cone,"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2942
+ }
+}

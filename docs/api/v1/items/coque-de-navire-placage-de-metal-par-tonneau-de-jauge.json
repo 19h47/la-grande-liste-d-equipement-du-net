@@ -1,0 +1,35 @@
+{
+ "id": "coque-de-navire-placage-de-metal-par-tonneau-de-jauge",
+ "category": "armures",
+ "name": {
+  "fr": "Placage de métal, par tonneau de jauge",
+  "en": "Plating, per ship tonage"
+ },
+ "full_name": {
+  "fr": "Coque de navire — Placage de métal, par tonneau de jauge",
+  "en": "Hull, ship — Plating, per ship tonage"
+ },
+ "group": [
+  {
+   "fr": "Coque de navire",
+   "en": "Hull, ship"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3804
+ }
+}

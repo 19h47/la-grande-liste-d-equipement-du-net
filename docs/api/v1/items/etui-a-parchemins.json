@@ -1,0 +1,33 @@
+{
+ "id": "etui-a-parchemins",
+ "category": "contenants",
+ "name": {
+  "fr": "Étui à parchemins",
+  "en": "Scroll case"
+ },
+ "full_name": {
+  "fr": "Étui à parchemins",
+  "en": "Scroll case"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1454
+ }
+}

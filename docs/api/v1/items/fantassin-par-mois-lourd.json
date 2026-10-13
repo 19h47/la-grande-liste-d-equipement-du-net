@@ -1,0 +1,35 @@
+{
+ "id": "fantassin-par-mois-lourd",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Lourd",
+  "en": "Heavy"
+ },
+ "full_name": {
+  "fr": "Fantassin, par mois — Lourd",
+  "en": "Footman, per month — Heavy"
+ },
+ "group": [
+  {
+   "fr": "Fantassin, par mois",
+   "en": "Footman, per month"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2388
+ }
+}

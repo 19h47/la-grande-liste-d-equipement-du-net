@@ -1,0 +1,35 @@
+{
+ "id": "jambieres-en-lin",
+ "category": "vetements",
+ "name": {
+  "fr": "En lin",
+  "en": "Linen"
+ },
+ "full_name": {
+  "fr": "Jambières — En lin",
+  "en": "Leggings — Linen"
+ },
+ "group": [
+  {
+   "fr": "Jambières",
+   "en": "Leggings"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 226
+ }
+}

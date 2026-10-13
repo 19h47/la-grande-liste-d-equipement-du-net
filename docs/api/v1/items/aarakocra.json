@@ -1,0 +1,40 @@
+{
+ "id": "aarakocra",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Aarakocra",
+  "en": "Aarakocra"
+ },
+ "full_name": {
+  "fr": "Aarakocra",
+  "en": "Aarakocra"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "120 po",
+   "en": "120gp"
+  },
+  "min_cp": 12000,
+  "max_cp": 12000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "200-500 po",
+   "en": "200-500gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Aarakocra : humanoïde ailé à tête d'oiseau, vivant en tribus dans les hautes montagnes."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1470
+ }
+}

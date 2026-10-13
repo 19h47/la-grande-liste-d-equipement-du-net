@@ -1,0 +1,33 @@
+{
+ "id": "semoir-contient-100-graines",
+ "category": "outils",
+ "name": {
+  "fr": "Semoir, contient 100 graines",
+  "en": "Seed-Sower, holds 100 seeds"
+ },
+ "full_name": {
+  "fr": "Semoir, contient 100 graines",
+  "en": "Seed-Sower, holds 100 seeds"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2626
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "felins-tachetes-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Félins tachetés — Manteau, robe, couverture",
+  "en": "Spotted cats — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Félins tachetés",
+   "en": "Spotted cats"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 000 po",
+   "en": "4,000gp"
+  },
+  "min_cp": 400000,
+  "max_cp": 400000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1224
+ }
+}

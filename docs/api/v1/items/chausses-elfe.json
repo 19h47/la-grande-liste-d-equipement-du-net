@@ -1,0 +1,40 @@
+{
+ "id": "chausses-elfe",
+ "category": "vetements",
+ "name": {
+  "fr": "Elfe",
+  "en": "Elf"
+ },
+ "full_name": {
+  "fr": "Chausses — Elfe",
+  "en": "Hose — Elf"
+ },
+ "group": [
+  {
+   "fr": "Chausses",
+   "en": "Hose"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Chausses : bas-de-jambes d'étoffe couvrant le pied et la jambe."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 195
+ }
+}

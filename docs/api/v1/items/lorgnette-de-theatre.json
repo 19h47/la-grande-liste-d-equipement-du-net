@@ -1,0 +1,35 @@
+{
+ "id": "lorgnette-de-theatre",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Lorgnette (de théâtre)",
+  "en": "Peering Glasses (Theatrical)"
+ },
+ "full_name": {
+  "fr": "Lorgnette (de théâtre)",
+  "en": "Peering Glasses (Theatrical)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": [
+   "Lorgnette : petite lunette d'approche, souvent double, utilisée au spectacle pour mieux voir la scène."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3054
+ }
+}

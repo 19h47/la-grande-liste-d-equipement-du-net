@@ -1,0 +1,33 @@
+{
+ "id": "rasoir",
+ "category": "outils",
+ "name": {
+  "fr": "Rasoir",
+  "en": "Razor"
+ },
+ "full_name": {
+  "fr": "Rasoir",
+  "en": "Razor"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2616
+ }
+}

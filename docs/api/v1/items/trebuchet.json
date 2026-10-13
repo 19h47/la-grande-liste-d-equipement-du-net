@@ -1,0 +1,33 @@
+{
+ "id": "trebuchet",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Trébuchet",
+  "en": "Trebuchet"
+ },
+ "full_name": {
+  "fr": "Trébuchet",
+  "en": "Trebuchet"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "750 po",
+   "en": "750gp"
+  },
+  "min_cp": 75000,
+  "max_cp": 75000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1 000",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3508
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "armes-a-feu-a-silex-pistolet-tromblon",
+ "category": "armes",
+ "name": {
+  "fr": "Pistolet-tromblon",
+  "en": "Blunderbuss pistol"
+ },
+ "full_name": {
+  "fr": "Armes à feu — À silex — Pistolet-tromblon",
+  "en": "Firearms — Flintlock — Blunderbuss pistol"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "À silex",
+   "en": "Flintlock"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3598
+ }
+}

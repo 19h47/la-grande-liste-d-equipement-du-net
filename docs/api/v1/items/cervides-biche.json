@@ -1,0 +1,35 @@
+{
+ "id": "cervides-biche",
+ "category": "animaux",
+ "name": {
+  "fr": "Biche",
+  "en": "Doe"
+ },
+ "full_name": {
+  "fr": "Cervidés — Biche",
+  "en": "Deer — Doe"
+ },
+ "group": [
+  {
+   "fr": "Cervidés",
+   "en": "Deer"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1648
+ }
+}

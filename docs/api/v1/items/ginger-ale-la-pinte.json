@@ -1,0 +1,35 @@
+{
+ "id": "ginger-ale-la-pinte",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Ginger ale, la pinte",
+  "en": "Ginger Ale, per pint"
+ },
+ "full_name": {
+  "fr": "Ginger ale, la pinte",
+  "en": "Ginger Ale, per pint"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Ginger ale : boisson pétillante au gingembre."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 360
+ }
+}

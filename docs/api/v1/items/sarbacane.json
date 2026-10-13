@@ -1,0 +1,33 @@
+{
+ "id": "sarbacane",
+ "category": "armes",
+ "name": {
+  "fr": "Sarbacane",
+  "en": "Blowgun"
+ },
+ "full_name": {
+  "fr": "Sarbacane",
+  "en": "Blowgun"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3528
+ }
+}

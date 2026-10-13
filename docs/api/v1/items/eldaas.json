@@ -1,0 +1,40 @@
+{
+ "id": "eldaas",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Eldaas",
+  "en": "Eldaas"
+ },
+ "full_name": {
+  "fr": "Eldaas",
+  "en": "Eldaas"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Eldaas : plante côtière du Net Book of Herbs, dont la tisane combat la nausée."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2764
+ }
+}

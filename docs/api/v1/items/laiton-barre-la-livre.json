@@ -1,0 +1,35 @@
+{
+ "id": "laiton-barre-la-livre",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Barre, la livre",
+  "en": "Bar, per lb"
+ },
+ "full_name": {
+  "fr": "Laiton — Barre, la livre",
+  "en": "Brass — Bar, per lb"
+ },
+ "group": [
+  {
+   "fr": "Laiton",
+   "en": "Brass"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2020
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "grains-de-ble-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Grains de blé, la livre",
+  "en": "Wheat berries, per lb"
+ },
+ "full_name": {
+  "fr": "Grains de blé, la livre",
+  "en": "Wheat berries, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 789
+ }
+}

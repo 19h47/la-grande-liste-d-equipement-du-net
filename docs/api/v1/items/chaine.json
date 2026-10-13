@@ -1,0 +1,33 @@
+{
+ "id": "chaine",
+ "category": "armes",
+ "name": {
+  "fr": "Chaîne",
+  "en": "Chain"
+ },
+ "full_name": {
+  "fr": "Chaîne",
+  "en": "Chain"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3551
+ }
+}

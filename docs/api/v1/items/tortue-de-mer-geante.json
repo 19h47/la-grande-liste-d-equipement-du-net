@@ -1,0 +1,30 @@
+{
+ "id": "tortue-de-mer-geante",
+ "category": "carcasses",
+ "name": {
+  "fr": "Tortue de mer géante",
+  "en": "Turtle, giant sea"
+ },
+ "full_name": {
+  "fr": "Tortue de mer géante",
+  "en": "Turtle, giant sea"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "51-70 po",
+   "en": "51-70gp"
+  },
+  "min_cp": 5100,
+  "max_cp": 7000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIV",
+  "line": 1616
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "tube-de-verre-le-pied",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Tube de verre, le pied",
+  "en": "Tubing glass, per foot"
+ },
+ "full_name": {
+  "fr": "Tube de verre, le pied",
+  "en": "Tubing glass, per foot"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1888
+ }
+}

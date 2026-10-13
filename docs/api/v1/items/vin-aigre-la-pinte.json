@@ -1,0 +1,38 @@
+{
+ "id": "vin-aigre-la-pinte",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "La pinte",
+  "en": "Per Pint"
+ },
+ "full_name": {
+  "fr": "Vin aigre — La pinte",
+  "en": "Wine, sour — Per Pint"
+ },
+ "group": [
+  {
+   "fr": "Vin aigre",
+   "en": "Wine, sour"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 427
+ }
+}

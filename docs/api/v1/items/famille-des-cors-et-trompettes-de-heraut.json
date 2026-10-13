@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-cors-et-trompettes-de-heraut",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "De héraut",
+  "en": "Heralding"
+ },
+ "full_name": {
+  "fr": "Famille des cors et trompettes — De héraut",
+  "en": "Horn/Trumpet Family — Heralding"
+ },
+ "group": [
+  {
+   "fr": "Famille des cors et trompettes",
+   "en": "Horn/Trumpet Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3399
+ }
+}

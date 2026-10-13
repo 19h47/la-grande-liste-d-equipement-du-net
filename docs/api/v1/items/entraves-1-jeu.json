@@ -1,0 +1,35 @@
+{
+ "id": "entraves-1-jeu",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Entraves, 1 jeu",
+  "en": "Hobbles, 1 set"
+ },
+ "full_name": {
+  "fr": "Entraves, 1 jeu",
+  "en": "Hobbles, 1 set"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 pa",
+   "en": "20sp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Entraves : liens reliant les jambes d'un cheval pour l'empêcher de s'éloigner quand il paît."
+  ]
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1064
+ }
+}

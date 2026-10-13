@@ -1,0 +1,38 @@
+{
+ "id": "caisses-petite",
+ "category": "contenants",
+ "name": {
+  "fr": "Petite",
+  "en": "Small"
+ },
+ "full_name": {
+  "fr": "Caisses — Petite",
+  "en": "Crates — Small"
+ },
+ "group": [
+  {
+   "fr": "Caisses",
+   "en": "Crates"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1367
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "ancre-en-fer-pour-navire",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Pour navire",
+  "en": "Ship"
+ },
+ "full_name": {
+  "fr": "Ancre en fer — Pour navire",
+  "en": "Anchor, Iron — Ship"
+ },
+ "group": [
+  {
+   "fr": "Ancre en fer",
+   "en": "Anchor, Iron"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2859
+ }
+}

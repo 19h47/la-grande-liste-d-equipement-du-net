@@ -1,0 +1,33 @@
+{
+ "id": "tente-grande-pour-15-personnes",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Tente, grande, pour 15 personnes",
+  "en": "Tent, large, holds 15men"
+ },
+ "full_name": {
+  "fr": "Tente, grande, pour 15 personnes",
+  "en": "Tent, large, holds 15men"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pp",
+   "en": "3pp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1798
+ }
+}

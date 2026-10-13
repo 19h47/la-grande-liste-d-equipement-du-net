@@ -1,0 +1,38 @@
+{
+ "id": "spelljammers-et-equipement-voltigeur-elfique",
+ "category": "transports",
+ "name": {
+  "fr": "Voltigeur elfique",
+  "en": "Elven Flitter"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Voltigeur elfique",
+  "en": "Spelljammers and equipment — Elven Flitter"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 000 po",
+   "en": "10,000gp"
+  },
+  "min_cp": 1000000,
+  "max_cp": 1000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Voltigeur elfique : « Elven Flitter » en VO, petit spelljammer elfe rapide, cultivé comme tous les vaisseaux elfes à partir d'une plante vivante."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1007
+ }
+}

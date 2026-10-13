@@ -1,0 +1,33 @@
+{
+ "id": "herisson",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Hérisson",
+  "en": "Hedgehog"
+ },
+ "full_name": {
+  "fr": "Hérisson",
+  "en": "Hedgehog"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 603
+ }
+}

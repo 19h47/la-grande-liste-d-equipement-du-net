@@ -1,0 +1,35 @@
+{
+ "id": "logement-a-l-auberge-par-jour-semaine-sol-de-l-ecurie",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Sol de l'écurie",
+  "en": "Stable floor"
+ },
+ "full_name": {
+  "fr": "Logement à l'auberge (par jour/semaine) — Sol de l'écurie",
+  "en": "Inn Lodging (per day/week) — Stable floor"
+ },
+ "group": [
+  {
+   "fr": "Logement à l'auberge (par jour/semaine)",
+   "en": "Inn Lodging (per day/week)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pc/8 pa",
+   "en": "2cp/8sp"
+  },
+  "min_cp": 2,
+  "max_cp": 2,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 367
+ }
+}

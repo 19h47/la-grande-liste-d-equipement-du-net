@@ -1,0 +1,38 @@
+{
+ "id": "fruits-a-l-eau-de-vie-la-pinte-prunes-epicees",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Prunes épicées",
+  "en": "Spiced Plums"
+ },
+ "full_name": {
+  "fr": "Fruits à l'eau-de-vie, la pinte — Prunes épicées",
+  "en": "Brandied Fruits, per Pint — Spiced Plums"
+ },
+ "group": [
+  {
+   "fr": "Fruits à l'eau-de-vie, la pinte",
+   "en": "Brandied Fruits, per Pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 478
+ }
+}

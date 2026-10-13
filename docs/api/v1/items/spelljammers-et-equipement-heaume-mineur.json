@@ -1,0 +1,43 @@
+{
+ "id": "spelljammers-et-equipement-heaume-mineur",
+ "category": "transports",
+ "name": {
+  "fr": "Heaume mineur",
+  "en": "Minor Helm"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Heaume — Heaume mineur",
+  "en": "Spelljammers and equipment — Helm — Minor Helm"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  },
+  {
+   "fr": "Heaume",
+   "en": "Helm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 000 po",
+   "en": "100,000gp"
+  },
+  "min_cp": 10000000,
+  "max_cp": 10000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Heaume : siège magique qui convertit l'énergie d'un lanceur de sorts en propulsion pour un spelljammer.",
+   "Heaume mineur : heaume le plus courant, qui consomme les sorts mémorisés du pilote pour propulser le navire."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1014
+ }
+}

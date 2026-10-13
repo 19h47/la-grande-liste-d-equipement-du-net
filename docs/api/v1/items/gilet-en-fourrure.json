@@ -1,0 +1,38 @@
+{
+ "id": "gilet-en-fourrure",
+ "category": "vetements",
+ "name": {
+  "fr": "En fourrure",
+  "en": "Fur"
+ },
+ "full_name": {
+  "fr": "Gilet — En fourrure",
+  "en": "Vest, — Fur"
+ },
+ "group": [
+  {
+   "fr": "Gilet",
+   "en": "Vest,"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 299
+ }
+}

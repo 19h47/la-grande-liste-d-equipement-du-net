@@ -1,0 +1,40 @@
+{
+ "id": "cotte-elfe",
+ "category": "vetements",
+ "name": {
+  "fr": "Elfe",
+  "en": "Elf"
+ },
+ "full_name": {
+  "fr": "Cotte — Elfe",
+  "en": "Cote — Elf"
+ },
+ "group": [
+  {
+   "fr": "Cotte",
+   "en": "Cote"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Cotte : tunique longue à manches portée par-dessus la chemise."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 139
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "verre-opaque",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Opaque",
+  "en": "Opaque"
+ },
+ "full_name": {
+  "fr": "Verre — Opaque",
+  "en": "Glass — Opaque"
+ },
+ "group": [
+  {
+   "fr": "Verre",
+   "en": "Glass"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2086
+ }
+}

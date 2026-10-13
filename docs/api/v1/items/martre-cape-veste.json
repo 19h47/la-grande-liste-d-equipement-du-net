@@ -1,0 +1,35 @@
+{
+ "id": "martre-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Martre — Cape, veste",
+  "en": "Marten — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Martre",
+   "en": "Marten"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1170
+ }
+}

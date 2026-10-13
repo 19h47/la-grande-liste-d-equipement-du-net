@@ -1,0 +1,38 @@
+{
+ "id": "espace-d-entrepot-par-caisse-longue-stockage-a-sec",
+ "category": "contenants",
+ "name": {
+  "fr": "Stockage à sec",
+  "en": "Dry Storage"
+ },
+ "full_name": {
+  "fr": "Espace d'entrepôt, par caisse longue — Stockage à sec",
+  "en": "Warehouse Space, per longbox — Dry Storage"
+ },
+ "group": [
+  {
+   "fr": "Espace d'entrepôt, par caisse longue",
+   "en": "Warehouse Space, per longbox"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pc/jour",
+   "en": "1cp/day"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1460
+ }
+}

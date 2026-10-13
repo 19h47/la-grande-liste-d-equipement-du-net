@@ -1,0 +1,33 @@
+{
+ "id": "jambieres",
+ "category": "vetements",
+ "name": {
+  "fr": "Jambières",
+  "en": "Leggings"
+ },
+ "full_name": {
+  "fr": "Jambières",
+  "en": "Leggings"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 223
+ }
+}

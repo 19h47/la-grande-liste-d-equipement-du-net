@@ -1,0 +1,39 @@
+{
+ "id": "moule-epee-cimeterre",
+ "category": "outils",
+ "name": {
+  "fr": "Cimeterre",
+  "en": "Scimitar"
+ },
+ "full_name": {
+  "fr": "Moule — Épée — Cimeterre",
+  "en": "Mold — Sword — Scimitar"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Épée",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2602
+ }
+}

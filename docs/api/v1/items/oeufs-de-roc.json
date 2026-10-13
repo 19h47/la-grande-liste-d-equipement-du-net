@@ -1,0 +1,40 @@
+{
+ "id": "oeufs-de-roc",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De roc",
+  "en": "Roc"
+ },
+ "full_name": {
+  "fr": "Œufs — De roc",
+  "en": "Egg — Roc"
+ },
+ "group": [
+  {
+   "fr": "Œufs",
+   "en": "Egg"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Roc : oiseau géant des contes persans et arabes, capable d'emporter un éléphant."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 579
+ }
+}

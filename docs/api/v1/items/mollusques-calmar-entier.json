@@ -1,0 +1,38 @@
+{
+ "id": "mollusques-calmar-entier",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Calmar entier",
+  "en": "Whole Squid"
+ },
+ "full_name": {
+  "fr": "Mollusques — Calmar entier",
+  "en": "Mollusks — Whole Squid"
+ },
+ "group": [
+  {
+   "fr": "Mollusques",
+   "en": "Mollusks"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 656
+ }
+}

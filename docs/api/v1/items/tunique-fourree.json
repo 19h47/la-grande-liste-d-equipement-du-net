@@ -1,0 +1,37 @@
+{
+ "id": "tunique-fourree",
+ "category": "vetements",
+ "name": {
+  "fr": "Fourrée",
+  "en": "Furred"
+ },
+ "full_name": {
+  "fr": "Tunique — Fourrée",
+  "en": "Tunic — Furred"
+ },
+ "group": [
+  {
+   "fr": "Tunique",
+   "en": "Tunic"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 pa",
+   "en": "35sp"
+  },
+  "min_cp": 350,
+  "max_cp": 350,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Tunique : vêtement ample en forme de T couvrant le buste et les épaules."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 295
+ }
+}

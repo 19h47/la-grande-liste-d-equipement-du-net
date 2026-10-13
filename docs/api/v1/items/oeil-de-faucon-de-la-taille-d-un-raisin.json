@@ -1,0 +1,37 @@
+{
+ "id": "oeil-de-faucon-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Œil-de-faucon — De la taille d'un raisin",
+  "en": "Hawk's-eye — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Œil-de-faucon",
+   "en": "Hawk's-eye"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Œil-de-faucon : quartz fibreux bleu-gris à reflets soyeux, proche parent de l'œil-de-tigre."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2100
+ }
+}

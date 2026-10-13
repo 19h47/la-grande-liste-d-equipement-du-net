@@ -1,0 +1,33 @@
+{
+ "id": "poisson-marine-petit-tonneau-de-5-gallons",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Poisson mariné, petit tonneau de 5 gallons",
+  "en": "Pickled fish, (small Barrel) 5 gallons"
+ },
+ "full_name": {
+  "fr": "Poisson mariné, petit tonneau de 5 gallons",
+  "en": "Pickled fish, (small Barrel) 5 gallons"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 691
+ }
+}

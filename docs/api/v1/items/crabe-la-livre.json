@@ -1,0 +1,33 @@
+{
+ "id": "crabe-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Crabe, la livre",
+  "en": "Crab, per lbs"
+ },
+ "full_name": {
+  "fr": "Crabe, la livre",
+  "en": "Crab, per lbs"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 557
+ }
+}

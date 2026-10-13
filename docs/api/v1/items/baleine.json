@@ -1,0 +1,30 @@
+{
+ "id": "baleine",
+ "category": "carcasses",
+ "name": {
+  "fr": "Baleine",
+  "en": "Whale"
+ },
+ "full_name": {
+  "fr": "Baleine",
+  "en": "Whale"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "DV x 100 po",
+   "en": "HD x 100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIV",
+  "line": 1617
+ }
+}

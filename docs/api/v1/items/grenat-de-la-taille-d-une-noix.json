@@ -1,0 +1,35 @@
+{
+ "id": "grenat-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Grenat — De la taille d'une noix",
+  "en": "Garnet — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Grenat",
+   "en": "Garnet"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2083
+ }
+}

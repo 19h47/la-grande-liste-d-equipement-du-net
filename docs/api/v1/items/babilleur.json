@@ -1,0 +1,40 @@
+{
+ "id": "babilleur",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Babilleur",
+  "en": "Babbler"
+ },
+ "full_name": {
+  "fr": "Babilleur",
+  "en": "Babbler"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Babilleur : reptile bipède des marais, intelligent et anthropophage, apparenté aux hommes-lézards (Fiend Folio)."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1476
+ }
+}

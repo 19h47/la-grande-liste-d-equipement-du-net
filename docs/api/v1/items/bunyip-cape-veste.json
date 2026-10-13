@@ -1,0 +1,37 @@
+{
+ "id": "bunyip-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Bunyip — Cape, veste",
+  "en": "Bunyip — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Bunyip",
+   "en": "Bunyip"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "125 po",
+   "en": "125gp"
+  },
+  "min_cp": 12500,
+  "max_cp": 12500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Bunyip : monstre aquatique du folklore aborigène australien ; dans AD&D, sorte de phoque féroce à tête de chien."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1115
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "hanaps-en-laiton",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En laiton",
+  "en": "Brass"
+ },
+ "full_name": {
+  "fr": "Hanaps — En laiton",
+  "en": "Tankards — Brass"
+ },
+ "group": [
+  {
+   "fr": "Hanaps",
+   "en": "Tankards"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "9 pc",
+   "en": "9cp"
+  },
+  "min_cp": 9,
+  "max_cp": 9,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Hanap : grand vase à boire médiéval, généralement en métal et souvent muni d'un couvercle."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3136
+ }
+}

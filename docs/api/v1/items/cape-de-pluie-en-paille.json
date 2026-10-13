@@ -1,0 +1,35 @@
+{
+ "id": "cape-de-pluie-en-paille",
+ "category": "vetements",
+ "name": {
+  "fr": "Cape de pluie en paille",
+  "en": "Raincape, Straw"
+ },
+ "full_name": {
+  "fr": "Cape de pluie en paille",
+  "en": "Raincape, Straw"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 pc",
+   "en": "20cp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Cape de pluie en paille : manteau imperméable de paille tressée, notamment porté par les paysans japonais."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 243
+ }
+}

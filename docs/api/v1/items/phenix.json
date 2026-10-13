@@ -1,0 +1,30 @@
+{
+ "id": "phenix",
+ "category": "carcasses",
+ "name": {
+  "fr": "Phénix",
+  "en": "Phoenix"
+ },
+ "full_name": {
+  "fr": "Phénix",
+  "en": "Phoenix"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "21 000-26 000 po",
+   "en": "21,000-26,000gp"
+  },
+  "min_cp": 2100000,
+  "max_cp": 2600000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIV",
+  "line": 1612
+ }
+}

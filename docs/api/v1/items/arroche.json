@@ -1,0 +1,40 @@
+{
+ "id": "arroche",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Arroche",
+  "en": "Orach"
+ },
+ "full_name": {
+  "fr": "Arroche",
+  "en": "Orach"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Arroche : plante potagère proche de l'épinard."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2810
+ }
+}

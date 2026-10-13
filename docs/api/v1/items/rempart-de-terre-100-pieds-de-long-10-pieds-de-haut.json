@@ -1,0 +1,30 @@
+{
+ "id": "rempart-de-terre-100-pieds-de-long-10-pieds-de-haut",
+ "category": "constructions",
+ "name": {
+  "fr": "Rempart de terre, 100 pieds de long, 10 pieds de haut",
+  "en": "Rampart, earth, 100'l 10'h"
+ },
+ "full_name": {
+  "fr": "Rempart de terre, 100 pieds de long, 10 pieds de haut",
+  "en": "Rampart, earth, 100'l 10'h"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3292
+ }
+}

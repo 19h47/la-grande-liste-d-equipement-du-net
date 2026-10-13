@@ -1,0 +1,33 @@
+{
+ "id": "baliste-legere",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Baliste légère",
+  "en": "Ballista, Light"
+ },
+ "full_name": {
+  "fr": "Baliste légère",
+  "en": "Ballista, Light"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "400 po",
+   "en": "400gp"
+  },
+  "min_cp": 40000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "weight": {
+  "text": "100",
+  "lb": 100
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3480
+ }
+}

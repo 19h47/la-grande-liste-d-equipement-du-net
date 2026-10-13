@@ -1,0 +1,35 @@
+{
+ "id": "yeti-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Yéti — Garniture",
+  "en": "Yeti — Trim"
+ },
+ "group": [
+  {
+   "fr": "Yéti",
+   "en": "Yeti"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1240
+ }
+}

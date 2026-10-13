@@ -1,0 +1,30 @@
+{
+ "id": "elephant",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Éléphant",
+  "en": "Elephant"
+ },
+ "full_name": {
+  "fr": "Éléphant",
+  "en": "Elephant"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "500-800 po",
+   "en": "500-800gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 80000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "X",
+  "line": 1260
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "escalier-en-bois-10-pieds-de-denivele-3-pieds-de-large",
+ "category": "constructions",
+ "name": {
+  "fr": "Escalier en bois, 10 pieds de dénivelé, 3 pieds de large",
+  "en": "Stairs, wooden, 10'rise 3'w"
+ },
+ "full_name": {
+  "fr": "Escalier en bois, 10 pieds de dénivelé, 3 pieds de large",
+  "en": "Stairs, wooden, 10'rise 3'w"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3294
+ }
+}

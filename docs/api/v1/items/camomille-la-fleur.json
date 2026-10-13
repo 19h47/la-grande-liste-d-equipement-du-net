@@ -1,0 +1,33 @@
+{
+ "id": "camomille-la-fleur",
+ "category": "epices",
+ "name": {
+  "fr": "Camomille, la fleur",
+  "en": "Camomile, per flower"
+ },
+ "full_name": {
+  "fr": "Camomille, la fleur",
+  "en": "Camomile, per flower"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 809
+ }
+}

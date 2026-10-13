@@ -1,0 +1,38 @@
+{
+ "id": "armes-de-geant-masse-d-armes",
+ "category": "armes",
+ "name": {
+  "fr": "Masse d'armes",
+  "en": "Mace"
+ },
+ "full_name": {
+  "fr": "Armes de géant — Masse d'armes",
+  "en": "Giant Weapons — Mace"
+ },
+ "group": [
+  {
+   "fr": "Armes de géant",
+   "en": "Giant Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "11 po",
+   "en": "11gp"
+  },
+  "min_cp": 1100,
+  "max_cp": 1100,
+  "plus": false
+ },
+ "weight": {
+  "text": "11",
+  "lb": 11
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3620
+ }
+}

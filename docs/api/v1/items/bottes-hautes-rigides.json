@@ -1,0 +1,38 @@
+{
+ "id": "bottes-hautes-rigides",
+ "category": "vetements",
+ "name": {
+  "fr": "Hautes (rigides)",
+  "en": "High (hard)"
+ },
+ "full_name": {
+  "fr": "Bottes — Hautes (rigides)",
+  "en": "Boots — High (hard)"
+ },
+ "group": [
+  {
+   "fr": "Bottes",
+   "en": "Boots"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 90
+ }
+}

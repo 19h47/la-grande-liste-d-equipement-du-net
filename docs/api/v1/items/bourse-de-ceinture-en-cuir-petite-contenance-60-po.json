@@ -1,0 +1,38 @@
+{
+ "id": "bourse-de-ceinture-en-cuir-petite-contenance-60-po",
+ "category": "contenants",
+ "name": {
+  "fr": "De ceinture, en cuir, petite, contenance 60 po",
+  "en": "Belt, Leather-small, holds 60gp"
+ },
+ "full_name": {
+  "fr": "Bourse — De ceinture, en cuir, petite, contenance 60 po",
+  "en": "Pouch — Belt, Leather-small, holds 60gp"
+ },
+ "group": [
+  {
+   "fr": "Bourse",
+   "en": "Pouch"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1421
+ }
+}

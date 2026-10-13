@@ -1,0 +1,30 @@
+{
+ "id": "sorts-de-detection-quels-qu-ils-soient",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Sorts de détection (quels qu'ils soient)",
+  "en": "Detection Spells (any)"
+ },
+ "full_name": {
+  "fr": "Sorts de détection (quels qu'ils soient)",
+  "en": "Detection Spells (any)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3214
+ }
+}

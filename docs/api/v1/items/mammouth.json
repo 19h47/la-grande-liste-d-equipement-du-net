@@ -1,0 +1,30 @@
+{
+ "id": "mammouth",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Mammouth",
+  "en": "Mammoth"
+ },
+ "full_name": {
+  "fr": "Mammouth",
+  "en": "Mammoth"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "600-900 po",
+   "en": "600-900gp"
+  },
+  "min_cp": 60000,
+  "max_cp": 90000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "X",
+  "line": 1266
+ }
+}

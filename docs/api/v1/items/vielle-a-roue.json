@@ -1,0 +1,35 @@
+{
+ "id": "vielle-a-roue",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Vielle à roue",
+  "en": "Hurdy gurdy"
+ },
+ "full_name": {
+  "fr": "Vielle à roue",
+  "en": "Hurdy gurdy"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "80 po",
+   "en": "80gp"
+  },
+  "min_cp": 8000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Vielle à roue : instrument dont les cordes sont frottées par une roue à manivelle et raccourcies par un petit clavier."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3403
+ }
+}

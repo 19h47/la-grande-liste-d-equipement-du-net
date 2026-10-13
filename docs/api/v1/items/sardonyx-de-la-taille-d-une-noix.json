@@ -1,0 +1,37 @@
+{
+ "id": "sardonyx-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Sardonyx — De la taille d'une noix",
+  "en": "Sardonyx — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Sardonyx",
+   "en": "Sardonyx"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Sardonyx : agate à bandes parallèles alternant le brun-rouge (sardoine) et le blanc."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2271
+ }
+}

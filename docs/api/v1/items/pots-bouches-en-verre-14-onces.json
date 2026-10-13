@@ -1,0 +1,38 @@
+{
+ "id": "pots-bouches-en-verre-14-onces",
+ "category": "contenants",
+ "name": {
+  "fr": "14 onces",
+  "en": "14oz"
+ },
+ "full_name": {
+  "fr": "Pots bouchés, en verre — 14 onces",
+  "en": "Jars, stoppered Glass — 14oz"
+ },
+ "group": [
+  {
+   "fr": "Pots bouchés, en verre",
+   "en": "Jars, stoppered Glass"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1405
+ }
+}

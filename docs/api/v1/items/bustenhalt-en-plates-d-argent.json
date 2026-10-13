@@ -1,0 +1,40 @@
+{
+ "id": "bustenhalt-en-plates-d-argent",
+ "category": "armures",
+ "name": {
+  "fr": "En plates d'argent",
+  "en": "Silver Plate"
+ },
+ "full_name": {
+  "fr": "Bustenhalt — En plates d'argent",
+  "en": "Bustenhalt — Silver Plate"
+ },
+ "group": [
+  {
+   "fr": "Bustenhalt",
+   "en": "Bustenhalt"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "65 po",
+   "en": "65gp"
+  },
+  "min_cp": 6500,
+  "max_cp": 6500,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": [
+   "Bustenhalt : protection de poitrine féminine en forme de soutien-gorge (de l'allemand « Büstenhalter »)."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3768
+ }
+}

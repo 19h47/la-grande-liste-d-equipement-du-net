@@ -1,0 +1,38 @@
+{
+ "id": "bottes-hautes-souples",
+ "category": "vetements",
+ "name": {
+  "fr": "Hautes (souples)",
+  "en": "High (soft)"
+ },
+ "full_name": {
+  "fr": "Bottes — Hautes (souples)",
+  "en": "Boots — High (soft)"
+ },
+ "group": [
+  {
+   "fr": "Bottes",
+   "en": "Boots"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 91
+ }
+}

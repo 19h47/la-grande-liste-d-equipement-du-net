@@ -1,0 +1,32 @@
+{
+ "id": "kiffle-gateau-sucre",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Kiffle, gâteau sucré",
+  "en": "Kiffle, sweetcake"
+ },
+ "full_name": {
+  "fr": "Kiffle, gâteau sucré",
+  "en": "Kiffle, sweetcake"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pc/8 pc",
+   "en": "2cp/8cp"
+  },
+  "min_cp": 2,
+  "max_cp": 2,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Kiffle : petit gâteau sucré en forme de croissant, d'origine d'Europe centrale."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 369
+ }
+}

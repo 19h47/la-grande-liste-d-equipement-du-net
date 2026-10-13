@@ -1,0 +1,38 @@
+{
+ "id": "sucre-la-livre-a-la-violette",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "À la violette",
+  "en": "Violet"
+ },
+ "full_name": {
+  "fr": "Sucre, la livre — À la violette",
+  "en": "Sugar, per lb — Violet"
+ },
+ "group": [
+  {
+   "fr": "Sucre, la livre",
+   "en": "Sugar, per lb"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 772
+ }
+}

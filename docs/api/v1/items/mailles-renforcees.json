@@ -1,0 +1,33 @@
+{
+ "id": "mailles-renforcees",
+ "category": "armures",
+ "name": {
+  "fr": "Mailles renforcées",
+  "en": "Improved mail"
+ },
+ "full_name": {
+  "fr": "Mailles renforcées",
+  "en": "Improved mail"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "180 po",
+   "en": "180gp"
+  },
+  "min_cp": 18000,
+  "max_cp": 18000,
+  "plus": false
+ },
+ "weight": {
+  "text": "50",
+  "lb": 50
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3806
+ }
+}

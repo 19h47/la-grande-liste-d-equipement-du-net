@@ -1,0 +1,35 @@
+{
+ "id": "fromage-mort-de-catoblepas-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Fromage « Mort », de catoblépas, la livre",
+  "en": "Cheese, Death, from Catoblepas, per lb"
+ },
+ "full_name": {
+  "fr": "Fromage « Mort », de catoblépas, la livre",
+  "en": "Cheese, Death, from Catoblepas, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Catoblépas : monstre des marais à tête lourde dont le regard tue."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 523
+ }
+}

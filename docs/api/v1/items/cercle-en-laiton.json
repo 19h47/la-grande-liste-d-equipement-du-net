@@ -1,0 +1,38 @@
+{
+ "id": "cercle-en-laiton",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En laiton",
+  "en": "brass"
+ },
+ "full_name": {
+  "fr": "Cercle — En laiton",
+  "en": "Circle — brass"
+ },
+ "group": [
+  {
+   "fr": "Cercle",
+   "en": "Circle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2933
+ }
+}

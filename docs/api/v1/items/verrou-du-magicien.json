@@ -1,0 +1,30 @@
+{
+ "id": "verrou-du-magicien",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Verrou du magicien",
+  "en": "Wizard Lock"
+ },
+ "full_name": {
+  "fr": "Verrou du magicien",
+  "en": "Wizard Lock"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po par niveau du lanceur de sorts",
+   "en": "50gp per level of the caster"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3253
+ }
+}

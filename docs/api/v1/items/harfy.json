@@ -1,0 +1,40 @@
+{
+ "id": "harfy",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Harfy",
+  "en": "Harfy"
+ },
+ "full_name": {
+  "fr": "Harfy",
+  "en": "Harfy"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Harfy : plante de prairie du Net Book of Herbs, dont la résine arrête aussitôt un saignement."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2780
+ }
+}

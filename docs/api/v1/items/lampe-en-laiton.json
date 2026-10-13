@@ -1,0 +1,38 @@
+{
+ "id": "lampe-en-laiton",
+ "category": "eclairage",
+ "name": {
+  "fr": "En laiton",
+  "en": "Brass"
+ },
+ "full_name": {
+  "fr": "Lampe — En laiton",
+  "en": "Lamp — Brass"
+ },
+ "group": [
+  {
+   "fr": "Lampe",
+   "en": "Lamp"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2678
+ }
+}

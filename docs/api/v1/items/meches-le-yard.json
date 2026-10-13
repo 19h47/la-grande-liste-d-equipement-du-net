@@ -1,0 +1,33 @@
+{
+ "id": "meches-le-yard",
+ "category": "tissus",
+ "name": {
+  "fr": "Mèches, le yard",
+  "en": "Wicks, per yard"
+ },
+ "full_name": {
+  "fr": "Mèches, le yard",
+  "en": "Wicks, per yard"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1750
+ }
+}

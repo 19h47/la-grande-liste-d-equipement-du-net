@@ -1,0 +1,33 @@
+{
+ "id": "haubert-de-mailles",
+ "category": "armures",
+ "name": {
+  "fr": "Haubert de mailles",
+  "en": "Chain hauberk"
+ },
+ "full_name": {
+  "fr": "Haubert de mailles",
+  "en": "Chain hauberk"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "weight": {
+  "text": "35",
+  "lb": 35
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3776
+ }
+}

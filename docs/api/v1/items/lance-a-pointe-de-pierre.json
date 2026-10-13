@@ -1,0 +1,33 @@
+{
+ "id": "lance-a-pointe-de-pierre",
+ "category": "armes",
+ "name": {
+  "fr": "Lance à pointe de pierre",
+  "en": "Spear, stone"
+ },
+ "full_name": {
+  "fr": "Lance à pointe de pierre",
+  "en": "Spear, stone"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3701
+ }
+}

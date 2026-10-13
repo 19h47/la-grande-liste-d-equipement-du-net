@@ -1,0 +1,33 @@
+{
+ "id": "reaver",
+ "category": "outils",
+ "name": {
+  "fr": "Reaver",
+  "en": "Reaver"
+ },
+ "full_name": {
+  "fr": "Reaver",
+  "en": "Reaver"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2617
+ }
+}

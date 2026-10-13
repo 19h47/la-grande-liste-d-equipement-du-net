@@ -1,0 +1,32 @@
+{
+ "id": "gorgone-oeufs-et-petits-de-creatures",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Gorgone",
+  "en": "Gorgon"
+ },
+ "full_name": {
+  "fr": "Gorgone",
+  "en": "Gorgon"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "8 000 po",
+   "en": "8,000gp"
+  },
+  "min_cp": 800000,
+  "max_cp": 800000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Gorgone : en AD&D, taureau à écailles de fer dont le souffle pétrifie, et non la Méduse mythologique."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1518
+ }
+}

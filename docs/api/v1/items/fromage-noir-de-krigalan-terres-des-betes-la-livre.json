@@ -1,0 +1,35 @@
+{
+ "id": "fromage-noir-de-krigalan-terres-des-betes-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Fromage noir de Krigalan (Terres des bêtes), la livre",
+  "en": "Cheese, Krigalan Black (Beastlands), per lb"
+ },
+ "full_name": {
+  "fr": "Fromage noir de Krigalan (Terres des bêtes), la livre",
+  "en": "Cheese, Krigalan Black (Beastlands), per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Terres des bêtes : plan extérieur de Planescape voué à la nature sauvage et au règne animal."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 525
+ }
+}

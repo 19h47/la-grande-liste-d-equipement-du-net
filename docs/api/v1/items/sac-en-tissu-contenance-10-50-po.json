@@ -1,0 +1,33 @@
+{
+ "id": "sac-en-tissu-contenance-10-50-po",
+ "category": "contenants",
+ "name": {
+  "fr": "Sac en tissu, contenance 10-50 po",
+  "en": "Bag Cloth, holds 10-50gp"
+ },
+ "full_name": {
+  "fr": "Sac en tissu, contenance 10-50 po",
+  "en": "Bag Cloth, holds 10-50gp"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "7-15 pc",
+   "en": "7-15cp"
+  },
+  "min_cp": 7,
+  "max_cp": 15,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1285
+ }
+}

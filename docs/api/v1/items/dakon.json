@@ -1,0 +1,32 @@
+{
+ "id": "dakon",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Dakon",
+  "en": "Dakon"
+ },
+ "full_name": {
+  "fr": "Dakon",
+  "en": "Dakon"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Dakon : singe intelligent, doué de parole, vivant en tribus dans les jungles (Fiend Folio)."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1498
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "armes-a-feu-armes-combinees-poudre-a-canon",
+ "category": "armes",
+ "name": {
+  "fr": "Poudre à canon",
+  "en": "Gunpowder"
+ },
+ "full_name": {
+  "fr": "Armes à feu — Armes combinées — Poudre à canon",
+  "en": "Firearms — Combined Weapons — Gunpowder"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "Armes combinées",
+   "en": "Combined Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3608
+ }
+}

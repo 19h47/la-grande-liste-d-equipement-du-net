@@ -1,0 +1,37 @@
+{
+ "id": "jettisons-moyen",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Moyen",
+  "en": "Medium"
+ },
+ "full_name": {
+  "fr": "Jettisons — Moyen",
+  "en": "Jettisons — Medium"
+ },
+ "group": [
+  {
+   "fr": "Jettisons",
+   "en": "Jettisons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "600 po",
+   "en": "600gp"
+  },
+  "min_cp": 60000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Jettisons : grandes catapultes de bord des vaisseaux de Spelljammer."
+  ]
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3499
+ }
+}

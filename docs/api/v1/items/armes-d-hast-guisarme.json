@@ -1,0 +1,40 @@
+{
+ "id": "armes-d-hast-guisarme",
+ "category": "armes",
+ "name": {
+  "fr": "Guisarme",
+  "en": "Guisarme"
+ },
+ "full_name": {
+  "fr": "Armes d'hast — Guisarme",
+  "en": "Polearm — Guisarme"
+ },
+ "group": [
+  {
+   "fr": "Armes d'hast",
+   "en": "Polearm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Guisarme : arme d'hast à crochet, servant notamment à désarçonner les cavaliers."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3679
+ }
+}

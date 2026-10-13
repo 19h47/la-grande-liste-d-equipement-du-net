@@ -1,0 +1,37 @@
+{
+ "id": "renard-de-givre-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Renard de givre — Manteau, robe, couverture",
+  "en": "Fox, hoar — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Renard de givre",
+   "en": "Fox, hoar"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 000 po",
+   "en": "2,000gp"
+  },
+  "min_cp": 200000,
+  "max_cp": 200000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Renard de givre : renard à fourrure gris argenté d'AD&D, capable de produire un cône de froid (Fiend Folio)."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1146
+ }
+}

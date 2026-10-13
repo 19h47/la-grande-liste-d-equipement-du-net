@@ -1,0 +1,33 @@
+{
+ "id": "plastron-et-dossiere",
+ "category": "armures",
+ "name": {
+  "fr": "Plastron et dossière",
+  "en": "Back-and-breast"
+ },
+ "full_name": {
+  "fr": "Plastron et dossière",
+  "en": "Back-and-breast"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "80 po",
+   "en": "80gp"
+  },
+  "min_cp": 8000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3745
+ }
+}

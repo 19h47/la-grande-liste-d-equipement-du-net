@@ -1,0 +1,35 @@
+{
+ "id": "courtepointe",
+ "category": "tissus",
+ "name": {
+  "fr": "Courtepointe",
+  "en": "Quilt"
+ },
+ "full_name": {
+  "fr": "Courtepointe",
+  "en": "Quilt"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1-2 pe",
+   "en": "1-2ep"
+  },
+  "min_cp": 50,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Courtepointe : couverture piquée et ouatée, souvent faite de pièces assemblées."
+  ]
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1739
+ }
+}

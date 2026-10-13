@@ -1,0 +1,38 @@
+{
+ "id": "craie-blanche-le-baton",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Blanche, le bâton",
+  "en": "White, per stick"
+ },
+ "full_name": {
+  "fr": "Craie — Blanche, le bâton",
+  "en": "Chalk — White, per stick"
+ },
+ "group": [
+  {
+   "fr": "Craie",
+   "en": "Chalk"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2926
+ }
+}

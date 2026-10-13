@@ -1,0 +1,38 @@
+{
+ "id": "boites-en-ecorce-de-bouleau-12-onces",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "12 onces",
+  "en": "12oz"
+ },
+ "full_name": {
+  "fr": "Boîtes en écorce de bouleau — 12 onces",
+  "en": "Canisters, birchbark — 12oz"
+ },
+ "group": [
+  {
+   "fr": "Boîtes en écorce de bouleau",
+   "en": "Canisters, birchbark"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "9 pa",
+   "en": "9sp"
+  },
+  "min_cp": 90,
+  "max_cp": 90,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2915
+ }
+}

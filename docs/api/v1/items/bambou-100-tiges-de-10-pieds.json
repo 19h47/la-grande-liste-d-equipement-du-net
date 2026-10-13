@@ -1,0 +1,30 @@
+{
+ "id": "bambou-100-tiges-de-10-pieds",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Bambou, 100 tiges de 10 pieds",
+  "en": "Bamboo, 100 10' lengths"
+ },
+ "full_name": {
+  "fr": "Bambou, 100 tiges de 10 pieds",
+  "en": "Bamboo, 100 10' lengths"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 1998
+ }
+}

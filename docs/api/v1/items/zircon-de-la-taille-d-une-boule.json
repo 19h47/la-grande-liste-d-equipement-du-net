@@ -1,0 +1,37 @@
+{
+ "id": "zircon-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Zircon — De la taille d'une boule",
+  "en": "Zircon — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Zircon",
+   "en": "Zircon"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "600 po",
+   "en": "600gp"
+  },
+  "min_cp": 60000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Zircon : gemme très brillante, dont la variété incolore imite le diamant."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2347
+ }
+}

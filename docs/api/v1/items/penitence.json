@@ -1,0 +1,32 @@
+{
+ "id": "penitence",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Pénitence",
+  "en": "Atonement"
+ },
+ "full_name": {
+  "fr": "Pénitence",
+  "en": "Atonement"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "Spécial",
+   "en": "Special"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Pénitence : sort de prêtre qui lave un personnage de fautes commises involontairement, lui rendant son alignement ou ses pouvoirs perdus."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3199
+ }
+}

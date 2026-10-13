@@ -1,0 +1,30 @@
+{
+ "id": "medecin-sangsues-ou-saignee",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Médecin, sangsues ou saignée",
+  "en": "Doctor leech or bleeding"
+ },
+ "full_name": {
+  "fr": "Médecin, sangsues ou saignée",
+  "en": "Doctor leech or bleeding"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2385
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "boite-en-argent-decorative",
+ "category": "contenants",
+ "name": {
+  "fr": "En argent, décorative",
+  "en": "Silver, ornamental"
+ },
+ "full_name": {
+  "fr": "Boîte — En argent, décorative",
+  "en": "Box — Silver, ornamental"
+ },
+ "group": [
+  {
+   "fr": "Boîte",
+   "en": "Box"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1322
+ }
+}

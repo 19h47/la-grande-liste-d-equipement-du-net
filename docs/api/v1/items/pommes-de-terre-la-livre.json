@@ -1,0 +1,33 @@
+{
+ "id": "pommes-de-terre-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Pommes de terre, la livre",
+  "en": "Potatoes, per lb"
+ },
+ "full_name": {
+  "fr": "Pommes de terre, la livre",
+  "en": "Potatoes, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 703
+ }
+}

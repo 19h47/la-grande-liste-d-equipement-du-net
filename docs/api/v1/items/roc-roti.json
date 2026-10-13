@@ -1,0 +1,33 @@
+{
+ "id": "roc-roti",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Roc rôti",
+  "en": "Roast Roc"
+ },
+ "full_name": {
+  "fr": "Roc rôti",
+  "en": "Roast Roc"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 723
+ }
+}

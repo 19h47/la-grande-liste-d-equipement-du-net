@@ -1,0 +1,27 @@
+{
+ "id": "bol-en-porcelaine",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En porcelaine",
+  "en": "Porcelain"
+ },
+ "full_name": {
+  "fr": "Bol — En porcelaine",
+  "en": "Bowl — Porcelain"
+ },
+ "group": [
+  {
+   "fr": "Bol",
+   "en": "Bowl"
+  }
+ ],
+ "price": null,
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2889
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "bandages-lot-de-100-carres-de-10-pouces",
+ "category": "tissus",
+ "name": {
+  "fr": "Lot de 100 carrés de 10 pouces",
+  "en": "100, 10\" squares"
+ },
+ "full_name": {
+  "fr": "Bandages — Lot de 100 carrés de 10 pouces",
+  "en": "Bandages — 100, 10\" squares"
+ },
+ "group": [
+  {
+   "fr": "Bandages",
+   "en": "Bandages"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1710
+ }
+}

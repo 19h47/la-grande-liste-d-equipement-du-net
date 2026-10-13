@@ -1,0 +1,41 @@
+{
+ "id": "moule-epee-coutelas",
+ "category": "outils",
+ "name": {
+  "fr": "Coutelas",
+  "en": "Cutlass"
+ },
+ "full_name": {
+  "fr": "Moule — Épée — Coutelas",
+  "en": "Mold — Sword — Cutlass"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Épée",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "14 po",
+   "en": "14gp"
+  },
+  "min_cp": 1400,
+  "max_cp": 1400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Coutelas : sabre court et large à un seul tranchant, arme typique des marins."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2598
+ }
+}

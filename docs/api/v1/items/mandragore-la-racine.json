@@ -1,0 +1,35 @@
+{
+ "id": "mandragore-la-racine",
+ "category": "epices",
+ "name": {
+  "fr": "Mandragore, la racine",
+  "en": "Mandrake, root"
+ },
+ "full_name": {
+  "fr": "Mandragore, la racine",
+  "en": "Mandrake, root"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "25 pa",
+   "en": "25sp"
+  },
+  "min_cp": 250,
+  "max_cp": 250,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Mandragore : plante à racine fourchue d'allure humaine, toxique et réputée magique."
+  ]
+ },
+ "source": {
+  "table": "IV",
+  "line": 835
+ }
+}

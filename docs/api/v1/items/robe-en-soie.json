@@ -1,0 +1,38 @@
+{
+ "id": "robe-en-soie",
+ "category": "vetements",
+ "name": {
+  "fr": "En soie",
+  "en": "Silk"
+ },
+ "full_name": {
+  "fr": "Robe — En soie",
+  "en": "Robe — Silk"
+ },
+ "group": [
+  {
+   "fr": "Robe",
+   "en": "Robe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "95 pa",
+   "en": "95sp"
+  },
+  "min_cp": 950,
+  "max_cp": 950,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 250
+ }
+}

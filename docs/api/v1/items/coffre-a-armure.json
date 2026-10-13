@@ -1,0 +1,38 @@
+{
+ "id": "coffre-a-armure",
+ "category": "contenants",
+ "name": {
+  "fr": "À armure",
+  "en": "Armor"
+ },
+ "full_name": {
+  "fr": "Coffre — À armure",
+  "en": "Chest — Armor"
+ },
+ "group": [
+  {
+   "fr": "Coffre",
+   "en": "Chest"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pe",
+   "en": "5ep"
+  },
+  "min_cp": 250,
+  "max_cp": 250,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1361
+ }
+}

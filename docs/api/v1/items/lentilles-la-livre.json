@@ -1,0 +1,33 @@
+{
+ "id": "lentilles-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Lentilles, la livre",
+  "en": "Lentils, per lb"
+ },
+ "full_name": {
+  "fr": "Lentilles, la livre",
+  "en": "Lentils, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 632
+ }
+}

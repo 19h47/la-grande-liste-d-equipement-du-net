@@ -1,0 +1,38 @@
+{
+ "id": "repas-a-l-unite-venaison-marinee-dans-du-vin-rouge-et-des-epices",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Venaison (marinée dans du vin rouge et des épices)",
+  "en": "Venison (marinated in Red wine and spices)"
+ },
+ "full_name": {
+  "fr": "Repas (à l'unité) — Venaison (marinée dans du vin rouge et des épices)",
+  "en": "Meals (individual) — Venison (marinated in Red wine and spices)"
+ },
+ "group": [
+  {
+   "fr": "Repas (à l'unité)",
+   "en": "Meals (individual)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 401
+ }
+}

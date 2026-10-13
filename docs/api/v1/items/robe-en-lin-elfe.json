@@ -1,0 +1,38 @@
+{
+ "id": "robe-en-lin-elfe",
+ "category": "vetements",
+ "name": {
+  "fr": "Elfe",
+  "en": "Elf"
+ },
+ "full_name": {
+  "fr": "Robe en lin — Elfe",
+  "en": "Dress, Linen — Elf"
+ },
+ "group": [
+  {
+   "fr": "Robe en lin",
+   "en": "Dress, Linen"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 152
+ }
+}

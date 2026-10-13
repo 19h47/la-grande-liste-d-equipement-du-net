@@ -1,0 +1,45 @@
+{
+ "id": "armes-a-feu-a-meche-caliver",
+ "category": "armes",
+ "name": {
+  "fr": "Caliver",
+  "en": "Caliver"
+ },
+ "full_name": {
+  "fr": "Armes à feu — À mèche — Caliver",
+  "en": "Firearms — Matchlock — Caliver"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "À mèche",
+   "en": "Matchlock"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "11",
+  "lb": 11
+ },
+ "notes": {
+  "fr": [
+   "À mèche : platine où une mèche lente allumée vient enflammer la poudre d'amorce.",
+   "Caliver : arquebuse de calibre normalisé, plus légère que le mousquet (XVIe siècle)."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3585
+ }
+}

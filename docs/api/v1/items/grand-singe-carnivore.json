@@ -1,0 +1,30 @@
+{
+ "id": "grand-singe-carnivore",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Grand singe carnivore",
+  "en": "Ape, carnivorous"
+ },
+ "full_name": {
+  "fr": "Grand singe carnivore",
+  "en": "Ape, carnivorous"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1474
+ }
+}

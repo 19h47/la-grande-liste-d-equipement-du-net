@@ -1,0 +1,33 @@
+{
+ "id": "demi-harnois",
+ "category": "armures",
+ "name": {
+  "fr": "Demi-harnois",
+  "en": "Half-Plate"
+ },
+ "full_name": {
+  "fr": "Demi-harnois",
+  "en": "Half-Plate"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "weight": {
+  "text": "40",
+  "lb": 40
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3791
+ }
+}

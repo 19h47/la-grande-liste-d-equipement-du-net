@@ -1,0 +1,30 @@
+{
+ "id": "emeraude-orientale",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Émeraude orientale",
+  "en": "Oriental Emerald"
+ },
+ "full_name": {
+  "fr": "Émeraude orientale",
+  "en": "Oriental Emerald"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2225
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "buste-miniature-personnage",
+ "category": "oeuvres-d-art",
+ "name": {
+  "fr": "Buste miniature, personnage",
+  "en": "Bust, tiny, person"
+ },
+ "full_name": {
+  "fr": "Buste miniature, personnage",
+  "en": "Bust, tiny, person"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXX",
+  "line": 3459
+ }
+}

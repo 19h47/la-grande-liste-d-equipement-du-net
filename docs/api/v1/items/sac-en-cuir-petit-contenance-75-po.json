@@ -1,0 +1,38 @@
+{
+ "id": "sac-en-cuir-petit-contenance-75-po",
+ "category": "contenants",
+ "name": {
+  "fr": "En cuir, petit, contenance 75 po",
+  "en": "Leather, small, hold 75gp"
+ },
+ "full_name": {
+  "fr": "Sac — En cuir, petit, contenance 75 po",
+  "en": "Sack — Leather, small, hold 75gp"
+ },
+ "group": [
+  {
+   "fr": "Sac",
+   "en": "Sack"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 pc",
+   "en": "20cp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1439
+ }
+}

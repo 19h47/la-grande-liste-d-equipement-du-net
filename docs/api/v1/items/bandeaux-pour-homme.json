@@ -1,0 +1,33 @@
+{
+ "id": "bandeaux-pour-homme",
+ "category": "vetements",
+ "name": {
+  "fr": "Bandeaux pour homme",
+  "en": "Headbands, men's"
+ },
+ "full_name": {
+  "fr": "Bandeaux pour homme",
+  "en": "Headbands, men's"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 186
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "lorica-segmentata",
+ "category": "armures",
+ "name": {
+  "fr": "Lorica segmentata",
+  "en": "Lorica segmenta"
+ },
+ "full_name": {
+  "fr": "Lorica segmentata",
+  "en": "Lorica segmenta"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "175 po",
+   "en": "175gp"
+  },
+  "min_cp": 17500,
+  "max_cp": 17500,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": [
+   "Lorica segmentata : armure romaine faite de bandes de métal articulées entourant le torse."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3811
+ }
+}

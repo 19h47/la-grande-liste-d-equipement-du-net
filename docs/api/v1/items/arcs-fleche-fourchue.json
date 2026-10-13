@@ -1,0 +1,35 @@
+{
+ "id": "arcs-fleche-fourchue",
+ "category": "armes",
+ "name": {
+  "fr": "Flèche fourchue",
+  "en": "Arrow, forked"
+ },
+ "full_name": {
+  "fr": "Arcs — Flèche fourchue",
+  "en": "Bow — Arrow, forked"
+ },
+ "group": [
+  {
+   "fr": "Arcs",
+   "en": "Bow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3538
+ }
+}

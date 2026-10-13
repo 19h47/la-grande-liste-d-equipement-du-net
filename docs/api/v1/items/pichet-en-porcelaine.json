@@ -1,0 +1,38 @@
+{
+ "id": "pichet-en-porcelaine",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En porcelaine",
+  "en": "Porcelain"
+ },
+ "full_name": {
+  "fr": "Pichet — En porcelaine",
+  "en": "Pitcher — Porcelain"
+ },
+ "group": [
+  {
+   "fr": "Pichet",
+   "en": "Pitcher"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3071
+ }
+}

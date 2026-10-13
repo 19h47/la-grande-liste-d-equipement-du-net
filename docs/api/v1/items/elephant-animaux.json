@@ -1,0 +1,30 @@
+{
+ "id": "elephant-animaux",
+ "category": "animaux",
+ "name": {
+  "fr": "Éléphant",
+  "en": "Elephant"
+ },
+ "full_name": {
+  "fr": "Éléphant",
+  "en": "Elephant"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 500 po",
+   "en": "2500gp"
+  },
+  "min_cp": 250000,
+  "max_cp": 250000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1662
+ }
+}

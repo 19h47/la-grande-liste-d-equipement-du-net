@@ -1,0 +1,40 @@
+{
+ "id": "drake-de-feu",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Drake de feu",
+  "en": "Firedrake"
+ },
+ "full_name": {
+  "fr": "Drake de feu",
+  "en": "Firedrake"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "1 500 po",
+   "en": "1,500gp"
+  },
+  "min_cp": 150000,
+  "max_cp": 150000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "3 750 po",
+   "en": "3,750gp"
+  },
+  "min_cp": 375000,
+  "max_cp": 375000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Drake de feu : petit dragon dont le sang s'enflamme à l'air libre et qui crache du feu."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1513
+ }
+}

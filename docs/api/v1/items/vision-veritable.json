@@ -1,0 +1,32 @@
+{
+ "id": "vision-veritable",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Vision véritable",
+  "en": "True Seeing"
+ },
+ "full_name": {
+  "fr": "Vision véritable",
+  "en": "True Seeing"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Vision véritable : sort permettant de voir à travers illusions, invisibilité et déguisements, et de percevoir la véritable forme des choses."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3251
+ }
+}

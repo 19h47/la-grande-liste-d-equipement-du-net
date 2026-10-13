@@ -1,0 +1,40 @@
+{
+ "id": "athelas",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Athelas",
+  "en": "Athelas"
+ },
+ "full_name": {
+  "fr": "Athelas",
+  "en": "Athelas"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Athelas : herbe royale des Terres du Milieu de Tolkien (feuille-des-rois), qui guérit tout lorsqu'un roi l'emploie."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2717
+ }
+}

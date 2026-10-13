@@ -1,0 +1,35 @@
+{
+ "id": "calmazul-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Calmazul — De la taille d'une boule",
+  "en": "Calmazul — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Calmazul",
+   "en": "Calmazul"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "70 po",
+   "en": "70gp"
+  },
+  "min_cp": 7000,
+  "max_cp": 7000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2034
+ }
+}

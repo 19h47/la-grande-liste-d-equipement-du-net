@@ -1,0 +1,33 @@
+{
+ "id": "opossum",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Opossum",
+  "en": "Opossum"
+ },
+ "full_name": {
+  "fr": "Opossum",
+  "en": "Opossum"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 670
+ }
+}

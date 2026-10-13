@@ -1,0 +1,40 @@
+{
+ "id": "corde-de-jute-le-rouleau-de-50-pieds",
+ "category": "outils",
+ "name": {
+  "fr": "De jute, le rouleau de 50 pieds",
+  "en": "Jute, per 50' coil"
+ },
+ "full_name": {
+  "fr": "Corde — De jute, le rouleau de 50 pieds",
+  "en": "Rope — Jute, per 50' coil"
+ },
+ "group": [
+  {
+   "fr": "Corde",
+   "en": "Rope"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 pc",
+   "en": "10cp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": [
+   "De jute : fibre végétale grossière et bon marché, tirée d'une plante tropicale."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2621
+ }
+}

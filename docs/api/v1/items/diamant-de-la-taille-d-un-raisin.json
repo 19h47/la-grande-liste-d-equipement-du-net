@@ -1,0 +1,35 @@
+{
+ "id": "diamant-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Diamant — De la taille d'un raisin",
+  "en": "Diamond — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Diamant",
+   "en": "Diamond"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2070
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "prase",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Prase",
+  "en": "Prase"
+ },
+ "full_name": {
+  "fr": "Prase",
+  "en": "Prase"
+ },
+ "group": null,
+ "price": null,
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Prase : quartz vert poireau, coloré par des inclusions d'actinote."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2245
+ }
+}

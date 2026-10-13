@@ -1,0 +1,30 @@
+{
+ "id": "poterie",
+ "category": "oeuvres-d-art",
+ "name": {
+  "fr": "Poterie",
+  "en": "Pottery"
+ },
+ "full_name": {
+  "fr": "Poterie",
+  "en": "Pottery"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2-8 pa",
+   "en": "2-8sp"
+  },
+  "min_cp": 20,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXX",
+  "line": 3465
+ }
+}

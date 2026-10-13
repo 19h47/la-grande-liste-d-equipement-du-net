@@ -1,0 +1,35 @@
+{
+ "id": "rame-d-apparat",
+ "category": "transports",
+ "name": {
+  "fr": "D'apparat",
+  "en": "Peacock"
+ },
+ "full_name": {
+  "fr": "Rame — D'apparat",
+  "en": "Oar — Peacock"
+ },
+ "group": [
+  {
+   "fr": "Rame",
+   "en": "Oar"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 983
+ }
+}

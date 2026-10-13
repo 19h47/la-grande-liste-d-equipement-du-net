@@ -1,0 +1,35 @@
+{
+ "id": "troupe-itinerante-musicale-par-tete",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Musicale, par tête",
+  "en": "Musical, per head"
+ },
+ "full_name": {
+  "fr": "Troupe itinérante — Musicale, par tête",
+  "en": "Travelling Troupe — Musical, per head"
+ },
+ "group": [
+  {
+   "fr": "Troupe itinérante",
+   "en": "Travelling Troupe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa-8 pa",
+   "en": "2sp-8sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2444
+ }
+}

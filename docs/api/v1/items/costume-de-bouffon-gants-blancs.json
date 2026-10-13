@@ -1,0 +1,38 @@
+{
+ "id": "costume-de-bouffon-gants-blancs",
+ "category": "vetements",
+ "name": {
+  "fr": "Gants blancs",
+  "en": "White gloves"
+ },
+ "full_name": {
+  "fr": "Costume de bouffon — Gants blancs",
+  "en": "Jester Clothing — White gloves"
+ },
+ "group": [
+  {
+   "fr": "Costume de bouffon",
+   "en": "Jester Clothing"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 211
+ }
+}

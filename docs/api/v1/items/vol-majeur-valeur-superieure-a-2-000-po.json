@@ -1,0 +1,30 @@
+{
+ "id": "vol-majeur-valeur-superieure-a-2-000-po",
+ "category": "amendes-et-peines",
+ "name": {
+  "fr": "Vol majeur (valeur supérieure à 2 000 po)",
+  "en": "Major Theft (over 2000gp value)"
+ },
+ "full_name": {
+  "fr": "Vol majeur (valeur supérieure à 2 000 po)",
+  "en": "Major Theft (over 2000gp value)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 000 po",
+   "en": "15,000gp"
+  },
+  "min_cp": 1500000,
+  "max_cp": 1500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVI",
+  "line": 3181
+ }
+}

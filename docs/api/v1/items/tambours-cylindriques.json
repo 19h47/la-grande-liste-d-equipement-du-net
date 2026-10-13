@@ -1,0 +1,38 @@
+{
+ "id": "tambours-cylindriques",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Tambours cylindriques",
+  "en": "Cylinder Drums"
+ },
+ "full_name": {
+  "fr": "Tambours — Tambours cylindriques",
+  "en": "Drums — Cylinder Drums"
+ },
+ "group": [
+  {
+   "fr": "Tambours",
+   "en": "Drums"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "45",
+  "lb": 45
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3340
+ }
+}

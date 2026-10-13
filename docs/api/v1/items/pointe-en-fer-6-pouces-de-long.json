@@ -1,0 +1,33 @@
+{
+ "id": "pointe-en-fer-6-pouces-de-long",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Pointe en fer, 6 pouces de long",
+  "en": "Spike, Iron, 6\" long"
+ },
+ "full_name": {
+  "fr": "Pointe en fer, 6 pouces de long",
+  "en": "Spike, Iron, 6\" long"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1792
+ }
+}

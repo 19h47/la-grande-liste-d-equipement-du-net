@@ -1,0 +1,35 @@
+{
+ "id": "fer-fil-le-pied",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Fil, le pied",
+  "en": "Wire, per ft"
+ },
+ "full_name": {
+  "fr": "Fer — Fil, le pied",
+  "en": "Iron — Wire, per ft"
+ },
+ "group": [
+  {
+   "fr": "Fer",
+   "en": "Iron"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2112
+ }
+}

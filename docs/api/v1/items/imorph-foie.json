@@ -1,0 +1,30 @@
+{
+ "id": "imorph-foie",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Imorph (foie)",
+  "en": "Imorph (liver)"
+ },
+ "full_name": {
+  "fr": "Imorph (foie)",
+  "en": "Imorph (liver)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "300-900 po",
+   "en": "300-900gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 90000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VI",
+  "line": 920
+ }
+}

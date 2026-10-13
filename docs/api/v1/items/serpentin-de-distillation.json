@@ -1,0 +1,35 @@
+{
+ "id": "serpentin-de-distillation",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Serpentin de distillation",
+  "en": "Distilling Coil"
+ },
+ "full_name": {
+  "fr": "Serpentin de distillation",
+  "en": "Distilling Coil"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Serpentin de distillation : tube enroulé, refroidi, où les vapeurs distillées se condensent en liquide."
+  ]
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1845
+ }
+}

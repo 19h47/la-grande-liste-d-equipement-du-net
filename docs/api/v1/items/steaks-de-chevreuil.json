@@ -1,0 +1,38 @@
+{
+ "id": "steaks-de-chevreuil",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De chevreuil",
+  "en": "Venison"
+ },
+ "full_name": {
+  "fr": "Steaks — De chevreuil",
+  "en": "Steak — Venison"
+ },
+ "group": [
+  {
+   "fr": "Steaks",
+   "en": "Steak"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 755
+ }
+}

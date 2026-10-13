@@ -1,0 +1,35 @@
+{
+ "id": "loutre-de-mer-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Loutre de mer — Manteau, robe, couverture",
+  "en": "Otter, sea — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Loutre de mer",
+   "en": "Otter, sea"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "600 po",
+   "en": "600gp"
+  },
+  "min_cp": 60000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1194
+ }
+}

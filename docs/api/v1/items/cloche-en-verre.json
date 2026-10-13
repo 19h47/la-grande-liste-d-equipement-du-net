@@ -1,0 +1,38 @@
+{
+ "id": "cloche-en-verre",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En verre",
+  "en": "Glass"
+ },
+ "full_name": {
+  "fr": "Cloche — En verre",
+  "en": "Bell — Glass"
+ },
+ "group": [
+  {
+   "fr": "Cloche",
+   "en": "Bell"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2880
+ }
+}

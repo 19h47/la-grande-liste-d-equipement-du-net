@@ -1,0 +1,35 @@
+{
+ "id": "loutre-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Loutre — Peau",
+  "en": "Otter — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Loutre",
+   "en": "Otter"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1186
+ }
+}

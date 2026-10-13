@@ -1,0 +1,30 @@
+{
+ "id": "traineau-a-chiens",
+ "category": "transports",
+ "name": {
+  "fr": "Traîneau à chiens",
+  "en": "Dog Sled"
+ },
+ "full_name": {
+  "fr": "Traîneau à chiens",
+  "en": "Dog Sled"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 967
+ }
+}

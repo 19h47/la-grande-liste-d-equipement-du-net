@@ -1,0 +1,30 @@
+{
+ "id": "vol-grave-valeur-inferieure-a-2-000-po",
+ "category": "amendes-et-peines",
+ "name": {
+  "fr": "Vol grave (valeur inférieure à 2 000 po)",
+  "en": "Serious Theft (under 2000gp value)"
+ },
+ "full_name": {
+  "fr": "Vol grave (valeur inférieure à 2 000 po)",
+  "en": "Serious Theft (under 2000gp value)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVI",
+  "line": 3187
+ }
+}

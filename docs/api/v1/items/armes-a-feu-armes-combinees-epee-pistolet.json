@@ -1,0 +1,42 @@
+{
+ "id": "armes-a-feu-armes-combinees-epee-pistolet",
+ "category": "armes",
+ "name": {
+  "fr": "Épée-pistolet",
+  "en": "Sword-pistol"
+ },
+ "full_name": {
+  "fr": "Armes à feu — Armes combinées — Épée-pistolet",
+  "en": "Firearms — Combined Weapons — Sword-pistol"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "Armes combinées",
+   "en": "Combined Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3606
+ }
+}

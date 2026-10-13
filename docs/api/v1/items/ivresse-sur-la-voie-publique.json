@@ -1,0 +1,30 @@
+{
+ "id": "ivresse-sur-la-voie-publique",
+ "category": "amendes-et-peines",
+ "name": {
+  "fr": "Ivresse sur la voie publique",
+  "en": "Public Intoxication"
+ },
+ "full_name": {
+  "fr": "Ivresse sur la voie publique",
+  "en": "Public Intoxication"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVI",
+  "line": 3184
+ }
+}

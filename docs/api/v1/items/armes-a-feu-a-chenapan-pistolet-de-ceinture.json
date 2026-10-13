@@ -1,0 +1,44 @@
+{
+ "id": "armes-a-feu-a-chenapan-pistolet-de-ceinture",
+ "category": "armes",
+ "name": {
+  "fr": "Pistolet de ceinture",
+  "en": "Belt Pistol"
+ },
+ "full_name": {
+  "fr": "Armes à feu — À chenapan — Pistolet de ceinture",
+  "en": "Firearms — Snaplock — Belt Pistol"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "À chenapan",
+   "en": "Snaplock"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Chenapan : platine à silex primitive (snaphance), antérieure à la platine à silex classique."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3592
+ }
+}

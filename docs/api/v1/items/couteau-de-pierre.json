@@ -1,0 +1,38 @@
+{
+ "id": "couteau-de-pierre",
+ "category": "armes",
+ "name": {
+  "fr": "Couteau de pierre",
+  "en": "Stone-knife"
+ },
+ "full_name": {
+  "fr": "Couteau — Couteau de pierre",
+  "en": "Knife — Stone-knife"
+ },
+ "group": [
+  {
+   "fr": "Couteau",
+   "en": "Knife"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3640
+ }
+}

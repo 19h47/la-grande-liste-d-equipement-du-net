@@ -1,0 +1,35 @@
+{
+ "id": "renard-roux-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Renard roux — Peau",
+  "en": "Fox, red — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Renard roux",
+   "en": "Fox, red"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1148
+ }
+}

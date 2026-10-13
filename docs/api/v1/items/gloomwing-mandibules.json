@@ -1,0 +1,32 @@
+{
+ "id": "gloomwing-mandibules",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Gloomwing (mandibules)",
+  "en": "Gloomwing (mandibles)"
+ },
+ "full_name": {
+  "fr": "Gloomwing (mandibules)",
+  "en": "Gloomwing (mandibles)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Gloomwing : papillon de nuit géant venu du plan de l'Ombre, dont la larve est le ver ténébreux."
+  ]
+ },
+ "source": {
+  "table": "VI",
+  "line": 914
+ }
+}

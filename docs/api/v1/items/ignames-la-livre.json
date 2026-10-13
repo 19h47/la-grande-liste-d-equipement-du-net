@@ -1,0 +1,30 @@
+{
+ "id": "ignames-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Ignames, la livre",
+  "en": "Yams, per lb"
+ },
+ "full_name": {
+  "fr": "Ignames, la livre",
+  "en": "Yams, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 791
+ }
+}

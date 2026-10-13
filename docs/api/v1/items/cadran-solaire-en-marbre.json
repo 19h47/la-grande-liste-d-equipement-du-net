@@ -1,0 +1,38 @@
+{
+ "id": "cadran-solaire-en-marbre",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En marbre",
+  "en": "Marble"
+ },
+ "full_name": {
+  "fr": "Cadran solaire — En marbre",
+  "en": "Sundial — Marble"
+ },
+ "group": [
+  {
+   "fr": "Cadran solaire",
+   "en": "Sundial"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "50",
+  "lb": 50
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3128
+ }
+}

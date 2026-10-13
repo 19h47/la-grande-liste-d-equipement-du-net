@@ -1,0 +1,35 @@
+{
+ "id": "platine-feuille-de-2-pouces-de-cote",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Feuille de 2 pouces de côté",
+  "en": "Sheet, 2 in sq"
+ },
+ "full_name": {
+  "fr": "Platine — Feuille de 2 pouces de côté",
+  "en": "Platinum — Sheet, 2 in sq"
+ },
+ "group": [
+  {
+   "fr": "Platine",
+   "en": "Platinum"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2242
+ }
+}

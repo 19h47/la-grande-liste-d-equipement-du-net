@@ -1,0 +1,40 @@
+{
+ "id": "bastit",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Bastit",
+  "en": "Bastit"
+ },
+ "full_name": {
+  "fr": "Bastit",
+  "en": "Bastit"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Bastit : plante grasse du Net Book of Herbs qui, écrasée, éloigne les insectes pendant quelques heures."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2724
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "licorne",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Licorne",
+  "en": "Unicorn"
+ },
+ "full_name": {
+  "fr": "Licorne",
+  "en": "Unicorn"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "5 000-8 000 po",
+   "en": "5,000-8,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 800000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "X",
+  "line": 1275
+ }
+}

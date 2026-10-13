@@ -1,0 +1,33 @@
+{
+ "id": "broche-simple",
+ "category": "vetements",
+ "name": {
+  "fr": "Broche simple",
+  "en": "Plain Brooch"
+ },
+ "full_name": {
+  "fr": "Broche simple",
+  "en": "Plain Brooch"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 239
+ }
+}

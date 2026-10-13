@@ -1,0 +1,35 @@
+{
+ "id": "zebre-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Zèbre — Manteau, robe, couverture",
+  "en": "Zebra — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Zèbre",
+   "en": "Zebra"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "250 po",
+   "en": "250gp"
+  },
+  "min_cp": 25000,
+  "max_cp": 25000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1247
+ }
+}

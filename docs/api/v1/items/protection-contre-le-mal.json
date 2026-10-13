@@ -1,0 +1,30 @@
+{
+ "id": "protection-contre-le-mal",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Protection contre le mal",
+  "en": "Protection from Evil"
+ },
+ "full_name": {
+  "fr": "Protection contre le mal",
+  "en": "Protection from Evil"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 po par niveau du lanceur de sorts",
+   "en": "20gp per level of the caster"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3238
+ }
+}

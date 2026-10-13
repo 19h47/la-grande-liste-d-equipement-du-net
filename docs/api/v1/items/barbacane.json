@@ -1,0 +1,32 @@
+{
+ "id": "barbacane",
+ "category": "constructions",
+ "name": {
+  "fr": "Barbacane",
+  "en": "Barbican"
+ },
+ "full_name": {
+  "fr": "Barbacane",
+  "en": "Barbican"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 000 po",
+   "en": "4,000gp"
+  },
+  "min_cp": 400000,
+  "max_cp": 400000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Barbacane : ouvrage avancé percé de meurtrières, protégeant une porte ou un passage."
+  ]
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3264
+ }
+}

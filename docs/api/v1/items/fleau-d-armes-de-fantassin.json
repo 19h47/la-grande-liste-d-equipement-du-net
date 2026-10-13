@@ -1,0 +1,33 @@
+{
+ "id": "fleau-d-armes-de-fantassin",
+ "category": "armes",
+ "name": {
+  "fr": "Fléau d'armes de fantassin",
+  "en": "Flail, footman's"
+ },
+ "full_name": {
+  "fr": "Fléau d'armes de fantassin",
+  "en": "Flail, footman's"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3612
+ }
+}

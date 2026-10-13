@@ -1,0 +1,33 @@
+{
+ "id": "fusee-de-signalisation-eclair",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Fusée de signalisation (éclair)",
+  "en": "Rocket Signal (Flash)"
+ },
+ "full_name": {
+  "fr": "Fusée de signalisation (éclair)",
+  "en": "Rocket Signal (Flash)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pe",
+   "en": "3ep"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1791
+ }
+}

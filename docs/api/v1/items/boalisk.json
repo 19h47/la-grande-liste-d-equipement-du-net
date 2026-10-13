@@ -1,0 +1,40 @@
+{
+ "id": "boalisk",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Boalisk",
+  "en": "Boalisk"
+ },
+ "full_name": {
+  "fr": "Boalisk",
+  "en": "Boalisk"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "3 000 po",
+   "en": "3,000gp"
+  },
+  "min_cp": 300000,
+  "max_cp": 300000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Boalisk : serpent constricteur apparenté au basilic, dont le regard transmet une maladie de pourrissement (Monster Manual II)."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1484
+ }
+}

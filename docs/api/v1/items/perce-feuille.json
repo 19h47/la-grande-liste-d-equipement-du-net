@@ -1,0 +1,40 @@
+{
+ "id": "perce-feuille",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Perce-feuille",
+  "en": "Throw-waxe"
+ },
+ "full_name": {
+  "fr": "Perce-feuille",
+  "en": "Throw-waxe"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Perce-feuille : ombellifère dont la tige semble traverser les feuilles."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2834
+ }
+}

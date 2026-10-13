@@ -1,0 +1,33 @@
+{
+ "id": "lampe-a-carillon",
+ "category": "eclairage",
+ "name": {
+  "fr": "Lampe à carillon",
+  "en": "Chime Lamp"
+ },
+ "full_name": {
+  "fr": "Lampe à carillon",
+  "en": "Chime Lamp"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2663
+ }
+}

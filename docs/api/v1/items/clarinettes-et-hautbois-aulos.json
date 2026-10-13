@@ -1,0 +1,40 @@
+{
+ "id": "clarinettes-et-hautbois-aulos",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Aulos",
+  "en": "Aulos"
+ },
+ "full_name": {
+  "fr": "Clarinettes et hautbois — Aulos",
+  "en": "Clarinet/Oboe — Aulos"
+ },
+ "group": [
+  {
+   "fr": "Clarinettes et hautbois",
+   "en": "Clarinet/Oboe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Aulos : double hautbois de la Grèce antique, joué avec deux tuyaux à la fois."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3329
+ }
+}

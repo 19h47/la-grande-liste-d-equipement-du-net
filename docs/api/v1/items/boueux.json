@@ -1,0 +1,40 @@
+{
+ "id": "boueux",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Boueux",
+  "en": "Muckdweller"
+ },
+ "full_name": {
+  "fr": "Boueux",
+  "en": "Muckdweller"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "100-300 po",
+   "en": "100-300gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Boueux (muckdweller) : petit amphibien bipède et intelligent qui hante les marais et les eaux vaseuses."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1536
+ }
+}

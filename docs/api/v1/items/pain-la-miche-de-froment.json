@@ -1,0 +1,38 @@
+{
+ "id": "pain-la-miche-de-froment",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De froment",
+  "en": "Wheat"
+ },
+ "full_name": {
+  "fr": "Pain, la miche — De froment",
+  "en": "Bread, per loaf — Wheat"
+ },
+ "group": [
+  {
+   "fr": "Pain, la miche",
+   "en": "Bread, per loaf"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 481
+ }
+}

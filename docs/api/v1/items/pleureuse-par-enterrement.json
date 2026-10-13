@@ -1,0 +1,32 @@
+{
+ "id": "pleureuse-par-enterrement",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Pleureuse (par enterrement)",
+  "en": "Mourner (per funeral)"
+ },
+ "full_name": {
+  "fr": "Pleureuse (par enterrement)",
+  "en": "Mourner (per funeral)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Pleureuse : femme payée pour se lamenter lors des funérailles."
+  ]
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2433
+ }
+}

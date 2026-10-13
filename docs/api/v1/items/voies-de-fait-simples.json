@@ -1,0 +1,30 @@
+{
+ "id": "voies-de-fait-simples",
+ "category": "amendes-et-peines",
+ "name": {
+  "fr": "Voies de fait simples",
+  "en": "Simple Assault"
+ },
+ "full_name": {
+  "fr": "Voies de fait simples",
+  "en": "Simple Assault"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVI",
+  "line": 3188
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "coups-et-blessures-aggraves-blessures-multiples",
+ "category": "amendes-et-peines",
+ "name": {
+  "fr": "Coups et blessures aggravés (blessures multiples)",
+  "en": "Major Assault (resulting in multiple injuries)"
+ },
+ "full_name": {
+  "fr": "Coups et blessures aggravés (blessures multiples)",
+  "en": "Major Assault (resulting in multiple injuries)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 000 po ou 5 ans",
+   "en": "20,000gp or 5years"
+  },
+  "min_cp": 2000000,
+  "max_cp": 2000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVI",
+  "line": 3180
+ }
+}

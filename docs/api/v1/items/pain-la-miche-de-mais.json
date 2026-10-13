@@ -1,0 +1,38 @@
+{
+ "id": "pain-la-miche-de-mais",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De maïs",
+  "en": "Corn"
+ },
+ "full_name": {
+  "fr": "Pain, la miche — De maïs",
+  "en": "Bread, per loaf — Corn"
+ },
+ "group": [
+  {
+   "fr": "Pain, la miche",
+   "en": "Bread, per loaf"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 484
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "robe-de-soie-humain",
+ "category": "vetements",
+ "name": {
+  "fr": "Humain",
+  "en": "Human"
+ },
+ "full_name": {
+  "fr": "Robe de soie — Humain",
+  "en": "Gown, Silk — Human"
+ },
+ "group": [
+  {
+   "fr": "Robe de soie",
+   "en": "Gown, Silk"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 180
+ }
+}

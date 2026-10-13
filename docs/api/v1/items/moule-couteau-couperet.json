@@ -1,0 +1,39 @@
+{
+ "id": "moule-couteau-couperet",
+ "category": "outils",
+ "name": {
+  "fr": "Couperet",
+  "en": "Cleaver"
+ },
+ "full_name": {
+  "fr": "Moule — Couteau — Couperet",
+  "en": "Mold — Knife — Cleaver"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Couteau",
+   "en": "Knife"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2558
+ }
+}

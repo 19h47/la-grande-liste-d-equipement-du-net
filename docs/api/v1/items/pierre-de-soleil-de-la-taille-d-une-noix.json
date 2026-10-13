@@ -1,0 +1,37 @@
+{
+ "id": "pierre-de-soleil-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Pierre de soleil — De la taille d'une noix",
+  "en": "Sunstone — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Pierre de soleil",
+   "en": "Sunstone"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 500 po",
+   "en": "1,500gp"
+  },
+  "min_cp": 150000,
+  "max_cp": 150000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Pierre de soleil : feldspath à paillettes métalliques orangées qui scintillent à la lumière."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2306
+ }
+}

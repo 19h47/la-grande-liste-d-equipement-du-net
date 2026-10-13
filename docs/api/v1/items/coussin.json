@@ -1,0 +1,33 @@
+{
+ "id": "coussin",
+ "category": "tissus",
+ "name": {
+  "fr": "Coussin",
+  "en": "Cushion"
+ },
+ "full_name": {
+  "fr": "Coussin",
+  "en": "Cushion"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1-3 pa",
+   "en": "1-3sp"
+  },
+  "min_cp": 10,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1736
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "aurumvorax-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Aurumvorax — Garniture",
+  "en": "Aurumvorax — Trim"
+ },
+ "group": [
+  {
+   "fr": "Aurumvorax",
+   "en": "Aurumvorax"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Aurumvorax : petit carnassier à huit pattes et fourrure dorée qui se nourrit d'or (AD&D, Monster Manual II).",
+   "Garniture : bande de fourrure ornant un col, des poignets ou la bordure d'un vêtement."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1089
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "mailles-et-plates",
+ "category": "armures",
+ "name": {
+  "fr": "Mailles et plates",
+  "en": "Mail and Plate"
+ },
+ "full_name": {
+  "fr": "Mailles et plates",
+  "en": "Mail and Plate"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": {
+  "text": "45",
+  "lb": 45
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3812
+ }
+}

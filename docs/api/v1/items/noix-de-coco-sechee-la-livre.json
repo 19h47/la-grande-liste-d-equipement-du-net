@@ -1,0 +1,38 @@
+{
+ "id": "noix-de-coco-sechee-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Séchée, la livre",
+  "en": "dried, per lb"
+ },
+ "full_name": {
+  "fr": "Noix de coco — Séchée, la livre",
+  "en": "Coconut — dried, per lb"
+ },
+ "group": [
+  {
+   "fr": "Noix de coco",
+   "en": "Coconut"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 548
+ }
+}

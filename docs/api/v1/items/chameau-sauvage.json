@@ -1,0 +1,30 @@
+{
+ "id": "chameau-sauvage",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Chameau sauvage",
+  "en": "Camel, wild"
+ },
+ "full_name": {
+  "fr": "Chameau sauvage",
+  "en": "Camel, wild"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "11-16 po",
+   "en": "11-16gp"
+  },
+  "min_cp": 1100,
+  "max_cp": 1600,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "X",
+  "line": 1256
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-guitares-pandore-cistre-basse",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Pandore (cistre basse)",
+  "en": "Pandora (Bass Cittern)"
+ },
+ "full_name": {
+  "fr": "Famille des guitares — Pandore (cistre basse)",
+  "en": "Guitar Family — Pandora (Bass Cittern)"
+ },
+ "group": [
+  {
+   "fr": "Famille des guitares",
+   "en": "Guitar Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "65 po",
+   "en": "65gp"
+  },
+  "min_cp": 6500,
+  "max_cp": 6500,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3378
+ }
+}

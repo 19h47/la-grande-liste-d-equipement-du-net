@@ -1,0 +1,33 @@
+{
+ "id": "chicoree-le-baton",
+ "category": "epices",
+ "name": {
+  "fr": "Chicorée, le bâton",
+  "en": "Chicory, per stick"
+ },
+ "full_name": {
+  "fr": "Chicorée, le bâton",
+  "en": "Chicory, per stick"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 813
+ }
+}

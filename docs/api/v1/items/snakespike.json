@@ -1,0 +1,40 @@
+{
+ "id": "snakespike",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Snakespike",
+  "en": "Snakespike"
+ },
+ "full_name": {
+  "fr": "Snakespike",
+  "en": "Snakespike"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Snakespike : plante côtière du Net Book of Herbs, employée en tisane ou en onguent pour rendre quelques PV."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2825
+ }
+}

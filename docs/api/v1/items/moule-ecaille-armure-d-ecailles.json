@@ -1,0 +1,35 @@
+{
+ "id": "moule-ecaille-armure-d-ecailles",
+ "category": "outils",
+ "name": {
+  "fr": "Écaille (armure d'écailles)",
+  "en": "Scale (mail)"
+ },
+ "full_name": {
+  "fr": "Moule — Écaille (armure d'écailles)",
+  "en": "Mold — Scale (mail)"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2578
+ }
+}

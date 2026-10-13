@@ -1,0 +1,38 @@
+{
+ "id": "casques-calotte",
+ "category": "armures",
+ "name": {
+  "fr": "Calotte",
+  "en": "Cap"
+ },
+ "full_name": {
+  "fr": "Casques — Calotte",
+  "en": "Helmet — Cap"
+ },
+ "group": [
+  {
+   "fr": "Casques",
+   "en": "Helmet"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3793
+ }
+}

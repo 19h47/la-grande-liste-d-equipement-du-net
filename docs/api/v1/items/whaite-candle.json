@@ -1,0 +1,40 @@
+{
+ "id": "whaite-candle",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Whaite Candle",
+  "en": "Whaite Candle"
+ },
+ "full_name": {
+  "fr": "Whaite Candle",
+  "en": "Whaite Candle"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Whaite Candle : plante du Net Book of Herbs (Whitecandle), antidouleur qui rend temporairement quelques PV."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2839
+ }
+}

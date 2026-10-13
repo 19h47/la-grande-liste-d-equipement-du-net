@@ -1,0 +1,35 @@
+{
+ "id": "troupe-itinerante-burlesque-par-tete",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Burlesque, par tête",
+  "en": "Burlesque, per head"
+ },
+ "full_name": {
+  "fr": "Troupe itinérante — Burlesque, par tête",
+  "en": "Travelling Troupe — Burlesque, per head"
+ },
+ "group": [
+  {
+   "fr": "Troupe itinérante",
+   "en": "Travelling Troupe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2445
+ }
+}

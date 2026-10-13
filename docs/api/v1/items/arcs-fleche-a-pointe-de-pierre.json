@@ -1,0 +1,38 @@
+{
+ "id": "arcs-fleche-a-pointe-de-pierre",
+ "category": "armes",
+ "name": {
+  "fr": "Flèche à pointe de pierre",
+  "en": "Arrow, stone"
+ },
+ "full_name": {
+  "fr": "Arcs — Flèche à pointe de pierre",
+  "en": "Bow — Arrow, stone"
+ },
+ "group": [
+  {
+   "fr": "Arcs",
+   "en": "Bow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc/12",
+   "en": "3cp/12"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3541
+ }
+}

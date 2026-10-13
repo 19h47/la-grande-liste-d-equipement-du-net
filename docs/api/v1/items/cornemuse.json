@@ -1,0 +1,33 @@
+{
+ "id": "cornemuse",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Cornemuse",
+  "en": "Bagpipes"
+ },
+ "full_name": {
+  "fr": "Cornemuse",
+  "en": "Bagpipes"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "80 po",
+   "en": "80gp"
+  },
+  "min_cp": 8000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3314
+ }
+}

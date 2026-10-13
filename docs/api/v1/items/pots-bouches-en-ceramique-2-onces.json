@@ -1,0 +1,38 @@
+{
+ "id": "pots-bouches-en-ceramique-2-onces",
+ "category": "contenants",
+ "name": {
+  "fr": "2 onces",
+  "en": "2oz"
+ },
+ "full_name": {
+  "fr": "Pots bouchés, en céramique — 2 onces",
+  "en": "Jars, Stoppered Ceramic — 2oz"
+ },
+ "group": [
+  {
+   "fr": "Pots bouchés, en céramique",
+   "en": "Jars, Stoppered Ceramic"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1385
+ }
+}

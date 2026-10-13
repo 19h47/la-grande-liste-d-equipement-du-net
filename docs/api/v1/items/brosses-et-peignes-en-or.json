@@ -1,0 +1,38 @@
+{
+ "id": "brosses-et-peignes-en-or",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En or",
+  "en": "Gold"
+ },
+ "full_name": {
+  "fr": "Brosses et peignes — En or",
+  "en": "Brush & Combs — Gold"
+ },
+ "group": [
+  {
+   "fr": "Brosses et peignes",
+   "en": "Brush & Combs"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2904
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "abaque",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "Abaque",
+  "en": "Abacus"
+ },
+ "full_name": {
+  "fr": "Abaque",
+  "en": "Abacus"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Abaque : boulier, cadre à tiges et à boules servant au calcul."
+  ]
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1906
+ }
+}

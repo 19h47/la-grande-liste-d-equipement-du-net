@@ -1,0 +1,38 @@
+{
+ "id": "spelljammers-et-equipement-libellule",
+ "category": "transports",
+ "name": {
+  "fr": "Libellule",
+  "en": "Dragonfly"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Libellule",
+  "en": "Spelljammers and equipment — Dragonfly"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 000 po",
+   "en": "40,000gp"
+  },
+  "min_cp": 4000000,
+  "max_cp": 4000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Libellule : modèle de spelljammer nommé « Dragonfly » en VO."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1003
+ }
+}

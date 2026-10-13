@@ -1,0 +1,30 @@
+{
+ "id": "acier-l-once",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Acier, l'once",
+  "en": "Steel, per ounce"
+ },
+ "full_name": {
+  "fr": "Acier, l'once",
+  "en": "Steel, per ounce"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2296
+ }
+}

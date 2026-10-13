@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-orgues-a-bouche-harmonica",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Harmonica",
+  "en": "Harmonica"
+ },
+ "full_name": {
+  "fr": "Famille des orgues à bouche — Harmonica",
+  "en": "Mouth Organ Family — Harmonica"
+ },
+ "group": [
+  {
+   "fr": "Famille des orgues à bouche",
+   "en": "Mouth Organ Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3419
+ }
+}

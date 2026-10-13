@@ -1,0 +1,38 @@
+{
+ "id": "coffre-de-qualite-petit",
+ "category": "contenants",
+ "name": {
+  "fr": "De qualité, petit",
+  "en": "Quality, small"
+ },
+ "full_name": {
+  "fr": "Coffre — De qualité, petit",
+  "en": "Chest — Quality, small"
+ },
+ "group": [
+  {
+   "fr": "Coffre",
+   "en": "Chest"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1365
+ }
+}

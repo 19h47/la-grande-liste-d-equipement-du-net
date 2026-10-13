@@ -1,0 +1,37 @@
+{
+ "id": "zibeline-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Zibeline — Peau",
+  "en": "Sable — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Zibeline",
+   "en": "Sable"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Zibeline : martre de Sibérie dont la fourrure brune est l'une des plus précieuses."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1206
+ }
+}

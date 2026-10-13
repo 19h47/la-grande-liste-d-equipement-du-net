@@ -1,0 +1,30 @@
+{
+ "id": "bain",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Bain",
+  "en": "Bath"
+ },
+ "full_name": {
+  "fr": "Bain",
+  "en": "Bath"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2367
+ }
+}

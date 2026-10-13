@@ -1,0 +1,40 @@
+{
+ "id": "surcot-matelasse",
+ "category": "vetements",
+ "name": {
+  "fr": "Matelassé",
+  "en": "Quilted"
+ },
+ "full_name": {
+  "fr": "Surcot — Matelassé",
+  "en": "Surcoat — Quilted"
+ },
+ "group": [
+  {
+   "fr": "Surcot",
+   "en": "Surcoat"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Surcot : vêtement de dessus, porté par les deux sexes par-dessus la cotte."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 280
+ }
+}

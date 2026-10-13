@@ -1,0 +1,38 @@
+{
+ "id": "biere-naine-grand-tonneau-50-gallons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Grand tonneau, 50 gallons",
+  "en": "large barrel, 50 gallons"
+ },
+ "full_name": {
+  "fr": "Bière naine — Grand tonneau, 50 gallons",
+  "en": "Dwarven — large barrel, 50 gallons"
+ },
+ "group": [
+  {
+   "fr": "Bière naine",
+   "en": "Dwarven"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 pp",
+   "en": "100pp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": {
+  "text": "200",
+  "lb": 200
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 325
+ }
+}

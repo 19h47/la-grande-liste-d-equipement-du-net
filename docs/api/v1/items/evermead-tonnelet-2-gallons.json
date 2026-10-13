@@ -1,0 +1,40 @@
+{
+ "id": "evermead-tonnelet-2-gallons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Tonnelet, 2 gallons",
+  "en": "Hand Keg, 2 gallons"
+ },
+ "full_name": {
+  "fr": "Evermead — Tonnelet, 2 gallons",
+  "en": "Evermead — Hand Keg, 2 gallons"
+ },
+ "group": [
+  {
+   "fr": "Evermead",
+   "en": "Evermead"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Evermead : liqueur fabriquée par les elfes d'Éternelle-Rencontre."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 352
+ }
+}

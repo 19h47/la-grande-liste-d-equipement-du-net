@@ -1,0 +1,33 @@
+{
+ "id": "seigle-sac-de-1-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Seigle, sac de 1 livre",
+  "en": "Rye, per 1 lbs sack"
+ },
+ "full_name": {
+  "fr": "Seigle, sac de 1 livre",
+  "en": "Rye, per 1 lbs sack"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 725
+ }
+}

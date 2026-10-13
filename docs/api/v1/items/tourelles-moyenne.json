@@ -1,0 +1,35 @@
+{
+ "id": "tourelles-moyenne",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Moyenne",
+  "en": "Medium"
+ },
+ "full_name": {
+  "fr": "Tourelles — Moyenne",
+  "en": "Turrets — Medium"
+ },
+ "group": [
+  {
+   "fr": "Tourelles",
+   "en": "Turrets"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3510
+ }
+}

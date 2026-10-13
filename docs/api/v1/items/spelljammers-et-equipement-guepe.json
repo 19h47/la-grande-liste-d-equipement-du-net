@@ -1,0 +1,38 @@
+{
+ "id": "spelljammers-et-equipement-guepe",
+ "category": "transports",
+ "name": {
+  "fr": "Guêpe",
+  "en": "Wasp"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Guêpe",
+  "en": "Spelljammers and equipment — Wasp"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 000 po",
+   "en": "20,000gp"
+  },
+  "min_cp": 2000000,
+  "max_cp": 2000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Guêpe : modèle de spelljammer nommé « Wasp » en VO."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1035
+ }
+}

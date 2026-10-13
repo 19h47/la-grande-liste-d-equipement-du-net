@@ -1,0 +1,40 @@
+{
+ "id": "armes-d-hast-corseque",
+ "category": "armes",
+ "name": {
+  "fr": "Corsèque",
+  "en": "Spetum"
+ },
+ "full_name": {
+  "fr": "Armes d'hast — Corsèque",
+  "en": "Polearm — Spetum"
+ },
+ "group": [
+  {
+   "fr": "Armes d'hast",
+   "en": "Polearm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "7",
+  "lb": 7
+ },
+ "notes": {
+  "fr": [
+   "Corsèque : arme d'hast à fer de lance flanqué de deux lames latérales."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3686
+ }
+}

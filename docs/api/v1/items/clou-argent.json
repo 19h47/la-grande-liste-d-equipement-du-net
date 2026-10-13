@@ -1,0 +1,33 @@
+{
+ "id": "clou-argent",
+ "category": "outils",
+ "name": {
+  "fr": "Clou (argent)",
+  "en": "Nail (silver)"
+ },
+ "full_name": {
+  "fr": "Clou (argent)",
+  "en": "Nail (silver)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pe",
+   "en": "1ep"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2608
+ }
+}

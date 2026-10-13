@@ -1,0 +1,40 @@
+{
+ "id": "cornue-12-onces",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "12 onces",
+  "en": "12 oz"
+ },
+ "full_name": {
+  "fr": "Cornue — 12 onces",
+  "en": "Retort — 12 oz"
+ },
+ "group": [
+  {
+   "fr": "Cornue",
+   "en": "Retort"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Cornue : vase de verre à col long et recourbé, servant à distiller."
+  ]
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1876
+ }
+}

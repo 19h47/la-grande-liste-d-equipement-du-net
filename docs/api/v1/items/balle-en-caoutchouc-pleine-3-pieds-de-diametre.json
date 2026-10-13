@@ -1,0 +1,33 @@
+{
+ "id": "balle-en-caoutchouc-pleine-3-pieds-de-diametre",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Balle en caoutchouc (pleine), 3 pieds de diamètre",
+  "en": "Rubber Ball (solid), 3' diameter"
+ },
+ "full_name": {
+  "fr": "Balle en caoutchouc (pleine), 3 pieds de diamètre",
+  "en": "Rubber Ball (solid), 3' diameter"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3099
+ }
+}

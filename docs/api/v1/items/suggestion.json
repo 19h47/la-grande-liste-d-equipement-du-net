@@ -1,0 +1,30 @@
+{
+ "id": "suggestion",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Suggestion",
+  "en": "Suggestion"
+ },
+ "full_name": {
+  "fr": "Suggestion",
+  "en": "Suggestion"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "600 po",
+   "en": "600gp"
+  },
+  "min_cp": 60000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3247
+ }
+}

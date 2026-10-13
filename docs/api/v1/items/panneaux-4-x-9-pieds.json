@@ -1,0 +1,35 @@
+{
+ "id": "panneaux-4-x-9-pieds",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "4 x 9 pieds",
+  "en": "4'x9'"
+ },
+ "full_name": {
+  "fr": "Panneaux — 4 x 9 pieds",
+  "en": "Boards — 4'x9'"
+ },
+ "group": [
+  {
+   "fr": "Panneaux",
+   "en": "Boards"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 pa",
+   "en": "35sp"
+  },
+  "min_cp": 350,
+  "max_cp": 350,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2201
+ }
+}

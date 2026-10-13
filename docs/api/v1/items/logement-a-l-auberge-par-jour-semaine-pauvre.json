@@ -1,0 +1,38 @@
+{
+ "id": "logement-a-l-auberge-par-jour-semaine-pauvre",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Pauvre",
+  "en": "Poor"
+ },
+ "full_name": {
+  "fr": "Logement à l'auberge (par jour/semaine) — Pauvre",
+  "en": "Inn Lodging (per day/week) — Poor"
+ },
+ "group": [
+  {
+   "fr": "Logement à l'auberge (par jour/semaine)",
+   "en": "Inn Lodging (per day/week)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc/2 pa",
+   "en": "5cp/2sp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 365
+ }
+}

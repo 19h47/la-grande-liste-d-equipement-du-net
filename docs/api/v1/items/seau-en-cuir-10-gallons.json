@@ -1,0 +1,38 @@
+{
+ "id": "seau-en-cuir-10-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En cuir, 10 gallons",
+  "en": "Leather, 10 gallons"
+ },
+ "full_name": {
+  "fr": "Seau — En cuir, 10 gallons",
+  "en": "Bucket — Leather, 10 gallons"
+ },
+ "group": [
+  {
+   "fr": "Seau",
+   "en": "Bucket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "9 pa",
+   "en": "9sp"
+  },
+  "min_cp": 90,
+  "max_cp": 90,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1341
+ }
+}

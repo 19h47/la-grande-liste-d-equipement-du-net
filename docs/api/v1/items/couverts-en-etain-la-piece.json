@@ -1,0 +1,38 @@
+{
+ "id": "couverts-en-etain-la-piece",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En étain, la pièce",
+  "en": "Pewter, per piece"
+ },
+ "full_name": {
+  "fr": "Couverts — En étain, la pièce",
+  "en": "Cutlery — Pewter, per piece"
+ },
+ "group": [
+  {
+   "fr": "Couverts",
+   "en": "Cutlery"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2953
+ }
+}

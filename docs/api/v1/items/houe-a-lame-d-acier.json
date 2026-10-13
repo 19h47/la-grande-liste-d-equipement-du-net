@@ -1,0 +1,40 @@
+{
+ "id": "houe-a-lame-d-acier",
+ "category": "outils",
+ "name": {
+  "fr": "À lame d'acier",
+  "en": "Steel Head"
+ },
+ "full_name": {
+  "fr": "Houe — À lame d'acier",
+  "en": "Hoe — Steel Head"
+ },
+ "group": [
+  {
+   "fr": "Houe",
+   "en": "Hoe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": [
+   "Houe : outil agricole à lame large fixée perpendiculairement au manche, servant à biner et ameublir la terre."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2510
+ }
+}

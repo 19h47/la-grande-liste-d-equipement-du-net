@@ -1,0 +1,33 @@
+{
+ "id": "aiguille-aimantee",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Aiguille aimantée",
+  "en": "Needle, magnetized"
+ },
+ "full_name": {
+  "fr": "Aiguille aimantée",
+  "en": "Needle, magnetized"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3044
+ }
+}

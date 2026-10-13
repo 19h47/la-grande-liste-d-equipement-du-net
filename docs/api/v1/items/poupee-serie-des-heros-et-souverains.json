@@ -1,0 +1,38 @@
+{
+ "id": "poupee-serie-des-heros-et-souverains",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Série des héros et souverains",
+  "en": "Heroes and Rulers set"
+ },
+ "full_name": {
+  "fr": "Poupée — Série des héros et souverains",
+  "en": "Doll — Heroes and Rulers set"
+ },
+ "group": [
+  {
+   "fr": "Poupée",
+   "en": "Doll"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2970
+ }
+}

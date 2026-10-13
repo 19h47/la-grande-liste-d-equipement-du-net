@@ -1,0 +1,37 @@
+{
+ "id": "lapis-lazuli-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Lapis-lazuli — De la taille d'un raisin",
+  "en": "Lapis Lazuli — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Lapis-lazuli",
+   "en": "Lapis Lazuli"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Lapis-lazuli : roche d'un bleu profond pailleté d'or, d'où l'on tirait le pigment outremer."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2141
+ }
+}

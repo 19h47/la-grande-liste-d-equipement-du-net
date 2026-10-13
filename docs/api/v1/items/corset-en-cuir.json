@@ -1,0 +1,38 @@
+{
+ "id": "corset-en-cuir",
+ "category": "armures",
+ "name": {
+  "fr": "En cuir",
+  "en": "Leather"
+ },
+ "full_name": {
+  "fr": "Corset — En cuir",
+  "en": "Corset — Leather"
+ },
+ "group": [
+  {
+   "fr": "Corset",
+   "en": "Corset"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3785
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "taupe",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Taupe",
+  "en": "Mole"
+ },
+ "full_name": {
+  "fr": "Taupe",
+  "en": "Mole"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 649
+ }
+}

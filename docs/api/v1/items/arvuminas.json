@@ -1,0 +1,40 @@
+{
+ "id": "arvuminas",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Arvuminas",
+  "en": "Arvuminas"
+ },
+ "full_name": {
+  "fr": "Arvuminas",
+  "en": "Arvuminas"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Arvuminas : plante de prairie du Net Book of Herbs (Arnuminas), dont la feuille double la guérison des ligaments, cartilages et muscles."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2713
+ }
+}

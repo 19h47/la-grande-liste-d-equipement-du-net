@@ -1,0 +1,33 @@
+{
+ "id": "raisin-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Raisin, la livre",
+  "en": "Grapes, per lbs"
+ },
+ "full_name": {
+  "fr": "Raisin, la livre",
+  "en": "Grapes, per lbs"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 596
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "vessie-a-air",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Vessie à air",
+  "en": "Air Bladder"
+ },
+ "full_name": {
+  "fr": "Vessie à air",
+  "en": "Air Bladder"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1759
+ }
+}

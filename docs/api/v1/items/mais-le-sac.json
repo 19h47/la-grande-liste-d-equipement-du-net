@@ -1,0 +1,33 @@
+{
+ "id": "mais-le-sac",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Maïs, le sac",
+  "en": "Corn, per Sack"
+ },
+ "full_name": {
+  "fr": "Maïs, le sac",
+  "en": "Corn, per Sack"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 554
+ }
+}

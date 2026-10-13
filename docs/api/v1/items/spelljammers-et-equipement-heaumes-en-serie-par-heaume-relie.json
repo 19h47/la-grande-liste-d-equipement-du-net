@@ -1,0 +1,43 @@
+{
+ "id": "spelljammers-et-equipement-heaumes-en-serie-par-heaume-relie",
+ "category": "transports",
+ "name": {
+  "fr": "Heaumes en série, par heaume relié",
+  "en": "Series Helms, per linked helm"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Heaume — Heaumes en série, par heaume relié",
+  "en": "Spelljammers and equipment — Helm — Series Helms, per linked helm"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  },
+  {
+   "fr": "Heaume",
+   "en": "Helm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "75 000 po",
+   "en": "75,000gp"
+  },
+  "min_cp": 7500000,
+  "max_cp": 7500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Heaume : siège magique qui convertit l'énergie d'un lanceur de sorts en propulsion pour un spelljammer.",
+   "Heaumes en série : heaumes reliés entre eux pour cumuler la puissance de plusieurs pilotes à bord des très grands navires."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1027
+ }
+}

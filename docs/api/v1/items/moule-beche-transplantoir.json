@@ -1,0 +1,41 @@
+{
+ "id": "moule-beche-transplantoir",
+ "category": "outils",
+ "name": {
+  "fr": "Transplantoir",
+  "en": "Trowel"
+ },
+ "full_name": {
+  "fr": "Moule — Bêche — Transplantoir",
+  "en": "Mold — Spade — Trowel"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Bêche",
+   "en": "Spade"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Transplantoir : petite pelle de jardinier à main, servant à déplanter et repiquer les plants."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2590
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "figure-de-proue-en-bois",
+ "category": "oeuvres-d-art",
+ "name": {
+  "fr": "Figure de proue en bois",
+  "en": "Figurehead, Ship, wood"
+ },
+ "full_name": {
+  "fr": "Figure de proue en bois",
+  "en": "Figurehead, Ship, wood"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10-200 po",
+   "en": "10-200gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXX",
+  "line": 3461
+ }
+}

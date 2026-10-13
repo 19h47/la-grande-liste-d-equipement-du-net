@@ -1,0 +1,37 @@
+{
+ "id": "char-de-guerre",
+ "category": "transports",
+ "name": {
+  "fr": "De guerre",
+  "en": "War"
+ },
+ "full_name": {
+  "fr": "Char — De guerre",
+  "en": "Chariot — War"
+ },
+ "group": [
+  {
+   "fr": "Char",
+   "en": "Chariot"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Char : véhicule léger à deux roues tiré par des chevaux, employé dans l'Antiquité pour la guerre ou la course."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 961
+ }
+}

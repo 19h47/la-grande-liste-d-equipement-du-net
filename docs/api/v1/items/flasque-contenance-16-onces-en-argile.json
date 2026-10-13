@@ -1,0 +1,38 @@
+{
+ "id": "flasque-contenance-16-onces-en-argile",
+ "category": "contenants",
+ "name": {
+  "fr": "En argile",
+  "en": "Clay"
+ },
+ "full_name": {
+  "fr": "Flasque, contenance 16 onces — En argile",
+  "en": "Flask, hold 16oz — Clay"
+ },
+ "group": [
+  {
+   "fr": "Flasque, contenance 16 onces",
+   "en": "Flask, hold 16oz"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1378
+ }
+}

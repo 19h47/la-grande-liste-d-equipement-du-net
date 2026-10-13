@@ -1,0 +1,38 @@
+{
+ "id": "chambre-en-ville-par-mois-pauvre",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Pauvre",
+  "en": "Poor"
+ },
+ "full_name": {
+  "fr": "Chambre en ville (par mois) — Pauvre",
+  "en": "City Room (per month) — Poor"
+ },
+ "group": [
+  {
+   "fr": "Chambre en ville (par mois)",
+   "en": "City Room (per month)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 346
+ }
+}

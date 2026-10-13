@@ -1,0 +1,37 @@
+{
+ "id": "moule-rondache",
+ "category": "outils",
+ "name": {
+  "fr": "Rondache",
+  "en": "Buckler"
+ },
+ "full_name": {
+  "fr": "Moule — Rondache",
+  "en": "Mold — Buckler"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Rondache : petit bouclier rond tenu au poing."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2528
+ }
+}

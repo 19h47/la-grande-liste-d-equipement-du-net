@@ -1,0 +1,41 @@
+{
+ "id": "rebec-lyra",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Lyra",
+  "en": "Lyra"
+ },
+ "full_name": {
+  "fr": "Rebec — Lyra",
+  "en": "Rebec — Lyra"
+ },
+ "group": [
+  {
+   "fr": "Rebec",
+   "en": "Rebec"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "55 po",
+   "en": "55gp"
+  },
+  "min_cp": 5500,
+  "max_cp": 5500,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": [
+   "Rebec : petite vièle médiévale en forme de poire, à trois cordes.",
+   "Lyra : vièle à archet grecque, notamment crétoise, tenue verticalement sur le genou."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3430
+ }
+}

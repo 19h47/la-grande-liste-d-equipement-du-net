@@ -1,0 +1,32 @@
+{
+ "id": "agate-mousse",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Agate mousse",
+  "en": "Moss Agate"
+ },
+ "full_name": {
+  "fr": "Agate mousse",
+  "en": "Moss Agate"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Agate mousse : calcédoine translucide parcourue d'inclusions vertes ramifiées évoquant de la mousse."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2217
+ }
+}

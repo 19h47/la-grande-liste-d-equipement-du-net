@@ -1,0 +1,30 @@
+{
+ "id": "balayeurs-gnomes",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Balayeurs gnomes",
+  "en": "Gnomish Sweepers"
+ },
+ "full_name": {
+  "fr": "Balayeurs gnomes",
+  "en": "Gnomish Sweepers"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "800 po",
+   "en": "800gp"
+  },
+  "min_cp": 80000,
+  "max_cp": 80000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3494
+ }
+}

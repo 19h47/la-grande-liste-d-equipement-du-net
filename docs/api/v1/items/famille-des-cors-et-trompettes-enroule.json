@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-cors-et-trompettes-enroule",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Enroulé",
+  "en": "Coiled"
+ },
+ "full_name": {
+  "fr": "Famille des cors et trompettes — Enroulé",
+  "en": "Horn/Trumpet Family — Coiled"
+ },
+ "group": [
+  {
+   "fr": "Famille des cors et trompettes",
+   "en": "Horn/Trumpet Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "65 po",
+   "en": "65gp"
+  },
+  "min_cp": 6500,
+  "max_cp": 6500,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3397
+ }
+}

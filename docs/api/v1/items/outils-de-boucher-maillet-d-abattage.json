@@ -1,0 +1,40 @@
+{
+ "id": "outils-de-boucher-maillet-d-abattage",
+ "category": "outils",
+ "name": {
+  "fr": "Maillet d'abattage",
+  "en": "Mallet"
+ },
+ "full_name": {
+  "fr": "Outils de boucher — Maillet d'abattage",
+  "en": "Butchering Tools — Mallet"
+ },
+ "group": [
+  {
+   "fr": "Outils de boucher",
+   "en": "Butchering Tools"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": [
+   "Maillet d'abattage : lourd maillet servant à assommer le bétail avant de le saigner."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2466
+ }
+}

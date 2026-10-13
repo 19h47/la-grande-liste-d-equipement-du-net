@@ -1,0 +1,38 @@
+{
+ "id": "spelljammers-et-equipement-bateau-a-aubes-gnome",
+ "category": "transports",
+ "name": {
+  "fr": "Bateau à aubes gnome",
+  "en": "Gnomish Sidewheeler"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Bateau à aubes gnome",
+  "en": "Spelljammers and equipment — Gnomish Sidewheeler"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 000 po",
+   "en": "40,000gp"
+  },
+  "min_cp": 4000000,
+  "max_cp": 4000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Bateau à aubes gnome : « Gnomish Sidewheeler » en VO, spelljammer gnome mû par des roues à aubes latérales."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1010
+ }
+}

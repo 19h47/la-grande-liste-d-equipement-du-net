@@ -1,0 +1,33 @@
+{
+ "id": "marteau-de-guerre",
+ "category": "armes",
+ "name": {
+  "fr": "Marteau de guerre",
+  "en": "Warhammer"
+ },
+ "full_name": {
+  "fr": "Marteau de guerre",
+  "en": "Warhammer"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3732
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "fleurs-et-fruits-cristallises-l-once-petales-de-rose",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Pétales de rose",
+  "en": "Rose Petals"
+ },
+ "full_name": {
+  "fr": "Fleurs et fruits cristallisés, l'once — Pétales de rose",
+  "en": "Crystallized, per oz — Rose Petals"
+ },
+ "group": [
+  {
+   "fr": "Fleurs et fruits cristallisés, l'once",
+   "en": "Crystallized, per oz"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 565
+ }
+}

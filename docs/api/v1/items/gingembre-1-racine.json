@@ -1,0 +1,33 @@
+{
+ "id": "gingembre-1-racine",
+ "category": "epices",
+ "name": {
+  "fr": "Gingembre, 1 racine",
+  "en": "Ginger, 1 root"
+ },
+ "full_name": {
+  "fr": "Gingembre, 1 racine",
+  "en": "Ginger, 1 root"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "30 pc",
+   "en": "30cp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 824
+ }
+}

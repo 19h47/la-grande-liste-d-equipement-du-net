@@ -1,0 +1,32 @@
+{
+ "id": "tortue",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Tortue",
+  "en": "Tortoise"
+ },
+ "full_name": {
+  "fr": "Tortue",
+  "en": "Tortoise"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "350 po",
+   "en": "350gp"
+  },
+  "min_cp": 35000,
+  "max_cp": 35000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Tortue : abri mobile à toit renforcé protégeant les assaillants, souvent pour manœuvrer un bélier."
+  ]
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3507
+ }
+}

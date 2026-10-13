@@ -1,0 +1,30 @@
+{
+ "id": "fosse-5-pieds-de-large-3-pieds-de-profondeur-10-pieds-de-haut",
+ "category": "constructions",
+ "name": {
+  "fr": "Fosse, 5 pieds de large, 3 pieds de profondeur, 10 pieds de haut",
+  "en": "Pit, 5'w 3'd 10'h"
+ },
+ "full_name": {
+  "fr": "Fosse, 5 pieds de large, 3 pieds de profondeur, 10 pieds de haut",
+  "en": "Pit, 5'w 3'd 10'h"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3290
+ }
+}

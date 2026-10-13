@@ -1,0 +1,33 @@
+{
+ "id": "ananas-seche",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Ananas séché",
+  "en": "Pineapple, dried"
+ },
+ "full_name": {
+  "fr": "Ananas séché",
+  "en": "Pineapple, dried"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 692
+ }
+}

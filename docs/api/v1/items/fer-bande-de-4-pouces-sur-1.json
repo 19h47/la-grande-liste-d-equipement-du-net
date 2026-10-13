@@ -1,0 +1,35 @@
+{
+ "id": "fer-bande-de-4-pouces-sur-1",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Bande de 4 pouces sur 1",
+  "en": "Strip 4 by 1 in"
+ },
+ "full_name": {
+  "fr": "Fer — Bande de 4 pouces sur 1",
+  "en": "Iron — Strip 4 by 1 in"
+ },
+ "group": [
+  {
+   "fr": "Fer",
+   "en": "Iron"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2111
+ }
+}

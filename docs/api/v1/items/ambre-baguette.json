@@ -1,0 +1,35 @@
+{
+ "id": "ambre-baguette",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Baguette",
+  "en": "Rod"
+ },
+ "full_name": {
+  "fr": "Ambre — Baguette",
+  "en": "Amber — Rod"
+ },
+ "group": [
+  {
+   "fr": "Ambre",
+   "en": "Amber"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 1978
+ }
+}

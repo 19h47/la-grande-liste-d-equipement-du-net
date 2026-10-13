@@ -1,0 +1,38 @@
+{
+ "id": "armes-d-hast-serpe-guisarme",
+ "category": "armes",
+ "name": {
+  "fr": "Serpe-guisarme",
+  "en": "Bill-Guisarme"
+ },
+ "full_name": {
+  "fr": "Armes d'hast — Serpe-guisarme",
+  "en": "Polearm — Bill-Guisarme"
+ },
+ "group": [
+  {
+   "fr": "Armes d'hast",
+   "en": "Polearm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3675
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "foulard-de-couleur-unie",
+ "category": "vetements",
+ "name": {
+  "fr": "De couleur unie",
+  "en": "Solid color"
+ },
+ "full_name": {
+  "fr": "Foulard — De couleur unie",
+  "en": "Scarf — Solid color"
+ },
+ "group": [
+  {
+   "fr": "Foulard",
+   "en": "Scarf"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 257
+ }
+}

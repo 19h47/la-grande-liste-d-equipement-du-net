@@ -1,0 +1,33 @@
+{
+ "id": "cle-en-argent",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Clé en argent",
+  "en": "Key, silver"
+ },
+ "full_name": {
+  "fr": "Clé en argent",
+  "en": "Key, silver"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3000
+ }
+}

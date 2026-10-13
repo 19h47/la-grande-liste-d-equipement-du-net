@@ -1,0 +1,30 @@
+{
+ "id": "divination",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Divination",
+  "en": "Divination"
+ },
+ "full_name": {
+  "fr": "Divination",
+  "en": "Divination"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3216
+ }
+}

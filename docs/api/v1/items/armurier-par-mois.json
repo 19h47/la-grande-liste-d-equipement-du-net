@@ -1,0 +1,30 @@
+{
+ "id": "armurier-par-mois",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Armurier, par mois",
+  "en": "Armorer, per month"
+ },
+ "full_name": {
+  "fr": "Armurier, par mois",
+  "en": "Armorer, per month"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2364
+ }
+}

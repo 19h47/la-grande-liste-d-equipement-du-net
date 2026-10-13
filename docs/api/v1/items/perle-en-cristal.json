@@ -1,0 +1,38 @@
+{
+ "id": "perle-en-cristal",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En cristal",
+  "en": "Crystal"
+ },
+ "full_name": {
+  "fr": "Perle — En cristal",
+  "en": "Bead — Crystal"
+ },
+ "group": [
+  {
+   "fr": "Perle",
+   "en": "Bead"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pc",
+   "en": "6cp"
+  },
+  "min_cp": 6,
+  "max_cp": 6,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2876
+ }
+}

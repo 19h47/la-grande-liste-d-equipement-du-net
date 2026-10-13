@@ -1,0 +1,35 @@
+{
+ "id": "nonfel-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Nonfel — Peau",
+  "en": "Nonfel — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Nonfel",
+   "en": "Nonfel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1181
+ }
+}

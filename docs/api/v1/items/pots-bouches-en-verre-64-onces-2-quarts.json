@@ -1,0 +1,38 @@
+{
+ "id": "pots-bouches-en-verre-64-onces-2-quarts",
+ "category": "contenants",
+ "name": {
+  "fr": "64 onces (2 quarts)",
+  "en": "64oz (2 quart)"
+ },
+ "full_name": {
+  "fr": "Pots bouchés, en verre — 64 onces (2 quarts)",
+  "en": "Jars, stoppered Glass — 64oz (2 quart)"
+ },
+ "group": [
+  {
+   "fr": "Pots bouchés, en verre",
+   "en": "Jars, stoppered Glass"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1410
+ }
+}

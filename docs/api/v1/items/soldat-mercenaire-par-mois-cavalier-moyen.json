@@ -1,0 +1,35 @@
+{
+ "id": "soldat-mercenaire-par-mois-cavalier-moyen",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Cavalier moyen",
+  "en": "Horseman, Medium"
+ },
+ "full_name": {
+  "fr": "Soldat mercenaire, par mois — Cavalier moyen",
+  "en": "Mercenary Soldier, per month — Horseman, Medium"
+ },
+ "group": [
+  {
+   "fr": "Soldat mercenaire, par mois",
+   "en": "Mercenary Soldier, per month"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2428
+ }
+}

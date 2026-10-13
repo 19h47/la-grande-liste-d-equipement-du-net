@@ -1,0 +1,40 @@
+{
+ "id": "draaf",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Draaf",
+  "en": "Draaf"
+ },
+ "full_name": {
+  "fr": "Draaf",
+  "en": "Draaf"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Draaf : plante côtière du Net Book of Herbs dont les feuilles, mangées peu après une blessure, rendent 1d3 PV."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2759
+ }
+}

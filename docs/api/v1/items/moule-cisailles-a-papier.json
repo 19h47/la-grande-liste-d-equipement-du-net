@@ -1,0 +1,39 @@
+{
+ "id": "moule-cisailles-a-papier",
+ "category": "outils",
+ "name": {
+  "fr": "À papier",
+  "en": "Paper"
+ },
+ "full_name": {
+  "fr": "Moule — Cisailles — À papier",
+  "en": "Mold — Shears — Paper"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Cisailles",
+   "en": "Shears"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2583
+ }
+}

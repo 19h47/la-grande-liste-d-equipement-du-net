@@ -1,0 +1,32 @@
+{
+ "id": "sirrush",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Sirrush",
+  "en": "Sirrush"
+ },
+ "full_name": {
+  "fr": "Sirrush",
+  "en": "Sirrush"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "800 po",
+   "en": "800gp"
+  },
+  "min_cp": 80000,
+  "max_cp": 80000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Sirrush : dragon-serpent de la mythologie mésopotamienne, représenté sur la porte d'Ishtar à Babylone."
+  ]
+ },
+ "source": {
+  "table": "X",
+  "line": 1273
+ }
+}

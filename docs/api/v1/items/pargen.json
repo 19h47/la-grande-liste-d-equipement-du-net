@@ -1,0 +1,40 @@
+{
+ "id": "pargen",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Pargen",
+  "en": "Pargen"
+ },
+ "full_name": {
+  "fr": "Pargen",
+  "en": "Pargen"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "2 000 po",
+   "en": "2000gp"
+  },
+  "min_cp": 200000,
+  "max_cp": 200000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "2000 po",
+   "en": "2000gp"
+  },
+  "min_cp": 200000,
+  "max_cp": 200000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Pargen : baie d'un arbre de jungle du Net Book of Herbs, qui ramène un mort à la vie dans les quatre jours."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2813
+ }
+}

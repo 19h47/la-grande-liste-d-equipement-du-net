@@ -1,0 +1,38 @@
+{
+ "id": "bol-a-melanger-equipements-divers",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "À mélanger",
+  "en": "Mixing"
+ },
+ "full_name": {
+  "fr": "Bol — À mélanger",
+  "en": "Bowl — Mixing"
+ },
+ "group": [
+  {
+   "fr": "Bol",
+   "en": "Bowl"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2899
+ }
+}

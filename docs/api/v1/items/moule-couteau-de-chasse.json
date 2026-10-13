@@ -1,0 +1,39 @@
+{
+ "id": "moule-couteau-de-chasse",
+ "category": "outils",
+ "name": {
+  "fr": "De chasse",
+  "en": "Hunting"
+ },
+ "full_name": {
+  "fr": "Moule — Couteau — De chasse",
+  "en": "Mold — Knife — Hunting"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Couteau",
+   "en": "Knife"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2559
+ }
+}

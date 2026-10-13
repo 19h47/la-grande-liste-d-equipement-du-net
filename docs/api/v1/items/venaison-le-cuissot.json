@@ -1,0 +1,30 @@
+{
+ "id": "venaison-le-cuissot",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Venaison, le cuissot",
+  "en": "Venison, per haunch"
+ },
+ "full_name": {
+  "fr": "Venaison, le cuissot",
+  "en": "Venison, per haunch"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 778
+ }
+}

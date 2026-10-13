@@ -1,0 +1,40 @@
+{
+ "id": "sahuagin",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Sahuagin",
+  "en": "Sahuagin"
+ },
+ "full_name": {
+  "fr": "Sahuagin",
+  "en": "Sahuagin"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "100-300 po",
+   "en": "100-300gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "200-400 po",
+   "en": "200-400gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Sahuagin : humanoïde marin féroce, mi-homme mi-requin, surnommé « diable des mers »."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1539
+ }
+}

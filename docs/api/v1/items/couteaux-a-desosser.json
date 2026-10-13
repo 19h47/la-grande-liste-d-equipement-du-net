@@ -1,0 +1,38 @@
+{
+ "id": "couteaux-a-desosser",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "À désosser",
+  "en": "Boning"
+ },
+ "full_name": {
+  "fr": "Couteaux — À désosser",
+  "en": "Knives — Boning"
+ },
+ "group": [
+  {
+   "fr": "Couteaux",
+   "en": "Knives"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3003
+ }
+}

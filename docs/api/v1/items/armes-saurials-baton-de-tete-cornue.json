@@ -1,0 +1,40 @@
+{
+ "id": "armes-saurials-baton-de-tete-cornue",
+ "category": "armes",
+ "name": {
+  "fr": "Bâton de tête-cornue",
+  "en": "Hornhead Staff"
+ },
+ "full_name": {
+  "fr": "Armes saurials — Bâton de tête-cornue",
+  "en": "Saurial Weapons — Hornhead Staff"
+ },
+ "group": [
+  {
+   "fr": "Armes saurials",
+   "en": "Saurial Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Armes saurials : armes des saurials, hommes-lézards des Royaumes oubliés ; dos-de-lame, tête-cornue et tête-crêtée en sont des sous-races."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3695
+ }
+}

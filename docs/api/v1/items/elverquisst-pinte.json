@@ -1,0 +1,40 @@
+{
+ "id": "elverquisst-pinte",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Pinte",
+  "en": "Pint"
+ },
+ "full_name": {
+  "fr": "Elverquisst — Pinte",
+  "en": "Elverquisst — Pint"
+ },
+ "group": [
+  {
+   "fr": "Elverquisst",
+   "en": "Elverquisst"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Elverquisst : spiritueux elfique rare et réputé des Royaumes oubliés."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 349
+ }
+}

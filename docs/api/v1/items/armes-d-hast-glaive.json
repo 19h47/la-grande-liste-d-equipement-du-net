@@ -1,0 +1,40 @@
+{
+ "id": "armes-d-hast-glaive",
+ "category": "armes",
+ "name": {
+  "fr": "Glaive",
+  "en": "Glaive"
+ },
+ "full_name": {
+  "fr": "Armes d'hast — Glaive",
+  "en": "Polearm — Glaive"
+ },
+ "group": [
+  {
+   "fr": "Armes d'hast",
+   "en": "Polearm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Glaive : en AD&D, arme d'hast à large lame de couteau montée sur une hampe, et non une épée courte."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3677
+ }
+}

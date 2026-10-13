@@ -1,0 +1,32 @@
+{
+ "id": "felin-eclipsant",
+ "category": "peaux",
+ "name": {
+  "fr": "Félin éclipsant",
+  "en": "Displacer Beats"
+ },
+ "full_name": {
+  "fr": "Félin éclipsant",
+  "en": "Displacer Beats"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 000 po",
+   "en": "3,000gp"
+  },
+  "min_cp": 300000,
+  "max_cp": 300000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Félin éclipsant : félin à six pattes et tentacules dorsaux, qui paraît se trouver à côté de sa position réelle."
+  ]
+ },
+ "source": {
+  "table": "V",
+  "line": 872
+ }
+}

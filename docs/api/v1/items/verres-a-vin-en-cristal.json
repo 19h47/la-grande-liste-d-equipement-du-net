@@ -1,0 +1,38 @@
+{
+ "id": "verres-a-vin-en-cristal",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En cristal",
+  "en": "Crystal"
+ },
+ "full_name": {
+  "fr": "Verres à vin — En cristal",
+  "en": "Wine glasses — Crystal"
+ },
+ "group": [
+  {
+   "fr": "Verres à vin",
+   "en": "Wine glasses"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "9 pa",
+   "en": "9sp"
+  },
+  "min_cp": 90,
+  "max_cp": 90,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3162
+ }
+}

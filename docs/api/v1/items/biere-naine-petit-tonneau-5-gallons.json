@@ -1,0 +1,38 @@
+{
+ "id": "biere-naine-petit-tonneau-5-gallons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Petit tonneau, 5 gallons",
+  "en": "small barrel, 5 gallons"
+ },
+ "full_name": {
+  "fr": "Bière naine — Petit tonneau, 5 gallons",
+  "en": "Dwarven — small barrel, 5 gallons"
+ },
+ "group": [
+  {
+   "fr": "Bière naine",
+   "en": "Dwarven"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 pp",
+   "en": "10pp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 326
+ }
+}

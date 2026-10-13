@@ -1,0 +1,40 @@
+{
+ "id": "hanaps-en-argent",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En argent",
+  "en": "Silver"
+ },
+ "full_name": {
+  "fr": "Hanaps — En argent",
+  "en": "Tankards — Silver"
+ },
+ "group": [
+  {
+   "fr": "Hanaps",
+   "en": "Tankards"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Hanap : grand vase à boire médiéval, généralement en métal et souvent muni d'un couvercle."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3138
+ }
+}

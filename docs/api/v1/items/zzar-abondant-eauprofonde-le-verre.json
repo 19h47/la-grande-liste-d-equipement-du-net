@@ -1,0 +1,40 @@
+{
+ "id": "zzar-abondant-eauprofonde-le-verre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Le verre",
+  "en": "per glass"
+ },
+ "full_name": {
+  "fr": "Zzar abondant (Eauprofonde) — Le verre",
+  "en": "Plentiful Zzar (Waterdeep) — per glass"
+ },
+ "group": [
+  {
+   "fr": "Zzar abondant (Eauprofonde)",
+   "en": "Plentiful Zzar (Waterdeep)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": [
+   "Zzar : vin liquoreux parfumé à l'amande, spécialité d'Eauprofonde."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 696
+ }
+}

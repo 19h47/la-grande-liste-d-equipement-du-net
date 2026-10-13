@@ -1,0 +1,40 @@
+{
+ "id": "imperatoire",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Impératoire",
+  "en": "Masterwort"
+ },
+ "full_name": {
+  "fr": "Impératoire",
+  "en": "Masterwort"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Impératoire : ombellifère de montagne dont la racine aromatique passait pour une panacée."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2798
+ }
+}

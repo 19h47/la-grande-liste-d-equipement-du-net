@@ -1,0 +1,38 @@
+{
+ "id": "gants-d-archer",
+ "category": "vetements",
+ "name": {
+  "fr": "D'archer",
+  "en": "Archery"
+ },
+ "full_name": {
+  "fr": "Gants — D'archer",
+  "en": "Gloves — Archery"
+ },
+ "group": [
+  {
+   "fr": "Gants",
+   "en": "Gloves"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4-6 po",
+   "en": "4-6gp"
+  },
+  "min_cp": 400,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 168
+ }
+}

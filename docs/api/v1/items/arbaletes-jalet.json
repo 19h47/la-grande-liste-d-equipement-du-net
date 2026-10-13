@@ -1,0 +1,40 @@
+{
+ "id": "arbaletes-jalet",
+ "category": "armes",
+ "name": {
+  "fr": "Jalet",
+  "en": "Pellet"
+ },
+ "full_name": {
+  "fr": "Arbalètes — Jalet",
+  "en": "Crossbow — Pellet"
+ },
+ "group": [
+  {
+   "fr": "Arbalètes",
+   "en": "Crossbow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Jalet : petite balle de pierre ou de terre cuite tirée par l'arbalète à jalet."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3566
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "cornemuse-dudy",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Dudy",
+  "en": "Dudy"
+ },
+ "full_name": {
+  "fr": "Cornemuse — Dudy",
+  "en": "Bagpipes — Dudy"
+ },
+ "group": [
+  {
+   "fr": "Cornemuse",
+   "en": "Bagpipes"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Dudy : cornemuse traditionnelle de Bohême ; la zampogna (ligne suivante) est son équivalent d'Italie du Sud."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3315
+ }
+}

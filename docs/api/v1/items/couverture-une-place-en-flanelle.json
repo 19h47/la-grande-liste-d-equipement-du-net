@@ -1,0 +1,38 @@
+{
+ "id": "couverture-une-place-en-flanelle",
+ "category": "tissus",
+ "name": {
+  "fr": "En flanelle",
+  "en": "Flanel"
+ },
+ "full_name": {
+  "fr": "Couverture une place — En flanelle",
+  "en": "Blanket , single — Flanel"
+ },
+ "group": [
+  {
+   "fr": "Couverture une place",
+   "en": "Blanket , single"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1714
+ }
+}

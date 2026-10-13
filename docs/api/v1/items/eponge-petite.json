@@ -1,0 +1,38 @@
+{
+ "id": "eponge-petite",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Petite",
+  "en": "Small"
+ },
+ "full_name": {
+  "fr": "Éponge — Petite",
+  "en": "Sponge — Small"
+ },
+ "group": [
+  {
+   "fr": "Éponge",
+   "en": "Sponge"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1884
+ }
+}

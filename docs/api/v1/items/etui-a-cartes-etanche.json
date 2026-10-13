@@ -1,0 +1,33 @@
+{
+ "id": "etui-a-cartes-etanche",
+ "category": "contenants",
+ "name": {
+  "fr": "Étui à cartes, étanche",
+  "en": "Mapcase, sealed"
+ },
+ "full_name": {
+  "fr": "Étui à cartes, étanche",
+  "en": "Mapcase, sealed"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "7",
+  "lb": 7
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1416
+ }
+}

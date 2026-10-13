@@ -1,0 +1,33 @@
+{
+ "id": "rateau-lourd",
+ "category": "outils",
+ "name": {
+  "fr": "Râteau lourd",
+  "en": "Rake, Heavy"
+ },
+ "full_name": {
+  "fr": "Râteau lourd",
+  "en": "Rake, Heavy"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2615
+ }
+}

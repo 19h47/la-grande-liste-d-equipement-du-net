@@ -1,0 +1,40 @@
+{
+ "id": "xeres-1-bouteille",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "1 bouteille",
+  "en": "1 bottle"
+ },
+ "full_name": {
+  "fr": "Xérès — 1 bouteille",
+  "en": "Sherry — 1 bottle"
+ },
+ "group": [
+  {
+   "fr": "Xérès",
+   "en": "Sherry"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Xérès : vin blanc muté d'Andalousie, appelé sherry en anglais."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 411
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "lampe-a-huile-en-onyx-sculpte",
+ "category": "eclairage",
+ "name": {
+  "fr": "En onyx sculpté",
+  "en": "Carved Onyx"
+ },
+ "full_name": {
+  "fr": "Lampe à huile — En onyx sculpté",
+  "en": "Oil Lamp — Carved Onyx"
+ },
+ "group": [
+  {
+   "fr": "Lampe à huile",
+   "en": "Oil Lamp"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "9 pa",
+   "en": "9sp"
+  },
+  "min_cp": 90,
+  "max_cp": 90,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2683
+ }
+}

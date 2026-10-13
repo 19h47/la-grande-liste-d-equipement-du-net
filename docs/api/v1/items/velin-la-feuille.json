@@ -1,0 +1,33 @@
+{
+ "id": "velin-la-feuille",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "Vélin, la feuille",
+  "en": "Vellum, per sheet"
+ },
+ "full_name": {
+  "fr": "Vélin, la feuille",
+  "en": "Vellum, per sheet"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1961
+ }
+}

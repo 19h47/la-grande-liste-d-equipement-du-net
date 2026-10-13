@@ -1,0 +1,40 @@
+{
+ "id": "lanterne-a-capote-rayon-de-30-pieds-3-volets",
+ "category": "eclairage",
+ "name": {
+  "fr": "À capote, rayon de 30 pieds, 3 volets",
+  "en": "Hooded, 30' radius w/3 flaps"
+ },
+ "full_name": {
+  "fr": "Lanterne — À capote, rayon de 30 pieds, 3 volets",
+  "en": "Lantern — Hooded, 30' radius w/3 flaps"
+ },
+ "group": [
+  {
+   "fr": "Lanterne",
+   "en": "Lantern"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pe",
+   "en": "7ep"
+  },
+  "min_cp": 350,
+  "max_cp": 350,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "À capote : lanterne munie d'un couvercle à volets permettant de masquer ou d'orienter la lumière."
+  ]
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2671
+ }
+}

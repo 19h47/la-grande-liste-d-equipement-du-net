@@ -1,0 +1,30 @@
+{
+ "id": "brandons",
+ "category": "armes",
+ "name": {
+  "fr": "Brandons",
+  "en": "Firebrands"
+ },
+ "full_name": {
+  "fr": "Brandons",
+  "en": "Firebrands"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3611
+ }
+}

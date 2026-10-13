@@ -1,0 +1,40 @@
+{
+ "id": "ebur",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Ebur",
+  "en": "Ebur"
+ },
+ "full_name": {
+  "fr": "Ebur",
+  "en": "Ebur"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "22 po",
+   "en": "22gp"
+  },
+  "min_cp": 2200,
+  "max_cp": 2200,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "22 po",
+   "en": "22gp"
+  },
+  "min_cp": 2200,
+  "max_cp": 2200,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Ebur : plante côtière du Net Book of Herbs, dont les fleurs doublent la vitesse de guérison des entorses."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2762
+ }
+}

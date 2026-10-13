@@ -1,0 +1,40 @@
+{
+ "id": "cou-de-massue",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Cou-de-massue",
+  "en": "Clubneck"
+ },
+ "full_name": {
+  "fr": "Cou-de-massue",
+  "en": "Clubneck"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "50-80 po",
+   "en": "50-80gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "50-80 po",
+   "en": "50-80gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Cou-de-massue : grand oiseau coureur incapable de voler, sorte d'autruche mutante (Fiend Folio)."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1493
+ }
+}

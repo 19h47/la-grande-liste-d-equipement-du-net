@@ -1,0 +1,38 @@
+{
+ "id": "spelljammers-et-equipement-demoiselle",
+ "category": "transports",
+ "name": {
+  "fr": "Demoiselle",
+  "en": "Damselfly"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Demoiselle",
+  "en": "Spelljammers and equipment — Damselfly"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 000 po",
+   "en": "50,000gp"
+  },
+  "min_cp": 5000000,
+  "max_cp": 5000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Demoiselle : modèle de spelljammer nommé « Damselfly » en VO."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1002
+ }
+}

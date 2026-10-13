@@ -1,0 +1,33 @@
+{
+ "id": "porte-fioles-pour-6-fioles",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Porte-fioles, pour 6 fioles",
+  "en": "Vial Rack, holds 6 vials"
+ },
+ "full_name": {
+  "fr": "Porte-fioles, pour 6 fioles",
+  "en": "Vial Rack, holds 6 vials"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1897
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "repas-a-l-unite-hareng-poele",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Hareng poêlé",
+  "en": "Herring, pan fried"
+ },
+ "full_name": {
+  "fr": "Repas (à l'unité) — Hareng poêlé",
+  "en": "Meals (individual) — Herring, pan fried"
+ },
+ "group": [
+  {
+   "fr": "Repas (à l'unité)",
+   "en": "Meals (individual)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 385
+ }
+}

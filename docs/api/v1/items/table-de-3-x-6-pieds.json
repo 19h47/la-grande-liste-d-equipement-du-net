@@ -1,0 +1,33 @@
+{
+ "id": "table-de-3-x-6-pieds",
+ "category": "mobilier",
+ "name": {
+  "fr": "Table de 3 x 6 pieds",
+  "en": "Table, 3' x 6'"
+ },
+ "full_name": {
+  "fr": "Table de 3 x 6 pieds",
+  "en": "Table, 3' x 6'"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "30",
+  "lb": 30
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1594
+ }
+}

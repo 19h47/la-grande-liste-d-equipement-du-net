@@ -1,0 +1,38 @@
+{
+ "id": "flute-double-a-bec",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Flûte double à bec",
+  "en": "Double fipple"
+ },
+ "full_name": {
+  "fr": "Famille des flûtes — Flûte double à bec",
+  "en": "Flute Family — Double fipple"
+ },
+ "group": [
+  {
+   "fr": "Famille des flûtes",
+   "en": "Flute Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3364
+ }
+}

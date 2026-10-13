@@ -1,0 +1,30 @@
+{
+ "id": "blanchissage-par-panier",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Blanchissage (par panier)",
+  "en": "Laundry (by Load)"
+ },
+ "full_name": {
+  "fr": "Blanchissage (par panier)",
+  "en": "Laundry (by Load)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2410
+ }
+}

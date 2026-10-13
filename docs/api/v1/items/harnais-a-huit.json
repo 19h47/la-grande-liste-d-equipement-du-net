@@ -1,0 +1,38 @@
+{
+ "id": "harnais-a-huit",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "À huit",
+  "en": "Eight"
+ },
+ "full_name": {
+  "fr": "Harnais — À huit",
+  "en": "Harness — Eight"
+ },
+ "group": [
+  {
+   "fr": "Harnais",
+   "en": "Harness"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "22 po",
+   "en": "22gp"
+  },
+  "min_cp": 2200,
+  "max_cp": 2200,
+  "plus": false
+ },
+ "weight": {
+  "text": "60",
+  "lb": 60
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1062
+ }
+}

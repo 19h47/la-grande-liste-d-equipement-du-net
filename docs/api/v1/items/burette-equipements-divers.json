@@ -1,0 +1,35 @@
+{
+ "id": "burette-equipements-divers",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Burette",
+  "en": "Cruet"
+ },
+ "full_name": {
+  "fr": "Burette",
+  "en": "Cruet"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": [
+   "Burette : petit flacon à bec contenant huile ou vinaigre à table, ou l'eau et le vin de la messe."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2944
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "champignons-l-once",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Champignons, l'once",
+  "en": "Mushrooms, per oz"
+ },
+ "full_name": {
+  "fr": "Champignons, l'once",
+  "en": "Mushrooms, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 657
+ }
+}

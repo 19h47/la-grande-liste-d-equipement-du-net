@@ -1,0 +1,38 @@
+{
+ "id": "pinceau-large",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "Large",
+  "en": "Wide"
+ },
+ "full_name": {
+  "fr": "Pinceau — Large",
+  "en": "Brush, Paint — Wide"
+ },
+ "group": [
+  {
+   "fr": "Pinceau",
+   "en": "Brush, Paint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1945
+ }
+}

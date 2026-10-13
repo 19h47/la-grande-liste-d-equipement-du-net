@@ -1,0 +1,30 @@
+{
+ "id": "changement-de-plan",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Changement de plan",
+  "en": "Plane Shift"
+ },
+ "full_name": {
+  "fr": "Changement de plan",
+  "en": "Plane Shift"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "Spécial",
+   "en": "Special"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3236
+ }
+}

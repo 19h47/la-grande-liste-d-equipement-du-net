@@ -1,0 +1,38 @@
+{
+ "id": "carafe-en-cristal-contenance-32-onces",
+ "category": "contenants",
+ "name": {
+  "fr": "En cristal, contenance 32 onces",
+  "en": "Crystal, holds 32oz"
+ },
+ "full_name": {
+  "fr": "Carafe — En cristal, contenance 32 onces",
+  "en": "Carafe — Crystal, holds 32oz"
+ },
+ "group": [
+  {
+   "fr": "Carafe",
+   "en": "Carafe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1348
+ }
+}

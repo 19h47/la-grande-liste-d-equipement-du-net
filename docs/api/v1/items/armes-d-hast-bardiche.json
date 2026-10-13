@@ -1,0 +1,40 @@
+{
+ "id": "armes-d-hast-bardiche",
+ "category": "armes",
+ "name": {
+  "fr": "Bardiche",
+  "en": "Bardiche"
+ },
+ "full_name": {
+  "fr": "Armes d'hast — Bardiche",
+  "en": "Polearm — Bardiche"
+ },
+ "group": [
+  {
+   "fr": "Armes d'hast",
+   "en": "Polearm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": [
+   "Bardiche : arme d'hast à longue lame de hache en croissant, d'origine russe."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3672
+ }
+}

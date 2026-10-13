@@ -1,0 +1,35 @@
+{
+ "id": "commis-aux-ecritures-par-mois",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Par mois",
+  "en": "per Month"
+ },
+ "full_name": {
+  "fr": "Commis aux écritures — Par mois",
+  "en": "Clerk — per Month"
+ },
+ "group": [
+  {
+   "fr": "Commis aux écritures",
+   "en": "Clerk"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2380
+ }
+}

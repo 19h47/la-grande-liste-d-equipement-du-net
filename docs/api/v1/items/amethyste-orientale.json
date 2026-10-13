@@ -1,0 +1,32 @@
+{
+ "id": "amethyste-orientale",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Améthyste orientale",
+  "en": "Oeriental Amethyst"
+ },
+ "full_name": {
+  "fr": "Améthyste orientale",
+  "en": "Oeriental Amethyst"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Améthyste, émeraude, topaze « orientales » : en réalité des corindons (saphirs) de la couleur de la pierre dont ils portent le nom."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2224
+ }
+}

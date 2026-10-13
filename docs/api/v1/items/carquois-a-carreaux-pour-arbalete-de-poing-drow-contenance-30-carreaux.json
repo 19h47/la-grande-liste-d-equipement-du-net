@@ -1,0 +1,42 @@
+{
+ "id": "carquois-a-carreaux-pour-arbalete-de-poing-drow-contenance-30-carreaux",
+ "category": "contenants",
+ "name": {
+  "fr": "Pour arbalète de poing drow, contenance 30 carreaux",
+  "en": "Hand, Drow, Holds 30 quarrels"
+ },
+ "full_name": {
+  "fr": "Carquois — À carreaux — Pour arbalète de poing drow, contenance 30 carreaux",
+  "en": "Quiver — Quarrel — Hand, Drow, Holds 30 quarrels"
+ },
+ "group": [
+  {
+   "fr": "Carquois",
+   "en": "Quiver"
+  },
+  {
+   "fr": "À carreaux",
+   "en": "Quarrel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1433
+ }
+}

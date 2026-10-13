@@ -1,0 +1,38 @@
+{
+ "id": "miroir-en-argent-grand-9-x-6-pouces",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En argent, grand, 9 x 6 pouces",
+  "en": "Silver, large, 9\" x 6\""
+ },
+ "full_name": {
+  "fr": "Miroir — En argent, grand, 9 x 6 pouces",
+  "en": "Mirror — Silver, large, 9\" x 6\""
+ },
+ "group": [
+  {
+   "fr": "Miroir",
+   "en": "Mirror"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "8 po",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3032
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "epees-cimeterre",
+ "category": "armes",
+ "name": {
+  "fr": "Cimeterre",
+  "en": "Scimitar"
+ },
+ "full_name": {
+  "fr": "Épées — Cimeterre",
+  "en": "Sword — Scimitar"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3722
+ }
+}

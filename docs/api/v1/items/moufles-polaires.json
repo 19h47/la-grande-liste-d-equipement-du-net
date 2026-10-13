@@ -1,0 +1,38 @@
+{
+ "id": "moufles-polaires",
+ "category": "vetements",
+ "name": {
+  "fr": "Polaires",
+  "en": "Arctic"
+ },
+ "full_name": {
+  "fr": "Moufles — Polaires",
+  "en": "Mittens — Arctic"
+ },
+ "group": [
+  {
+   "fr": "Moufles",
+   "en": "Mittens"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 231
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "lit-une-place",
+ "category": "mobilier",
+ "name": {
+  "fr": "Une place",
+  "en": "Single"
+ },
+ "full_name": {
+  "fr": "Lit — Une place",
+  "en": "Bed — Single"
+ },
+ "group": [
+  {
+   "fr": "Lit",
+   "en": "Bed"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1562
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "toupies-jouets-le-lot-de-5",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Toupies (jouets), le lot de 5",
+  "en": "Tops, toys, per 5"
+ },
+ "full_name": {
+  "fr": "Toupies (jouets), le lot de 5",
+  "en": "Tops, toys, per 5"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3143
+ }
+}

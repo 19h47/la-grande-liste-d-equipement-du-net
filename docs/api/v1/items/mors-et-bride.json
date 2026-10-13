@@ -1,0 +1,35 @@
+{
+ "id": "mors-et-bride",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Mors et bride",
+  "en": "Bit & Bridle"
+ },
+ "full_name": {
+  "fr": "Mors et bride",
+  "en": "Bit & Bridle"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Mors et bride : le mors est la pièce de métal placée dans la bouche du cheval, reliée aux rênes par la bride."
+  ]
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1053
+ }
+}

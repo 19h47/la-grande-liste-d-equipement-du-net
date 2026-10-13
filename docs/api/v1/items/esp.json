@@ -1,0 +1,32 @@
+{
+ "id": "esp",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "ESP",
+  "en": "ESP"
+ },
+ "full_name": {
+  "fr": "ESP",
+  "en": "ESP"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "ESP : sort permettant de percevoir les pensées superficielles des créatures proches (de l'anglais « extra-sensory perception »)."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3219
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "zibeline-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Zibeline — Garniture",
+  "en": "Sable — Trim"
+ },
+ "group": [
+  {
+   "fr": "Zibeline",
+   "en": "Sable"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Zibeline : martre de Sibérie dont la fourrure brune est l'une des plus précieuses."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1207
+ }
+}

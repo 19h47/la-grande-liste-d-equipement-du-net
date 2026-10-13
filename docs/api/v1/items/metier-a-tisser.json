@@ -1,0 +1,33 @@
+{
+ "id": "metier-a-tisser",
+ "category": "outils",
+ "name": {
+  "fr": "Métier à tisser",
+  "en": "Loom"
+ },
+ "full_name": {
+  "fr": "Métier à tisser",
+  "en": "Loom"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3-7 po",
+   "en": "3-7gp"
+  },
+  "min_cp": 300,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "35",
+  "lb": 35
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2519
+ }
+}

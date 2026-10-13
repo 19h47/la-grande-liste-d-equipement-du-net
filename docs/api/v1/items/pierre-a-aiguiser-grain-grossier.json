@@ -1,0 +1,33 @@
+{
+ "id": "pierre-a-aiguiser-grain-grossier",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Pierre à aiguiser (grain grossier)",
+  "en": "Whetstone (course)"
+ },
+ "full_name": {
+  "fr": "Pierre à aiguiser (grain grossier)",
+  "en": "Whetstone (course)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3153
+ }
+}

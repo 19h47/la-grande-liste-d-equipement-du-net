@@ -1,0 +1,40 @@
+{
+ "id": "arkasu",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Arkasu",
+  "en": "Arkasu"
+ },
+ "full_name": {
+  "fr": "Arkasu",
+  "en": "Arkasu"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Arkasu : plante de prairie du Net Book of Herbs, dont la sève double la vitesse de guérison des blessures."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2710
+ }
+}

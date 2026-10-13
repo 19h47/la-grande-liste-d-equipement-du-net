@@ -1,0 +1,40 @@
+{
+ "id": "peluda",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Peluda",
+  "en": "Peluda"
+ },
+ "full_name": {
+  "fr": "Peluda",
+  "en": "Peluda"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "20 000 po",
+   "en": "20,000gp"
+  },
+  "min_cp": 2000000,
+  "max_cp": 2000000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "40 000 po",
+   "en": "40,000gp"
+  },
+  "min_cp": 4000000,
+  "max_cp": 4000000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Peluda : la « Velue », dragon légendaire de La Ferté-Bernard, couvert de longs poils et de piquants venimeux."
+  ]
+ },
+ "source": {
+  "table": "X",
+  "line": 1270
+ }
+}

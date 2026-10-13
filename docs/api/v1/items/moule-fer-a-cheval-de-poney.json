@@ -1,0 +1,39 @@
+{
+ "id": "moule-fer-a-cheval-de-poney",
+ "category": "outils",
+ "name": {
+  "fr": "De poney",
+  "en": "Pony"
+ },
+ "full_name": {
+  "fr": "Moule — Fer à cheval — De poney",
+  "en": "Mold — Horseshoe — Pony"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Fer à cheval",
+   "en": "Horseshoe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2552
+ }
+}

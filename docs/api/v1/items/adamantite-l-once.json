@@ -1,0 +1,32 @@
+{
+ "id": "adamantite-l-once",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Adamantite, l'once",
+  "en": "Adamantite, per oz"
+ },
+ "full_name": {
+  "fr": "Adamantite, l'once",
+  "en": "Adamantite, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Adamantite : métal légendaire d'une dureté extrême ; dans AD&D, les drows en tirent notamment leurs armes et armures."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 1970
+ }
+}

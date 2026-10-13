@@ -1,0 +1,30 @@
+{
+ "id": "autour-grand",
+ "category": "animaux",
+ "name": {
+  "fr": "Autour, grand",
+  "en": "Hawk, Large"
+ },
+ "full_name": {
+  "fr": "Autour, grand",
+  "en": "Hawk, Large"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1671
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "scie-a-dos",
+ "category": "outils",
+ "name": {
+  "fr": "Scie à dos",
+  "en": "Backsaw"
+ },
+ "full_name": {
+  "fr": "Scie à dos",
+  "en": "Backsaw"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Scie à dos : scie courte à denture fine, dont la lame mince est rigidifiée par un renfort métallique sur le dos."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2459
+ }
+}

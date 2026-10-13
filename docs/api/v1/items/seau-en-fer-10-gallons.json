@@ -1,0 +1,38 @@
+{
+ "id": "seau-en-fer-10-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En fer, 10 gallons",
+  "en": "Iron, 10 gallons"
+ },
+ "full_name": {
+  "fr": "Seau — En fer, 10 gallons",
+  "en": "Bucket — Iron, 10 gallons"
+ },
+ "group": [
+  {
+   "fr": "Seau",
+   "en": "Bucket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "17",
+  "lb": 17
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1340
+ }
+}

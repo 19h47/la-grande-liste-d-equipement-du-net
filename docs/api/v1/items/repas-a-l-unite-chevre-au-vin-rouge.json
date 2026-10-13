@@ -1,0 +1,38 @@
+{
+ "id": "repas-a-l-unite-chevre-au-vin-rouge",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Chèvre (au vin rouge)",
+  "en": "Goat (in red wine)"
+ },
+ "full_name": {
+  "fr": "Repas (à l'unité) — Chèvre (au vin rouge)",
+  "en": "Meals (individual) — Goat (in red wine)"
+ },
+ "group": [
+  {
+   "fr": "Repas (à l'unité)",
+   "en": "Meals (individual)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 384
+ }
+}

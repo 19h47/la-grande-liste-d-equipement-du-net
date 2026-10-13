@@ -1,0 +1,38 @@
+{
+ "id": "confitures-la-pinte-de-sureau",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De sureau",
+  "en": "elderberry"
+ },
+ "full_name": {
+  "fr": "Confitures, la pinte — De sureau",
+  "en": "Jam, per pint — elderberry"
+ },
+ "group": [
+  {
+   "fr": "Confitures, la pinte",
+   "en": "Jam, per pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 613
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "fusee-de-signalisation-sifflante",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Fusée de signalisation (sifflante)",
+  "en": "Rocket Signal (Whistle)"
+ },
+ "full_name": {
+  "fr": "Fusée de signalisation (sifflante)",
+  "en": "Rocket Signal (Whistle)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pe",
+   "en": "1ep"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1790
+ }
+}

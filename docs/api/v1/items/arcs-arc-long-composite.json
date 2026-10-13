@@ -1,0 +1,38 @@
+{
+ "id": "arcs-arc-long-composite",
+ "category": "armes",
+ "name": {
+  "fr": "Arc long composite",
+  "en": "Composite Long Bow"
+ },
+ "full_name": {
+  "fr": "Arcs — Arc long composite",
+  "en": "Bow — Composite Long Bow"
+ },
+ "group": [
+  {
+   "fr": "Arcs",
+   "en": "Bow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3543
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "arfandas",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Arfandas",
+  "en": "Arfandas"
+ },
+ "full_name": {
+  "fr": "Arfandas",
+  "en": "Arfandas"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Arfandas : herbe de rivière issue de MERP, dont la tige liée au pansement d'une fracture double sa vitesse de guérison."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2709
+ }
+}

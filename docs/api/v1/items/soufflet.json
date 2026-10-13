@@ -1,0 +1,33 @@
+{
+ "id": "soufflet",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Soufflet",
+  "en": "Bellows"
+ },
+ "full_name": {
+  "fr": "Soufflet",
+  "en": "Bellows"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2885
+ }
+}

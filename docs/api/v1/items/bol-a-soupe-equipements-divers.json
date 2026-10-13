@@ -1,0 +1,38 @@
+{
+ "id": "bol-a-soupe-equipements-divers",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "À soupe",
+  "en": "Soup"
+ },
+ "full_name": {
+  "fr": "Bol — À soupe",
+  "en": "Bowl — Soup"
+ },
+ "group": [
+  {
+   "fr": "Bol",
+   "en": "Bowl"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pc",
+   "en": "8cp"
+  },
+  "min_cp": 8,
+  "max_cp": 8,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2901
+ }
+}

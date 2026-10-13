@@ -1,0 +1,30 @@
+{
+ "id": "sanglier",
+ "category": "animaux",
+ "name": {
+  "fr": "Sanglier",
+  "en": "Boar"
+ },
+ "full_name": {
+  "fr": "Sanglier",
+  "en": "Boar"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1635
+ }
+}

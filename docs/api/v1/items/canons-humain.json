@@ -1,0 +1,40 @@
+{
+ "id": "canons-humain",
+ "category": "vetements",
+ "name": {
+  "fr": "Humain",
+  "en": "Human"
+ },
+ "full_name": {
+  "fr": "Canons — Humain",
+  "en": "Cannons — Human"
+ },
+ "group": [
+  {
+   "fr": "Canons",
+   "en": "Cannons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Canons : ornements de tissu ou de dentelle portés autour du genou, au bas des hauts-de-chausses."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 119
+ }
+}

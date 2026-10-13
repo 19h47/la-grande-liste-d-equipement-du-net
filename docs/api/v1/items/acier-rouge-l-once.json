@@ -1,0 +1,32 @@
+{
+ "id": "acier-rouge-l-once",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Acier rouge, l'once",
+  "en": "Red Steel, per ounce"
+ },
+ "full_name": {
+  "fr": "Acier rouge, l'once",
+  "en": "Red Steel, per ounce"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Acier rouge : métal du décor Red Steel (Mystara), issu du cinnabryl épuisé, plus léger et plus résistant que l'acier."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2254
+ }
+}

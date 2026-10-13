@@ -1,0 +1,38 @@
+{
+ "id": "poupee-en-porcelaine",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En porcelaine",
+  "en": "Porcelain"
+ },
+ "full_name": {
+  "fr": "Poupée — En porcelaine",
+  "en": "Doll — Porcelain"
+ },
+ "group": [
+  {
+   "fr": "Poupée",
+   "en": "Doll"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2971
+ }
+}

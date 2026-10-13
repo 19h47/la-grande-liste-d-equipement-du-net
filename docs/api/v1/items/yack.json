@@ -1,0 +1,30 @@
+{
+ "id": "yack",
+ "category": "animaux",
+ "name": {
+  "fr": "Yack",
+  "en": "Yak"
+ },
+ "full_name": {
+  "fr": "Yack",
+  "en": "Yak"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "9 po",
+   "en": "9gp"
+  },
+  "min_cp": 900,
+  "max_cp": 900,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1701
+ }
+}

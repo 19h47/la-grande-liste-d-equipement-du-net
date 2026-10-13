@@ -1,0 +1,35 @@
+{
+ "id": "chiens-de-guerre",
+ "category": "animaux",
+ "name": {
+  "fr": "De guerre",
+  "en": "War"
+ },
+ "full_name": {
+  "fr": "Chiens — De guerre",
+  "en": "Dog — War"
+ },
+ "group": [
+  {
+   "fr": "Chiens",
+   "en": "Dog"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1657
+ }
+}

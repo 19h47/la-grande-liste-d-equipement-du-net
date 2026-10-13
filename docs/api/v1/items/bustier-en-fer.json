@@ -1,0 +1,38 @@
+{
+ "id": "bustier-en-fer",
+ "category": "armures",
+ "name": {
+  "fr": "En fer",
+  "en": "Iron"
+ },
+ "full_name": {
+  "fr": "Bustier — En fer",
+  "en": "Bustier — Iron"
+ },
+ "group": [
+  {
+   "fr": "Bustier",
+   "en": "Bustier"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "11",
+  "lb": 11
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3772
+ }
+}

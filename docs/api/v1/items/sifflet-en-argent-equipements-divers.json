@@ -1,0 +1,38 @@
+{
+ "id": "sifflet-en-argent-equipements-divers",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En argent",
+  "en": "Silver"
+ },
+ "full_name": {
+  "fr": "Sifflet — En argent",
+  "en": "Whistle — Silver"
+ },
+ "group": [
+  {
+   "fr": "Sifflet",
+   "en": "Whistle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pe",
+   "en": "1ep"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3159
+ }
+}

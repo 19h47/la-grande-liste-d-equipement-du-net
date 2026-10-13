@@ -1,0 +1,30 @@
+{
+ "id": "guerison-des-maladies",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Guérison des maladies",
+  "en": "Cure Disease"
+ },
+ "full_name": {
+  "fr": "Guérison des maladies",
+  "en": "Cure Disease"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3210
+ }
+}

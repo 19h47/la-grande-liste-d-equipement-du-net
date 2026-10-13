@@ -1,0 +1,35 @@
+{
+ "id": "coque-de-navire-materiaux-renforces-par-tonneau-de-jauge",
+ "category": "armures",
+ "name": {
+  "fr": "Matériaux renforcés, par tonneau de jauge",
+  "en": "Stronger Materials, per ship tonage"
+ },
+ "full_name": {
+  "fr": "Coque de navire — Matériaux renforcés, par tonneau de jauge",
+  "en": "Hull, ship — Stronger Materials, per ship tonage"
+ },
+ "group": [
+  {
+   "fr": "Coque de navire",
+   "en": "Hull, ship"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3805
+ }
+}

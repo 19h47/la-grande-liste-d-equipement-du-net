@@ -1,0 +1,40 @@
+{
+ "id": "pourpoint-halfelin",
+ "category": "vetements",
+ "name": {
+  "fr": "Halfelin",
+  "en": "Halfling"
+ },
+ "full_name": {
+  "fr": "Pourpoint — Halfelin",
+  "en": "Doublet — Halfling"
+ },
+ "group": [
+  {
+   "fr": "Pourpoint",
+   "en": "Doublet"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Pourpoint : veste courte et matelassée couvrant le torse du cou à la taille."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 146
+ }
+}

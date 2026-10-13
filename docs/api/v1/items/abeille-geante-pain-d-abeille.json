@@ -1,0 +1,32 @@
+{
+ "id": "abeille-geante-pain-d-abeille",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Abeille géante (pain d'abeille)",
+  "en": "Bee, giant (bread)"
+ },
+ "full_name": {
+  "fr": "Abeille géante (pain d'abeille)",
+  "en": "Bee, giant (bread)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Pain d'abeille : mélange de pollen et de miel stocké dans la ruche pour nourrir les larves."
+  ]
+ },
+ "source": {
+  "table": "VI",
+  "line": 899
+ }
+}

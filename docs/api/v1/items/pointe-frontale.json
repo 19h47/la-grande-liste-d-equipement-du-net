@@ -1,0 +1,33 @@
+{
+ "id": "pointe-frontale",
+ "category": "armes",
+ "name": {
+  "fr": "Pointe frontale",
+  "en": "Head Spike"
+ },
+ "full_name": {
+  "fr": "Pointe frontale",
+  "en": "Head Spike"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3627
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "herbe-aux-chats-1-brin",
+ "category": "epices",
+ "name": {
+  "fr": "Herbe aux chats, 1 brin",
+  "en": "Catnip, 1 sprig"
+ },
+ "full_name": {
+  "fr": "Herbe aux chats, 1 brin",
+  "en": "Catnip, 1 sprig"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 pc",
+   "en": "20cp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 811
+ }
+}

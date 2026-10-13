@@ -1,0 +1,38 @@
+{
+ "id": "clavicembalo-clavecin-italien",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Clavicembalo (clavecin italien)",
+  "en": "Clavicembalo"
+ },
+ "full_name": {
+  "fr": "Claviers — Clavicembalo (clavecin italien)",
+  "en": "Keyboard — Clavicembalo"
+ },
+ "group": [
+  {
+   "fr": "Claviers",
+   "en": "Keyboard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "weight": {
+  "text": "90",
+  "lb": 90
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3410
+ }
+}

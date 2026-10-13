@@ -1,0 +1,40 @@
+{
+ "id": "zulsendra",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Zulsendra",
+  "en": "Zulsendra"
+ },
+ "full_name": {
+  "fr": "Zulsendra",
+  "en": "Zulsendra"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "70 po",
+   "en": "70gp"
+  },
+  "min_cp": 7000,
+  "max_cp": 7000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "70 po",
+   "en": "70gp"
+  },
+  "min_cp": 7000,
+  "max_cp": 7000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Zulsendra : plante souterraine du Net Book of Herbs qui double déplacement et attaques pendant trois rounds, puis épuise."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2848
+ }
+}

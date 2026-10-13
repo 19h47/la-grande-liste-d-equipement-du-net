@@ -1,0 +1,40 @@
+{
+ "id": "epees-sabre-d-abordage",
+ "category": "armes",
+ "name": {
+  "fr": "Sabre d'abordage",
+  "en": "Cutlass"
+ },
+ "full_name": {
+  "fr": "Épées — Sabre d'abordage",
+  "en": "Sword — Cutlass"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Sabre d'abordage : sabre court à lame épaisse des marins, servant à la fois d'arme et d'outil."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3708
+ }
+}

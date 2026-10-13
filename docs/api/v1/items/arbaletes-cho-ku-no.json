@@ -1,0 +1,40 @@
+{
+ "id": "arbaletes-cho-ku-no",
+ "category": "armes",
+ "name": {
+  "fr": "Cho-ku-no",
+  "en": "Cho-ku-no"
+ },
+ "full_name": {
+  "fr": "Arbalètes — Cho-ku-no",
+  "en": "Crossbow — Cho-ku-no"
+ },
+ "group": [
+  {
+   "fr": "Arbalètes",
+   "en": "Crossbow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": [
+   "Cho-ku-no : arbalète à répétition chinoise, munie d'un magasin de carreaux actionné par un levier."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3557
+ }
+}

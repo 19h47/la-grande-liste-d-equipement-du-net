@@ -1,0 +1,37 @@
+{
+ "id": "sardonyx-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Sardonyx — De la taille d'un raisin",
+  "en": "Sardonyx — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Sardonyx",
+   "en": "Sardonyx"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Sardonyx : agate à bandes parallèles alternant le brun-rouge (sardoine) et le blanc."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2270
+ }
+}

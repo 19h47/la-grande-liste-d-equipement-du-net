@@ -1,0 +1,35 @@
+{
+ "id": "lynx-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Lynx — Manteau, robe, couverture",
+  "en": "Lynx — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Lynx",
+   "en": "Lynx"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "250 po",
+   "en": "250gp"
+  },
+  "min_cp": 25000,
+  "max_cp": 25000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1166
+ }
+}

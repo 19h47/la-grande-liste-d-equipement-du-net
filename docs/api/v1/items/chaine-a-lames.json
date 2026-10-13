@@ -1,0 +1,30 @@
+{
+ "id": "chaine-a-lames",
+ "category": "armes",
+ "name": {
+  "fr": "Chaîne à lames",
+  "en": "Chain Blade"
+ },
+ "full_name": {
+  "fr": "Chaîne à lames",
+  "en": "Chain Blade"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3552
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "tambours-parlants",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Tambours parlants",
+  "en": "Talking drums"
+ },
+ "full_name": {
+  "fr": "Tambours — Tambours parlants",
+  "en": "Drums — Talking drums"
+ },
+ "group": [
+  {
+   "fr": "Tambours",
+   "en": "Drums"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": [
+   "Tambours parlants : tambours d'Afrique de l'Ouest en sablier, dont on module la hauteur pour imiter les intonations de la parole."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3350
+ }
+}

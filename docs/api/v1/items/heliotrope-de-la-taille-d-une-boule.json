@@ -1,0 +1,37 @@
+{
+ "id": "heliotrope-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Héliotrope — De la taille d'une boule",
+  "en": "Bloodstone — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Héliotrope",
+   "en": "Bloodstone"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Héliotrope : calcédoine vert sombre tachetée de rouge, dite aussi « pierre de sang »."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2017
+ }
+}

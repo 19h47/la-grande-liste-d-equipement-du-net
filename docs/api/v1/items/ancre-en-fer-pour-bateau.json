@@ -1,0 +1,38 @@
+{
+ "id": "ancre-en-fer-pour-bateau",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Pour bateau",
+  "en": "Boat"
+ },
+ "full_name": {
+  "fr": "Ancre en fer — Pour bateau",
+  "en": "Anchor, Iron — Boat"
+ },
+ "group": [
+  {
+   "fr": "Ancre en fer",
+   "en": "Anchor, Iron"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2858
+ }
+}

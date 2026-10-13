@@ -1,0 +1,40 @@
+{
+ "id": "epine-vinette",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Épine-vinette",
+  "en": "Barberry"
+ },
+ "full_name": {
+  "fr": "Épine-vinette",
+  "en": "Barberry"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "9 po",
+   "en": "9gp"
+  },
+  "min_cp": 900,
+  "max_cp": 900,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Épine-vinette : arbuste épineux à baies rouges acides."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2721
+ }
+}

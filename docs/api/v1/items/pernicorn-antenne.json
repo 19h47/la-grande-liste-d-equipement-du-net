@@ -1,0 +1,30 @@
+{
+ "id": "pernicorn-antenne",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Pernicorn (antenne)",
+  "en": "Pernicorn (antenna)"
+ },
+ "full_name": {
+  "fr": "Pernicorn (antenne)",
+  "en": "Pernicorn (antenna)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "350 po",
+   "en": "350gp"
+  },
+  "min_cp": 35000,
+  "max_cp": 35000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VI",
+  "line": 927
+ }
+}

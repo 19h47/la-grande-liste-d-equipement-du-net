@@ -1,0 +1,38 @@
+{
+ "id": "baguettes-de-verre-grandes",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Grandes",
+  "en": "Large"
+ },
+ "full_name": {
+  "fr": "Baguettes de verre — Grandes",
+  "en": "Glass Rods — Large"
+ },
+ "group": [
+  {
+   "fr": "Baguettes de verre",
+   "en": "Glass Rods"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1857
+ }
+}

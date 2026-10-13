@@ -1,0 +1,42 @@
+{
+ "id": "carquois-a-carreaux-pour-arbalete-a-6-coups-de-cinamarron-contenance-18-carreaux",
+ "category": "contenants",
+ "name": {
+  "fr": "Pour arbalète à 6 coups de Cinamarron, contenance 18 carreaux",
+  "en": "6-shooter, Cinamarron, cap. 18 quarrels"
+ },
+ "full_name": {
+  "fr": "Carquois — À carreaux — Pour arbalète à 6 coups de Cinamarron, contenance 18 carreaux",
+  "en": "Quiver — Quarrel — 6-shooter, Cinamarron, cap. 18 quarrels"
+ },
+ "group": [
+  {
+   "fr": "Carquois",
+   "en": "Quiver"
+  },
+  {
+   "fr": "À carreaux",
+   "en": "Quarrel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1434
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "cadran-solaire-en-bronze",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En bronze",
+  "en": "Bronze"
+ },
+ "full_name": {
+  "fr": "Cadran solaire — En bronze",
+  "en": "Sundial — Bronze"
+ },
+ "group": [
+  {
+   "fr": "Cadran solaire",
+   "en": "Sundial"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3127
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "porte-en-bois-4-pieds-de-large-7-pieds-de-haut",
+ "category": "constructions",
+ "name": {
+  "fr": "Porte en bois, 4 pieds de large, 7 pieds de haut",
+  "en": "Door, Wooden, 4'w 7'h"
+ },
+ "full_name": {
+  "fr": "Porte en bois, 4 pieds de large, 7 pieds de haut",
+  "en": "Door, Wooden, 4'w 7'h"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3276
+ }
+}

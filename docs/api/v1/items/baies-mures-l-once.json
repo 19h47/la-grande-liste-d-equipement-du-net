@@ -1,0 +1,38 @@
+{
+ "id": "baies-mures-l-once",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Mûres, l'once",
+  "en": "Blackberies, per oz"
+ },
+ "full_name": {
+  "fr": "Baies — Mûres, l'once",
+  "en": "Berries — Blackberies, per oz"
+ },
+ "group": [
+  {
+   "fr": "Baies",
+   "en": "Berries"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 465
+ }
+}

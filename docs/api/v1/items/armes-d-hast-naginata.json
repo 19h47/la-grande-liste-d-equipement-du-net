@@ -1,0 +1,40 @@
+{
+ "id": "armes-d-hast-naginata",
+ "category": "armes",
+ "name": {
+  "fr": "Naginata",
+  "en": "Naginata"
+ },
+ "full_name": {
+  "fr": "Armes d'hast — Naginata",
+  "en": "Polearm — Naginata"
+ },
+ "group": [
+  {
+   "fr": "Armes d'hast",
+   "en": "Polearm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": [
+   "Naginata : arme d'hast japonaise à longue lame courbe."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3683
+ }
+}

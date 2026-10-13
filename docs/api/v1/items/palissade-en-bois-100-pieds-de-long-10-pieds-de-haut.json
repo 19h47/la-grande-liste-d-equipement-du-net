@@ -1,0 +1,30 @@
+{
+ "id": "palissade-en-bois-100-pieds-de-long-10-pieds-de-haut",
+ "category": "constructions",
+ "name": {
+  "fr": "Palissade en bois, 100 pieds de long, 10 pieds de haut",
+  "en": "Palisade, wooden, 100'l 10'h"
+ },
+ "full_name": {
+  "fr": "Palissade en bois, 100 pieds de long, 10 pieds de haut",
+  "en": "Palisade, wooden, 100'l 10'h"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3287
+ }
+}

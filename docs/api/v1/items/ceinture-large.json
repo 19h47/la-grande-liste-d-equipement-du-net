@@ -1,0 +1,38 @@
+{
+ "id": "ceinture-large",
+ "category": "vetements",
+ "name": {
+  "fr": "Large",
+  "en": "Broad"
+ },
+ "full_name": {
+  "fr": "Ceinture — Large",
+  "en": "Belt — Broad"
+ },
+ "group": [
+  {
+   "fr": "Ceinture",
+   "en": "Belt"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 81
+ }
+}

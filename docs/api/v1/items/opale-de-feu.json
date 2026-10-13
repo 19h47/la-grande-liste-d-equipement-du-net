@@ -1,0 +1,32 @@
+{
+ "id": "opale-de-feu",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Opale de feu",
+  "en": "Fire Opal"
+ },
+ "full_name": {
+  "fr": "Opale de feu",
+  "en": "Fire Opal"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Opale de feu : opale transparente aux teintes jaune orangé à rouge."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2080
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "bol-a-melanger",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "À mélanger",
+  "en": "Mixing"
+ },
+ "full_name": {
+  "fr": "Bol — À mélanger",
+  "en": "Bowl — Mixing"
+ },
+ "group": [
+  {
+   "fr": "Bol",
+   "en": "Bowl"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2891
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "ivoire-catoblepas",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Catoblépas",
+  "en": "Catoblepas"
+ },
+ "full_name": {
+  "fr": "Ivoire — Catoblépas",
+  "en": "Ivory — Catoblepas"
+ },
+ "group": [
+  {
+   "fr": "Ivoire",
+   "en": "Ivory"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3-18 po",
+   "en": "3-18gp"
+  },
+  "min_cp": 300,
+  "max_cp": 1800,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Catoblépas : créature des marais du bestiaire AD&D, à la tête lourde et au regard mortel, tirée de Pline l'Ancien."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2116
+ }
+}

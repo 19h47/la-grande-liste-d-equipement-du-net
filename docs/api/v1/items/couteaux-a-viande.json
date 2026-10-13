@@ -1,0 +1,38 @@
+{
+ "id": "couteaux-a-viande",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "À viande",
+  "en": "Steak"
+ },
+ "full_name": {
+  "fr": "Couteaux — À viande",
+  "en": "Knives — Steak"
+ },
+ "group": [
+  {
+   "fr": "Couteaux",
+   "en": "Knives"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3009
+ }
+}

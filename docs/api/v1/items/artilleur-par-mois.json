@@ -1,0 +1,32 @@
+{
+ "id": "artilleur-par-mois",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Artilleur, par mois",
+  "en": "Artillerist, per month"
+ },
+ "full_name": {
+  "fr": "Artilleur, par mois",
+  "en": "Artillerist, per month"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Artilleur : soldat servant les engins de siège (catapultes, balistes, trébuchets)."
+  ]
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2365
+ }
+}

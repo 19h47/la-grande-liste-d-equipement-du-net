@@ -1,0 +1,38 @@
+{
+ "id": "sacoches-de-selle-petites",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Petites",
+  "en": "small"
+ },
+ "full_name": {
+  "fr": "Sacoches de selle — Petites",
+  "en": "Saddle Bags — small"
+ },
+ "group": [
+  {
+   "fr": "Sacoches de selle",
+   "en": "Saddle Bags"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1074
+ }
+}

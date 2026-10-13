@@ -1,0 +1,32 @@
+{
+ "id": "priere",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Prière",
+  "en": "Prayer"
+ },
+ "full_name": {
+  "fr": "Prière",
+  "en": "Prayer"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "Spécial",
+   "en": "Special"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Prière : sort accordant un bonus aux alliés et infligeant un malus aux ennemis à l'attaque, aux dégâts et aux jets de sauvegarde."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3237
+ }
+}

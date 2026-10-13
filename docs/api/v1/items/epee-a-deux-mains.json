@@ -1,0 +1,38 @@
+{
+ "id": "epee-a-deux-mains",
+ "category": "armes",
+ "name": {
+  "fr": "Épée à deux mains",
+  "en": "Two-handed sword"
+ },
+ "full_name": {
+  "fr": "Épées — Épée à deux mains",
+  "en": "Sword — Two-handed sword"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3726
+ }
+}

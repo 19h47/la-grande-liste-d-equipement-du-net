@@ -1,0 +1,30 @@
+{
+ "id": "ane-mule-ou-baudet",
+ "category": "animaux",
+ "name": {
+  "fr": "Âne, mule ou baudet",
+  "en": "Donkey, Mule, or Ass"
+ },
+ "full_name": {
+  "fr": "Âne, mule ou baudet",
+  "en": "Donkey, Mule, or Ass"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1658
+ }
+}

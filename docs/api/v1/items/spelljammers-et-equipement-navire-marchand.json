@@ -1,0 +1,37 @@
+{
+ "id": "spelljammers-et-equipement-navire-marchand",
+ "category": "transports",
+ "name": {
+  "fr": "Navire marchand",
+  "en": "Tradesman"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Navire marchand",
+  "en": "Spelljammers and equipment — Tradesman"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 000 po",
+   "en": "15,000gp"
+  },
+  "min_cp": 1500000,
+  "max_cp": 1500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1034
+ }
+}

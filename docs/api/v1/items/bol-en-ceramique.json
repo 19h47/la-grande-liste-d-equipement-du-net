@@ -1,0 +1,38 @@
+{
+ "id": "bol-en-ceramique",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En céramique",
+  "en": "Ceramic"
+ },
+ "full_name": {
+  "fr": "Bol — En céramique",
+  "en": "Bowl — Ceramic"
+ },
+ "group": [
+  {
+   "fr": "Bol",
+   "en": "Bowl"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 pc",
+   "en": "10cp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2894
+ }
+}

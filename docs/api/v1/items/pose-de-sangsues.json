@@ -1,0 +1,30 @@
+{
+ "id": "pose-de-sangsues",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Pose de sangsues",
+  "en": "Leeching"
+ },
+ "full_name": {
+  "fr": "Pose de sangsues",
+  "en": "Leeching"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2411
+ }
+}

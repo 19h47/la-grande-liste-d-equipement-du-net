@@ -1,0 +1,40 @@
+{
+ "id": "bec-de-hache",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Bec-de-hache",
+  "en": "Axbeak"
+ },
+ "full_name": {
+  "fr": "Bec-de-hache",
+  "en": "Axbeak"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "50-80 po",
+   "en": "50-80gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "50-80 po",
+   "en": "50-80gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Bec-de-hache : grand oiseau coureur préhistorique, incapable de voler, au bec tranchant comme une hache."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1475
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "lanterne-fanal-rayon-de-240-pieds-dans-toutes-les-directions",
+ "category": "eclairage",
+ "name": {
+  "fr": "Fanal, rayon de 240 pieds, dans toutes les directions",
+  "en": "Beacons, 240' radius omnidirectional"
+ },
+ "full_name": {
+  "fr": "Lanterne — Fanal, rayon de 240 pieds, dans toutes les directions",
+  "en": "Lantern — Beacons, 240' radius omnidirectional"
+ },
+ "group": [
+  {
+   "fr": "Lanterne",
+   "en": "Lantern"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": {
+  "text": "100",
+  "lb": 100
+ },
+ "notes": {
+  "fr": [
+   "Fanal : grosse lanterne servant de signal, notamment sur les navires et dans les ports."
+  ]
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2675
+ }
+}

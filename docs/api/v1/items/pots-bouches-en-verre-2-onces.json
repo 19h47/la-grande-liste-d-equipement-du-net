@@ -1,0 +1,38 @@
+{
+ "id": "pots-bouches-en-verre-2-onces",
+ "category": "contenants",
+ "name": {
+  "fr": "2 onces",
+  "en": "2oz"
+ },
+ "full_name": {
+  "fr": "Pots bouchés, en verre — 2 onces",
+  "en": "Jars, stoppered Glass — 2oz"
+ },
+ "group": [
+  {
+   "fr": "Pots bouchés, en verre",
+   "en": "Jars, stoppered Glass"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1399
+ }
+}

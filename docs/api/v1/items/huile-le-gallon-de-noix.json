@@ -1,0 +1,38 @@
+{
+ "id": "huile-le-gallon-de-noix",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De noix",
+  "en": "Walnut"
+ },
+ "full_name": {
+  "fr": "Huile, le gallon — De noix",
+  "en": "Oil, per gallon — Walnut"
+ },
+ "group": [
+  {
+   "fr": "Huile, le gallon",
+   "en": "Oil, per gallon"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 664
+ }
+}

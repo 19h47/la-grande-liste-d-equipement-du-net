@@ -1,0 +1,35 @@
+{
+ "id": "chausse-trappe-en-or",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Chausse-trappe en or",
+  "en": "Caltrop, golden"
+ },
+ "full_name": {
+  "fr": "Chausse-trappe en or",
+  "en": "Caltrop, golden"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Chausse-trappe : petit objet à pointes de fer, jeté au sol pour blesser les pieds des fantassins et des chevaux."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2909
+ }
+}

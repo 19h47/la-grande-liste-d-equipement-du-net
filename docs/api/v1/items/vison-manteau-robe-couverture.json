@@ -1,0 +1,35 @@
+{
+ "id": "vison-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Vison — Manteau, robe, couverture",
+  "en": "Mink — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Vison",
+   "en": "Mink"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 400 po",
+   "en": "5,400gp"
+  },
+  "min_cp": 540000,
+  "max_cp": 540000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1176
+ }
+}

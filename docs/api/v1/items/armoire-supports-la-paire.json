@@ -1,0 +1,38 @@
+{
+ "id": "armoire-supports-la-paire",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Supports, la paire",
+  "en": "Braces, per pair"
+ },
+ "full_name": {
+  "fr": "Armoire — Supports, la paire",
+  "en": "Cabinet — Braces, per pair"
+ },
+ "group": [
+  {
+   "fr": "Armoire",
+   "en": "Cabinet"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1838
+ }
+}

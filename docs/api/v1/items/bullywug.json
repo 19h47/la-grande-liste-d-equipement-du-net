@@ -1,0 +1,40 @@
+{
+ "id": "bullywug",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Bullywug",
+  "en": "Bullywug"
+ },
+ "full_name": {
+  "fr": "Bullywug",
+  "en": "Bullywug"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "200-300 po",
+   "en": "200-300gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Bullywug : humanoïde batracien, sorte d'homme-grenouille des marais."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1487
+ }
+}

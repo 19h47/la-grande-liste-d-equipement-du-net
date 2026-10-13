@@ -1,0 +1,38 @@
+{
+ "id": "bille-en-verre-colore",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En verre coloré",
+  "en": "colored glass"
+ },
+ "full_name": {
+  "fr": "Bille — En verre coloré",
+  "en": "Marble — colored glass"
+ },
+ "group": [
+  {
+   "fr": "Bille",
+   "en": "Marble"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3023
+ }
+}

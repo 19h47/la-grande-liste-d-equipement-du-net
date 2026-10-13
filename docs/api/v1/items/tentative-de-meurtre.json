@@ -1,0 +1,30 @@
+{
+ "id": "tentative-de-meurtre",
+ "category": "amendes-et-peines",
+ "name": {
+  "fr": "Tentative de meurtre",
+  "en": "Attempted Murder"
+ },
+ "full_name": {
+  "fr": "Tentative de meurtre",
+  "en": "Attempted Murder"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 000 po",
+   "en": "50,000gp"
+  },
+  "min_cp": 5000000,
+  "max_cp": 5000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVI",
+  "line": 3177
+ }
+}

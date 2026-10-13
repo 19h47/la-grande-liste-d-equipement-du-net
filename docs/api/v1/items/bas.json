@@ -1,0 +1,33 @@
+{
+ "id": "bas",
+ "category": "vetements",
+ "name": {
+  "fr": "Bas",
+  "en": "Stockings"
+ },
+ "full_name": {
+  "fr": "Bas",
+  "en": "Stockings"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po/paire",
+   "en": "2gp/pair"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 277
+ }
+}

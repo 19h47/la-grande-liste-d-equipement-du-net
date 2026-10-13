@@ -1,0 +1,33 @@
+{
+ "id": "maillet-d-armes",
+ "category": "armes",
+ "name": {
+  "fr": "Maillet d'armes",
+  "en": "Maul"
+ },
+ "full_name": {
+  "fr": "Maillet d'armes",
+  "en": "Maul"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3656
+ }
+}

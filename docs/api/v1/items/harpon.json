@@ -1,0 +1,33 @@
+{
+ "id": "harpon",
+ "category": "armes",
+ "name": {
+  "fr": "Harpon",
+  "en": "Harpoon"
+ },
+ "full_name": {
+  "fr": "Harpon",
+  "en": "Harpoon"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3625
+ }
+}

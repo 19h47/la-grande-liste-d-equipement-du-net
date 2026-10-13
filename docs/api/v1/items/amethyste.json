@@ -1,0 +1,32 @@
+{
+ "id": "amethyste",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Améthyste",
+  "en": "Amethyst"
+ },
+ "full_name": {
+  "fr": "Améthyste",
+  "en": "Amethyst"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Améthyste : variété violette de quartz, relativement répandue."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 1983
+ }
+}

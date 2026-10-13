@@ -1,0 +1,35 @@
+{
+ "id": "bassinet",
+ "category": "armures",
+ "name": {
+  "fr": "Bassinet",
+  "en": "Basinet"
+ },
+ "full_name": {
+  "fr": "Bassinet",
+  "en": "Basinet"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Bassinet : casque médiéval arrondi et pointu, souvent muni d'une visière mobile."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3757
+ }
+}

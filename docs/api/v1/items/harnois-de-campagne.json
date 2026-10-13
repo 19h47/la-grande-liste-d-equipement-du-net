@@ -1,0 +1,35 @@
+{
+ "id": "harnois-de-campagne",
+ "category": "armures",
+ "name": {
+  "fr": "Harnois de campagne",
+  "en": "Field plate"
+ },
+ "full_name": {
+  "fr": "Harnois de campagne",
+  "en": "Field plate"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 000 po",
+   "en": "2000gp"
+  },
+  "min_cp": 200000,
+  "max_cp": 200000,
+  "plus": false
+ },
+ "weight": {
+  "text": "60",
+  "lb": 60
+ },
+ "notes": {
+  "fr": [
+   "Harnois de campagne : armure de plates couvrant tout le corps, moins ajustée et moins coûteuse que le harnois complet (AD&D)."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3788
+ }
+}

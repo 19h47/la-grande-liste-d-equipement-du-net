@@ -1,0 +1,37 @@
+{
+ "id": "heliotrope-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Héliotrope — De la taille d'un raisin",
+  "en": "Bloodstone — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Héliotrope",
+   "en": "Bloodstone"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Héliotrope : calcédoine vert sombre tachetée de rouge, dite aussi « pierre de sang »."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2015
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "bague",
+ "category": "vetements",
+ "name": {
+  "fr": "Bague",
+  "en": "Ring"
+ },
+ "full_name": {
+  "fr": "Bague",
+  "en": "Ring"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 244
+ }
+}

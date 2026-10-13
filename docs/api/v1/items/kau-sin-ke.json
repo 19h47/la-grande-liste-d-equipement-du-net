@@ -1,0 +1,35 @@
+{
+ "id": "kau-sin-ke",
+ "category": "armes",
+ "name": {
+  "fr": "Kau sin ke",
+  "en": "Kau sin ke"
+ },
+ "full_name": {
+  "fr": "Kau sin ke",
+  "en": "Kau sin ke"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Kau sin ke : fouet chinois fait de segments métalliques articulés."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3634
+ }
+}

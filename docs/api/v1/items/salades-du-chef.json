@@ -1,0 +1,38 @@
+{
+ "id": "salades-du-chef",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Du chef",
+  "en": "Chef's Salad"
+ },
+ "full_name": {
+  "fr": "Salades — Du chef",
+  "en": "Salads — Chef's Salad"
+ },
+ "group": [
+  {
+   "fr": "Salades",
+   "en": "Salads"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 730
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "loutre-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Loutre — Garniture",
+  "en": "Otter — Trim"
+ },
+ "group": [
+  {
+   "fr": "Loutre",
+   "en": "Otter"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1187
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "gilet-en-laine",
+ "category": "vetements",
+ "name": {
+  "fr": "En laine",
+  "en": "Wool"
+ },
+ "full_name": {
+  "fr": "Gilet — En laine",
+  "en": "Vest, — Wool"
+ },
+ "group": [
+  {
+   "fr": "Gilet",
+   "en": "Vest,"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 303
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "kelvantari",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Kelvantari",
+  "en": "Kelvantari"
+ },
+ "full_name": {
+  "fr": "Kelvantari",
+  "en": "Kelvantari"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "19 po",
+   "en": "19gp"
+  },
+  "min_cp": 1900,
+  "max_cp": 1900,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "19 po",
+   "en": "19gp"
+  },
+  "min_cp": 1900,
+  "max_cp": 1900,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Kelvantari : plante du Net Book of Herbs (Kelventari) dont les baies écrasées soignent les brûlures."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2788
+ }
+}

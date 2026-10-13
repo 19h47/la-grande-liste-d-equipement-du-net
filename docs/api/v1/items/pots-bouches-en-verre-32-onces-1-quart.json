@@ -1,0 +1,38 @@
+{
+ "id": "pots-bouches-en-verre-32-onces-1-quart",
+ "category": "contenants",
+ "name": {
+  "fr": "32 onces (1 quart)",
+  "en": "32oz (1 quart)"
+ },
+ "full_name": {
+  "fr": "Pots bouchés, en verre — 32 onces (1 quart)",
+  "en": "Jars, stoppered Glass — 32oz (1 quart)"
+ },
+ "group": [
+  {
+   "fr": "Pots bouchés, en verre",
+   "en": "Jars, stoppered Glass"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1409
+ }
+}

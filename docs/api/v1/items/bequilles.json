@@ -1,0 +1,33 @@
+{
+ "id": "bequilles",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Béquilles",
+  "en": "Crutches"
+ },
+ "full_name": {
+  "fr": "Béquilles",
+  "en": "Crutches"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1773
+ }
+}

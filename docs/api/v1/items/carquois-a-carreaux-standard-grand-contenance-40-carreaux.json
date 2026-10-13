@@ -1,0 +1,42 @@
+{
+ "id": "carquois-a-carreaux-standard-grand-contenance-40-carreaux",
+ "category": "contenants",
+ "name": {
+  "fr": "Standard, grand, contenance 40 carreaux",
+  "en": "Regular, Large, holds 40 quarrels"
+ },
+ "full_name": {
+  "fr": "Carquois — À carreaux — Standard, grand, contenance 40 carreaux",
+  "en": "Quiver — Quarrel — Regular, Large, holds 40 quarrels"
+ },
+ "group": [
+  {
+   "fr": "Carquois",
+   "en": "Quiver"
+  },
+  {
+   "fr": "À carreaux",
+   "en": "Quarrel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1431
+ }
+}

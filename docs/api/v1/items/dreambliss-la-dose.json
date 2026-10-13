@@ -1,0 +1,35 @@
+{
+ "id": "dreambliss-la-dose",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Dreambliss, la dose",
+  "en": "Dreambliss, per dose"
+ },
+ "full_name": {
+  "fr": "Dreambliss, la dose",
+  "en": "Dreambliss, per dose"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "200-1 200 po",
+   "en": "200-1,200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 120000,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": [
+   "Dreambliss : drogue hallucinogène procurant des rêves extatiques."
+  ]
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1846
+ }
+}

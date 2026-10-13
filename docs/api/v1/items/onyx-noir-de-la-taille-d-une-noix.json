@@ -1,0 +1,35 @@
+{
+ "id": "onyx-noir-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut size"
+ },
+ "full_name": {
+  "fr": "Onyx (noir) — De la taille d'une noix",
+  "en": "Onyx (black) — Walnut size"
+ },
+ "group": [
+  {
+   "fr": "Onyx (noir)",
+   "en": "Onyx (black)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2252
+ }
+}

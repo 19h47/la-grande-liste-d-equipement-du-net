@@ -1,0 +1,30 @@
+{
+ "id": "charretier-avec-chariot",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Charretier avec chariot",
+  "en": "Teamster w/wagon"
+ },
+ "full_name": {
+  "fr": "Charretier avec chariot",
+  "en": "Teamster w/wagon"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa/mille",
+   "en": "1sp/mile"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2442
+ }
+}

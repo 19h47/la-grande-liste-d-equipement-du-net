@@ -1,0 +1,38 @@
+{
+ "id": "oreiller-en-lin-garni-de-chiffons",
+ "category": "mobilier",
+ "name": {
+  "fr": "Garni de chiffons",
+  "en": "Rag"
+ },
+ "full_name": {
+  "fr": "Oreiller en lin — Garni de chiffons",
+  "en": "Pillow, linen — Rag"
+ },
+ "group": [
+  {
+   "fr": "Oreiller en lin",
+   "en": "Pillow, linen"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1589
+ }
+}

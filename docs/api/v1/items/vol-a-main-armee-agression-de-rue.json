@@ -1,0 +1,30 @@
+{
+ "id": "vol-a-main-armee-agression-de-rue",
+ "category": "amendes-et-peines",
+ "name": {
+  "fr": "Vol à main armée / agression de rue",
+  "en": "Armed Robbery / Mugging"
+ },
+ "full_name": {
+  "fr": "Vol à main armée / agression de rue",
+  "en": "Armed Robbery / Mugging"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 000 po ou 3 ans",
+   "en": "10,000gp or 3years"
+  },
+  "min_cp": 1000000,
+  "max_cp": 1000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVI",
+  "line": 3176
+ }
+}

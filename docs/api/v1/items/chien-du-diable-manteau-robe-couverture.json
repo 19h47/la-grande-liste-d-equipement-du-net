@@ -1,0 +1,37 @@
+{
+ "id": "chien-du-diable-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Chien du diable — Manteau, robe, couverture",
+  "en": "Devil Dog — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Chien du diable",
+   "en": "Devil Dog"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "400 po",
+   "en": "400gp"
+  },
+  "min_cp": 40000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Chien du diable : canidé monstrueux d'AD&D à fourrure blanche, chassant en meute dans les régions glacées."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1131
+ }
+}

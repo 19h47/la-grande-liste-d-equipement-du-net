@@ -1,0 +1,42 @@
+{
+ "id": "carquois-a-fleches-petit-contenance-12-fleches",
+ "category": "contenants",
+ "name": {
+  "fr": "Petit, contenance 12 flèches",
+  "en": "Small, holds 12 arrows"
+ },
+ "full_name": {
+  "fr": "Carquois — À flèches — Petit, contenance 12 flèches",
+  "en": "Quiver — Arrow — Small, holds 12 arrows"
+ },
+ "group": [
+  {
+   "fr": "Carquois",
+   "en": "Quiver"
+  },
+  {
+   "fr": "À flèches",
+   "en": "Arrow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1427
+ }
+}

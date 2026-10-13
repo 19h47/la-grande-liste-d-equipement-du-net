@@ -1,0 +1,40 @@
+{
+ "id": "armes-d-hast-ranseur",
+ "category": "armes",
+ "name": {
+  "fr": "Ranseur",
+  "en": "Ranseur"
+ },
+ "full_name": {
+  "fr": "Armes d'hast — Ranseur",
+  "en": "Polearm — Ranseur"
+ },
+ "group": [
+  {
+   "fr": "Armes d'hast",
+   "en": "Polearm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "7",
+  "lb": 7
+ },
+ "notes": {
+  "fr": [
+   "Ranseur : arme d'hast à pointe centrale flanquée de deux ailerons, servant à désarmer l'adversaire."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3685
+ }
+}

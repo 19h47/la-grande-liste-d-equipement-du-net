@@ -1,0 +1,38 @@
+{
+ "id": "chaudron-30-gallons",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "30 gallons",
+  "en": "30gal"
+ },
+ "full_name": {
+  "fr": "Chaudron — 30 gallons",
+  "en": "Cauldron — 30gal"
+ },
+ "group": [
+  {
+   "fr": "Chaudron",
+   "en": "Cauldron"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "22 po",
+   "en": "22gp"
+  },
+  "min_cp": 2200,
+  "max_cp": 2200,
+  "plus": false
+ },
+ "weight": {
+  "text": "75",
+  "lb": 75
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2919
+ }
+}

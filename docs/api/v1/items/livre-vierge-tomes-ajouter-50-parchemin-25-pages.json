@@ -1,0 +1,42 @@
+{
+ "id": "livre-vierge-tomes-ajouter-50-parchemin-25-pages",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "25 pages",
+  "en": "25 pages"
+ },
+ "full_name": {
+  "fr": "Livre vierge (tomes : ajouter 50 %) — Parchemin — 25 pages",
+  "en": "Book, Blank- TOMES ADD 50% — Parchment — 25 pages"
+ },
+ "group": [
+  {
+   "fr": "Livre vierge (tomes : ajouter 50 %)",
+   "en": "Book, Blank- TOMES ADD 50%"
+  },
+  {
+   "fr": "Parchemin",
+   "en": "Parchment"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "65 po",
+   "en": "65gp"
+  },
+  "min_cp": 6500,
+  "max_cp": 6500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1916
+ }
+}

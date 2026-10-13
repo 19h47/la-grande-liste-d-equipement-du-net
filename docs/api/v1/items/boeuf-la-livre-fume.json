@@ -1,0 +1,38 @@
+{
+ "id": "boeuf-la-livre-fume",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Fumé",
+  "en": "smoked"
+ },
+ "full_name": {
+  "fr": "Bœuf, la livre — Fumé",
+  "en": "Beef, per lb — smoked"
+ },
+ "group": [
+  {
+   "fr": "Bœuf, la livre",
+   "en": "Beef, per lb"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 462
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "broches-en-argent",
+ "category": "vetements",
+ "name": {
+  "fr": "En argent",
+  "en": "Silver"
+ },
+ "full_name": {
+  "fr": "Broches — En argent",
+  "en": "Brooches — Silver"
+ },
+ "group": [
+  {
+   "fr": "Broches",
+   "en": "Brooches"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 110
+ }
+}

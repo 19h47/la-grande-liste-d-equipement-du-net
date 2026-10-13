@@ -1,0 +1,30 @@
+{
+ "id": "drakkar",
+ "category": "transports",
+ "name": {
+  "fr": "Drakkar",
+  "en": "Drakkar"
+ },
+ "full_name": {
+  "fr": "Drakkar",
+  "en": "Drakkar"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "25 000 po",
+   "en": "25,000gp"
+  },
+  "min_cp": 2500000,
+  "max_cp": 2500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 968
+ }
+}

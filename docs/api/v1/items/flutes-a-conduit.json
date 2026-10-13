@@ -1,0 +1,29 @@
+{
+ "id": "flutes-a-conduit",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Flûtes à conduit",
+  "en": "Fipple Flute"
+ },
+ "full_name": {
+  "fr": "Famille des flûtes — Flûtes à conduit",
+  "en": "Flute Family — Fipple Flute"
+ },
+ "group": [
+  {
+   "fr": "Famille des flûtes",
+   "en": "Flute Family"
+  }
+ ],
+ "price": null,
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Flûtes à conduit : flûtes où un conduit dirige le souffle sur un biseau, comme la flûte à bec."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3361
+ }
+}

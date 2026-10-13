@@ -1,0 +1,40 @@
+{
+ "id": "edram",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Edram",
+  "en": "Edram"
+ },
+ "full_name": {
+  "fr": "Edram",
+  "en": "Edram"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Edram : mousse de rivière issue de MERP, qui accélère la consolidation des os."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2763
+ }
+}

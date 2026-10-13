@@ -1,0 +1,35 @@
+{
+ "id": "rubis-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Rubis — De la taille d'une boule",
+  "en": "Ruby — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Rubis",
+   "en": "Ruby"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 000 po",
+   "en": "10,000gp"
+  },
+  "min_cp": 1000000,
+  "max_cp": 1000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2263
+ }
+}

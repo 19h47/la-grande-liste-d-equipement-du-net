@@ -1,0 +1,35 @@
+{
+ "id": "galere-tres-grande",
+ "category": "transports",
+ "name": {
+  "fr": "Très grande",
+  "en": "Great"
+ },
+ "full_name": {
+  "fr": "Galère — Très grande",
+  "en": "Galley — Great"
+ },
+ "group": [
+  {
+   "fr": "Galère",
+   "en": "Galley"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 000 po",
+   "en": "30,000gp"
+  },
+  "min_cp": 3000000,
+  "max_cp": 3000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 974
+ }
+}

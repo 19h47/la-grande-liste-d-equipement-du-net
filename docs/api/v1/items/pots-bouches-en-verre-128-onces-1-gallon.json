@@ -1,0 +1,38 @@
+{
+ "id": "pots-bouches-en-verre-128-onces-1-gallon",
+ "category": "contenants",
+ "name": {
+  "fr": "128 onces (1 gallon)",
+  "en": "128oz (1gallon)"
+ },
+ "full_name": {
+  "fr": "Pots bouchés, en verre — 128 onces (1 gallon)",
+  "en": "Jars, stoppered Glass — 128oz (1gallon)"
+ },
+ "group": [
+  {
+   "fr": "Pots bouchés, en verre",
+   "en": "Jars, stoppered Glass"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1411
+ }
+}

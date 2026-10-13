@@ -1,0 +1,42 @@
+{
+ "id": "carquois-a-carreaux-de-siege-contenance-10-carreaux",
+ "category": "contenants",
+ "name": {
+  "fr": "De siège, contenance 10 carreaux",
+  "en": "Siege, hold 10 quarrels"
+ },
+ "full_name": {
+  "fr": "Carquois — À carreaux — De siège, contenance 10 carreaux",
+  "en": "Quiver — Quarrel — Siege, hold 10 quarrels"
+ },
+ "group": [
+  {
+   "fr": "Carquois",
+   "en": "Quiver"
+  },
+  {
+   "fr": "À carreaux",
+   "en": "Quarrel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1432
+ }
+}

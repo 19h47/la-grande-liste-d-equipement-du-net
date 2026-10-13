@@ -1,0 +1,38 @@
+{
+ "id": "couverture-deux-places-en-flanelle",
+ "category": "tissus",
+ "name": {
+  "fr": "En flanelle",
+  "en": "Flanel"
+ },
+ "full_name": {
+  "fr": "Couverture deux places — En flanelle",
+  "en": "Blanket, Double — Flanel"
+ },
+ "group": [
+  {
+   "fr": "Couverture deux places",
+   "en": "Blanket, Double"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1717
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "cobbler-la-portion-a-l-abricot",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "À l'abricot",
+  "en": "Apricot"
+ },
+ "full_name": {
+  "fr": "Cobbler, la portion — À l'abricot",
+  "en": "Cobbler, per serving — Apricot"
+ },
+ "group": [
+  {
+   "fr": "Cobbler, la portion",
+   "en": "Cobbler, per serving"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Cobbler : fruits cuits au four sous une couche de pâte à biscuit."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 544
+ }
+}

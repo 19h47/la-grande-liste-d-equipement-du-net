@@ -1,0 +1,35 @@
+{
+ "id": "veste-en-lin",
+ "category": "vetements",
+ "name": {
+  "fr": "En lin",
+  "en": "Linen"
+ },
+ "full_name": {
+  "fr": "Veste — En lin",
+  "en": "Jacket — Linen"
+ },
+ "group": [
+  {
+   "fr": "Veste",
+   "en": "Jacket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 199
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "marteau-a-panne-tranchante",
+ "category": "outils",
+ "name": {
+  "fr": "À panne tranchante",
+  "en": "Chisel"
+ },
+ "full_name": {
+  "fr": "Marteau — À panne tranchante",
+  "en": "Hammer — Chisel"
+ },
+ "group": [
+  {
+   "fr": "Marteau",
+   "en": "Hammer"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2505
+ }
+}

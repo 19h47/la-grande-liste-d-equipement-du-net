@@ -1,0 +1,30 @@
+{
+ "id": "crabe-geant",
+ "category": "carcasses",
+ "name": {
+  "fr": "Crabe géant",
+  "en": "Crab, Giant"
+ },
+ "full_name": {
+  "fr": "Crabe géant",
+  "en": "Crab, Giant"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "31-40 po",
+   "en": "31-40gp"
+  },
+  "min_cp": 3100,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIV",
+  "line": 1606
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "arc-de-pixie",
+ "category": "armes",
+ "name": {
+  "fr": "Arc de pixie",
+  "en": "Pixie Bow"
+ },
+ "full_name": {
+  "fr": "Armes de pixie — Arc de pixie",
+  "en": "Pixie Weapons — Pixie Bow"
+ },
+ "group": [
+  {
+   "fr": "Armes de pixie",
+   "en": "Pixie Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3665
+ }
+}

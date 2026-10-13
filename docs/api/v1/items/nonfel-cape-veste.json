@@ -1,0 +1,35 @@
+{
+ "id": "nonfel-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Nonfel — Cape, veste",
+  "en": "Nonfel — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Nonfel",
+   "en": "Nonfel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 250 po",
+   "en": "2,250gp"
+  },
+  "min_cp": 225000,
+  "max_cp": 225000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1183
+ }
+}

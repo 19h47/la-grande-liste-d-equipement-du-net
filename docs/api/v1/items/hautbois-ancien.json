@@ -1,0 +1,38 @@
+{
+ "id": "hautbois-ancien",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Hautbois ancien",
+  "en": "Hautboy"
+ },
+ "full_name": {
+  "fr": "Clarinettes et hautbois — Hautbois ancien",
+  "en": "Clarinet/Oboe — Hautboy"
+ },
+ "group": [
+  {
+   "fr": "Clarinettes et hautbois",
+   "en": "Clarinet/Oboe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3330
+ }
+}

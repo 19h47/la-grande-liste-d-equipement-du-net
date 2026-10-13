@@ -1,0 +1,33 @@
+{
+ "id": "armoire-le-laboratoire",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Armoire",
+  "en": "Cabinet"
+ },
+ "full_name": {
+  "fr": "Armoire",
+  "en": "Cabinet"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1837
+ }
+}

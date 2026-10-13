@@ -1,0 +1,40 @@
+{
+ "id": "pates-de-fruits-la-pinte-de-groseille-a-maquereau",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De groseille à maquereau",
+  "en": "gooseberry"
+ },
+ "full_name": {
+  "fr": "Pâtes de fruits, la pinte — De groseille à maquereau",
+  "en": "Fruit cheeses, per pint — gooseberry"
+ },
+ "group": [
+  {
+   "fr": "Pâtes de fruits, la pinte",
+   "en": "Fruit cheeses, per pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Pâte de fruits (« fruit cheese ») : purée de fruits cuite avec du sucre jusqu'à devenir ferme."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 593
+ }
+}

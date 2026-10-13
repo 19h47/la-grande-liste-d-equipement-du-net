@@ -1,0 +1,38 @@
+{
+ "id": "arcs-sur-mesure",
+ "category": "armes",
+ "name": {
+  "fr": "Sur mesure",
+  "en": "Custom-made"
+ },
+ "full_name": {
+  "fr": "Arcs — Sur mesure",
+  "en": "Bow — Custom-made"
+ },
+ "group": [
+  {
+   "fr": "Arcs",
+   "en": "Bow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3546
+ }
+}

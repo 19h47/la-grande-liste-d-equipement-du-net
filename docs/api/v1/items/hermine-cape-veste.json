@@ -1,0 +1,35 @@
+{
+ "id": "hermine-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Hermine — Cape, veste",
+  "en": "Ermine — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Hermine",
+   "en": "Ermine"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 600 po",
+   "en": "3,600gp"
+  },
+  "min_cp": 360000,
+  "max_cp": 360000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1135
+ }
+}

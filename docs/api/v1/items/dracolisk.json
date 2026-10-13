@@ -1,0 +1,40 @@
+{
+ "id": "dracolisk",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Dracolisk",
+  "en": "Dracolisk"
+ },
+ "full_name": {
+  "fr": "Dracolisk",
+  "en": "Dracolisk"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "7 250 po",
+   "en": "7,250gp"
+  },
+  "min_cp": 725000,
+  "max_cp": 725000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Dracolisk : hybride de dragon noir et de basilic, au souffle acide et au regard pétrifiant."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1503
+ }
+}

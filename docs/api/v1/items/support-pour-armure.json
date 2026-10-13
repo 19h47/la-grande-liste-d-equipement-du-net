@@ -1,0 +1,38 @@
+{
+ "id": "support-pour-armure",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Pour armure",
+  "en": "Armor"
+ },
+ "full_name": {
+  "fr": "Support — Pour armure",
+  "en": "Stand — Armor"
+ },
+ "group": [
+  {
+   "fr": "Support",
+   "en": "Stand"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pp",
+   "en": "1pp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3119
+ }
+}

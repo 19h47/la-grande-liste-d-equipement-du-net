@@ -1,0 +1,33 @@
+{
+ "id": "bandeaux-pour-femme",
+ "category": "vetements",
+ "name": {
+  "fr": "Bandeaux pour femme",
+  "en": "Headbands, women's"
+ },
+ "full_name": {
+  "fr": "Bandeaux pour femme",
+  "en": "Headbands, women's"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 187
+ }
+}

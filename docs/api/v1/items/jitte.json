@@ -1,0 +1,35 @@
+{
+ "id": "jitte",
+ "category": "armes",
+ "name": {
+  "fr": "Jitte",
+  "en": "Jitte"
+ },
+ "full_name": {
+  "fr": "Jitte",
+  "en": "Jitte"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Jitte : matraque métallique japonaise munie d'un crochet latéral pour bloquer les lames."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3632
+ }
+}

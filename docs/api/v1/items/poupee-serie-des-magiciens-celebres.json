@@ -1,0 +1,38 @@
+{
+ "id": "poupee-serie-des-magiciens-celebres",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Série des magiciens célèbres",
+  "en": "Famous Wizards Set"
+ },
+ "full_name": {
+  "fr": "Poupée — Série des magiciens célèbres",
+  "en": "Doll — Famous Wizards Set"
+ },
+ "group": [
+  {
+   "fr": "Poupée",
+   "en": "Doll"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2969
+ }
+}

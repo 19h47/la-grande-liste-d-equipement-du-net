@@ -1,0 +1,33 @@
+{
+ "id": "fil-la-bobine",
+ "category": "tissus",
+ "name": {
+  "fr": "Fil, la bobine",
+  "en": "Tread, per spool"
+ },
+ "full_name": {
+  "fr": "Fil, la bobine",
+  "en": "Tread, per spool"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5-10 pc",
+   "en": "5-10cp"
+  },
+  "min_cp": 5,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1748
+ }
+}

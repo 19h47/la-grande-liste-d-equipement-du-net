@@ -1,0 +1,35 @@
+{
+ "id": "moule-fer-de-houe",
+ "category": "outils",
+ "name": {
+  "fr": "Fer de houe",
+  "en": "Hoe"
+ },
+ "full_name": {
+  "fr": "Moule — Fer de houe",
+  "en": "Mold — Hoe"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2546
+ }
+}

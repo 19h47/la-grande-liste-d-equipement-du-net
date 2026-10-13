@@ -1,0 +1,35 @@
+{
+ "id": "duvet-de-chardon-le-yard-carre",
+ "category": "tissus",
+ "name": {
+  "fr": "Duvet de chardon, le yard carré",
+  "en": "Thisledown, per sq yard"
+ },
+ "full_name": {
+  "fr": "Duvet de chardon, le yard carré",
+  "en": "Thisledown, per sq yard"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Duvet de chardon : étoffe féerique d'une extrême légèreté, tissée à partir des aigrettes du chardon."
+  ]
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1743
+ }
+}

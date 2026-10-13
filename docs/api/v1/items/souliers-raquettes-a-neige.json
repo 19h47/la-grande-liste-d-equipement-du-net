@@ -1,0 +1,38 @@
+{
+ "id": "souliers-raquettes-a-neige",
+ "category": "vetements",
+ "name": {
+  "fr": "Raquettes à neige",
+  "en": "Snow"
+ },
+ "full_name": {
+  "fr": "Souliers — Raquettes à neige",
+  "en": "Shoes — Snow"
+ },
+ "group": [
+  {
+   "fr": "Souliers",
+   "en": "Shoes"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 272
+ }
+}

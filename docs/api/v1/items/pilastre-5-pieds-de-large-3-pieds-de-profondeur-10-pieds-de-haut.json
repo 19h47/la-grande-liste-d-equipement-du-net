@@ -1,0 +1,32 @@
+{
+ "id": "pilastre-5-pieds-de-large-3-pieds-de-profondeur-10-pieds-de-haut",
+ "category": "constructions",
+ "name": {
+  "fr": "Pilastre, 5 pieds de large, 3 pieds de profondeur, 10 pieds de haut",
+  "en": "Pilaster, 5'w 3'd 10'h"
+ },
+ "full_name": {
+  "fr": "Pilastre, 5 pieds de large, 3 pieds de profondeur, 10 pieds de haut",
+  "en": "Pilaster, 5'w 3'd 10'h"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Pilastre : pilier plat engagé dans un mur, dont il fait légèrement saillie."
+  ]
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3289
+ }
+}

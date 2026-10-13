@@ -1,0 +1,30 @@
+{
+ "id": "skis",
+ "category": "transports",
+ "name": {
+  "fr": "Skis",
+  "en": "Snow skis"
+ },
+ "full_name": {
+  "fr": "Skis",
+  "en": "Snow skis"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 999
+ }
+}

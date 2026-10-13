@@ -1,0 +1,33 @@
+{
+ "id": "pic-frappe-roc",
+ "category": "outils",
+ "name": {
+  "fr": "Pic frappe-roc",
+  "en": "Rockstriker Pick"
+ },
+ "full_name": {
+  "fr": "Pic frappe-roc",
+  "en": "Rockstriker Pick"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2619
+ }
+}

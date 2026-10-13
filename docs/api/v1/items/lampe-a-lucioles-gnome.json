@@ -1,0 +1,33 @@
+{
+ "id": "lampe-a-lucioles-gnome",
+ "category": "eclairage",
+ "name": {
+  "fr": "Lampe à lucioles gnome",
+  "en": "Gnomish Firefly Lamp"
+ },
+ "full_name": {
+  "fr": "Lampe à lucioles gnome",
+  "en": "Gnomish Firefly Lamp"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "9 po",
+   "en": "9gp"
+  },
+  "min_cp": 900,
+  "max_cp": 900,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2665
+ }
+}

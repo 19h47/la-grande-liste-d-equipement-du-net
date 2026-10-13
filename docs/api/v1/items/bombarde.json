@@ -1,0 +1,35 @@
+{
+ "id": "bombarde",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Bombarde",
+  "en": "Bombard"
+ },
+ "full_name": {
+  "fr": "Bombarde",
+  "en": "Bombard"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 000 po",
+   "en": "20,000gp"
+  },
+  "min_cp": 2000000,
+  "max_cp": 2000000,
+  "plus": false
+ },
+ "weight": {
+  "text": "600",
+  "lb": 600
+ },
+ "notes": {
+  "fr": [
+   "Bombarde : canon primitif de gros calibre tirant des boulets de pierre."
+  ]
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3483
+ }
+}

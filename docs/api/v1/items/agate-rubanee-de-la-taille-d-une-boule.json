@@ -1,0 +1,35 @@
+{
+ "id": "agate-rubanee-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Agate rubanée — De la taille d'une boule",
+  "en": "Banded Agate — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Agate rubanée",
+   "en": "Banded Agate"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2002
+ }
+}

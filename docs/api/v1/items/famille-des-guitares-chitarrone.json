@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-guitares-chitarrone",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Chitarrone",
+  "en": "Chitarrone"
+ },
+ "full_name": {
+  "fr": "Famille des guitares — Chitarrone",
+  "en": "Guitar Family — Chitarrone"
+ },
+ "group": [
+  {
+   "fr": "Famille des guitares",
+   "en": "Guitar Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "65 po",
+   "en": "65gp"
+  },
+  "min_cp": 6500,
+  "max_cp": 6500,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Chitarrone : grand luth baroque italien à très long manche portant des cordes graves supplémentaires, proche du théorbe."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3386
+ }
+}

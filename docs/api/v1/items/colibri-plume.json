@@ -1,0 +1,35 @@
+{
+ "id": "colibri-plume",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Plume",
+  "en": "Feather"
+ },
+ "full_name": {
+  "fr": "Colibri — Plume",
+  "en": "Hummingbird — Feather"
+ },
+ "group": [
+  {
+   "fr": "Colibri",
+   "en": "Hummingbird"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VI",
+  "line": 919
+ }
+}

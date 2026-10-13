@@ -1,0 +1,40 @@
+{
+ "id": "chandeliers-en-bois-sculpte",
+ "category": "eclairage",
+ "name": {
+  "fr": "En bois sculpté",
+  "en": "wood carved"
+ },
+ "full_name": {
+  "fr": "Chandeliers — En bois sculpté",
+  "en": "Candlesticks — wood carved"
+ },
+ "group": [
+  {
+   "fr": "Chandeliers",
+   "en": "Candlesticks"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": [
+   "Chandeliers : ici, bougeoirs portant une chandelle, et non lustres suspendus."
+  ]
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2658
+ }
+}

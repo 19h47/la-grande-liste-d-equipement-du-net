@@ -1,0 +1,38 @@
+{
+ "id": "melisse",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Mélisse",
+  "en": "Balm"
+ },
+ "full_name": {
+  "fr": "Mélisse",
+  "en": "Balm"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2720
+ }
+}

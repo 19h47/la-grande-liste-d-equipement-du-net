@@ -1,0 +1,40 @@
+{
+ "id": "arpusar",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Arpusar",
+  "en": "Arpusar"
+ },
+ "full_name": {
+  "fr": "Arpusar",
+  "en": "Arpusar"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Arpusar : plante de rivière du Net Book of Herbs, dont les tiges infusées guérissent en un jour les lésions musculaires."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2714
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "filtre-tamis-de-soie-le-pied-carre",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Tamis de soie, le pied carré",
+  "en": "Silken Screem, per sq ft"
+ },
+ "full_name": {
+  "fr": "Filtre — Tamis de soie, le pied carré",
+  "en": "Filter — Silken Screem, per sq ft"
+ },
+ "group": [
+  {
+   "fr": "Filtre",
+   "en": "Filter"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1852
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "robe-de-soie-halfelin",
+ "category": "vetements",
+ "name": {
+  "fr": "Halfelin",
+  "en": "Halfling"
+ },
+ "full_name": {
+  "fr": "Robe de soie — Halfelin",
+  "en": "Gown, Silk — Halfling"
+ },
+ "group": [
+  {
+   "fr": "Robe de soie",
+   "en": "Gown, Silk"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 178
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "rations-de-fer",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Rations (de fer)",
+  "en": "Rations, (Iron)"
+ },
+ "full_name": {
+  "fr": "Rations (de fer)",
+  "en": "Rations, (Iron)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Rations de fer : vivres séchés se conservant longtemps, à la différence des rations standard, vite périssables."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 713
+ }
+}

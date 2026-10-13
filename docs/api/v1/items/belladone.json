@@ -1,0 +1,40 @@
+{
+ "id": "belladone",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Belladone",
+  "en": "Deadly Nightshade"
+ },
+ "full_name": {
+  "fr": "Belladone",
+  "en": "Deadly Nightshade"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Belladone : plante très toxique à baies noires luisantes, de la famille des solanacées."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2755
+ }
+}

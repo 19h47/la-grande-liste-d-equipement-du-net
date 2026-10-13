@@ -1,0 +1,38 @@
+{
+ "id": "armes-de-geant-epee-a-deux-mains",
+ "category": "armes",
+ "name": {
+  "fr": "Épée à deux mains",
+  "en": "Sword, two-handed"
+ },
+ "full_name": {
+  "fr": "Armes de géant — Épée à deux mains",
+  "en": "Giant Weapons — Sword, two-handed"
+ },
+ "group": [
+  {
+   "fr": "Armes de géant",
+   "en": "Giant Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "21",
+  "lb": 21
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3621
+ }
+}

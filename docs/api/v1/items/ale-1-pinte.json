@@ -1,0 +1,41 @@
+{
+ "id": "ale-1-pinte",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "1 pinte",
+  "en": "1 pint"
+ },
+ "full_name": {
+  "fr": "Ale — 1 pinte",
+  "en": "Ale — 1 pint"
+ },
+ "group": [
+  {
+   "fr": "Ale",
+   "en": "Ale"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Ale : bière de fermentation haute, traditionnellement peu ou pas houblonnée.",
+   "Pinte : mesure anglo-saxonne de capacité, d'environ 0,47 litre (américaine) ou 0,57 litre (impériale)."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 316
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "rebec-lira-da-braccio",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Lira da braccio",
+  "en": "Lira da braccio"
+ },
+ "full_name": {
+  "fr": "Rebec — Lira da braccio",
+  "en": "Rebec — Lira da braccio"
+ },
+ "group": [
+  {
+   "fr": "Rebec",
+   "en": "Rebec"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "65 po",
+   "en": "65gp"
+  },
+  "min_cp": 6500,
+  "max_cp": 6500,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Rebec : petite vièle médiévale en forme de poire, à trois cordes.",
+   "Lira da braccio : vièle italienne de la Renaissance, tenue à l'épaule, munie de cordes bourdons."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3428
+ }
+}

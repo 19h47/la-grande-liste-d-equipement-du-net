@@ -1,0 +1,40 @@
+{
+ "id": "claviers-rossignol",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Rossignol",
+  "en": "Nightingale"
+ },
+ "full_name": {
+  "fr": "Claviers — Rossignol",
+  "en": "Keyboard — Nightingale"
+ },
+ "group": [
+  {
+   "fr": "Claviers",
+   "en": "Keyboard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Rossignol : sifflet à eau imitant le chant des oiseaux."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3416
+ }
+}

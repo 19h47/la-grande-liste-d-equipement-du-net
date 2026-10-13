@@ -1,0 +1,40 @@
+{
+ "id": "casques-camail",
+ "category": "armures",
+ "name": {
+  "fr": "Camail",
+  "en": "Mail coif"
+ },
+ "full_name": {
+  "fr": "Casques — Camail",
+  "en": "Helmet — Mail coif"
+ },
+ "group": [
+  {
+   "fr": "Casques",
+   "en": "Helmet"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Camail : capuchon de mailles protégeant la tête, le cou et les épaules."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3795
+ }
+}

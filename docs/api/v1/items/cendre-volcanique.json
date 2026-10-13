@@ -1,0 +1,30 @@
+{
+ "id": "cendre-volcanique",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Cendre volcanique",
+  "en": "Ash, Volcanic"
+ },
+ "full_name": {
+  "fr": "Cendre volcanique",
+  "en": "Ash, Volcanic"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 1993
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "bretelles-en-cuir",
+ "category": "vetements",
+ "name": {
+  "fr": "En cuir",
+  "en": "Leather"
+ },
+ "full_name": {
+  "fr": "Bretelles — En cuir",
+  "en": "Suspenders — Leather"
+ },
+ "group": [
+  {
+   "fr": "Bretelles",
+   "en": "Suspenders"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 283
+ }
+}

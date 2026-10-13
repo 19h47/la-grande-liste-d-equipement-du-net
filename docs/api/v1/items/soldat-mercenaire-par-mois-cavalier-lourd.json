@@ -1,0 +1,35 @@
+{
+ "id": "soldat-mercenaire-par-mois-cavalier-lourd",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Cavalier lourd",
+  "en": "Horseman, Heavy"
+ },
+ "full_name": {
+  "fr": "Soldat mercenaire, par mois — Cavalier lourd",
+  "en": "Mercenary Soldier, per month — Horseman, Heavy"
+ },
+ "group": [
+  {
+   "fr": "Soldat mercenaire, par mois",
+   "en": "Mercenary Soldier, per month"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2426
+ }
+}

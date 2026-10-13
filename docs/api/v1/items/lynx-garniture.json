@@ -1,0 +1,35 @@
+{
+ "id": "lynx-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Lynx — Garniture",
+  "en": "Lynx — Trim"
+ },
+ "group": [
+  {
+   "fr": "Lynx",
+   "en": "Lynx"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1164
+ }
+}

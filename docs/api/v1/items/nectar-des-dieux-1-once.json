@@ -1,0 +1,33 @@
+{
+ "id": "nectar-des-dieux-1-once",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Nectar des dieux, 1 once",
+  "en": "Nectar of The Gods, 1 oz"
+ },
+ "full_name": {
+  "fr": "Nectar des dieux, 1 once",
+  "en": "Nectar of The Gods, 1 oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1000 pp",
+   "en": "1000pp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3041
+ }
+}

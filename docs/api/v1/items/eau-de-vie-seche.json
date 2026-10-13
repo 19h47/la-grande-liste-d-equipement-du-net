@@ -1,0 +1,38 @@
+{
+ "id": "eau-de-vie-seche",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Sèche",
+  "en": "Sharp"
+ },
+ "full_name": {
+  "fr": "Eau-de-vie — Sèche",
+  "en": "Brandy — Sharp"
+ },
+ "group": [
+  {
+   "fr": "Eau-de-vie",
+   "en": "Brandy"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "13 pa",
+   "en": "13sp"
+  },
+  "min_cp": 130,
+  "max_cp": 130,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 336
+ }
+}

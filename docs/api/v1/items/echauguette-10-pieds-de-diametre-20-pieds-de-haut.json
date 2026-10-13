@@ -1,0 +1,32 @@
+{
+ "id": "echauguette-10-pieds-de-diametre-20-pieds-de-haut",
+ "category": "constructions",
+ "name": {
+  "fr": "Échauguette, 10 pieds de diamètre, 20 pieds de haut",
+  "en": "Bartizan, 10'd, 20'h"
+ },
+ "full_name": {
+  "fr": "Échauguette, 10 pieds de diamètre, 20 pieds de haut",
+  "en": "Bartizan, 10'd, 20'h"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Échauguette : petite guérite en encorbellement à l'angle d'une muraille ou d'une tour, abritant un guetteur."
+  ]
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3265
+ }
+}

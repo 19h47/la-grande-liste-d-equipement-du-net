@@ -1,0 +1,38 @@
+{
+ "id": "biere-naine-1-pinte",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "1 pinte",
+  "en": "1 pint"
+ },
+ "full_name": {
+  "fr": "Bière naine — 1 pinte",
+  "en": "Dwarven — 1 pint"
+ },
+ "group": [
+  {
+   "fr": "Bière naine",
+   "en": "Dwarven"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pp",
+   "en": "1pp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 327
+ }
+}

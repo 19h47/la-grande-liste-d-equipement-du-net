@@ -1,0 +1,33 @@
+{
+ "id": "canon-moyen",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Canon moyen",
+  "en": "Cannon, Medium"
+ },
+ "full_name": {
+  "fr": "Canon moyen",
+  "en": "Cannon, Medium"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 000",
+   "en": "15,000"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": {
+  "text": "1 000",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3487
+ }
+}

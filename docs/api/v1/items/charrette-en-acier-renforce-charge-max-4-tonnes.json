@@ -1,0 +1,35 @@
+{
+ "id": "charrette-en-acier-renforce-charge-max-4-tonnes",
+ "category": "transports",
+ "name": {
+  "fr": "En acier renforcé, charge max. 4 tonnes",
+  "en": "Reinforced steel, limit 4 tons"
+ },
+ "full_name": {
+  "fr": "Charrette — En acier renforcé, charge max. 4 tonnes",
+  "en": "Cart — Reinforced steel, limit 4 tons"
+ },
+ "group": [
+  {
+   "fr": "Charrette",
+   "en": "Cart"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "80 po",
+   "en": "80gp"
+  },
+  "min_cp": 8000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 957
+ }
+}

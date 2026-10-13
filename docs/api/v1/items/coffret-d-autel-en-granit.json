@@ -1,0 +1,38 @@
+{
+ "id": "coffret-d-autel-en-granit",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En granit",
+  "en": "Granite"
+ },
+ "full_name": {
+  "fr": "Coffret d'autel — En granit",
+  "en": "Altar case — Granite"
+ },
+ "group": [
+  {
+   "fr": "Coffret d'autel",
+   "en": "Altar case"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2862
+ }
+}

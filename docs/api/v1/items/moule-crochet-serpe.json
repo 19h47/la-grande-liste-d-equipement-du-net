@@ -1,0 +1,41 @@
+{
+ "id": "moule-crochet-serpe",
+ "category": "outils",
+ "name": {
+  "fr": "Serpe",
+  "en": "Billhook"
+ },
+ "full_name": {
+  "fr": "Moule — Crochet — Serpe",
+  "en": "Mold — Hook — Billhook"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Crochet",
+   "en": "Hook"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Serpe : outil à lame large et recourbée servant à tailler les branches et les haies."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2548
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "palan",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Palan",
+  "en": "Hoist"
+ },
+ "full_name": {
+  "fr": "Palan",
+  "en": "Hoist"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": {
+  "text": "200",
+  "lb": 200
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3496
+ }
+}

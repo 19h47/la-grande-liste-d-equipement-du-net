@@ -1,0 +1,33 @@
+{
+ "id": "pic-de-cavalier",
+ "category": "armes",
+ "name": {
+  "fr": "Pic de cavalier",
+  "en": "Pick horseman's"
+ },
+ "full_name": {
+  "fr": "Pic de cavalier",
+  "en": "Pick horseman's"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3662
+ }
+}

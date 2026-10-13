@@ -1,0 +1,33 @@
+{
+ "id": "charrue-grande",
+ "category": "outils",
+ "name": {
+  "fr": "Charrue, grande",
+  "en": "Plow, large"
+ },
+ "full_name": {
+  "fr": "Charrue, grande",
+  "en": "Plow, large"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2613
+ }
+}

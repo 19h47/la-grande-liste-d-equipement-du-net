@@ -1,0 +1,33 @@
+{
+ "id": "canard-roti",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Canard rôti",
+  "en": "Roast Duck"
+ },
+ "full_name": {
+  "fr": "Canard rôti",
+  "en": "Roast Duck"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 718
+ }
+}

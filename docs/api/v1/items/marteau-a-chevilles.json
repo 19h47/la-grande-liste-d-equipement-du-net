@@ -1,0 +1,38 @@
+{
+ "id": "marteau-a-chevilles",
+ "category": "outils",
+ "name": {
+  "fr": "À chevilles",
+  "en": "Peg-setting"
+ },
+ "full_name": {
+  "fr": "Marteau — À chevilles",
+  "en": "Hammer — Peg-setting"
+ },
+ "group": [
+  {
+   "fr": "Marteau",
+   "en": "Hammer"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2506
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "grog",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Grog",
+  "en": "Grog"
+ },
+ "full_name": {
+  "fr": "Grog",
+  "en": "Grog"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": [
+   "Grog : boisson de marin à base de rhum coupé d'eau, souvent sucrée et servie chaude."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2992
+ }
+}

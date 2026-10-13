@@ -1,0 +1,35 @@
+{
+ "id": "ambre-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Ambre — De la taille d'un raisin",
+  "en": "Amber — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Ambre",
+   "en": "Amber"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 1974
+ }
+}

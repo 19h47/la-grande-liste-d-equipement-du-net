@@ -1,0 +1,35 @@
+{
+ "id": "brandistoc",
+ "category": "armes",
+ "name": {
+  "fr": "Brandistoc",
+  "en": "Brandistock"
+ },
+ "full_name": {
+  "fr": "Brandistoc",
+  "en": "Brandistock"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Brandistoc : hampe d'où jaillissent, d'une secousse, trois lames dissimulées."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3547
+ }
+}

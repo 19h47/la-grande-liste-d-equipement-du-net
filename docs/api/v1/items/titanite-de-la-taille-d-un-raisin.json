@@ -1,0 +1,37 @@
+{
+ "id": "titanite-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Titanite — De la taille d'un raisin",
+  "en": "Titanite — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Titanite",
+   "en": "Titanite"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Titanite : silicate de calcium et de titane, dit aussi sphène, jaune-vert aux feux plus vifs que le diamant."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2327
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-guitares-theorbe",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Théorbe",
+  "en": "Theorbo"
+ },
+ "full_name": {
+  "fr": "Famille des guitares — Théorbe",
+  "en": "Guitar Family — Theorbo"
+ },
+ "group": [
+  {
+   "fr": "Famille des guitares",
+   "en": "Guitar Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "70 po",
+   "en": "70gp"
+  },
+  "min_cp": 7000,
+  "max_cp": 7000,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Théorbe : grand luth baroque à long manche, doté de cordes graves supplémentaires."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3387
+ }
+}

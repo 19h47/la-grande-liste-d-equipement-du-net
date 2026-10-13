@@ -1,0 +1,38 @@
+{
+ "id": "couverture-une-place-en-laine",
+ "category": "tissus",
+ "name": {
+  "fr": "En laine",
+  "en": "Wool"
+ },
+ "full_name": {
+  "fr": "Couverture une place — En laine",
+  "en": "Blanket , single — Wool"
+ },
+ "group": [
+  {
+   "fr": "Couverture une place",
+   "en": "Blanket , single"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1713
+ }
+}

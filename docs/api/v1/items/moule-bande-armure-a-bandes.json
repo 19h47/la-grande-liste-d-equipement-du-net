@@ -1,0 +1,37 @@
+{
+ "id": "moule-bande-armure-a-bandes",
+ "category": "outils",
+ "name": {
+  "fr": "Bande (armure à bandes)",
+  "en": "Band (mail)"
+ },
+ "full_name": {
+  "fr": "Moule — Bande (armure à bandes)",
+  "en": "Mold — Band (mail)"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Bande (armure à bandes) : l'armure à bandes superpose des bandes métalliques horizontales rivetées sur un support de cuir et de mailles."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2524
+ }
+}

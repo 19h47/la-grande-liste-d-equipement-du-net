@@ -1,0 +1,40 @@
+{
+ "id": "violon-pochette",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Pochette",
+  "en": "Kit"
+ },
+ "full_name": {
+  "fr": "Violon — Pochette",
+  "en": "Violin — Kit"
+ },
+ "group": [
+  {
+   "fr": "Violon",
+   "en": "Violin"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "85 po",
+   "en": "85gp"
+  },
+  "min_cp": 8500,
+  "max_cp": 8500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Pochette : petit violon de maître à danser, qui se glissait dans la poche."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3438
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "aldaka",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Aldaka",
+  "en": "Aldaka"
+ },
+ "full_name": {
+  "fr": "Aldaka",
+  "en": "Aldaka"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Aldaka : plante de montagne du Net Book of Herbs, dont la décoction rend la vue, pourvu que l'œil soit intact."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2701
+ }
+}

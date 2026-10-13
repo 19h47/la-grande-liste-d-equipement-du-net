@@ -1,0 +1,38 @@
+{
+ "id": "coffret-d-autel-en-epicea",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En épicéa",
+  "en": "Spruce"
+ },
+ "full_name": {
+  "fr": "Coffret d'autel — En épicéa",
+  "en": "Altar case — Spruce"
+ },
+ "group": [
+  {
+   "fr": "Coffret d'autel",
+   "en": "Altar case"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2861
+ }
+}

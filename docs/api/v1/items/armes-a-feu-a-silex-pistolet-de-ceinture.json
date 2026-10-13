@@ -1,0 +1,42 @@
+{
+ "id": "armes-a-feu-a-silex-pistolet-de-ceinture",
+ "category": "armes",
+ "name": {
+  "fr": "Pistolet de ceinture",
+  "en": "Belt pistol"
+ },
+ "full_name": {
+  "fr": "Armes à feu — À silex — Pistolet de ceinture",
+  "en": "Firearms — Flintlock — Belt pistol"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "À silex",
+   "en": "Flintlock"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3596
+ }
+}

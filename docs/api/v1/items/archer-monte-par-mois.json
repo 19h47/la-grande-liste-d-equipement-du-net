@@ -1,0 +1,30 @@
+{
+ "id": "archer-monte-par-mois",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Archer monté, par mois",
+  "en": "Bowman, mounted, per month"
+ },
+ "full_name": {
+  "fr": "Archer monté, par mois",
+  "en": "Bowman, mounted, per month"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2369
+ }
+}

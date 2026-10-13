@@ -1,0 +1,35 @@
+{
+ "id": "topaze-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Topaze — De la taille d'un raisin",
+  "en": "Topaz — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Topaze",
+   "en": "Topaz"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2331
+ }
+}

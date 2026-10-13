@@ -1,0 +1,38 @@
+{
+ "id": "ceinture-pour-epee-et-dague",
+ "category": "vetements",
+ "name": {
+  "fr": "Pour épée et dague",
+  "en": "Sword and Dagger"
+ },
+ "full_name": {
+  "fr": "Ceinture — Pour épée et dague",
+  "en": "Belt — Sword and Dagger"
+ },
+ "group": [
+  {
+   "fr": "Ceinture",
+   "en": "Belt"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 85
+ }
+}

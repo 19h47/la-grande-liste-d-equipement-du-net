@@ -1,0 +1,30 @@
+{
+ "id": "veau",
+ "category": "animaux",
+ "name": {
+  "fr": "Veau",
+  "en": "Calf"
+ },
+ "full_name": {
+  "fr": "Veau",
+  "en": "Calf"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1637
+ }
+}

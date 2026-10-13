@@ -1,0 +1,35 @@
+{
+ "id": "panneaux-4-x-8-pieds",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "4 x 8 pieds",
+  "en": "4'x8'"
+ },
+ "full_name": {
+  "fr": "Panneaux — 4 x 8 pieds",
+  "en": "Boards — 4'x8'"
+ },
+ "group": [
+  {
+   "fr": "Panneaux",
+   "en": "Boards"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "16 pa",
+   "en": "16sp"
+  },
+  "min_cp": 160,
+  "max_cp": 160,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2196
+ }
+}

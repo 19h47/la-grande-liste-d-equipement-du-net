@@ -1,0 +1,33 @@
+{
+ "id": "muffins-la-douzaine",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Muffins, la douzaine",
+  "en": "Muffins, per dozen"
+ },
+ "full_name": {
+  "fr": "Muffins, la douzaine",
+  "en": "Muffins, per dozen"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 650
+ }
+}

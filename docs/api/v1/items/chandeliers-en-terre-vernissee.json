@@ -1,0 +1,41 @@
+{
+ "id": "chandeliers-en-terre-vernissee",
+ "category": "eclairage",
+ "name": {
+  "fr": "En terre vernissée",
+  "en": "kiln-glazed"
+ },
+ "full_name": {
+  "fr": "Chandeliers — En terre vernissée",
+  "en": "Candlesticks — kiln-glazed"
+ },
+ "group": [
+  {
+   "fr": "Chandeliers",
+   "en": "Candlesticks"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": [
+   "Chandeliers : ici, bougeoirs portant une chandelle, et non lustres suspendus.",
+   "En terre vernissée : céramique recouverte d'une glaçure vitrifiée par cuisson au four."
+  ]
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2661
+ }
+}

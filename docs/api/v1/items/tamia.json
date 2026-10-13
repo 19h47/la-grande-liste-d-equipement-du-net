@@ -1,0 +1,35 @@
+{
+ "id": "tamia",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Tamia",
+  "en": "Chipmunk"
+ },
+ "full_name": {
+  "fr": "Tamia",
+  "en": "Chipmunk"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": [
+   "Tamia : petit écureuil terrestre rayé d'Amérique du Nord."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 540
+ }
+}

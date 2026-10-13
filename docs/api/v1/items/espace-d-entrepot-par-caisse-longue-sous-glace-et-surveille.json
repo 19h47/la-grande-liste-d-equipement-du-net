@@ -1,0 +1,38 @@
+{
+ "id": "espace-d-entrepot-par-caisse-longue-sous-glace-et-surveille",
+ "category": "contenants",
+ "name": {
+  "fr": "Sous glace et surveillé",
+  "en": "Ice and Watching"
+ },
+ "full_name": {
+  "fr": "Espace d'entrepôt, par caisse longue — Sous glace et surveillé",
+  "en": "Warehouse Space, per longbox — Ice and Watching"
+ },
+ "group": [
+  {
+   "fr": "Espace d'entrepôt, par caisse longue",
+   "en": "Warehouse Space, per longbox"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pc/jour",
+   "en": "2cp/day"
+  },
+  "min_cp": 2,
+  "max_cp": 2,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1461
+ }
+}

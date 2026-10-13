@@ -1,0 +1,38 @@
+{
+ "id": "encensoir-en-argent",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En argent",
+  "en": "Silver"
+ },
+ "full_name": {
+  "fr": "Encensoir — En argent",
+  "en": "Censer — Silver"
+ },
+ "group": [
+  {
+   "fr": "Encensoir",
+   "en": "Censer"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2923
+ }
+}

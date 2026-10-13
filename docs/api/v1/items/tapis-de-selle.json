@@ -1,0 +1,33 @@
+{
+ "id": "tapis-de-selle",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Tapis de selle",
+  "en": "Saddle Blanket"
+ },
+ "full_name": {
+  "fr": "Tapis de selle",
+  "en": "Saddle Blanket"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1075
+ }
+}

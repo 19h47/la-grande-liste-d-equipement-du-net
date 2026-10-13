@@ -1,0 +1,40 @@
+{
+ "id": "berce",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Berce",
+  "en": "Cow Parsnip"
+ },
+ "full_name": {
+  "fr": "Berce",
+  "en": "Cow Parsnip"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Berce : grande ombellifère des prés humides et des lisières."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2749
+ }
+}

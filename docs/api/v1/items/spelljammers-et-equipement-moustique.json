@@ -1,0 +1,38 @@
+{
+ "id": "spelljammers-et-equipement-moustique",
+ "category": "transports",
+ "name": {
+  "fr": "Moustique",
+  "en": "Mosquito"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Moustique",
+  "en": "Spelljammers and equipment — Mosquito"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 000 po",
+   "en": "15,000gp"
+  },
+  "min_cp": 1500000,
+  "max_cp": 1500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Moustique : modèle de spelljammer nommé « Mosquito » en VO."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1030
+ }
+}

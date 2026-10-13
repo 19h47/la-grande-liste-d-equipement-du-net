@@ -1,0 +1,29 @@
+{
+ "id": "poupee-gigognes",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Gigognes",
+  "en": "Nesting"
+ },
+ "full_name": {
+  "fr": "Poupée — Gigognes",
+  "en": "Doll — Nesting"
+ },
+ "group": [
+  {
+   "fr": "Poupée",
+   "en": "Doll"
+  }
+ ],
+ "price": null,
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Gigognes : se dit de poupées creuses qui s'emboîtent les unes dans les autres, à la manière des matriochkas russes."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2965
+ }
+}

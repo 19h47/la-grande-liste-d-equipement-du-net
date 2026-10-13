@@ -1,0 +1,40 @@
+{
+ "id": "guiterne",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Guiterne",
+  "en": "Gittern"
+ },
+ "full_name": {
+  "fr": "Famille des guitares — Guiterne",
+  "en": "Guitar Family — Gittern"
+ },
+ "group": [
+  {
+   "fr": "Famille des guitares",
+   "en": "Guitar Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Guiterne : petit instrument médiéval à cordes pincées, ancêtre de la guitare."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3380
+ }
+}

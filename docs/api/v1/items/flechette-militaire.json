@@ -1,0 +1,35 @@
+{
+ "id": "flechette-militaire",
+ "category": "armes",
+ "name": {
+  "fr": "Militaire",
+  "en": "Military"
+ },
+ "full_name": {
+  "fr": "Fléchette — Militaire",
+  "en": "Dart — Military"
+ },
+ "group": [
+  {
+   "fr": "Fléchette",
+   "en": "Dart"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3576
+ }
+}

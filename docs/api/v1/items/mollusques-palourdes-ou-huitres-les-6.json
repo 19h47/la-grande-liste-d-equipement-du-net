@@ -1,0 +1,38 @@
+{
+ "id": "mollusques-palourdes-ou-huitres-les-6",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Palourdes ou huîtres, les 6",
+  "en": "Clams or Oysters, per 6"
+ },
+ "full_name": {
+  "fr": "Mollusques — Palourdes ou huîtres, les 6",
+  "en": "Mollusks — Clams or Oysters, per 6"
+ },
+ "group": [
+  {
+   "fr": "Mollusques",
+   "en": "Mollusks"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 654
+ }
+}

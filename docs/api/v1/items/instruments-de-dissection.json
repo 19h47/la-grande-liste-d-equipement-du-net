@@ -1,0 +1,33 @@
+{
+ "id": "instruments-de-dissection",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Instruments de dissection",
+  "en": "Disection Instruments"
+ },
+ "full_name": {
+  "fr": "Instruments de dissection",
+  "en": "Disection Instruments"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1844
+ }
+}

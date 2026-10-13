@@ -1,0 +1,30 @@
+{
+ "id": "communication-avec-les-morts",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Communication avec les morts",
+  "en": "Speak with Dead"
+ },
+ "full_name": {
+  "fr": "Communication avec les morts",
+  "en": "Speak with Dead"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po par niveau du lanceur de sorts",
+   "en": "100gp per level of the caster"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3246
+ }
+}

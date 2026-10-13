@@ -1,0 +1,30 @@
+{
+ "id": "tarn-de-guerre",
+ "category": "transports",
+ "name": {
+  "fr": "Tarn de guerre",
+  "en": "Tarn, War"
+ },
+ "full_name": {
+  "fr": "Tarn de guerre",
+  "en": "Tarn, War"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 1038
+ }
+}

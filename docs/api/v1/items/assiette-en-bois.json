@@ -1,0 +1,38 @@
+{
+ "id": "assiette-en-bois",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En bois",
+  "en": "Wooden"
+ },
+ "full_name": {
+  "fr": "Assiette — En bois",
+  "en": "Plate — Wooden"
+ },
+ "group": [
+  {
+   "fr": "Assiette",
+   "en": "Plate"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3079
+ }
+}

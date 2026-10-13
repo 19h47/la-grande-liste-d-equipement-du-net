@@ -1,0 +1,32 @@
+{
+ "id": "ettercap",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Ettercap",
+  "en": "Ettercap"
+ },
+ "full_name": {
+  "fr": "Ettercap",
+  "en": "Ettercap"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Ettercap : humanoïde maléfique apparenté aux araignées, qui tisse des toiles et élève des araignées géantes."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1510
+ }
+}

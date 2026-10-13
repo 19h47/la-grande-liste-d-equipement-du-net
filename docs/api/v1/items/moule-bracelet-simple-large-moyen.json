@@ -1,0 +1,39 @@
+{
+ "id": "moule-bracelet-simple-large-moyen",
+ "category": "outils",
+ "name": {
+  "fr": "Moyen",
+  "en": "Medium"
+ },
+ "full_name": {
+  "fr": "Moule — Bracelet simple, large — Moyen",
+  "en": "Mold — Bracelet, plain wide — Medium"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Bracelet simple, large",
+   "en": "Bracelet, plain wide"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2539
+ }
+}

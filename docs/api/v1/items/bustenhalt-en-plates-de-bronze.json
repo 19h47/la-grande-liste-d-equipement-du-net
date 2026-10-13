@@ -1,0 +1,40 @@
+{
+ "id": "bustenhalt-en-plates-de-bronze",
+ "category": "armures",
+ "name": {
+  "fr": "En plates de bronze",
+  "en": "Bronze Plate"
+ },
+ "full_name": {
+  "fr": "Bustenhalt — En plates de bronze",
+  "en": "Bustenhalt — Bronze Plate"
+ },
+ "group": [
+  {
+   "fr": "Bustenhalt",
+   "en": "Bustenhalt"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": [
+   "Bustenhalt : protection de poitrine féminine en forme de soutien-gorge (de l'allemand « Büstenhalter »)."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3765
+ }
+}

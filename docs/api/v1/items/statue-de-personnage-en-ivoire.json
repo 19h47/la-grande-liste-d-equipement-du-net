@@ -1,0 +1,33 @@
+{
+ "id": "statue-de-personnage-en-ivoire",
+ "category": "oeuvres-d-art",
+ "name": {
+  "fr": "Statue de personnage en ivoire",
+  "en": "Statue, Figure, ivory"
+ },
+ "full_name": {
+  "fr": "Statue de personnage en ivoire",
+  "en": "Statue, Figure, ivory"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "300",
+  "lb": 300
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXX",
+  "line": 3469
+ }
+}

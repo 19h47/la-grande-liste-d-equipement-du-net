@@ -1,0 +1,33 @@
+{
+ "id": "faisan-roti",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Faisan rôti",
+  "en": "Roast Pheasant"
+ },
+ "full_name": {
+  "fr": "Faisan rôti",
+  "en": "Roast Pheasant"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 719
+ }
+}

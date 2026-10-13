@@ -1,0 +1,38 @@
+{
+ "id": "whisky-bouteille",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Bouteille",
+  "en": "Bottle"
+ },
+ "full_name": {
+  "fr": "Whisky — Bouteille",
+  "en": "Whiskey — Bottle"
+ },
+ "group": [
+  {
+   "fr": "Whisky",
+   "en": "Whiskey"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 417
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "id": "armes-a-feu-a-chenapan-mousquet",
+ "category": "armes",
+ "name": {
+  "fr": "Mousquet",
+  "en": "Musket"
+ },
+ "full_name": {
+  "fr": "Armes à feu — À chenapan — Mousquet",
+  "en": "Firearms — Snaplock — Musket"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "À chenapan",
+   "en": "Snaplock"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "60 po",
+   "en": "60gp"
+  },
+  "min_cp": 6000,
+  "max_cp": 6000,
+  "plus": false
+ },
+ "weight": {
+  "text": "14",
+  "lb": 14
+ },
+ "notes": {
+  "fr": [
+   "Chenapan : platine à silex primitive (snaphance), antérieure à la platine à silex classique."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3594
+ }
+}

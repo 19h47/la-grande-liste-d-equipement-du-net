@@ -1,0 +1,33 @@
+{
+ "id": "applique-murale",
+ "category": "eclairage",
+ "name": {
+  "fr": "Applique murale",
+  "en": "Sconce, Wall"
+ },
+ "full_name": {
+  "fr": "Applique murale",
+  "en": "Sconce, Wall"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2686
+ }
+}

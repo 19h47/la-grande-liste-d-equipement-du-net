@@ -1,0 +1,35 @@
+{
+ "id": "ceste",
+ "category": "armes",
+ "name": {
+  "fr": "Ceste",
+  "en": "Cestus"
+ },
+ "full_name": {
+  "fr": "Ceste",
+  "en": "Cestus"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Ceste : gantelet de pugilat antique, en lanières de cuir renforcées de métal."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3550
+ }
+}

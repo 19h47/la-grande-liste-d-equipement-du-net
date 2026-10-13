@@ -1,0 +1,38 @@
+{
+ "id": "ragout-la-marmite-de-boeuf",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De bœuf",
+  "en": "Beef"
+ },
+ "full_name": {
+  "fr": "Ragoût, la marmite — De bœuf",
+  "en": "Stew, per pot — Beef"
+ },
+ "group": [
+  {
+   "fr": "Ragoût, la marmite",
+   "en": "Stew, per pot"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 758
+ }
+}

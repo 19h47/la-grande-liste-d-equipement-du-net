@@ -1,0 +1,40 @@
+{
+ "id": "cobbler-la-portion-a-la-peche",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "À la pêche",
+  "en": "Peach"
+ },
+ "full_name": {
+  "fr": "Cobbler, la portion — À la pêche",
+  "en": "Cobbler, per serving — Peach"
+ },
+ "group": [
+  {
+   "fr": "Cobbler, la portion",
+   "en": "Cobbler, per serving"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Cobbler : fruits cuits au four sous une couche de pâte à biscuit."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 545
+ }
+}

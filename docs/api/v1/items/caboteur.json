@@ -1,0 +1,32 @@
+{
+ "id": "caboteur",
+ "category": "transports",
+ "name": {
+  "fr": "Caboteur",
+  "en": "Coaster"
+ },
+ "full_name": {
+  "fr": "Caboteur",
+  "en": "Coaster"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Caboteur : navire marchand pratiquant le cabotage, c'est-à-dire la navigation côtière de port en port."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 963
+ }
+}

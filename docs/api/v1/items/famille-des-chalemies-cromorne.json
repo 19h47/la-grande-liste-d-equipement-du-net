@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-chalemies-cromorne",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Cromorne",
+  "en": "Crumhorn"
+ },
+ "full_name": {
+  "fr": "Famille des chalemies — Cromorne",
+  "en": "Shawm Family — Crumhorn"
+ },
+ "group": [
+  {
+   "fr": "Famille des chalemies",
+   "en": "Shawm Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Cromorne : instrument de la Renaissance à anche double enfermée dans une capsule, au tuyau recourbé en crosse."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3333
+ }
+}

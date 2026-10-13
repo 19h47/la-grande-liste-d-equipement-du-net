@@ -1,0 +1,30 @@
+{
+ "id": "mastodonte",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Mastodonte",
+  "en": "Mastodon"
+ },
+ "full_name": {
+  "fr": "Mastodonte",
+  "en": "Mastodon"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "500-700 po",
+   "en": "500-700gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 70000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "X",
+  "line": 1267
+ }
+}

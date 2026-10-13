@@ -1,0 +1,30 @@
+{
+ "id": "guerison-de-la-cecite",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Guérison de la cécité",
+  "en": "Cure Blindness"
+ },
+ "full_name": {
+  "fr": "Guérison de la cécité",
+  "en": "Cure Blindness"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3209
+ }
+}

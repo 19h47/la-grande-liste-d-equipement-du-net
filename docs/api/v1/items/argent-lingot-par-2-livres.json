@@ -1,0 +1,35 @@
+{
+ "id": "argent-lingot-par-2-livres",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Lingot, par 2 livres",
+  "en": "Ingot, per 2 lb"
+ },
+ "full_name": {
+  "fr": "Argent — Lingot, par 2 livres",
+  "en": "Silver — Ingot, per 2 lb"
+ },
+ "group": [
+  {
+   "fr": "Argent",
+   "en": "Silver"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "11 po",
+   "en": "11gp"
+  },
+  "min_cp": 1100,
+  "max_cp": 1100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2283
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pourpoint-gnome",
+ "category": "vetements",
+ "name": {
+  "fr": "Gnome",
+  "en": "Gnome"
+ },
+ "full_name": {
+  "fr": "Pourpoint — Gnome",
+  "en": "Doublet — Gnome"
+ },
+ "group": [
+  {
+   "fr": "Pourpoint",
+   "en": "Doublet"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Pourpoint : veste courte et matelassée couvrant le torse du cou à la taille."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 145
+ }
+}

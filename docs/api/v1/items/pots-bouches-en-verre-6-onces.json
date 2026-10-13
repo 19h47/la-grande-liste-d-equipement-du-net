@@ -1,0 +1,38 @@
+{
+ "id": "pots-bouches-en-verre-6-onces",
+ "category": "contenants",
+ "name": {
+  "fr": "6 onces",
+  "en": "6oz"
+ },
+ "full_name": {
+  "fr": "Pots bouchés, en verre — 6 onces",
+  "en": "Jars, stoppered Glass — 6oz"
+ },
+ "group": [
+  {
+   "fr": "Pots bouchés, en verre",
+   "en": "Jars, stoppered Glass"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pc",
+   "en": "6cp"
+  },
+  "min_cp": 6,
+  "max_cp": 6,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1401
+ }
+}

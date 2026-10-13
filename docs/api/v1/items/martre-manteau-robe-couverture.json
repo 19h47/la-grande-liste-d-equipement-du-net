@@ -1,0 +1,35 @@
+{
+ "id": "martre-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Martre — Manteau, robe, couverture",
+  "en": "Marten — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Martre",
+   "en": "Marten"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "600 po",
+   "en": "600gp"
+  },
+  "min_cp": 60000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1171
+ }
+}

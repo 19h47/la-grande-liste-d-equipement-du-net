@@ -1,0 +1,42 @@
+{
+ "id": "livre-vierge-tomes-ajouter-50-papyrus-500-pages",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "500 pages",
+  "en": "500 pages"
+ },
+ "full_name": {
+  "fr": "Livre vierge (tomes : ajouter 50 %) — Papyrus — 500 pages",
+  "en": "Book, Blank- TOMES ADD 50% — Papyrus — 500 pages"
+ },
+ "group": [
+  {
+   "fr": "Livre vierge (tomes : ajouter 50 %)",
+   "en": "Book, Blank- TOMES ADD 50%"
+  },
+  {
+   "fr": "Papyrus",
+   "en": "Papyrus"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "725 po",
+   "en": "725gp"
+  },
+  "min_cp": 72500,
+  "max_cp": 72500,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1914
+ }
+}

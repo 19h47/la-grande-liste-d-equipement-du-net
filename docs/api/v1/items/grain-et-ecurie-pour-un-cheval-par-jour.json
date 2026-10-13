@@ -1,0 +1,33 @@
+{
+ "id": "grain-et-ecurie-pour-un-cheval-par-jour",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Grain et écurie pour un cheval (par jour)",
+  "en": "Grain and Stabling For Horse (Daily)"
+ },
+ "full_name": {
+  "fr": "Grain et écurie pour un cheval (par jour)",
+  "en": "Grain and Stabling For Horse (Daily)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 362
+ }
+}

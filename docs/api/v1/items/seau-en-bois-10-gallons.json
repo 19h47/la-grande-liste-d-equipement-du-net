@@ -1,0 +1,38 @@
+{
+ "id": "seau-en-bois-10-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En bois, 10 gallons",
+  "en": "Wood, 10 gallons"
+ },
+ "full_name": {
+  "fr": "Seau — En bois, 10 gallons",
+  "en": "Bucket — Wood, 10 gallons"
+ },
+ "group": [
+  {
+   "fr": "Seau",
+   "en": "Bucket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1343
+ }
+}

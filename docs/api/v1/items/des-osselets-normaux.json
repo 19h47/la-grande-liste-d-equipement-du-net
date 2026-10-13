@@ -1,0 +1,40 @@
+{
+ "id": "des-osselets-normaux",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Normaux",
+  "en": "normal"
+ },
+ "full_name": {
+  "fr": "Dés / osselets — Normaux",
+  "en": "Dice / Knucklebones — normal"
+ },
+ "group": [
+  {
+   "fr": "Dés / osselets",
+   "en": "Dice / Knucklebones"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pe",
+   "en": "2ep"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": [
+   "Osselets : petits os de mouton (ou leurs imitations) servant à des jeux d'adresse et de hasard."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2960
+ }
+}

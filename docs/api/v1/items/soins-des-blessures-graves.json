@@ -1,0 +1,30 @@
+{
+ "id": "soins-des-blessures-graves",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Soins des blessures graves",
+  "en": "Cure Serious Wounds"
+ },
+ "full_name": {
+  "fr": "Soins des blessures graves",
+  "en": "Cure Serious Wounds"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 po par point de vie guéri",
+   "en": "20gp per hp healed"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3212
+ }
+}

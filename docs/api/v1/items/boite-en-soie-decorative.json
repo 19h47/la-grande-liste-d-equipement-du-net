@@ -1,0 +1,38 @@
+{
+ "id": "boite-en-soie-decorative",
+ "category": "contenants",
+ "name": {
+  "fr": "En soie, décorative",
+  "en": "Silk, ornamental"
+ },
+ "full_name": {
+  "fr": "Boîte — En soie, décorative",
+  "en": "Box — Silk, ornamental"
+ },
+ "group": [
+  {
+   "fr": "Boîte",
+   "en": "Box"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1324
+ }
+}

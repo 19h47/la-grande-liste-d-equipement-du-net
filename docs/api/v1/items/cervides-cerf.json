@@ -1,0 +1,35 @@
+{
+ "id": "cervides-cerf",
+ "category": "animaux",
+ "name": {
+  "fr": "Cerf",
+  "en": "Stag"
+ },
+ "full_name": {
+  "fr": "Cervidés — Cerf",
+  "en": "Deer — Stag"
+ },
+ "group": [
+  {
+   "fr": "Cervidés",
+   "en": "Deer"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "9 po",
+   "en": "9gp"
+  },
+  "min_cp": 900,
+  "max_cp": 900,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1649
+ }
+}

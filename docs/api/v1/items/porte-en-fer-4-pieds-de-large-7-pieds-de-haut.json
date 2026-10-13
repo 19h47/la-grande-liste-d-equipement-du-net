@@ -1,0 +1,30 @@
+{
+ "id": "porte-en-fer-4-pieds-de-large-7-pieds-de-haut",
+ "category": "constructions",
+ "name": {
+  "fr": "Porte en fer, 4 pieds de large, 7 pieds de haut",
+  "en": "Door, iron, 4'w 7'h"
+ },
+ "full_name": {
+  "fr": "Porte en fer, 4 pieds de large, 7 pieds de haut",
+  "en": "Door, iron, 4'w 7'h"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3273
+ }
+}

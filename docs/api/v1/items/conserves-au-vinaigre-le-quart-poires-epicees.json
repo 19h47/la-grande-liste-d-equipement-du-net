@@ -1,0 +1,38 @@
+{
+ "id": "conserves-au-vinaigre-le-quart-poires-epicees",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Poires épicées",
+  "en": "Spiced Pears"
+ },
+ "full_name": {
+  "fr": "Conserves au vinaigre, le quart — Poires épicées",
+  "en": "Pickles, per qt — Spiced Pears"
+ },
+ "group": [
+  {
+   "fr": "Conserves au vinaigre, le quart",
+   "en": "Pickles, per qt"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 688
+ }
+}

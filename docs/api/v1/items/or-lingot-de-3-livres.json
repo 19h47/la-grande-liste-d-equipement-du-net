@@ -1,0 +1,35 @@
+{
+ "id": "or-lingot-de-3-livres",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Lingot de 3 livres",
+  "en": "Ingot, 3lb"
+ },
+ "full_name": {
+  "fr": "Or — Lingot de 3 livres",
+  "en": "Gold — Ingot, 3lb"
+ },
+ "group": [
+  {
+   "fr": "Or",
+   "en": "Gold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "29 po",
+   "en": "29gp"
+  },
+  "min_cp": 2900,
+  "max_cp": 2900,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2092
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "cotte-humain",
+ "category": "vetements",
+ "name": {
+  "fr": "Humain",
+  "en": "Human"
+ },
+ "full_name": {
+  "fr": "Cotte — Humain",
+  "en": "Cote — Human"
+ },
+ "group": [
+  {
+   "fr": "Cotte",
+   "en": "Cote"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Cotte : tunique longue à manches portée par-dessus la chemise."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 140
+ }
+}

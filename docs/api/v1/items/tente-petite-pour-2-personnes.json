@@ -1,0 +1,33 @@
+{
+ "id": "tente-petite-pour-2-personnes",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Tente, petite, pour 2 personnes",
+  "en": "Tent, small, holds 2 men"
+ },
+ "full_name": {
+  "fr": "Tente, petite, pour 2 personnes",
+  "en": "Tent, small, holds 2 men"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1797
+ }
+}

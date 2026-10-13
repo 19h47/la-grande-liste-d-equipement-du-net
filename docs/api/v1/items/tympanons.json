@@ -1,0 +1,35 @@
+{
+ "id": "tympanons",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Tympanons",
+  "en": "Dulcimers"
+ },
+ "full_name": {
+  "fr": "Tympanons",
+  "en": "Dulcimers"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "60 po",
+   "en": "60gp"
+  },
+  "min_cp": 6000,
+  "max_cp": 6000,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": [
+   "Tympanons : cithares sur caisse dont les cordes sont frappées par de petits marteaux."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3351
+ }
+}

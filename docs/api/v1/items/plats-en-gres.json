@@ -1,0 +1,38 @@
+{
+ "id": "plats-en-gres",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En grès",
+  "en": "Stoneware"
+ },
+ "full_name": {
+  "fr": "Plats — En grès",
+  "en": "Plates — Stoneware"
+ },
+ "group": [
+  {
+   "fr": "Plats",
+   "en": "Plates"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3082
+ }
+}

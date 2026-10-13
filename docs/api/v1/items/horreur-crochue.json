@@ -1,0 +1,40 @@
+{
+ "id": "horreur-crochue",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Horreur crochue",
+  "en": "Hook horror"
+ },
+ "full_name": {
+  "fr": "Horreur crochue",
+  "en": "Hook horror"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Horreur crochue : humanoïde souterrain à tête de vautour et aux mains en forme de crochets (Fiend Folio)."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1522
+ }
+}

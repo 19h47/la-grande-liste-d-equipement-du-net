@@ -1,0 +1,35 @@
+{
+ "id": "platine-fil-le-pied",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Fil, le pied",
+  "en": "Wire, per ft"
+ },
+ "full_name": {
+  "fr": "Platine — Fil, le pied",
+  "en": "Platinum — Wire, per ft"
+ },
+ "group": [
+  {
+   "fr": "Platine",
+   "en": "Platinum"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2244
+ }
+}

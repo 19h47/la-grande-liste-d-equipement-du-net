@@ -1,0 +1,38 @@
+{
+ "id": "huile-le-gallon-d-olive",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "D'olive",
+  "en": "Olive"
+ },
+ "full_name": {
+  "fr": "Huile, le gallon — D'olive",
+  "en": "Oil, per gallon — Olive"
+ },
+ "group": [
+  {
+   "fr": "Huile, le gallon",
+   "en": "Oil, per gallon"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 662
+ }
+}

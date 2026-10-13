@@ -1,0 +1,38 @@
+{
+ "id": "balle-4-pouces",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "4 pouces",
+  "en": "4\""
+ },
+ "full_name": {
+  "fr": "Balle — 4 pouces",
+  "en": "Ball — 4\""
+ },
+ "group": [
+  {
+   "fr": "Balle",
+   "en": "Ball"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2868
+ }
+}

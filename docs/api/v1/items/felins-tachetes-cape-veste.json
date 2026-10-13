@@ -1,0 +1,35 @@
+{
+ "id": "felins-tachetes-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Félins tachetés — Cape, veste",
+  "en": "Spotted cats — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Félins tachetés",
+   "en": "Spotted cats"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 000 po",
+   "en": "2,000gp"
+  },
+  "min_cp": 200000,
+  "max_cp": 200000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1223
+ }
+}

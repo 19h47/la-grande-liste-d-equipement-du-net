@@ -1,0 +1,38 @@
+{
+ "id": "steaks-de-lezard",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De lézard",
+  "en": "Lizard"
+ },
+ "full_name": {
+  "fr": "Steaks — De lézard",
+  "en": "Steak — Lizard"
+ },
+ "group": [
+  {
+   "fr": "Steaks",
+   "en": "Steak"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 753
+ }
+}

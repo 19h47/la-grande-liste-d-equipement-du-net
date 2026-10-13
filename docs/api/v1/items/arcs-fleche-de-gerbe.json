@@ -1,0 +1,40 @@
+{
+ "id": "arcs-fleche-de-gerbe",
+ "category": "armes",
+ "name": {
+  "fr": "Flèche de gerbe",
+  "en": "Arrow, sheaf"
+ },
+ "full_name": {
+  "fr": "Arcs — Flèche de gerbe",
+  "en": "Bow — Arrow, sheaf"
+ },
+ "group": [
+  {
+   "fr": "Arcs",
+   "en": "Bow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa/6",
+   "en": "3sp/6"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Flèche de gerbe : flèche de guerre lourde ordinaire, ainsi nommée car les archers anglais les portaient en gerbes de vingt-quatre."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3539
+ }
+}

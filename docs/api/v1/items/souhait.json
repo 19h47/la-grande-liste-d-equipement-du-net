@@ -1,0 +1,30 @@
+{
+ "id": "souhait",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Souhait",
+  "en": "Wish"
+ },
+ "full_name": {
+  "fr": "Souhait",
+  "en": "Wish"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 000 plus un service",
+   "en": "50,000 plus service"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3252
+ }
+}

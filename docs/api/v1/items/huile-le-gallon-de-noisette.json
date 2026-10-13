@@ -1,0 +1,38 @@
+{
+ "id": "huile-le-gallon-de-noisette",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De noisette",
+  "en": "Hazelnut"
+ },
+ "full_name": {
+  "fr": "Huile, le gallon — De noisette",
+  "en": "Oil, per gallon — Hazelnut"
+ },
+ "group": [
+  {
+   "fr": "Huile, le gallon",
+   "en": "Oil, per gallon"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 665
+ }
+}

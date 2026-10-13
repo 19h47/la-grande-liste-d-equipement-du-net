@@ -1,0 +1,38 @@
+{
+ "id": "flasque-contenance-16-onces-en-acier",
+ "category": "contenants",
+ "name": {
+  "fr": "En acier",
+  "en": "Steel"
+ },
+ "full_name": {
+  "fr": "Flasque, contenance 16 onces — En acier",
+  "en": "Flask, hold 16oz — Steel"
+ },
+ "group": [
+  {
+   "fr": "Flasque, contenance 16 onces",
+   "en": "Flask, hold 16oz"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp1"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1382
+ }
+}

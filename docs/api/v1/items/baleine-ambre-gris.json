@@ -1,0 +1,32 @@
+{
+ "id": "baleine-ambre-gris",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Baleine (ambre gris)",
+  "en": "Whale (ambergris)"
+ },
+ "full_name": {
+  "fr": "Baleine (ambre gris)",
+  "en": "Whale (ambergris)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 000-20 000 po",
+   "en": "1,000-20,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 2000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Ambre gris : concrétion intestinale du cachalot, très recherchée en parfumerie."
+  ]
+ },
+ "source": {
+  "table": "VI",
+  "line": 934
+ }
+}

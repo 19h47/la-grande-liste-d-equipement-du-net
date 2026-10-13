@@ -1,0 +1,38 @@
+{
+ "id": "flutiau",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Flûtiau",
+  "en": "Whistle flute"
+ },
+ "full_name": {
+  "fr": "Famille des flûtes — Flûtiau",
+  "en": "Flute Family — Whistle flute"
+ },
+ "group": [
+  {
+   "fr": "Famille des flûtes",
+   "en": "Flute Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3369
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "graines-de-pavot-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Graines de pavot, l'once",
+  "en": "Poppy seed, per oz"
+ },
+ "full_name": {
+  "fr": "Graines de pavot, l'once",
+  "en": "Poppy seed, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 845
+ }
+}

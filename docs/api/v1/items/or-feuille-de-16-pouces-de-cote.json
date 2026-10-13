@@ -1,0 +1,35 @@
+{
+ "id": "or-feuille-de-16-pouces-de-cote",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Feuille de 16 pouces de côté",
+  "en": "Sheet, 16 in sq"
+ },
+ "full_name": {
+  "fr": "Or — Feuille de 16 pouces de côté",
+  "en": "Gold — Sheet, 16 in sq"
+ },
+ "group": [
+  {
+   "fr": "Or",
+   "en": "Gold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "9 po",
+   "en": "9gp"
+  },
+  "min_cp": 900,
+  "max_cp": 900,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2093
+ }
+}

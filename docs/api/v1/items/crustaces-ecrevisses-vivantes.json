@@ -1,0 +1,38 @@
+{
+ "id": "crustaces-ecrevisses-vivantes",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Écrevisses vivantes",
+  "en": "Crayfish, live"
+ },
+ "full_name": {
+  "fr": "Crustacés — Écrevisses vivantes",
+  "en": "Crustacea — Crayfish, live"
+ },
+ "group": [
+  {
+   "fr": "Crustacés",
+   "en": "Crustacea"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 561
+ }
+}

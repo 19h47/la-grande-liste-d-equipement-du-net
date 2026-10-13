@@ -1,0 +1,33 @@
+{
+ "id": "peinture-couleurs-assorties-le-gallon",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "Peinture (couleurs assorties), le gallon",
+  "en": "Paint (Assorted Colors), per gallon"
+ },
+ "full_name": {
+  "fr": "Peinture (couleurs assorties), le gallon",
+  "en": "Paint (Assorted Colors), per gallon"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1-2 po",
+   "en": "1-2gp"
+  },
+  "min_cp": 100,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1950
+ }
+}

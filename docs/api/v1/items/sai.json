@@ -1,0 +1,35 @@
+{
+ "id": "sai",
+ "category": "armes",
+ "name": {
+  "fr": "Sai",
+  "en": "Sai"
+ },
+ "full_name": {
+  "fr": "Sai",
+  "en": "Sai"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Sai : trident court okinawaïen, sans tranchant, servant surtout à parer et désarmer."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3690
+ }
+}

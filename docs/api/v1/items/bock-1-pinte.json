@@ -1,0 +1,35 @@
+{
+ "id": "bock-1-pinte",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Bock, 1 pinte",
+  "en": "Bock, 1 pint"
+ },
+ "full_name": {
+  "fr": "Bock, 1 pinte",
+  "en": "Bock, 1 pint"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Bock : bière forte de fermentation basse, d'origine allemande ; ce n'est pas ici le verre de bière."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 333
+ }
+}

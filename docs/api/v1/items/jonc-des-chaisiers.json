@@ -1,0 +1,38 @@
+{
+ "id": "jonc-des-chaisiers",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Jonc des chaisiers",
+  "en": "Bull-Rush"
+ },
+ "full_name": {
+  "fr": "Jonc des chaisiers",
+  "en": "Bull-Rush"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2737
+ }
+}

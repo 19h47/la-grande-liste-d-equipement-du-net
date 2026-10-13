@@ -1,0 +1,33 @@
+{
+ "id": "four",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Four",
+  "en": "Oven"
+ },
+ "full_name": {
+  "fr": "Four",
+  "en": "Oven"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "60 po",
+   "en": "60gp"
+  },
+  "min_cp": 6000,
+  "max_cp": 6000,
+  "plus": false
+ },
+ "weight": {
+  "text": "60",
+  "lb": 60
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1870
+ }
+}

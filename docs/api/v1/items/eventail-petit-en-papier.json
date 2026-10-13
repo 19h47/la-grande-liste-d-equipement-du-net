@@ -1,0 +1,38 @@
+{
+ "id": "eventail-petit-en-papier",
+ "category": "vetements",
+ "name": {
+  "fr": "Petit, en papier",
+  "en": "tiny, paper"
+ },
+ "full_name": {
+  "fr": "Éventail — Petit, en papier",
+  "en": "Fan — tiny, paper"
+ },
+ "group": [
+  {
+   "fr": "Éventail",
+   "en": "Fan"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 157
+ }
+}

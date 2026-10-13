@@ -1,0 +1,35 @@
+{
+ "id": "toge",
+ "category": "vetements",
+ "name": {
+  "fr": "Toge",
+  "en": "Toga"
+ },
+ "full_name": {
+  "fr": "Toge",
+  "en": "Toga"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8+ pc",
+   "en": "8+cp"
+  },
+  "min_cp": 8,
+  "max_cp": 8,
+  "plus": true
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Toge : ample drapé de laine porté par les citoyens romains."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 289
+ }
+}

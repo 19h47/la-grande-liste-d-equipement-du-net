@@ -1,0 +1,37 @@
+{
+ "id": "spinelle-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Spinelle — De la taille d'une boule",
+  "en": "Spinel — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Spinelle",
+   "en": "Spinel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spinelle : gemme souvent rouge, longtemps confondue avec le rubis."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2292
+ }
+}

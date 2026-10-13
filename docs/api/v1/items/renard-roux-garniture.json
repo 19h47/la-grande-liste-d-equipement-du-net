@@ -1,0 +1,35 @@
+{
+ "id": "renard-roux-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Renard roux — Garniture",
+  "en": "Fox, red — Trim"
+ },
+ "group": [
+  {
+   "fr": "Renard roux",
+   "en": "Fox, red"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1149
+ }
+}

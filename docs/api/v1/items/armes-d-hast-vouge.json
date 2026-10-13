@@ -1,0 +1,40 @@
+{
+ "id": "armes-d-hast-vouge",
+ "category": "armes",
+ "name": {
+  "fr": "Vouge",
+  "en": "Voulge"
+ },
+ "full_name": {
+  "fr": "Armes d'hast — Vouge",
+  "en": "Polearm — Voulge"
+ },
+ "group": [
+  {
+   "fr": "Armes d'hast",
+   "en": "Polearm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": [
+   "Vouge : arme d'hast à lame large et tranchante, proche du couperet."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3688
+ }
+}

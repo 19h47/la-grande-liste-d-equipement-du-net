@@ -1,0 +1,38 @@
+{
+ "id": "edredon-en-lin-fourre-de-flanelle",
+ "category": "tissus",
+ "name": {
+  "fr": "Fourré de flanelle",
+  "en": "Flannel"
+ },
+ "full_name": {
+  "fr": "Édredon en lin — Fourré de flanelle",
+  "en": "Comforter, linen — Flannel"
+ },
+ "group": [
+  {
+   "fr": "Édredon en lin",
+   "en": "Comforter, linen"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1722
+ }
+}

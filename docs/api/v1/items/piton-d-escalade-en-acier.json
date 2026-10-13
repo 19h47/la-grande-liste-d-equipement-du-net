@@ -1,0 +1,38 @@
+{
+ "id": "piton-d-escalade-en-acier",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "En acier",
+  "en": "Steel"
+ },
+ "full_name": {
+  "fr": "Piton d'escalade — En acier",
+  "en": "Piton, climbing — Steel"
+ },
+ "group": [
+  {
+   "fr": "Piton d'escalade",
+   "en": "Piton, climbing"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1785
+ }
+}

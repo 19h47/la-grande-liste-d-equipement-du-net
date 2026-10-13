@@ -1,0 +1,37 @@
+{
+ "id": "basilic-cil",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Cil",
+  "en": "Eyelash"
+ },
+ "full_name": {
+  "fr": "Basilic — Cil",
+  "en": "Basilisk — Eyelash"
+ },
+ "group": [
+  {
+   "fr": "Basilic",
+   "en": "Basilisk"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "80 po",
+   "en": "80gp"
+  },
+  "min_cp": 8000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Basilic : ici le reptile à huit pattes dont le regard pétrifie, non la plante aromatique."
+  ]
+ },
+ "source": {
+  "table": "VI",
+  "line": 895
+ }
+}

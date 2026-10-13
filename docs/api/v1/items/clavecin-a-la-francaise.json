@@ -1,0 +1,38 @@
+{
+ "id": "clavecin-a-la-francaise",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Clavecin à la française",
+  "en": "Clavecin"
+ },
+ "full_name": {
+  "fr": "Claviers — Clavecin à la française",
+  "en": "Keyboard — Clavecin"
+ },
+ "group": [
+  {
+   "fr": "Claviers",
+   "en": "Keyboard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "275 po",
+   "en": "275gp"
+  },
+  "min_cp": 27500,
+  "max_cp": 27500,
+  "plus": false
+ },
+ "weight": {
+  "text": "85",
+  "lb": 85
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3409
+ }
+}

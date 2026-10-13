@@ -1,0 +1,33 @@
+{
+ "id": "famille-des-cithares",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Famille des cithares",
+  "en": "Zither family"
+ },
+ "full_name": {
+  "fr": "Famille des cithares",
+  "en": "Zither family"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3447
+ }
+}

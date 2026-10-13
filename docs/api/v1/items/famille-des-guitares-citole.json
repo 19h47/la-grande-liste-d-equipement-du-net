@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-guitares-citole",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Citole",
+  "en": "Citole"
+ },
+ "full_name": {
+  "fr": "Famille des guitares — Citole",
+  "en": "Guitar Family — Citole"
+ },
+ "group": [
+  {
+   "fr": "Famille des guitares",
+   "en": "Guitar Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Citole : instrument médiéval à cordes pincées, ancêtre du cistre."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3376
+ }
+}

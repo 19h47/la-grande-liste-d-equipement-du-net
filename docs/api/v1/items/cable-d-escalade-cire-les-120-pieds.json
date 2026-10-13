@@ -1,0 +1,38 @@
+{
+ "id": "cable-d-escalade-cire-les-120-pieds",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "D'escalade, ciré, les 120 pieds",
+  "en": "Climbing, waxed, per 120'"
+ },
+ "full_name": {
+  "fr": "Câble — D'escalade, ciré, les 120 pieds",
+  "en": "Cable — Climbing, waxed, per 120'"
+ },
+ "group": [
+  {
+   "fr": "Câble",
+   "en": "Cable"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1769
+ }
+}

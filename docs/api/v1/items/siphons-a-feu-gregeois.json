@@ -1,0 +1,32 @@
+{
+ "id": "siphons-a-feu-gregeois",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Siphons à feu grégeois",
+  "en": "Greek Fire Projectors"
+ },
+ "full_name": {
+  "fr": "Siphons à feu grégeois",
+  "en": "Greek Fire Projectors"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Siphons à feu grégeois : tubes projetant le feu grégeois, mélange incendiaire byzantin qui brûle même sur l'eau."
+  ]
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3495
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "fruits-et-herbes-confits-l-once-gingembre-au-miel",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Gingembre au miel",
+  "en": "Honeyed ginger"
+ },
+ "full_name": {
+  "fr": "Fruits et herbes confits, l'once — Gingembre au miel",
+  "en": "Candied Fruits and Herbs, per oz — Honeyed ginger"
+ },
+ "group": [
+  {
+   "fr": "Fruits et herbes confits, l'once",
+   "en": "Candied Fruits and Herbs, per oz"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 510
+ }
+}

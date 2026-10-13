@@ -1,0 +1,32 @@
+{
+ "id": "yuan-ti",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Yuan-ti",
+  "en": "Yuan ti"
+ },
+ "full_name": {
+  "fr": "Yuan-ti",
+  "en": "Yuan ti"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "600-900 po",
+   "en": "600-900gp"
+  },
+  "min_cp": 60000,
+  "max_cp": 90000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Yuan-ti : race d'hommes-serpents issue d'humains corrompus, vouée à des dieux serpents."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1549
+ }
+}

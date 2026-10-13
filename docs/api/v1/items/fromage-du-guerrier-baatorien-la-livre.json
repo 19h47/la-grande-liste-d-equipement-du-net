@@ -1,0 +1,35 @@
+{
+ "id": "fromage-du-guerrier-baatorien-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Fromage du guerrier (baatorien), la livre",
+  "en": "Cheese, Warrior (Baatorian), per lb"
+ },
+ "full_name": {
+  "fr": "Fromage du guerrier (baatorien), la livre",
+  "en": "Cheese, Warrior (Baatorian), per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Baatorien : de Baator, nom planescapien des Neuf Enfers, plan des diables."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 533
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "cuillere-a-remuer-en-bois",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "À remuer, en bois",
+  "en": "Stirring, wood"
+ },
+ "full_name": {
+  "fr": "Cuillère — À remuer, en bois",
+  "en": "Spoon — Stirring, wood"
+ },
+ "group": [
+  {
+   "fr": "Cuillère",
+   "en": "Spoon"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3117
+ }
+}

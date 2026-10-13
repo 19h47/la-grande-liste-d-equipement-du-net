@@ -1,0 +1,38 @@
+{
+ "id": "bustier-en-or",
+ "category": "armures",
+ "name": {
+  "fr": "En or",
+  "en": "Gold"
+ },
+ "full_name": {
+  "fr": "Bustier — En or",
+  "en": "Bustier — Gold"
+ },
+ "group": [
+  {
+   "fr": "Bustier",
+   "en": "Bustier"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "95 po",
+   "en": "95gp"
+  },
+  "min_cp": 9500,
+  "max_cp": 9500,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3775
+ }
+}

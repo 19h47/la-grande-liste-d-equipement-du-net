@@ -1,0 +1,33 @@
+{
+ "id": "trousse-d-analyse-suffisante-pour-5-10-utilisations",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Trousse d'analyse, suffisante pour 5-10 utilisations",
+  "en": "Test kit, sufficant for 5-10 uses"
+ },
+ "full_name": {
+  "fr": "Trousse d'analyse, suffisante pour 5-10 utilisations",
+  "en": "Test kit, sufficant for 5-10 uses"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3140
+ }
+}

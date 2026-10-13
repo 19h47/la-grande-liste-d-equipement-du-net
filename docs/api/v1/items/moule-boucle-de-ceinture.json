@@ -1,0 +1,39 @@
+{
+ "id": "moule-boucle-de-ceinture",
+ "category": "outils",
+ "name": {
+  "fr": "De ceinture",
+  "en": "Belt"
+ },
+ "full_name": {
+  "fr": "Moule — Boucle — De ceinture",
+  "en": "Mold — Buckle — Belt"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Boucle",
+   "en": "Buckle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2530
+ }
+}

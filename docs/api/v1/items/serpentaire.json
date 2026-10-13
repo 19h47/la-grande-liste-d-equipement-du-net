@@ -1,0 +1,40 @@
+{
+ "id": "serpentaire",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Serpentaire",
+  "en": "Dragonwort"
+ },
+ "full_name": {
+  "fr": "Serpentaire",
+  "en": "Dragonwort"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Serpentaire : dans le Net Book of Herbs, racine mijotée trois jours puis donnée contre la variole et la peste."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2761
+ }
+}

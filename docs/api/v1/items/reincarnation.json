@@ -1,0 +1,32 @@
+{
+ "id": "reincarnation",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Réincarnation",
+  "en": "Reincarnation"
+ },
+ "full_name": {
+  "fr": "Réincarnation",
+  "en": "Reincarnation"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "Spécial",
+   "en": "Special"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Réincarnation : sort ramenant un mort à la vie dans un corps nouveau, dont la race ou l'espèce est tirée au hasard."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3242
+ }
+}

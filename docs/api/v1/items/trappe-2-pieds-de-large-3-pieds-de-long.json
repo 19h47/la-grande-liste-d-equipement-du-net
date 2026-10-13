@@ -1,0 +1,30 @@
+{
+ "id": "trappe-2-pieds-de-large-3-pieds-de-long",
+ "category": "constructions",
+ "name": {
+  "fr": "Trappe, 2 pieds de large, 3 pieds de long",
+  "en": "Door, Trap, 2'w 3'l"
+ },
+ "full_name": {
+  "fr": "Trappe, 2 pieds de large, 3 pieds de long",
+  "en": "Door, Trap, 2'w 3'l"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3275
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "boeuf-la-livre-seche-en-lanieres-jerky",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Séché en lanières (jerky)",
+  "en": "jerked"
+ },
+ "full_name": {
+  "fr": "Bœuf, la livre — Séché en lanières (jerky)",
+  "en": "Beef, per lb — jerked"
+ },
+ "group": [
+  {
+   "fr": "Bœuf, la livre",
+   "en": "Beef, per lb"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 460
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "armure-a-attelles",
+ "category": "armures",
+ "name": {
+  "fr": "Armure à attelles",
+  "en": "Splint mail"
+ },
+ "full_name": {
+  "fr": "Armure à attelles",
+  "en": "Splint mail"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "80 po",
+   "en": "80gp"
+  },
+  "min_cp": 8000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "weight": {
+  "text": "40",
+  "lb": 40
+ },
+ "notes": {
+  "fr": [
+   "Armure à attelles : lames de métal verticales rivées sur un fond de cuir, avec mailles aux articulations."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3824
+ }
+}

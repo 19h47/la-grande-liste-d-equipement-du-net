@@ -1,0 +1,40 @@
+{
+ "id": "entriste",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Entriste",
+  "en": "Entriste"
+ },
+ "full_name": {
+  "fr": "Entriste",
+  "en": "Entriste"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Entriste : plante du désert du Net Book of Herbs, dont les feuilles extraient le poison d'une plaie."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2766
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "ambassadeur-ou-dignitaire-par-semaine",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Par semaine",
+  "en": "Per Week"
+ },
+ "full_name": {
+  "fr": "Ambassadeur ou dignitaire — Par semaine",
+  "en": "Ambassador or Official — Per Week"
+ },
+ "group": [
+  {
+   "fr": "Ambassadeur ou dignitaire",
+   "en": "Ambassador or Official"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50-150 po",
+   "en": "50-150gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2358
+ }
+}

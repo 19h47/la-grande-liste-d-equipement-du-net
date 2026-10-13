@@ -1,0 +1,35 @@
+{
+ "id": "genievre-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Genièvre, l'once",
+  "en": "Juniper, per oz"
+ },
+ "full_name": {
+  "fr": "Genièvre, l'once",
+  "en": "Juniper, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Genièvre : baie aromatique noir violacé du genévrier, arbuste épineux à feuilles persistantes."
+  ]
+ },
+ "source": {
+  "table": "IV",
+  "line": 830
+ }
+}

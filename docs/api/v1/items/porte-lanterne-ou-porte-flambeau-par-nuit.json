@@ -1,0 +1,30 @@
+{
+ "id": "porte-lanterne-ou-porte-flambeau-par-nuit",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Porte-lanterne ou porte-flambeau (par nuit)",
+  "en": "Lantern or tourchbearer (per night)"
+ },
+ "full_name": {
+  "fr": "Porte-lanterne ou porte-flambeau (par nuit)",
+  "en": "Lantern or tourchbearer (per night)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2409
+ }
+}

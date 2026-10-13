@@ -1,0 +1,38 @@
+{
+ "id": "tonneau-en-bois-petit-contenance-30-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En bois, petit, contenance 30 gallons",
+  "en": "Wooden, small, holds 30 gallons"
+ },
+ "full_name": {
+  "fr": "Tonneau — En bois, petit, contenance 30 gallons",
+  "en": "Barrel — Wooden, small, holds 30 gallons"
+ },
+ "group": [
+  {
+   "fr": "Tonneau",
+   "en": "Barrel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "30",
+  "lb": 30
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1292
+ }
+}

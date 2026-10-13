@@ -1,0 +1,35 @@
+{
+ "id": "lorica-hamata",
+ "category": "armures",
+ "name": {
+  "fr": "Lorica hamata",
+  "en": "Lorica hamata"
+ },
+ "full_name": {
+  "fr": "Lorica hamata",
+  "en": "Lorica hamata"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "120 po",
+   "en": "120gp"
+  },
+  "min_cp": 12000,
+  "max_cp": 12000,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": [
+   "Lorica hamata : cotte de mailles des légionnaires romains."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3810
+ }
+}

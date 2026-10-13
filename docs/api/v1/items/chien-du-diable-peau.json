@@ -1,0 +1,37 @@
+{
+ "id": "chien-du-diable-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Chien du diable — Peau",
+  "en": "Devil Dog — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Chien du diable",
+   "en": "Devil Dog"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Chien du diable : canidé monstrueux d'AD&D à fourrure blanche, chassant en meute dans les régions glacées."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1128
+ }
+}

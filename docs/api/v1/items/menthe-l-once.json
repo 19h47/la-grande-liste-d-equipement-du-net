@@ -1,0 +1,33 @@
+{
+ "id": "menthe-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Menthe, l'once",
+  "en": "Mint, per oz"
+ },
+ "full_name": {
+  "fr": "Menthe, l'once",
+  "en": "Mint, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 838
+ }
+}

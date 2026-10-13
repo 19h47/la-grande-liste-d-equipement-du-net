@@ -1,0 +1,40 @@
+{
+ "id": "rampalt",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Rampalt",
+  "en": "Rampalt"
+ },
+ "full_name": {
+  "fr": "Rampalt",
+  "en": "Rampalt"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Rampalt : plante du Net Book of Herbs dont la vapeur inhalée dégage les voies respiratoires."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2816
+ }
+}

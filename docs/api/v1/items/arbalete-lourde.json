@@ -1,0 +1,38 @@
+{
+ "id": "arbalete-lourde",
+ "category": "armes",
+ "name": {
+  "fr": "Arbalète lourde",
+  "en": "Heavy crossbow"
+ },
+ "full_name": {
+  "fr": "Arbalètes — Arbalète lourde",
+  "en": "Crossbow — Heavy crossbow"
+ },
+ "group": [
+  {
+   "fr": "Arbalètes",
+   "en": "Crossbow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "14",
+  "lb": 14
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3560
+ }
+}

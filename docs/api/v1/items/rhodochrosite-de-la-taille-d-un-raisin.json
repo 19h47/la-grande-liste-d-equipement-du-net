@@ -1,0 +1,37 @@
+{
+ "id": "rhodochrosite-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Rhodochrosite — De la taille d'un raisin",
+  "en": "Rhodochrosite — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Rhodochrosite",
+   "en": "Rhodochrosite"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Rhodochrosite : carbonate de manganèse rose framboise, souvent rubané."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2256
+ }
+}

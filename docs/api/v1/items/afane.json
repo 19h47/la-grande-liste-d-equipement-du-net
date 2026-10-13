@@ -1,0 +1,38 @@
+{
+ "id": "afane",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Afane",
+  "en": "Afane"
+ },
+ "full_name": {
+  "fr": "Afane",
+  "en": "Afane"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "900 po",
+   "en": "900gp"
+  },
+  "min_cp": 90000,
+  "max_cp": 90000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "1 800 po",
+   "en": "1,800gp"
+  },
+  "min_cp": 180000,
+  "max_cp": 180000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1471
+ }
+}

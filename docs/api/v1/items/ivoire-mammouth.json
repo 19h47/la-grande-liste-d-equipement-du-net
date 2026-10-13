@@ -1,0 +1,35 @@
+{
+ "id": "ivoire-mammouth",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Mammouth",
+  "en": "Mammoth"
+ },
+ "full_name": {
+  "fr": "Ivoire — Mammouth",
+  "en": "Ivory — Mammoth"
+ },
+ "group": [
+  {
+   "fr": "Ivoire",
+   "en": "Ivory"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100-600 po (+50%)",
+   "en": "100-600gp (+50%)"
+  },
+  "min_cp": 10000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2120
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "vin-excellent-grand-tonneau-50-gallons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Excellent, grand tonneau, 50 gallons",
+  "en": "Excellent, Large Barrel, 50 gallons"
+ },
+ "full_name": {
+  "fr": "Vin — Excellent, grand tonneau, 50 gallons",
+  "en": "Wine — Excellent, Large Barrel, 50 gallons"
+ },
+ "group": [
+  {
+   "fr": "Vin",
+   "en": "Wine"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "200",
+  "lb": 200
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 419
+ }
+}

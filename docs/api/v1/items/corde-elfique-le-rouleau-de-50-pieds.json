@@ -1,0 +1,38 @@
+{
+ "id": "corde-elfique-le-rouleau-de-50-pieds",
+ "category": "outils",
+ "name": {
+  "fr": "Elfique, le rouleau de 50 pieds",
+  "en": "Elven, per 50' coil"
+ },
+ "full_name": {
+  "fr": "Corde — Elfique, le rouleau de 50 pieds",
+  "en": "Rope — Elven, per 50' coil"
+ },
+ "group": [
+  {
+   "fr": "Corde",
+   "en": "Rope"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2624
+ }
+}

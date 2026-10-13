@@ -1,0 +1,42 @@
+{
+ "id": "livre-vierge-tomes-ajouter-50-papier-50-pages",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "50 pages",
+  "en": "50 pages"
+ },
+ "full_name": {
+  "fr": "Livre vierge (tomes : ajouter 50 %) — Papier — 50 pages",
+  "en": "Book, Blank- TOMES ADD 50% — Paper — 50 pages"
+ },
+ "group": [
+  {
+   "fr": "Livre vierge (tomes : ajouter 50 %)",
+   "en": "Book, Blank- TOMES ADD 50%"
+  },
+  {
+   "fr": "Papier",
+   "en": "Paper"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1924
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "monstre-su",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Monstre-su",
+  "en": "Su monster"
+ },
+ "full_name": {
+  "fr": "Monstre-su",
+  "en": "Su monster"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "550 po",
+   "en": "550gp"
+  },
+  "min_cp": 55000,
+  "max_cp": 55000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Monstre-su : singe arboricole aux pouvoirs psioniques, qui se suspend aux branches par la queue."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1540
+ }
+}

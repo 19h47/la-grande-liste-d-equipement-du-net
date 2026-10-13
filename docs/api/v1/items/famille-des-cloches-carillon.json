@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-cloches-carillon",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Carillon",
+  "en": "Chimes"
+ },
+ "full_name": {
+  "fr": "Famille des cloches — Carillon",
+  "en": "Chime family — Chimes"
+ },
+ "group": [
+  {
+   "fr": "Famille des cloches",
+   "en": "Chime family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3320
+ }
+}

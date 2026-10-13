@@ -1,0 +1,37 @@
+{
+ "id": "caterwaul-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Caterwaul — Peau",
+  "en": "Caterwaul — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Caterwaul",
+   "en": "Caterwaul"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Caterwaul : félin bipède d'AD&D au cri strident et douloureux (Fiend Folio)."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1108
+ }
+}

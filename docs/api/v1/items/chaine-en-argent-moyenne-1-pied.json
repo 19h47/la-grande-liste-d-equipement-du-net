@@ -1,0 +1,38 @@
+{
+ "id": "chaine-en-argent-moyenne-1-pied",
+ "category": "outils",
+ "name": {
+  "fr": "En argent, moyenne, 1 pied",
+  "en": "Silver, medium, 1 ft"
+ },
+ "full_name": {
+  "fr": "Chaîne — En argent, moyenne, 1 pied",
+  "en": "Chain — Silver, medium, 1 ft"
+ },
+ "group": [
+  {
+   "fr": "Chaîne",
+   "en": "Chain"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "54 pa",
+   "en": "54sp"
+  },
+  "min_cp": 540,
+  "max_cp": 540,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2477
+ }
+}

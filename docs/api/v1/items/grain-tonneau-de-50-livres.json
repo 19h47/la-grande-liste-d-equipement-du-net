@@ -1,0 +1,33 @@
+{
+ "id": "grain-tonneau-de-50-livres",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Grain, tonneau de 50 livres",
+  "en": "Grain, 50 lbs barrel"
+ },
+ "full_name": {
+  "fr": "Grain, tonneau de 50 livres",
+  "en": "Grain, 50 lbs barrel"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "50",
+  "lb": 50
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 595
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "jeu-d-echecs",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Jeu d'échecs",
+  "en": "Chess set"
+ },
+ "full_name": {
+  "fr": "Jeu d'échecs",
+  "en": "Chess set"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2929
+ }
+}

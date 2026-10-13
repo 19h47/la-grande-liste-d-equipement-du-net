@@ -1,0 +1,35 @@
+{
+ "id": "hysope-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Hysope, l'once",
+  "en": "Hyssop, per oz"
+ },
+ "full_name": {
+  "fr": "Hysope, l'once",
+  "en": "Hyssop, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Hysope : plante aromatique à fleurs bleues des climats tempérés, utilisée en infusion."
+  ]
+ },
+ "source": {
+  "table": "IV",
+  "line": 829
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "spelljammers-et-equipement-nautiloide-de-flagelleur-mental",
+ "category": "transports",
+ "name": {
+  "fr": "Nautiloïde de flagelleur mental",
+  "en": "Mind Flayer Nautiloid"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Nautiloïde de flagelleur mental",
+  "en": "Spelljammers and equipment — Mind Flayer Nautiloid"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 000 po",
+   "en": "40,000gp"
+  },
+  "min_cp": 4000000,
+  "max_cp": 4000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Nautiloïde de flagelleur mental : spelljammer des flagelleurs mentaux, en forme de coquille de nautile."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1029
+ }
+}

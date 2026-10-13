@@ -1,0 +1,40 @@
+{
+ "id": "armes-d-hast-serpe-de-guerre",
+ "category": "armes",
+ "name": {
+  "fr": "Serpe de guerre",
+  "en": "Bill"
+ },
+ "full_name": {
+  "fr": "Armes d'hast — Serpe de guerre",
+  "en": "Polearm — Bill"
+ },
+ "group": [
+  {
+   "fr": "Armes d'hast",
+   "en": "Polearm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": [
+   "Serpe de guerre : arme d'hast dérivée de la serpe agricole, à lame crochue."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3674
+ }
+}

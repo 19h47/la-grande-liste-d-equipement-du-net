@@ -1,0 +1,38 @@
+{
+ "id": "hydre-de-lerne",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Hydre de Lerne",
+  "en": "Hydra, lernaean"
+ },
+ "full_name": {
+  "fr": "Hydre de Lerne",
+  "en": "Hydra, lernaean"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "3 000 po",
+   "en": "3,000gp"
+  },
+  "min_cp": 300000,
+  "max_cp": 300000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "600 po/tête",
+   "en": "600gp/head"
+  },
+  "min_cp": 60000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1525
+ }
+}

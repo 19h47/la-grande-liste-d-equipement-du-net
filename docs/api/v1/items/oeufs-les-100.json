@@ -1,0 +1,33 @@
+{
+ "id": "oeufs-les-100",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Œufs, les 100",
+  "en": "Eggs, per 100"
+ },
+ "full_name": {
+  "fr": "Œufs, les 100",
+  "en": "Eggs, per 100"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 572
+ }
+}

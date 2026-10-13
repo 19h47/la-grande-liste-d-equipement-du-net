@@ -1,0 +1,38 @@
+{
+ "id": "bol-en-etain",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En étain",
+  "en": "Pewter"
+ },
+ "full_name": {
+  "fr": "Bol — En étain",
+  "en": "Bowl — Pewter"
+ },
+ "group": [
+  {
+   "fr": "Bol",
+   "en": "Bowl"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2895
+ }
+}

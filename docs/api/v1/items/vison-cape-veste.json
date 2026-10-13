@@ -1,0 +1,35 @@
+{
+ "id": "vison-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Vison — Cape, veste",
+  "en": "Mink — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Vison",
+   "en": "Mink"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 700 po",
+   "en": "2,700gp"
+  },
+  "min_cp": 270000,
+  "max_cp": 270000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1175
+ }
+}

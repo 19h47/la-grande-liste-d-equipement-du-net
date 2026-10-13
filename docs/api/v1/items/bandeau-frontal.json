@@ -1,0 +1,33 @@
+{
+ "id": "bandeau-frontal",
+ "category": "vetements",
+ "name": {
+  "fr": "Bandeau frontal",
+  "en": "Fillet"
+ },
+ "full_name": {
+  "fr": "Bandeau frontal",
+  "en": "Fillet"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "60 po",
+   "en": "60gp"
+  },
+  "min_cp": 6000,
+  "max_cp": 6000,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 159
+ }
+}

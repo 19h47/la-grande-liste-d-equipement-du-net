@@ -1,0 +1,38 @@
+{
+ "id": "poupee-en-tissu",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En tissu",
+  "en": "Fabric"
+ },
+ "full_name": {
+  "fr": "Poupée — En tissu",
+  "en": "Doll — Fabric"
+ },
+ "group": [
+  {
+   "fr": "Poupée",
+   "en": "Doll"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2964
+ }
+}

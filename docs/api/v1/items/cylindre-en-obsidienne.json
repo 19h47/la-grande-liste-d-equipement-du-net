@@ -1,0 +1,38 @@
+{
+ "id": "cylindre-en-obsidienne",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En obsidienne",
+  "en": "obsidian"
+ },
+ "full_name": {
+  "fr": "Cylindre — En obsidienne",
+  "en": "Cylinder — obsidian"
+ },
+ "group": [
+  {
+   "fr": "Cylindre",
+   "en": "Cylinder"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "14 po",
+   "en": "14gp"
+  },
+  "min_cp": 1400,
+  "max_cp": 1400,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2958
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "autour-dresse",
+ "category": "animaux",
+ "name": {
+  "fr": "Autour dressé",
+  "en": "Hawk, Trained"
+ },
+ "full_name": {
+  "fr": "Autour dressé",
+  "en": "Hawk, Trained"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1672
+ }
+}

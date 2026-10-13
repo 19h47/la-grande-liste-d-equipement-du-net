@@ -1,0 +1,40 @@
+{
+ "id": "anserke",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Anserke",
+  "en": "Anserke"
+ },
+ "full_name": {
+  "fr": "Anserke",
+  "en": "Anserke"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Anserke : plante côtière du Net Book of Herbs, dont la racine appliquée sur une plaie arrête le saignement en trois rounds."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2707
+ }
+}

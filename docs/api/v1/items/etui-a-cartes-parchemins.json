@@ -1,0 +1,33 @@
+{
+ "id": "etui-a-cartes-parchemins",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Étui à cartes / parchemins",
+  "en": "Map/ Scroll Tube"
+ },
+ "full_name": {
+  "fr": "Étui à cartes / parchemins",
+  "en": "Map/ Scroll Tube"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3020
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "cetus-mineur-defense-l-unite",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Cétus mineur (défense), l'unité",
+  "en": "Cetus, Lesser (tusk), each"
+ },
+ "full_name": {
+  "fr": "Cétus mineur (défense), l'unité",
+  "en": "Cetus, Lesser (tusk), each"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 000 po",
+   "en": "4,000gp"
+  },
+  "min_cp": 400000,
+  "max_cp": 400000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VI",
+  "line": 906
+ }
+}

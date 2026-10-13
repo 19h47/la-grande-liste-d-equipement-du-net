@@ -1,0 +1,40 @@
+{
+ "id": "canons-elfe",
+ "category": "vetements",
+ "name": {
+  "fr": "Elfe",
+  "en": "Elf"
+ },
+ "full_name": {
+  "fr": "Canons — Elfe",
+  "en": "Cannons — Elf"
+ },
+ "group": [
+  {
+   "fr": "Canons",
+   "en": "Cannons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Canons : ornements de tissu ou de dentelle portés autour du genou, au bas des hauts-de-chausses."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 118
+ }
+}

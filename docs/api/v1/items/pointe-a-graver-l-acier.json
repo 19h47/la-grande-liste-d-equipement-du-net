@@ -1,0 +1,33 @@
+{
+ "id": "pointe-a-graver-l-acier",
+ "category": "outils",
+ "name": {
+  "fr": "Pointe à graver l'acier",
+  "en": "Steel etcher"
+ },
+ "full_name": {
+  "fr": "Pointe à graver l'acier",
+  "en": "Steel etcher"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2637
+ }
+}

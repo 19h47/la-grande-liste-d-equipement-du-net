@@ -1,0 +1,35 @@
+{
+ "id": "platine-barre-par-1-4-de-livre",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Barre, par 1/4 de livre",
+  "en": "Bar, per 1/4 lb"
+ },
+ "full_name": {
+  "fr": "Platine — Barre, par 1/4 de livre",
+  "en": "Platinum — Bar, per 1/4 lb"
+ },
+ "group": [
+  {
+   "fr": "Platine",
+   "en": "Platinum"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2240
+ }
+}

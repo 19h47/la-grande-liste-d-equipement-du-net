@@ -1,0 +1,33 @@
+{
+ "id": "catapulte-moyenne",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Catapulte moyenne",
+  "en": "Catapult, Medium"
+ },
+ "full_name": {
+  "fr": "Catapulte moyenne",
+  "en": "Catapult, Medium"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "350 po",
+   "en": "350gp"
+  },
+  "min_cp": 35000,
+  "max_cp": 35000,
+  "plus": false
+ },
+ "weight": {
+  "text": "300",
+  "lb": 300
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3491
+ }
+}

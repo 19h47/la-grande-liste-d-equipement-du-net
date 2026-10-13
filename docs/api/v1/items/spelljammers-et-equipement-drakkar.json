@@ -1,0 +1,37 @@
+{
+ "id": "spelljammers-et-equipement-drakkar",
+ "category": "transports",
+ "name": {
+  "fr": "Drakkar",
+  "en": "Drakkar"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Drakkar",
+  "en": "Spelljammers and equipment — Drakkar"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 000 po",
+   "en": "25,000gp"
+  },
+  "min_cp": 2500000,
+  "max_cp": 2500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1004
+ }
+}

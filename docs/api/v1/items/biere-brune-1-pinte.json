@@ -1,0 +1,38 @@
+{
+ "id": "biere-brune-1-pinte",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Brune, 1 pinte",
+  "en": "Dark, 1 pint"
+ },
+ "full_name": {
+  "fr": "Bière — Brune, 1 pinte",
+  "en": "Beer — Dark, 1 pint"
+ },
+ "group": [
+  {
+   "fr": "Bière",
+   "en": "Beer"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 331
+ }
+}

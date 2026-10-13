@@ -1,0 +1,40 @@
+{
+ "id": "dagues-katar",
+ "category": "armes",
+ "name": {
+  "fr": "Katar",
+  "en": "Katar"
+ },
+ "full_name": {
+  "fr": "Dagues — Katar",
+  "en": "Dagger — Katar"
+ },
+ "group": [
+  {
+   "fr": "Dagues",
+   "en": "Dagger"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Katar : dague indienne à poignée transversale, qui frappe dans le prolongement du poing."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3570
+ }
+}

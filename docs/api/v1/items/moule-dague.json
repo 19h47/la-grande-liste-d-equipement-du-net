@@ -1,0 +1,35 @@
+{
+ "id": "moule-dague",
+ "category": "outils",
+ "name": {
+  "fr": "Dague",
+  "en": "Dagger"
+ },
+ "full_name": {
+  "fr": "Moule — Dague",
+  "en": "Mold — Dagger"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2541
+ }
+}

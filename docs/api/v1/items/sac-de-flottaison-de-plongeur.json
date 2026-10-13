@@ -1,0 +1,33 @@
+{
+ "id": "sac-de-flottaison-de-plongeur",
+ "category": "outils",
+ "name": {
+  "fr": "Sac de flottaison de plongeur",
+  "en": "Divers Bag (Floatation)"
+ },
+ "full_name": {
+  "fr": "Sac de flottaison de plongeur",
+  "en": "Divers Bag (Floatation)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2487
+ }
+}

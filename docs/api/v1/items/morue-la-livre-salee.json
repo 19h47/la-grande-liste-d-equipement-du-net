@@ -1,0 +1,38 @@
+{
+ "id": "morue-la-livre-salee",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Salée",
+  "en": "salted"
+ },
+ "full_name": {
+  "fr": "Morue, la livre — Salée",
+  "en": "Cod, per lb — salted"
+ },
+ "group": [
+  {
+   "fr": "Morue, la livre",
+   "en": "Cod, per lb"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 551
+ }
+}

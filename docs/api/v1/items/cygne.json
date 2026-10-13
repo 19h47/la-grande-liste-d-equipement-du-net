@@ -1,0 +1,30 @@
+{
+ "id": "cygne",
+ "category": "animaux",
+ "name": {
+  "fr": "Cygne",
+  "en": "Swan"
+ },
+ "full_name": {
+  "fr": "Cygne",
+  "en": "Swan"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1699
+ }
+}

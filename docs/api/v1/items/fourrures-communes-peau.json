@@ -1,0 +1,35 @@
+{
+ "id": "fourrures-communes-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Fourrures communes — Peau",
+  "en": "Common furs — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Fourrures communes",
+   "en": "Common furs"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1123
+ }
+}

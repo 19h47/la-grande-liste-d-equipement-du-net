@@ -1,0 +1,38 @@
+{
+ "id": "repas-a-l-unite-tourte-au-boeuf-et-aux-rognons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Tourte au bœuf et aux rognons",
+  "en": "Steak and Kidney Pie"
+ },
+ "full_name": {
+  "fr": "Repas (à l'unité) — Tourte au bœuf et aux rognons",
+  "en": "Meals (individual) — Steak and Kidney Pie"
+ },
+ "group": [
+  {
+   "fr": "Repas (à l'unité)",
+   "en": "Meals (individual)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 396
+ }
+}

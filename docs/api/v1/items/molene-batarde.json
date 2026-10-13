@@ -1,0 +1,40 @@
+{
+ "id": "molene-batarde",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Molène bâtarde",
+  "en": "Base Mullein"
+ },
+ "full_name": {
+  "fr": "Molène bâtarde",
+  "en": "Base Mullein"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Molène bâtarde : la molène est une grande plante à hampe de fleurs jaunes ; ses feuilles appliquées réduisent de moitié les dégâts d'une brûlure."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2722
+ }
+}

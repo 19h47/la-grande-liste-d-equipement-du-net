@@ -1,0 +1,30 @@
+{
+ "id": "tapisseries",
+ "category": "oeuvres-d-art",
+ "name": {
+  "fr": "Tapisseries",
+  "en": "Tapestries"
+ },
+ "full_name": {
+  "fr": "Tapisseries",
+  "en": "Tapestries"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10-200 po",
+   "en": "10-200gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXX",
+  "line": 3470
+ }
+}

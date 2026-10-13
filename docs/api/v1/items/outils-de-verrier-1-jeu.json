@@ -1,0 +1,33 @@
+{
+ "id": "outils-de-verrier-1-jeu",
+ "category": "outils",
+ "name": {
+  "fr": "Outils de verrier, 1 jeu",
+  "en": "Glass Working Tools, 1 set"
+ },
+ "full_name": {
+  "fr": "Outils de verrier, 1 jeu",
+  "en": "Glass Working Tools, 1 set"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2498
+ }
+}

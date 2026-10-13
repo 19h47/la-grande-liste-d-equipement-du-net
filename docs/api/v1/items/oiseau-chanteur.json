@@ -1,0 +1,30 @@
+{
+ "id": "oiseau-chanteur",
+ "category": "animaux",
+ "name": {
+  "fr": "Oiseau chanteur",
+  "en": "Songbird"
+ },
+ "full_name": {
+  "fr": "Oiseau chanteur",
+  "en": "Songbird"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1698
+ }
+}

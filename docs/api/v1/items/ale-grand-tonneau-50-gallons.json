@@ -1,0 +1,41 @@
+{
+ "id": "ale-grand-tonneau-50-gallons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Grand tonneau, 50 gallons",
+  "en": "large barrel, 50 gallons"
+ },
+ "full_name": {
+  "fr": "Ale — Grand tonneau, 50 gallons",
+  "en": "Ale — large barrel, 50 gallons"
+ },
+ "group": [
+  {
+   "fr": "Ale",
+   "en": "Ale"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "200",
+  "lb": 200
+ },
+ "notes": {
+  "fr": [
+   "Ale : bière de fermentation haute, traditionnellement peu ou pas houblonnée.",
+   "Gallon : mesure anglo-saxonne de capacité, d'environ 3,8 litres (américain) ou 4,5 litres (impérial)."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 314
+ }
+}

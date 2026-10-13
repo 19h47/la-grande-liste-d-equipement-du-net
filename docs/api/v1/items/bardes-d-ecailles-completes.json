@@ -1,0 +1,40 @@
+{
+ "id": "bardes-d-ecailles-completes",
+ "category": "armures",
+ "name": {
+  "fr": "D'écailles complètes",
+  "en": "Full scale"
+ },
+ "full_name": {
+  "fr": "Bardes — D'écailles complètes",
+  "en": "Barding — Full scale"
+ },
+ "group": [
+  {
+   "fr": "Bardes",
+   "en": "Barding"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": {
+  "text": "75",
+  "lb": 75
+ },
+ "notes": {
+  "fr": [
+   "Bardes : armure de cheval."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3749
+ }
+}

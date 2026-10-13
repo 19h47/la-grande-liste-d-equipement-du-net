@@ -1,0 +1,38 @@
+{
+ "id": "repulsifs-a-insectes-a-appliquer-sur-la-peau-le-flacon-de-50-usages",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "À appliquer sur la peau, le flacon de 50 usages",
+  "en": "Skin applied, per flask, 50 uses"
+ },
+ "full_name": {
+  "fr": "Répulsifs à insectes — À appliquer sur la peau, le flacon de 50 usages",
+  "en": "Repellents, insect — Skin applied, per flask, 50 uses"
+ },
+ "group": [
+  {
+   "fr": "Répulsifs à insectes",
+   "en": "Repellents, insect"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1789
+ }
+}

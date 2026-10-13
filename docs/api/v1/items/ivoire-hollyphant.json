@@ -1,0 +1,37 @@
+{
+ "id": "ivoire-hollyphant",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Hollyphant",
+  "en": "Hollyphant"
+ },
+ "full_name": {
+  "fr": "Ivoire — Hollyphant",
+  "en": "Ivory — Hollyphant"
+ },
+ "group": [
+  {
+   "fr": "Ivoire",
+   "en": "Ivory"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "11-20 po",
+   "en": "11-20gp"
+  },
+  "min_cp": 1100,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Hollyphant : petit éléphant ailé d'origine céleste (Planescape)."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2119
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "cobbler-la-portion-aux-pommes",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Aux pommes",
+  "en": "Apple"
+ },
+ "full_name": {
+  "fr": "Cobbler, la portion — Aux pommes",
+  "en": "Cobbler, per serving — Apple"
+ },
+ "group": [
+  {
+   "fr": "Cobbler, la portion",
+   "en": "Cobbler, per serving"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Cobbler : fruits cuits au four sous une couche de pâte à biscuit."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 543
+ }
+}

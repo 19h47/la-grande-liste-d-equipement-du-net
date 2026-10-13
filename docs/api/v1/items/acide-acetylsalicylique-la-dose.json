@@ -1,0 +1,35 @@
+{
+ "id": "acide-acetylsalicylique-la-dose",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Acide acétylsalicylique, la dose",
+  "en": "Acetylsalicylic Acid, per dose"
+ },
+ "full_name": {
+  "fr": "Acide acétylsalicylique, la dose",
+  "en": "Acetylsalicylic Acid, per dose"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": [
+   "Acide acétylsalicylique : nom chimique de l'aspirine, anachronisme assumé de la liste."
+  ]
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1819
+ }
+}

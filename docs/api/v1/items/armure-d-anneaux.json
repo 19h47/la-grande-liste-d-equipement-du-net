@@ -1,0 +1,35 @@
+{
+ "id": "armure-d-anneaux",
+ "category": "armures",
+ "name": {
+  "fr": "Armure d'anneaux",
+  "en": "Ring mail"
+ },
+ "full_name": {
+  "fr": "Armure d'anneaux",
+  "en": "Ring mail"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "30",
+  "lb": 30
+ },
+ "notes": {
+  "fr": [
+   "Armure d'anneaux : anneaux de métal cousus côte à côte sur un vêtement de cuir ou de toile."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3816
+ }
+}

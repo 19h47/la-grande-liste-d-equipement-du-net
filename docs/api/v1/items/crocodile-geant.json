@@ -1,0 +1,38 @@
+{
+ "id": "crocodile-geant",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Crocodile géant",
+  "en": "Crocodile, giant"
+ },
+ "full_name": {
+  "fr": "Crocodile géant",
+  "en": "Crocodile, giant"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "400 po",
+   "en": "400gp"
+  },
+  "min_cp": 40000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "700 po",
+   "en": "700gp"
+  },
+  "min_cp": 70000,
+  "max_cp": 70000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1497
+ }
+}

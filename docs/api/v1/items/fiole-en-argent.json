@@ -1,0 +1,38 @@
+{
+ "id": "fiole-en-argent",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "En argent",
+  "en": "Silver"
+ },
+ "full_name": {
+  "fr": "Fiole — En argent",
+  "en": "Vial — Silver"
+ },
+ "group": [
+  {
+   "fr": "Fiole",
+   "en": "Vial"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1896
+ }
+}

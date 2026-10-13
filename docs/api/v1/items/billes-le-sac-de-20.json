@@ -1,0 +1,33 @@
+{
+ "id": "billes-le-sac-de-20",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Billes, le sac de 20",
+  "en": "Marbles, per bag of 20"
+ },
+ "full_name": {
+  "fr": "Billes, le sac de 20",
+  "en": "Marbles, per bag of 20"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3024
+ }
+}

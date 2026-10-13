@@ -1,0 +1,30 @@
+{
+ "id": "porcelet",
+ "category": "animaux",
+ "name": {
+  "fr": "Porcelet",
+  "en": "Piglet"
+ },
+ "full_name": {
+  "fr": "Porcelet",
+  "en": "Piglet"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1690
+ }
+}

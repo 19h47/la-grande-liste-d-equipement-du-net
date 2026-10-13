@@ -1,0 +1,38 @@
+{
+ "id": "robe-en-lin-humain",
+ "category": "vetements",
+ "name": {
+  "fr": "Humain",
+  "en": "Human"
+ },
+ "full_name": {
+  "fr": "Robe en lin — Humain",
+  "en": "Dress, Linen — Human"
+ },
+ "group": [
+  {
+   "fr": "Robe en lin",
+   "en": "Dress, Linen"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 153
+ }
+}

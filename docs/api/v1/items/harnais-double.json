@@ -1,0 +1,38 @@
+{
+ "id": "harnais-double",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Double",
+  "en": "Double"
+ },
+ "full_name": {
+  "fr": "Harnais — Double",
+  "en": "Harness — Double"
+ },
+ "group": [
+  {
+   "fr": "Harnais",
+   "en": "Harness"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1059
+ }
+}

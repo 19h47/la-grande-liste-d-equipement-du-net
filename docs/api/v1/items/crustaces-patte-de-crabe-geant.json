@@ -1,0 +1,38 @@
+{
+ "id": "crustaces-patte-de-crabe-geant",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Patte de crabe géant",
+  "en": "Giant Crab Leg"
+ },
+ "full_name": {
+  "fr": "Crustacés — Patte de crabe géant",
+  "en": "Crustacea — Giant Crab Leg"
+ },
+ "group": [
+  {
+   "fr": "Crustacés",
+   "en": "Crustacea"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 562
+ }
+}

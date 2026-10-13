@@ -1,0 +1,38 @@
+{
+ "id": "armes-de-geant-arc-long",
+ "category": "armes",
+ "name": {
+  "fr": "Arc long",
+  "en": "Bow Long"
+ },
+ "full_name": {
+  "fr": "Armes de géant — Arc long",
+  "en": "Giant Weapons — Bow Long"
+ },
+ "group": [
+  {
+   "fr": "Armes de géant",
+   "en": "Giant Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "125 po",
+   "en": "125gp"
+  },
+  "min_cp": 12500,
+  "max_cp": 12500,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3617
+ }
+}

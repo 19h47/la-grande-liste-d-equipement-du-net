@@ -1,0 +1,33 @@
+{
+ "id": "centrifugeuse",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Centrifugeuse",
+  "en": "Centrifuge"
+ },
+ "full_name": {
+  "fr": "Centrifugeuse",
+  "en": "Centrifuge"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1839
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "joug-pour-chevaux",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Pour chevaux",
+  "en": "Horse"
+ },
+ "full_name": {
+  "fr": "Joug — Pour chevaux",
+  "en": "Yoke — Horse"
+ },
+ "group": [
+  {
+   "fr": "Joug",
+   "en": "Yoke"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": [
+   "Joug : pièce de bois posée sur la nuque ou le garrot de deux bêtes de trait pour les atteler ensemble."
+  ]
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1078
+ }
+}

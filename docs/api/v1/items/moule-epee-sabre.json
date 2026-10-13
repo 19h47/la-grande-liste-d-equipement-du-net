@@ -1,0 +1,39 @@
+{
+ "id": "moule-epee-sabre",
+ "category": "outils",
+ "name": {
+  "fr": "Sabre",
+  "en": "Sabre"
+ },
+ "full_name": {
+  "fr": "Moule — Épée — Sabre",
+  "en": "Mold — Sword — Sabre"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Épée",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "17 po",
+   "en": "17gp"
+  },
+  "min_cp": 1700,
+  "max_cp": 1700,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2601
+ }
+}

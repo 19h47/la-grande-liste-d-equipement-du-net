@@ -1,0 +1,35 @@
+{
+ "id": "fustibale",
+ "category": "armes",
+ "name": {
+  "fr": "Fustibale",
+  "en": "Staff sling"
+ },
+ "full_name": {
+  "fr": "Fustibale",
+  "en": "Staff sling"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Fustibale : fronde fixée au bout d'un bâton, permettant de lancer plus loin et plus fort."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3702
+ }
+}

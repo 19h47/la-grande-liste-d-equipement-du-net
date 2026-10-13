@@ -1,0 +1,30 @@
+{
+ "id": "singe",
+ "category": "animaux",
+ "name": {
+  "fr": "Singe",
+  "en": "Monkey"
+ },
+ "full_name": {
+  "fr": "Singe",
+  "en": "Monkey"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1681
+ }
+}

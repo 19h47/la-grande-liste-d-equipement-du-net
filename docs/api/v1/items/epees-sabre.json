@@ -1,0 +1,40 @@
+{
+ "id": "epees-sabre",
+ "category": "armes",
+ "name": {
+  "fr": "Sabre",
+  "en": "Sabre"
+ },
+ "full_name": {
+  "fr": "Épées — Sabre",
+  "en": "Sword — Sabre"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "17 po",
+   "en": "17gp"
+  },
+  "min_cp": 1700,
+  "max_cp": 1700,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Sabre : épée à lame courbe et à un seul tranchant, arme de cavalerie."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3720
+ }
+}

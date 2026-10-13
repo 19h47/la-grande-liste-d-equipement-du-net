@@ -1,0 +1,35 @@
+{
+ "id": "tailleur-de-pierre-par-mois",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Par mois",
+  "en": "Per Month"
+ },
+ "full_name": {
+  "fr": "Tailleur de pierre — Par mois",
+  "en": "Stonemason — Per Month"
+ },
+ "group": [
+  {
+   "fr": "Tailleur de pierre",
+   "en": "Stonemason"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2441
+ }
+}

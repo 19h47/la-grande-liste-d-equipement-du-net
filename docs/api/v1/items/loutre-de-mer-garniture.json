@@ -1,0 +1,35 @@
+{
+ "id": "loutre-de-mer-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Loutre de mer — Garniture",
+  "en": "Otter, sea — Trim"
+ },
+ "group": [
+  {
+   "fr": "Loutre de mer",
+   "en": "Otter, sea"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1192
+ }
+}

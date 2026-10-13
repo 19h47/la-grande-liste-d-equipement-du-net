@@ -1,0 +1,37 @@
+{
+ "id": "ivoire-narval",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Narval",
+  "en": "Narwhal"
+ },
+ "full_name": {
+  "fr": "Ivoire — Narval",
+  "en": "Ivory — Narwhal"
+ },
+ "group": [
+  {
+   "fr": "Ivoire",
+   "en": "Ivory"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10-40 po",
+   "en": "10-40gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Narval : cétacé arctique dont la longue défense torsadée passait au Moyen Âge pour de la corne de licorne."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2122
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "fosse-100-pieds-de-long-10-pieds-de-profondeur-20-pieds-de-large",
+ "category": "constructions",
+ "name": {
+  "fr": "Fossé, 100 pieds de long, 10 pieds de profondeur, 20 pieds de large",
+  "en": "Ditch, 100'l 10'd 20'w"
+ },
+ "full_name": {
+  "fr": "Fossé, 100 pieds de long, 10 pieds de profondeur, 20 pieds de large",
+  "en": "Ditch, 100'l 10'd 20'w"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3272
+ }
+}

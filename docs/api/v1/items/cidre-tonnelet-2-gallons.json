@@ -1,0 +1,38 @@
+{
+ "id": "cidre-tonnelet-2-gallons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Tonnelet, 2 gallons",
+  "en": "Hand keg, 2 gallons"
+ },
+ "full_name": {
+  "fr": "Cidre — Tonnelet, 2 gallons",
+  "en": "Cider — Hand keg, 2 gallons"
+ },
+ "group": [
+  {
+   "fr": "Cidre",
+   "en": "Cider"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 339
+ }
+}

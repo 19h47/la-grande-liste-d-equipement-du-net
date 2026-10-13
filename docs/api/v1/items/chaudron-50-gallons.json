@@ -1,0 +1,38 @@
+{
+ "id": "chaudron-50-gallons",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "50 gallons",
+  "en": "50gal"
+ },
+ "full_name": {
+  "fr": "Chaudron — 50 gallons",
+  "en": "Cauldron — 50gal"
+ },
+ "group": [
+  {
+   "fr": "Chaudron",
+   "en": "Cauldron"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "32 po",
+   "en": "32gp"
+  },
+  "min_cp": 3200,
+  "max_cp": 3200,
+  "plus": false
+ },
+ "weight": {
+  "text": "100",
+  "lb": 100
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2920
+ }
+}

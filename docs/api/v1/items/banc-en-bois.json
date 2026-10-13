@@ -1,0 +1,38 @@
+{
+ "id": "banc-en-bois",
+ "category": "mobilier",
+ "name": {
+  "fr": "En bois",
+  "en": "Wooden"
+ },
+ "full_name": {
+  "fr": "Banc — En bois",
+  "en": "Bench — Wooden"
+ },
+ "group": [
+  {
+   "fr": "Banc",
+   "en": "Bench"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1565
+ }
+}

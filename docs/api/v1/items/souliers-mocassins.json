@@ -1,0 +1,38 @@
+{
+ "id": "souliers-mocassins",
+ "category": "vetements",
+ "name": {
+  "fr": "Mocassins",
+  "en": "Moccasins"
+ },
+ "full_name": {
+  "fr": "Souliers — Mocassins",
+  "en": "Shoes — Moccasins"
+ },
+ "group": [
+  {
+   "fr": "Souliers",
+   "en": "Shoes"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po/paire",
+   "en": "2gp/pair"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 271
+ }
+}

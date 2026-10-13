@@ -1,0 +1,38 @@
+{
+ "id": "symbole-en-bois",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En bois",
+  "en": "Wooden"
+ },
+ "full_name": {
+  "fr": "Symbole — En bois",
+  "en": "Symbol — Wooden"
+ },
+ "group": [
+  {
+   "fr": "Symbole",
+   "en": "Symbol"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pc",
+   "en": "7cp"
+  },
+  "min_cp": 7,
+  "max_cp": 7,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3133
+ }
+}

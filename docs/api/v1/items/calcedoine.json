@@ -1,0 +1,32 @@
+{
+ "id": "calcedoine",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Calcédoine",
+  "en": "Chalcedony"
+ },
+ "full_name": {
+  "fr": "Calcédoine",
+  "en": "Chalcedony"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Calcédoine : quartz microcristallin translucide, blanchâtre ou bleuté ; l'agate, l'onyx et la cornaline en sont des variétés."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2040
+ }
+}

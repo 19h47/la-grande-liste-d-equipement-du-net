@@ -1,0 +1,38 @@
+{
+ "id": "lustre-a-bougies",
+ "category": "mobilier",
+ "name": {
+  "fr": "À bougies",
+  "en": "Candle"
+ },
+ "full_name": {
+  "fr": "Lustre — À bougies",
+  "en": "Chandelier — Candle"
+ },
+ "group": [
+  {
+   "fr": "Lustre",
+   "en": "Chandelier"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "35",
+  "lb": 35
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1576
+ }
+}

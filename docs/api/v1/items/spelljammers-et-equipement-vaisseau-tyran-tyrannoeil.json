@@ -1,0 +1,38 @@
+{
+ "id": "spelljammers-et-equipement-vaisseau-tyran-tyrannoeil",
+ "category": "transports",
+ "name": {
+  "fr": "Vaisseau-tyran tyrannœil",
+  "en": "Beholder Tyrant Ship"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Vaisseau-tyran tyrannœil",
+  "en": "Spelljammers and equipment — Beholder Tyrant Ship"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 000 po",
+   "en": "100,000gp"
+  },
+  "min_cp": 10000000,
+  "max_cp": 10000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Vaisseau-tyran tyrannœil : spelljammer sphérique propre aux tyrannœils, propulsé par un orbus."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1001
+ }
+}

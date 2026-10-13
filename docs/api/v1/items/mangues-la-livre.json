@@ -1,0 +1,33 @@
+{
+ "id": "mangues-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Mangues, la livre",
+  "en": "Mango, per lb"
+ },
+ "full_name": {
+  "fr": "Mangues, la livre",
+  "en": "Mango, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "9 po",
+   "en": "9gp"
+  },
+  "min_cp": 900,
+  "max_cp": 900,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 635
+ }
+}

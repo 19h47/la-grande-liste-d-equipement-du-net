@@ -1,0 +1,35 @@
+{
+ "id": "fer-lingot-de-3-livres",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Lingot de 3 livres",
+  "en": "Ingot, 3lb"
+ },
+ "full_name": {
+  "fr": "Fer — Lingot de 3 livres",
+  "en": "Iron — Ingot, 3lb"
+ },
+ "group": [
+  {
+   "fr": "Fer",
+   "en": "Iron"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2109
+ }
+}

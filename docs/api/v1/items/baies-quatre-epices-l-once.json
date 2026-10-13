@@ -1,0 +1,38 @@
+{
+ "id": "baies-quatre-epices-l-once",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Quatre-épices, l'once",
+  "en": "All spice, per oz"
+ },
+ "full_name": {
+  "fr": "Baies — Quatre-épices, l'once",
+  "en": "Berries — All spice, per oz"
+ },
+ "group": [
+  {
+   "fr": "Baies",
+   "en": "Berries"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 464
+ }
+}

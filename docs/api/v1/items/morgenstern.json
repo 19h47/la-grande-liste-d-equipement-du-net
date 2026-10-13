@@ -1,0 +1,35 @@
+{
+ "id": "morgenstern",
+ "category": "armes",
+ "name": {
+  "fr": "Morgenstern",
+  "en": "Morningstar"
+ },
+ "full_name": {
+  "fr": "Morgenstern",
+  "en": "Morningstar"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": [
+   "Morgenstern : masse d'armes à tête sphérique hérissée de pointes."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3657
+ }
+}

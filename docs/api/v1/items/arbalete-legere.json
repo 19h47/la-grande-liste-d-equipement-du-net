@@ -1,0 +1,38 @@
+{
+ "id": "arbalete-legere",
+ "category": "armes",
+ "name": {
+  "fr": "Arbalète légère",
+  "en": "Light crossbow"
+ },
+ "full_name": {
+  "fr": "Arbalètes — Arbalète légère",
+  "en": "Crossbow — Light crossbow"
+ },
+ "group": [
+  {
+   "fr": "Arbalètes",
+   "en": "Crossbow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "7",
+  "lb": 7
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3563
+ }
+}

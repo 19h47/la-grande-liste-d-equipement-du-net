@@ -1,0 +1,30 @@
+{
+ "id": "batiment-en-bois",
+ "category": "constructions",
+ "name": {
+  "fr": "Bâtiment en bois",
+  "en": "Building, wood"
+ },
+ "full_name": {
+  "fr": "Bâtiment en bois",
+  "en": "Building, wood"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3269
+ }
+}

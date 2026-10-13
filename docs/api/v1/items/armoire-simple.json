@@ -1,0 +1,33 @@
+{
+ "id": "armoire-simple",
+ "category": "mobilier",
+ "name": {
+  "fr": "Armoire simple",
+  "en": "Wardrobe, Plain"
+ },
+ "full_name": {
+  "fr": "Armoire simple",
+  "en": "Wardrobe, Plain"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "50",
+  "lb": 50
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1595
+ }
+}

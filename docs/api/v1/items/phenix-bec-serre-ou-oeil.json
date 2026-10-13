@@ -1,0 +1,30 @@
+{
+ "id": "phenix-bec-serre-ou-oeil",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Phénix (bec, serre ou œil)",
+  "en": "Pheonix (Beak, talon, or eye)"
+ },
+ "full_name": {
+  "fr": "Phénix (bec, serre ou œil)",
+  "en": "Pheonix (Beak, talon, or eye)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VI",
+  "line": 928
+ }
+}

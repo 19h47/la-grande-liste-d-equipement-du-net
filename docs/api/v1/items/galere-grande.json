@@ -1,0 +1,35 @@
+{
+ "id": "galere-grande",
+ "category": "transports",
+ "name": {
+  "fr": "Grande",
+  "en": "Large"
+ },
+ "full_name": {
+  "fr": "Galère — Grande",
+  "en": "Galley — Large"
+ },
+ "group": [
+  {
+   "fr": "Galère",
+   "en": "Galley"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 000 po",
+   "en": "25,000gp"
+  },
+  "min_cp": 2500000,
+  "max_cp": 2500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 972
+ }
+}

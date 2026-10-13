@@ -1,0 +1,32 @@
+{
+ "id": "agate-oeillee",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Agate œillée",
+  "en": "Eye Agate"
+ },
+ "full_name": {
+  "fr": "Agate œillée",
+  "en": "Eye Agate"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Agate œillée : agate à anneaux concentriques évoquant un œil, jadis portée comme amulette."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2079
+ }
+}

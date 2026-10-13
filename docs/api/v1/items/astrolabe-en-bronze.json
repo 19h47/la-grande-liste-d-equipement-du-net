@@ -1,0 +1,35 @@
+{
+ "id": "astrolabe-en-bronze",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Astrolabe en bronze",
+  "en": "Astrolabe, bronze"
+ },
+ "full_name": {
+  "fr": "Astrolabe en bronze",
+  "en": "Astrolabe, bronze"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Astrolabe : instrument plat gradué servant à mesurer la hauteur des astres et à lire l'heure."
+  ]
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1825
+ }
+}

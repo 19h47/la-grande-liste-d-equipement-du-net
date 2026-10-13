@@ -1,0 +1,30 @@
+{
+ "id": "messager-en-ville-par-message",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Messager en ville (par message)",
+  "en": "Messenger, in city (per message)"
+ },
+ "full_name": {
+  "fr": "Messager en ville (par message)",
+  "en": "Messenger, in city (per message)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2431
+ }
+}

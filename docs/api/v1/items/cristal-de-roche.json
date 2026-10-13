@@ -1,0 +1,32 @@
+{
+ "id": "cristal-de-roche",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Cristal de roche",
+  "en": "Rock Crystal"
+ },
+ "full_name": {
+  "fr": "Cristal de roche",
+  "en": "Rock Crystal"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Cristal de roche : quartz incolore et parfaitement transparent."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2259
+ }
+}

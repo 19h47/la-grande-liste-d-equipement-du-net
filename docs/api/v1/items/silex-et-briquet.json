@@ -1,0 +1,35 @@
+{
+ "id": "silex-et-briquet",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Silex et briquet",
+  "en": "Flint and steel"
+ },
+ "full_name": {
+  "fr": "Silex et briquet",
+  "en": "Flint and steel"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Briquet : ici, la pièce d'acier que l'on frappe contre le silex pour produire des étincelles."
+  ]
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1778
+ }
+}

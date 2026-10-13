@@ -1,0 +1,38 @@
+{
+ "id": "ragout-la-marmite-de-loutre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De loutre",
+  "en": "Otter"
+ },
+ "full_name": {
+  "fr": "Ragoût, la marmite — De loutre",
+  "en": "Stew, per pot — Otter"
+ },
+ "group": [
+  {
+   "fr": "Ragoût, la marmite",
+   "en": "Stew, per pot"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 759
+ }
+}

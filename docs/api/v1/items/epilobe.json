@@ -1,0 +1,38 @@
+{
+ "id": "epilobe",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Épilobe",
+  "en": "Willow-Herb"
+ },
+ "full_name": {
+  "fr": "Épilobe",
+  "en": "Willow-Herb"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2840
+ }
+}

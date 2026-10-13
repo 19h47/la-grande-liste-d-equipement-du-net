@@ -1,0 +1,40 @@
+{
+ "id": "eau-de-vie-d-amande-1-pinte",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "1 pinte",
+  "en": "1 pint"
+ },
+ "full_name": {
+  "fr": "Eau-de-vie d'amande — 1 pinte",
+  "en": "Almond Brandy — 1 pint"
+ },
+ "group": [
+  {
+   "fr": "Eau-de-vie d'amande",
+   "en": "Almond Brandy"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pc",
+   "en": "7cp"
+  },
+  "min_cp": 7,
+  "max_cp": 7,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Eau-de-vie d'amande : alcool fort distillé à partir d'amandes, réputé dans les îles Sélénae."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 319
+ }
+}

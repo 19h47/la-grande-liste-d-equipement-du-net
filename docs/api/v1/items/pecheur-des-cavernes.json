@@ -1,0 +1,40 @@
+{
+ "id": "pecheur-des-cavernes",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Pêcheur des cavernes",
+  "en": "Cave fisher"
+ },
+ "full_name": {
+  "fr": "Pêcheur des cavernes",
+  "en": "Cave fisher"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "1 500 po",
+   "en": "1,500gp"
+  },
+  "min_cp": 150000,
+  "max_cp": 150000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "2 750 po",
+   "en": "2,750gp"
+  },
+  "min_cp": 275000,
+  "max_cp": 275000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Pêcheur des cavernes : créature souterraine à carapace, mi-insecte mi-homard, qui pêche ses proies avec un filament collant."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1490
+ }
+}

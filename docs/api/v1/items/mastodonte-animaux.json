@@ -1,0 +1,30 @@
+{
+ "id": "mastodonte-animaux",
+ "category": "animaux",
+ "name": {
+  "fr": "Mastodonte",
+  "en": "Mastodon"
+ },
+ "full_name": {
+  "fr": "Mastodonte",
+  "en": "Mastodon"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "25000 po",
+   "en": "25000gp"
+  },
+  "min_cp": 2500000,
+  "max_cp": 2500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1680
+ }
+}

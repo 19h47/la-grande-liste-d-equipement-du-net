@@ -1,0 +1,38 @@
+{
+ "id": "cloche-en-metal",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En métal",
+  "en": "Metal"
+ },
+ "full_name": {
+  "fr": "Cloche — En métal",
+  "en": "Bell — Metal"
+ },
+ "group": [
+  {
+   "fr": "Cloche",
+   "en": "Bell"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2882
+ }
+}

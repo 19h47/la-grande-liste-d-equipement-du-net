@@ -1,0 +1,32 @@
+{
+ "id": "dragonne",
+ "category": "peaux",
+ "name": {
+  "fr": "Dragonne",
+  "en": "Dragonne"
+ },
+ "full_name": {
+  "fr": "Dragonne",
+  "en": "Dragonne"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 800 - 20 000 po",
+   "en": "1,800 - 20,000gp"
+  },
+  "min_cp": 180000,
+  "max_cp": 2000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Dragonne : créature mi-lion mi-dragon d'airain, dont le rugissement affaiblit ceux qui l'entendent."
+  ]
+ },
+ "source": {
+  "table": "V",
+  "line": 876
+ }
+}

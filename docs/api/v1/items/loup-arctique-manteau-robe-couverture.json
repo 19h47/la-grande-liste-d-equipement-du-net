@@ -1,0 +1,37 @@
+{
+ "id": "loup-arctique-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Loup arctique — Manteau, robe, couverture",
+  "en": "Winter wolf — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Loup arctique",
+   "en": "Winter wolf"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Loup arctique : nom français du winter wolf d'AD&D, grand loup monstrueux qui souffle le givre, et non l'animal réel."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1234
+ }
+}

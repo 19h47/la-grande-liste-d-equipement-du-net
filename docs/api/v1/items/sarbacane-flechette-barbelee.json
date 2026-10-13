@@ -1,0 +1,38 @@
+{
+ "id": "sarbacane-flechette-barbelee",
+ "category": "armes",
+ "name": {
+  "fr": "Fléchette barbelée",
+  "en": "Barbed Dart"
+ },
+ "full_name": {
+  "fr": "Sarbacane — Fléchette barbelée",
+  "en": "Blowgun — Barbed Dart"
+ },
+ "group": [
+  {
+   "fr": "Sarbacane",
+   "en": "Blowgun"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3529
+ }
+}

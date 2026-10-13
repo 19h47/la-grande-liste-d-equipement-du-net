@@ -1,0 +1,27 @@
+{
+ "id": "claviers-orgue",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Orgue",
+  "en": "Organ"
+ },
+ "full_name": {
+  "fr": "Claviers — Orgue",
+  "en": "Keyboard — Organ"
+ },
+ "group": [
+  {
+   "fr": "Claviers",
+   "en": "Keyboard"
+  }
+ ],
+ "price": null,
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3413
+ }
+}

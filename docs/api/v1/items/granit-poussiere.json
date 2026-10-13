@@ -1,0 +1,35 @@
+{
+ "id": "granit-poussiere",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Poussière",
+  "en": "Dust"
+ },
+ "full_name": {
+  "fr": "Granit — Poussière",
+  "en": "Granite — Dust"
+ },
+ "group": [
+  {
+   "fr": "Granit",
+   "en": "Granite"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2098
+ }
+}

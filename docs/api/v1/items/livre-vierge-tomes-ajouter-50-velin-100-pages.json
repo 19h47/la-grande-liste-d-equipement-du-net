@@ -1,0 +1,44 @@
+{
+ "id": "livre-vierge-tomes-ajouter-50-velin-100-pages",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "100 pages",
+  "en": "100 pages"
+ },
+ "full_name": {
+  "fr": "Livre vierge (tomes : ajouter 50 %) — Vélin — 100 pages",
+  "en": "Book, Blank- TOMES ADD 50% — Vellum — 100 pages"
+ },
+ "group": [
+  {
+   "fr": "Livre vierge (tomes : ajouter 50 %)",
+   "en": "Book, Blank- TOMES ADD 50%"
+  },
+  {
+   "fr": "Vélin",
+   "en": "Vellum"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "400 po",
+   "en": "400gp"
+  },
+  "min_cp": 40000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": [
+   "Vélin : parchemin très fin et lisse, fait de peau de veau."
+  ]
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1933
+ }
+}

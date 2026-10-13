@@ -1,0 +1,38 @@
+{
+ "id": "baies-myrtilles-l-once",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Myrtilles, l'once",
+  "en": "Blueberries,per oz"
+ },
+ "full_name": {
+  "fr": "Baies — Myrtilles, l'once",
+  "en": "Berries — Blueberries,per oz"
+ },
+ "group": [
+  {
+   "fr": "Baies",
+   "en": "Berries"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 466
+ }
+}

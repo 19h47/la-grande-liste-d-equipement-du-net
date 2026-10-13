@@ -1,0 +1,33 @@
+{
+ "id": "fleau-d-armes-de-cavalier",
+ "category": "armes",
+ "name": {
+  "fr": "Fléau d'armes de cavalier",
+  "en": "Flail, horseman's"
+ },
+ "full_name": {
+  "fr": "Fléau d'armes de cavalier",
+  "en": "Flail, horseman's"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3613
+ }
+}

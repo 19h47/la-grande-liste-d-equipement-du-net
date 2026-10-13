@@ -1,0 +1,38 @@
+{
+ "id": "seau-en-cuir-5-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En cuir, 5 gallons",
+  "en": "Leather, 5 gallons"
+ },
+ "full_name": {
+  "fr": "Seau — En cuir, 5 gallons",
+  "en": "Bucket — Leather, 5 gallons"
+ },
+ "group": [
+  {
+   "fr": "Seau",
+   "en": "Bucket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1336
+ }
+}

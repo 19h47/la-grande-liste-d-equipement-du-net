@@ -1,0 +1,38 @@
+{
+ "id": "boite-tabatiere",
+ "category": "contenants",
+ "name": {
+  "fr": "Tabatière",
+  "en": "Snuff"
+ },
+ "full_name": {
+  "fr": "Boîte — Tabatière",
+  "en": "Box — Snuff"
+ },
+ "group": [
+  {
+   "fr": "Boîte",
+   "en": "Box"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1327
+ }
+}

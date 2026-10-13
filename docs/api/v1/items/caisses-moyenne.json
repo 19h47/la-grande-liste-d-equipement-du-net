@@ -1,0 +1,38 @@
+{
+ "id": "caisses-moyenne",
+ "category": "contenants",
+ "name": {
+  "fr": "Moyenne",
+  "en": "Medium"
+ },
+ "full_name": {
+  "fr": "Caisses — Moyenne",
+  "en": "Crates — Medium"
+ },
+ "group": [
+  {
+   "fr": "Caisses",
+   "en": "Crates"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1368
+ }
+}

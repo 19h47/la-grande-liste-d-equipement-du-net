@@ -1,0 +1,38 @@
+{
+ "id": "banc-rembourre",
+ "category": "mobilier",
+ "name": {
+  "fr": "Rembourré",
+  "en": "Padded"
+ },
+ "full_name": {
+  "fr": "Banc — Rembourré",
+  "en": "Bench — Padded"
+ },
+ "group": [
+  {
+   "fr": "Banc",
+   "en": "Bench"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "30",
+  "lb": 30
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1564
+ }
+}

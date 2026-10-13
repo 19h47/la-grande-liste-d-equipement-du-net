@@ -1,0 +1,38 @@
+{
+ "id": "serrures-excellente",
+ "category": "outils",
+ "name": {
+  "fr": "Excellente",
+  "en": "Excellent"
+ },
+ "full_name": {
+  "fr": "Serrures — Excellente",
+  "en": "Locks — Excellent"
+ },
+ "group": [
+  {
+   "fr": "Serrures",
+   "en": "Locks"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2518
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "eau-de-vie-liquoreuse",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Liquoreuse",
+  "en": "Candy"
+ },
+ "full_name": {
+  "fr": "Eau-de-vie — Liquoreuse",
+  "en": "Brandy — Candy"
+ },
+ "group": [
+  {
+   "fr": "Eau-de-vie",
+   "en": "Brandy"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "11 pa",
+   "en": "11sp"
+  },
+  "min_cp": 110,
+  "max_cp": 110,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 337
+ }
+}

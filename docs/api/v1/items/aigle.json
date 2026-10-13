@@ -1,0 +1,38 @@
+{
+ "id": "aigle",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Aigle",
+  "en": "Eagle"
+ },
+ "full_name": {
+  "fr": "Aigle",
+  "en": "Eagle"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "60-100 po",
+   "en": "60-100gp"
+  },
+  "min_cp": 6000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "60-100 po",
+   "en": "60-100gp"
+  },
+  "min_cp": 6000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1507
+ }
+}

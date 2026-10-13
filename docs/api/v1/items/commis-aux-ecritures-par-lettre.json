@@ -1,0 +1,35 @@
+{
+ "id": "commis-aux-ecritures-par-lettre",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Par lettre",
+  "en": "per letter"
+ },
+ "full_name": {
+  "fr": "Commis aux écritures — Par lettre",
+  "en": "Clerk — per letter"
+ },
+ "group": [
+  {
+   "fr": "Commis aux écritures",
+   "en": "Clerk"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2378
+ }
+}

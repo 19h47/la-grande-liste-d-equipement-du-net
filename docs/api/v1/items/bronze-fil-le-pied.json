@@ -1,0 +1,35 @@
+{
+ "id": "bronze-fil-le-pied",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Fil, le pied",
+  "en": "Wire, per ft"
+ },
+ "full_name": {
+  "fr": "Bronze — Fil, le pied",
+  "en": "Bronze — Wire, per ft"
+ },
+ "group": [
+  {
+   "fr": "Bronze",
+   "en": "Bronze"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2030
+ }
+}

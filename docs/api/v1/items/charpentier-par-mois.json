@@ -1,0 +1,35 @@
+{
+ "id": "charpentier-par-mois",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Par mois",
+  "en": "Per Month"
+ },
+ "full_name": {
+  "fr": "Charpentier — Par mois",
+  "en": "Carpenter — Per Month"
+ },
+ "group": [
+  {
+   "fr": "Charpentier",
+   "en": "Carpenter"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2376
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "aigle-animaux",
+ "category": "animaux",
+ "name": {
+  "fr": "Aigle",
+  "en": "Eagle"
+ },
+ "full_name": {
+  "fr": "Aigle",
+  "en": "Eagle"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1661
+ }
+}

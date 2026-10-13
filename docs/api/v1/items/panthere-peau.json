@@ -1,0 +1,35 @@
+{
+ "id": "panthere-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Panthère — Peau",
+  "en": "Panther — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Panthère",
+   "en": "Panther"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1201
+ }
+}

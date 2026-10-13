@@ -1,0 +1,33 @@
+{
+ "id": "lamellaire-et-mailles",
+ "category": "armures",
+ "name": {
+  "fr": "Lamellaire et mailles",
+  "en": "Chain-lamellar"
+ },
+ "full_name": {
+  "fr": "Lamellaire et mailles",
+  "en": "Chain-lamellar"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "125 po",
+   "en": "125gp"
+  },
+  "min_cp": 12500,
+  "max_cp": 12500,
+  "plus": false
+ },
+ "weight": {
+  "text": "35",
+  "lb": 35
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3777
+ }
+}

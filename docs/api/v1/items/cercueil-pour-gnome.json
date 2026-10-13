@@ -1,0 +1,38 @@
+{
+ "id": "cercueil-pour-gnome",
+ "category": "contenants",
+ "name": {
+  "fr": "Pour gnome",
+  "en": "Gnome"
+ },
+ "full_name": {
+  "fr": "Cercueil — Pour gnome",
+  "en": "Casket — Gnome"
+ },
+ "group": [
+  {
+   "fr": "Cercueil",
+   "en": "Casket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "30",
+  "lb": 30
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1355
+ }
+}

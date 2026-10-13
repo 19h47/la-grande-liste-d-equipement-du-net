@@ -1,0 +1,40 @@
+{
+ "id": "armes-saurials-large-epee-de-tete-cretee",
+ "category": "armes",
+ "name": {
+  "fr": "Large épée de tête-crêtée",
+  "en": "Finhead Broadsword"
+ },
+ "full_name": {
+  "fr": "Armes saurials — Large épée de tête-crêtée",
+  "en": "Saurial Weapons — Finhead Broadsword"
+ },
+ "group": [
+  {
+   "fr": "Armes saurials",
+   "en": "Saurial Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "17 po",
+   "en": "17gp"
+  },
+  "min_cp": 1700,
+  "max_cp": 1700,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": [
+   "Armes saurials : armes des saurials, hommes-lézards des Royaumes oubliés ; dos-de-lame, tête-cornue et tête-crêtée en sont des sous-races."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3696
+ }
+}

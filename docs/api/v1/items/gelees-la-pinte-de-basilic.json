@@ -1,0 +1,38 @@
+{
+ "id": "gelees-la-pinte-de-basilic",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De basilic",
+  "en": "basil"
+ },
+ "full_name": {
+  "fr": "Gelées, la pinte — De basilic",
+  "en": "Jellies, per pint — basil"
+ },
+ "group": [
+  {
+   "fr": "Gelées, la pinte",
+   "en": "Jellies, per pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 618
+ }
+}

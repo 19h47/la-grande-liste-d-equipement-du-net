@@ -1,0 +1,40 @@
+{
+ "id": "foudres-200-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "200 gallons",
+  "en": "200gal"
+ },
+ "full_name": {
+  "fr": "Foudres — 200 gallons",
+  "en": "Drums — 200gal"
+ },
+ "group": [
+  {
+   "fr": "Foudres",
+   "en": "Drums"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "40",
+  "lb": 40
+ },
+ "notes": {
+  "fr": [
+   "Foudre : très grand tonneau de tonnellerie, de plusieurs centaines de litres."
+  ]
+ },
+ "source": {
+  "table": "XI",
+  "line": 1376
+ }
+}

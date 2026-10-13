@@ -1,0 +1,33 @@
+{
+ "id": "cannelle-le-baton",
+ "category": "epices",
+ "name": {
+  "fr": "Cannelle, le bâton",
+  "en": "Cinnamon, per stick"
+ },
+ "full_name": {
+  "fr": "Cannelle, le bâton",
+  "en": "Cinnamon, per stick"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 pc",
+   "en": "10cp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 815
+ }
+}

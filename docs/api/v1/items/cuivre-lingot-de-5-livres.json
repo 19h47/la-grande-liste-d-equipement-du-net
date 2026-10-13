@@ -1,0 +1,35 @@
+{
+ "id": "cuivre-lingot-de-5-livres",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Lingot de 5 livres",
+  "en": "Ingot, 5lb"
+ },
+ "full_name": {
+  "fr": "Cuivre — Lingot de 5 livres",
+  "en": "Copper — Ingot, 5lb"
+ },
+ "group": [
+  {
+   "fr": "Cuivre",
+   "en": "Copper"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 pa",
+   "en": "25sp"
+  },
+  "min_cp": 250,
+  "max_cp": 250,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2058
+ }
+}

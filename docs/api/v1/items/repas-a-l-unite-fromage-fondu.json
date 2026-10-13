@@ -1,0 +1,38 @@
+{
+ "id": "repas-a-l-unite-fromage-fondu",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Fromage fondu",
+  "en": "Melted Cheese"
+ },
+ "full_name": {
+  "fr": "Repas (à l'unité) — Fromage fondu",
+  "en": "Meals (individual) — Melted Cheese"
+ },
+ "group": [
+  {
+   "fr": "Repas (à l'unité)",
+   "en": "Meals (individual)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 387
+ }
+}

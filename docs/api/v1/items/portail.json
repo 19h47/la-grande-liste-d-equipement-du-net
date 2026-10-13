@@ -1,0 +1,32 @@
+{
+ "id": "portail",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Portail",
+  "en": "Gate"
+ },
+ "full_name": {
+  "fr": "Portail",
+  "en": "Gate"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "Spécial",
+   "en": "Special"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Portail : sort ouvrant un passage vers un autre plan pour y appeler une créature puissante, voire une divinité."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3224
+ }
+}

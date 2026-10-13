@@ -1,0 +1,33 @@
+{
+ "id": "fonderie-petite-30-x-30-pieds",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Fonderie, petite, 30 x 30 pieds",
+  "en": "Smelter, small, 30' x 30'"
+ },
+ "full_name": {
+  "fr": "Fonderie, petite, 30 x 30 pieds",
+  "en": "Smelter, small, 30' x 30'"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": {
+  "text": "75",
+  "lb": 75
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3102
+ }
+}

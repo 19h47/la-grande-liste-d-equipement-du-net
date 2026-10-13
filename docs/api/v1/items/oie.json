@@ -1,0 +1,30 @@
+{
+ "id": "oie",
+ "category": "animaux",
+ "name": {
+  "fr": "Oie",
+  "en": "Goose"
+ },
+ "full_name": {
+  "fr": "Oie",
+  "en": "Goose"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1667
+ }
+}

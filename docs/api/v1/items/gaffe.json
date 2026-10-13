@@ -1,0 +1,30 @@
+{
+ "id": "gaffe",
+ "category": "armes",
+ "name": {
+  "fr": "Gaffe",
+  "en": "Gaff hook"
+ },
+ "full_name": {
+  "fr": "Gaffe",
+  "en": "Gaff hook"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3614
+ }
+}

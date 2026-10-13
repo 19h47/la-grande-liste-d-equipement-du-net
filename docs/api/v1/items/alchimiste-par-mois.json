@@ -1,0 +1,30 @@
+{
+ "id": "alchimiste-par-mois",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Alchimiste, par mois",
+  "en": "Alchemist, per month"
+ },
+ "full_name": {
+  "fr": "Alchimiste, par mois",
+  "en": "Alchemist, per month"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2356
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "cavalerie-par-mois-moyenne",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Moyenne",
+  "en": "Medium"
+ },
+ "full_name": {
+  "fr": "Cavalerie, par mois — Moyenne",
+  "en": "Calvalry, per month — Medium"
+ },
+ "group": [
+  {
+   "fr": "Cavalerie, par mois",
+   "en": "Calvalry, per month"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2373
+ }
+}

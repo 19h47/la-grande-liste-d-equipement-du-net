@@ -1,0 +1,38 @@
+{
+ "id": "sac-a-dos-en-cuir-contenance-450-po",
+ "category": "contenants",
+ "name": {
+  "fr": "En cuir, contenance 450 po",
+  "en": "Leather, holds 450gp"
+ },
+ "full_name": {
+  "fr": "Sac à dos — En cuir, contenance 450 po",
+  "en": "Backpack — Leather, holds 450gp"
+ },
+ "group": [
+  {
+   "fr": "Sac à dos",
+   "en": "Backpack"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1288
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "faucon-autour",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Faucon/autour",
+  "en": "Falcon/hawk"
+ },
+ "full_name": {
+  "fr": "Faucon/autour",
+  "en": "Falcon/hawk"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "20-80 po",
+   "en": "20-80gp20-80gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "20-80 po",
+   "en": null
+  },
+  "min_cp": 2000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1511
+ }
+}

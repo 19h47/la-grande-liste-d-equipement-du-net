@@ -1,0 +1,42 @@
+{
+ "id": "armes-a-feu-a-silex-pistolet-d-arcon",
+ "category": "armes",
+ "name": {
+  "fr": "Pistolet d'arçon",
+  "en": "Horse pistol"
+ },
+ "full_name": {
+  "fr": "Armes à feu — À silex — Pistolet d'arçon",
+  "en": "Firearms — Flintlock — Horse pistol"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "À silex",
+   "en": "Flintlock"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3600
+ }
+}

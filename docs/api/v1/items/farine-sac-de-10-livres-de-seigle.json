@@ -1,0 +1,38 @@
+{
+ "id": "farine-sac-de-10-livres-de-seigle",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De seigle",
+  "en": "Rye"
+ },
+ "full_name": {
+  "fr": "Farine, sac de 10 livres — De seigle",
+  "en": "Flour, 10lbs sack — Rye"
+ },
+ "group": [
+  {
+   "fr": "Farine, sac de 10 livres",
+   "en": "Flour, 10lbs sack"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 588
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "armes-a-feu-a-mise-a-feu-manuelle-arquebuse",
+ "category": "armes",
+ "name": {
+  "fr": "Arquebuse",
+  "en": "Arquebus"
+ },
+ "full_name": {
+  "fr": "Armes à feu — À mise à feu manuelle — Arquebuse",
+  "en": "Firearms — Hand Match — Arquebus"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "À mise à feu manuelle",
+   "en": "Hand Match"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "175 po",
+   "en": "175gp"
+  },
+  "min_cp": 17500,
+  "max_cp": 17500,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3582
+ }
+}

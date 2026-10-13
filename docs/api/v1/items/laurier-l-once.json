@@ -1,0 +1,33 @@
+{
+ "id": "laurier-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Laurier, l'once",
+  "en": "Laurel, per oz"
+ },
+ "full_name": {
+  "fr": "Laurier, l'once",
+  "en": "Laurel, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 831
+ }
+}

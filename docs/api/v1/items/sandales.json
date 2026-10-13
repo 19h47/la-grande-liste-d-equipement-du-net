@@ -1,0 +1,33 @@
+{
+ "id": "sandales",
+ "category": "vetements",
+ "name": {
+  "fr": "Sandales",
+  "en": "Sandals"
+ },
+ "full_name": {
+  "fr": "Sandales",
+  "en": "Sandals"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 251
+ }
+}

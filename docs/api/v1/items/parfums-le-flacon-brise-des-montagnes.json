@@ -1,0 +1,38 @@
+{
+ "id": "parfums-le-flacon-brise-des-montagnes",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Brise des montagnes",
+  "en": "Mountain Breeze"
+ },
+ "full_name": {
+  "fr": "Parfums, le flacon — Brise des montagnes",
+  "en": "Perfumes, per vial — Mountain Breeze"
+ },
+ "group": [
+  {
+   "fr": "Parfums, le flacon",
+   "en": "Perfumes, per vial"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3059
+ }
+}

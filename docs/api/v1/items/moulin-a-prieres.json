@@ -1,0 +1,35 @@
+{
+ "id": "moulin-a-prieres",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Moulin à prières",
+  "en": "Wheel, Prayer"
+ },
+ "full_name": {
+  "fr": "Moulin à prières",
+  "en": "Wheel, Prayer"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Moulin à prières : cylindre rotatif du bouddhisme tibétain contenant des prières écrites ; chaque tour vaut une récitation."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3152
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "agouti",
+ "category": "animaux",
+ "name": {
+  "fr": "Agouti",
+  "en": "Agouti"
+ },
+ "full_name": {
+  "fr": "Agouti",
+  "en": "Agouti"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Agouti : petit rongeur d'Amérique du Sud, de la taille d'un lièvre."
+  ]
+ },
+ "source": {
+  "table": "XV",
+  "line": 1627
+ }
+}

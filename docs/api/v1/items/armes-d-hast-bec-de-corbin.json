@@ -1,0 +1,40 @@
+{
+ "id": "armes-d-hast-bec-de-corbin",
+ "category": "armes",
+ "name": {
+  "fr": "Bec-de-corbin",
+  "en": "Bec de Corbin"
+ },
+ "full_name": {
+  "fr": "Armes d'hast — Bec-de-corbin",
+  "en": "Polearm — Bec de Corbin"
+ },
+ "group": [
+  {
+   "fr": "Armes d'hast",
+   "en": "Polearm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": [
+   "Bec-de-corbin : arme d'hast à pointe recourbée en bec, contrebalancée par une tête de marteau."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3673
+ }
+}

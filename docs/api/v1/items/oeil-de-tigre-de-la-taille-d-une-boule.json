@@ -1,0 +1,37 @@
+{
+ "id": "oeil-de-tigre-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Œil-de-tigre — De la taille d'une boule",
+  "en": "Tiger's eye — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Œil-de-tigre",
+   "en": "Tiger's eye"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Œil-de-tigre : quartz fibreux brun doré, aux reflets soyeux mouvants."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2315
+ }
+}

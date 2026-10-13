@@ -1,0 +1,30 @@
+{
+ "id": "chameau",
+ "category": "animaux",
+ "name": {
+  "fr": "Chameau",
+  "en": "Camel"
+ },
+ "full_name": {
+  "fr": "Chameau",
+  "en": "Camel"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1638
+ }
+}

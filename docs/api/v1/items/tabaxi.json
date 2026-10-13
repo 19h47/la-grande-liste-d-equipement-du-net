@@ -1,0 +1,32 @@
+{
+ "id": "tabaxi",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Tabaxi",
+  "en": "Tabaxi"
+ },
+ "full_name": {
+  "fr": "Tabaxi",
+  "en": "Tabaxi"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "225 po",
+   "en": "225gp"
+  },
+  "min_cp": 22500,
+  "max_cp": 22500,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Tabaxi : humanoïde félin des jungles, à l'allure de jaguar (Fiend Folio)."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1541
+ }
+}

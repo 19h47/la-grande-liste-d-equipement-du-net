@@ -1,0 +1,33 @@
+{
+ "id": "eau-benite-la-fiole",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Eau bénite, la fiole",
+  "en": "Water, Holy, per Vial"
+ },
+ "full_name": {
+  "fr": "Eau bénite, la fiole",
+  "en": "Water, Holy, per Vial"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3149
+ }
+}

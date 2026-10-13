@@ -1,0 +1,35 @@
+{
+ "id": "or-fil-le-pied",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Fil, le pied",
+  "en": "Wire, per ft"
+ },
+ "full_name": {
+  "fr": "Or — Fil, le pied",
+  "en": "Gold — Wire, per ft"
+ },
+ "group": [
+  {
+   "fr": "Or",
+   "en": "Gold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2095
+ }
+}

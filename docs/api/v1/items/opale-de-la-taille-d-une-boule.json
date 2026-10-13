@@ -1,0 +1,37 @@
+{
+ "id": "opale-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Opale — De la taille d'une boule",
+  "en": "Opal — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Opale",
+   "en": "Opal"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 500 po",
+   "en": "3,500gp"
+  },
+  "min_cp": 350000,
+  "max_cp": 350000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Opale : silice hydratée d'un blanc laiteux ou bleuté, à reflets irisés."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2223
+ }
+}

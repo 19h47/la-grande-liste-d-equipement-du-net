@@ -1,0 +1,32 @@
+{
+ "id": "adobe-la-livre",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Adobe, la livre",
+  "en": "Adobe, per lb"
+ },
+ "full_name": {
+  "fr": "Adobe, la livre",
+  "en": "Adobe, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Adobe : brique de terre crue mêlée de paille, séchée au soleil."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 1971
+ }
+}

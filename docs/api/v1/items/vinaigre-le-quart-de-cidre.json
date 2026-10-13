@@ -1,0 +1,38 @@
+{
+ "id": "vinaigre-le-quart-de-cidre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De cidre",
+  "en": "Cider"
+ },
+ "full_name": {
+  "fr": "Vinaigre, le quart — De cidre",
+  "en": "Vinegar, per qt — Cider"
+ },
+ "group": [
+  {
+   "fr": "Vinaigre, le quart",
+   "en": "Vinegar, per qt"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 781
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "bouteille-a-reactifs-en-acier",
+ "category": "contenants",
+ "name": {
+  "fr": "À réactifs, en acier",
+  "en": "Reagent, Steel"
+ },
+ "full_name": {
+  "fr": "Bouteille — À réactifs, en acier",
+  "en": "Bottle — Reagent, Steel"
+ },
+ "group": [
+  {
+   "fr": "Bouteille",
+   "en": "Bottle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1317
+ }
+}

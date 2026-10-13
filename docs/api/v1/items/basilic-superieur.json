@@ -1,0 +1,38 @@
+{
+ "id": "basilic-superieur",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Basilic supérieur",
+  "en": "Basilisk, greater"
+ },
+ "full_name": {
+  "fr": "Basilic supérieur",
+  "en": "Basilisk, greater"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "6 000 po",
+   "en": "6,000gp"
+  },
+  "min_cp": 600000,
+  "max_cp": 600000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "10 000 po",
+   "en": "10,000gp"
+  },
+  "min_cp": 1000000,
+  "max_cp": 1000000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1479
+ }
+}

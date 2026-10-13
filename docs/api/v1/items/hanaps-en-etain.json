@@ -1,0 +1,40 @@
+{
+ "id": "hanaps-en-etain",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En étain",
+  "en": "Pewter"
+ },
+ "full_name": {
+  "fr": "Hanaps — En étain",
+  "en": "Tankards — Pewter"
+ },
+ "group": [
+  {
+   "fr": "Hanaps",
+   "en": "Tankards"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "45 pc",
+   "en": "45cp"
+  },
+  "min_cp": 45,
+  "max_cp": 45,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Hanap : grand vase à boire médiéval, généralement en métal et souvent muni d'un couvercle."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3137
+ }
+}

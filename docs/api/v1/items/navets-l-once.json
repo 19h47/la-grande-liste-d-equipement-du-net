@@ -1,0 +1,33 @@
+{
+ "id": "navets-l-once",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Navets, l'once",
+  "en": "Turnips, per oz"
+ },
+ "full_name": {
+  "fr": "Navets, l'once",
+  "en": "Turnips, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 777
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "belladone-1-brin",
+ "category": "epices",
+ "name": {
+  "fr": "Belladone, 1 brin",
+  "en": "Belladonna, 1 sprig"
+ },
+ "full_name": {
+  "fr": "Belladone, 1 brin",
+  "en": "Belladonna, 1 sprig"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Belladone : plante très toxique aux baies noires luisantes."
+  ]
+ },
+ "source": {
+  "table": "IV",
+  "line": 806
+ }
+}

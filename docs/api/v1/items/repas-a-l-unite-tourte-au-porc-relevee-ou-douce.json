@@ -1,0 +1,38 @@
+{
+ "id": "repas-a-l-unite-tourte-au-porc-relevee-ou-douce",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Tourte au porc (relevée ou douce)",
+  "en": "Pork Pie (hot-spiced or mild)"
+ },
+ "full_name": {
+  "fr": "Repas (à l'unité) — Tourte au porc (relevée ou douce)",
+  "en": "Meals (individual) — Pork Pie (hot-spiced or mild)"
+ },
+ "group": [
+  {
+   "fr": "Repas (à l'unité)",
+   "en": "Meals (individual)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 390
+ }
+}

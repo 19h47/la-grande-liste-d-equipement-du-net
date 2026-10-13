@@ -1,0 +1,38 @@
+{
+ "id": "tasse-en-bois",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En bois",
+  "en": "Wooden"
+ },
+ "full_name": {
+  "fr": "Tasse — En bois",
+  "en": "Cup — Wooden"
+ },
+ "group": [
+  {
+   "fr": "Tasse",
+   "en": "Cup"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2950
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "couteaux-a-eplucher",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "À éplucher",
+  "en": "Peeling"
+ },
+ "full_name": {
+  "fr": "Couteaux — À éplucher",
+  "en": "Knives — Peeling"
+ },
+ "group": [
+  {
+   "fr": "Couteaux",
+   "en": "Knives"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3008
+ }
+}

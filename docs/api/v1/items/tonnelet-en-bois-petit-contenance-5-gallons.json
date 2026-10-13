@@ -1,0 +1,38 @@
+{
+ "id": "tonnelet-en-bois-petit-contenance-5-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En bois, petit, contenance 5 gallons",
+  "en": "Wooden, small, hold 5 gallons"
+ },
+ "full_name": {
+  "fr": "Tonnelet — En bois, petit, contenance 5 gallons",
+  "en": "Keg — Wooden, small, hold 5 gallons"
+ },
+ "group": [
+  {
+   "fr": "Tonnelet",
+   "en": "Keg"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1414
+ }
+}

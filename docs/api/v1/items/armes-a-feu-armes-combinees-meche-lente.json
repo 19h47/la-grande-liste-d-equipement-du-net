@@ -1,0 +1,44 @@
+{
+ "id": "armes-a-feu-armes-combinees-meche-lente",
+ "category": "armes",
+ "name": {
+  "fr": "Mèche lente",
+  "en": "Slow match"
+ },
+ "full_name": {
+  "fr": "Armes à feu — Armes combinées — Mèche lente",
+  "en": "Firearms — Combined Weapons — Slow match"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "Armes combinées",
+   "en": "Combined Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Mèche lente : cordon imprégné qui se consume lentement, servant à mettre le feu aux armes à mèche et aux canons."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3609
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "blackroot",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Blackroot",
+  "en": "Blackroot"
+ },
+ "full_name": {
+  "fr": "Blackroot",
+  "en": "Blackroot"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Blackroot : racine du Net Book of Herbs qui, posée sur une blessure fraîche, rend aussitôt 1d4 PV."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2732
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "quartz-fume",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Quartz fumé",
+  "en": "Smokey Quartz"
+ },
+ "full_name": {
+  "fr": "Quartz fumé",
+  "en": "Smokey Quartz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Quartz fumé : variété de quartz transparente teintée de brun à gris."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2288
+ }
+}

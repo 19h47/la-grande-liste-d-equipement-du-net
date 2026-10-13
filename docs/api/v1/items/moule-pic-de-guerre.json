@@ -1,0 +1,39 @@
+{
+ "id": "moule-pic-de-guerre",
+ "category": "outils",
+ "name": {
+  "fr": "De guerre",
+  "en": "Military"
+ },
+ "full_name": {
+  "fr": "Moule — Pic — De guerre",
+  "en": "Mold — Pick — Military"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Pic",
+   "en": "Pick"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2564
+ }
+}

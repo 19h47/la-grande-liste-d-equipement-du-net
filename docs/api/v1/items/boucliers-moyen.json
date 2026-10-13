@@ -1,0 +1,38 @@
+{
+ "id": "boucliers-moyen",
+ "category": "armures",
+ "name": {
+  "fr": "Moyen",
+  "en": "Medium"
+ },
+ "full_name": {
+  "fr": "Boucliers — Moyen",
+  "en": "Shield — Medium"
+ },
+ "group": [
+  {
+   "fr": "Boucliers",
+   "en": "Shield"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3822
+ }
+}

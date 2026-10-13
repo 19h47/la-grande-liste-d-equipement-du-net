@@ -1,0 +1,40 @@
+{
+ "id": "petite-centauree",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Petite centaurée",
+  "en": "Lesser Centaury"
+ },
+ "full_name": {
+  "fr": "Petite centaurée",
+  "en": "Lesser Centaury"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Petite centaurée : plante amère à fleurs roses, remède traditionnel contre la fièvre."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2793
+ }
+}

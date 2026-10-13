@@ -1,0 +1,41 @@
+{
+ "id": "ale-biere-amere-bitter-la-pinte",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Bière amère (bitter), la pinte",
+  "en": "Bitter, per pint"
+ },
+ "full_name": {
+  "fr": "Ale — Bière amère (bitter), la pinte",
+  "en": "Ale — Bitter, per pint"
+ },
+ "group": [
+  {
+   "fr": "Ale",
+   "en": "Ale"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Ale : bière de fermentation haute, traditionnellement peu ou pas houblonnée.",
+   "Bitter : ale anglaise ambrée, nettement houblonnée et amère, traditionnellement servie à la pression."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 317
+ }
+}

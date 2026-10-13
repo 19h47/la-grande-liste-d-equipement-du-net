@@ -1,0 +1,38 @@
+{
+ "id": "lait-la-pinte-de-baleine",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De baleine",
+  "en": "Whale"
+ },
+ "full_name": {
+  "fr": "Lait, la pinte — De baleine",
+  "en": "Milk, per pint — Whale"
+ },
+ "group": [
+  {
+   "fr": "Lait, la pinte",
+   "en": "Milk, per pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 645
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "id": "cors-en-metal",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Cors en métal",
+  "en": "Metal Horns"
+ },
+ "full_name": {
+  "fr": "Famille des cors et trompettes — Cors en métal",
+  "en": "Horn/Trumpet Family — Metal Horns"
+ },
+ "group": [
+  {
+   "fr": "Famille des cors et trompettes",
+   "en": "Horn/Trumpet Family"
+  }
+ ],
+ "price": null,
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3396
+ }
+}

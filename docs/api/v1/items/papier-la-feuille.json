@@ -1,0 +1,33 @@
+{
+ "id": "papier-la-feuille",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "Papier, la feuille",
+  "en": "Paper, per sheet"
+ },
+ "full_name": {
+  "fr": "Papier, la feuille",
+  "en": "Paper, per sheet"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pe",
+   "en": "3ep"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1954
+ }
+}

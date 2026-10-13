@@ -1,0 +1,40 @@
+{
+ "id": "bardes-demi-bardes-matelassees",
+ "category": "armures",
+ "name": {
+  "fr": "Demi-bardes matelassées",
+  "en": "Half Padded"
+ },
+ "full_name": {
+  "fr": "Bardes — Demi-bardes matelassées",
+  "en": "Barding — Half Padded"
+ },
+ "group": [
+  {
+   "fr": "Bardes",
+   "en": "Barding"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": [
+   "Bardes : armure de cheval."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3751
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "soufflet-petit",
+ "category": "outils",
+ "name": {
+  "fr": "Soufflet, petit",
+  "en": "Bellows, small"
+ },
+ "full_name": {
+  "fr": "Soufflet, petit",
+  "en": "Bellows, small"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2460
+ }
+}

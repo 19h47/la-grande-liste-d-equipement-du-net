@@ -1,0 +1,38 @@
+{
+ "id": "eponge-grande",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Grande",
+  "en": "Large"
+ },
+ "full_name": {
+  "fr": "Éponge — Grande",
+  "en": "Sponge — Large"
+ },
+ "group": [
+  {
+   "fr": "Éponge",
+   "en": "Sponge"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1886
+ }
+}

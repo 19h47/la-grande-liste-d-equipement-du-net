@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-chalemies-tibia",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Tibia",
+  "en": "Tibia"
+ },
+ "full_name": {
+  "fr": "Famille des chalemies — Tibia",
+  "en": "Shawm Family — Tibia"
+ },
+ "group": [
+  {
+   "fr": "Famille des chalemies",
+   "en": "Shawm Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Tibia : équivalent romain de l'aulos grec, double tuyau à anche."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3337
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "sucre-d-erable-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Sucre d'érable, la livre",
+  "en": "Maple Sugar, per lb"
+ },
+ "full_name": {
+  "fr": "Sucre d'érable, la livre",
+  "en": "Maple Sugar, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 636
+ }
+}

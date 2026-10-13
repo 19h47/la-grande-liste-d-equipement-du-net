@@ -1,0 +1,40 @@
+{
+ "id": "zur",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Zur",
+  "en": "Zur"
+ },
+ "full_name": {
+  "fr": "Zur",
+  "en": "Zur"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Zur : champignon souterrain du Net Book of Herbs, dont l'infusion double l'odorat et l'ouïe pendant une heure."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2849
+ }
+}

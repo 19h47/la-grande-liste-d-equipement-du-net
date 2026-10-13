@@ -1,0 +1,37 @@
+{
+ "id": "sardonyx-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Sardonyx — De la taille d'une boule",
+  "en": "Sardonyx — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Sardonyx",
+   "en": "Sardonyx"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Sardonyx : agate à bandes parallèles alternant le brun-rouge (sardoine) et le blanc."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2272
+ }
+}

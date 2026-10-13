@@ -1,0 +1,37 @@
+{
+ "id": "azurite-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Azurite — De la taille d'un raisin",
+  "en": "Azurite — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Azurite",
+   "en": "Azurite"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "80 po",
+   "en": "80gp"
+  },
+  "min_cp": 8000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Azurite : carbonate de cuivre d'un bleu azur profond, autrefois broyé pour en faire un pigment."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 1995
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "soins-des-blessures-critiques",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Soins des blessures critiques",
+  "en": "Cure Critical Wounds"
+ },
+ "full_name": {
+  "fr": "Soins des blessures critiques",
+  "en": "Cure Critical Wounds"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "40 po par point de vie guéri",
+   "en": "40gp per hp healed"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3213
+ }
+}

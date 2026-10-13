@@ -1,0 +1,35 @@
+{
+ "id": "fourrures-communes-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Fourrures communes — Manteau, robe, couverture",
+  "en": "Common furs — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Fourrures communes",
+   "en": "Common furs"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1126
+ }
+}

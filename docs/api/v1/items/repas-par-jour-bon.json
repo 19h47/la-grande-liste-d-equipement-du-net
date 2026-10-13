@@ -1,0 +1,38 @@
+{
+ "id": "repas-par-jour-bon",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Bon",
+  "en": "Good"
+ },
+ "full_name": {
+  "fr": "Repas (par jour) — Bon",
+  "en": "Meals (per Day) — Good"
+ },
+ "group": [
+  {
+   "fr": "Repas (par jour)",
+   "en": "Meals (per Day)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 373
+ }
+}

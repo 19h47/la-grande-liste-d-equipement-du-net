@@ -1,0 +1,32 @@
+{
+ "id": "mur-de-bastion-5-pieds-d-epaisseur-20-pieds-de-haut-10-pieds-de-long",
+ "category": "constructions",
+ "name": {
+  "fr": "Mur de bastion, 5 pieds d'épaisseur, 20 pieds de haut, 10 pieds de long",
+  "en": "Wall, bastion, 5'w 20'h 10'"
+ },
+ "full_name": {
+  "fr": "Mur de bastion, 5 pieds d'épaisseur, 20 pieds de haut, 10 pieds de long",
+  "en": "Wall, bastion, 5'w 20'h 10'"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 500 po",
+   "en": "l500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Bastion : ouvrage fortifié en saillie sur une enceinte, permettant de battre de flanc les murs voisins."
+  ]
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3302
+ }
+}

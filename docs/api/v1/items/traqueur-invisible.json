@@ -1,0 +1,32 @@
+{
+ "id": "traqueur-invisible",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Traqueur invisible",
+  "en": "Invisible Stalker"
+ },
+ "full_name": {
+  "fr": "Traqueur invisible",
+  "en": "Invisible Stalker"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Traqueur invisible : sort invoquant une créature invisible du plan élémentaire de l'Air, chargée d'accomplir une mission."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3228
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "id": "moule-anneau-simple-etroit-grand",
+ "category": "outils",
+ "name": {
+  "fr": "Grand",
+  "en": "Large"
+ },
+ "full_name": {
+  "fr": "Moule — Anneau simple, étroit — Grand",
+  "en": "Mold — Ring, plain narrow — Large"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Anneau simple, étroit",
+   "en": "Ring, plain narrow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2573
+ }
+}

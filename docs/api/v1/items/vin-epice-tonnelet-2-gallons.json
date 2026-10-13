@@ -1,0 +1,38 @@
+{
+ "id": "vin-epice-tonnelet-2-gallons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Tonnelet, 2 gallons",
+  "en": "Keg, 2 gallons"
+ },
+ "full_name": {
+  "fr": "Vin épicé — Tonnelet, 2 gallons",
+  "en": "Wine, Spiced — Keg, 2 gallons"
+ },
+ "group": [
+  {
+   "fr": "Vin épicé",
+   "en": "Wine, Spiced"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 429
+ }
+}

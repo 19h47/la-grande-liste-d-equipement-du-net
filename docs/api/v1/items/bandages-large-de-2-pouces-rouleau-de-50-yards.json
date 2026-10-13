@@ -1,0 +1,38 @@
+{
+ "id": "bandages-large-de-2-pouces-rouleau-de-50-yards",
+ "category": "tissus",
+ "name": {
+  "fr": "Large de 2 pouces, rouleau de 50 yards",
+  "en": "2\" wide, 50yrd roll"
+ },
+ "full_name": {
+  "fr": "Bandages — Large de 2 pouces, rouleau de 50 yards",
+  "en": "Bandages — 2\" wide, 50yrd roll"
+ },
+ "group": [
+  {
+   "fr": "Bandages",
+   "en": "Bandages"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1711
+ }
+}

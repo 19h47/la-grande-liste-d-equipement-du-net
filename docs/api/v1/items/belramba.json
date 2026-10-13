@@ -1,0 +1,40 @@
+{
+ "id": "belramba",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Belramba",
+  "en": "Belramba"
+ },
+ "full_name": {
+  "fr": "Belramba",
+  "en": "Belramba"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "60/ po",
+   "en": "60/gp"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "180 po",
+   "en": "180 gp"
+  },
+  "min_cp": 18000,
+  "max_cp": 18000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Belramba : lichen du Net Book of Herbs dont l'infusion guérit les lésions nerveuses trois fois plus vite."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2726
+ }
+}

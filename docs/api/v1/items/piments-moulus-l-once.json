@@ -1,0 +1,38 @@
+{
+ "id": "piments-moulus-l-once",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Moulus, l'once",
+  "en": "Ground, oz"
+ },
+ "full_name": {
+  "fr": "Piments — Moulus, l'once",
+  "en": "Chilis — Ground, oz"
+ },
+ "group": [
+  {
+   "fr": "Piments",
+   "en": "Chilis"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 539
+ }
+}

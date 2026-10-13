@@ -1,0 +1,38 @@
+{
+ "id": "boucliers-grand",
+ "category": "armures",
+ "name": {
+  "fr": "Grand",
+  "en": "Large"
+ },
+ "full_name": {
+  "fr": "Boucliers — Grand",
+  "en": "Shield — Large"
+ },
+ "group": [
+  {
+   "fr": "Boucliers",
+   "en": "Shield"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3823
+ }
+}

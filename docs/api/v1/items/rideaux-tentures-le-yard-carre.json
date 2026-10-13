@@ -1,0 +1,33 @@
+{
+ "id": "rideaux-tentures-le-yard-carre",
+ "category": "tissus",
+ "name": {
+  "fr": "Rideaux/tentures, le yard carré",
+  "en": "Curtains / Drapes, sq yrd"
+ },
+ "full_name": {
+  "fr": "Rideaux/tentures, le yard carré",
+  "en": "Curtains / Drapes, sq yrd"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1-4 pa",
+   "en": "1-4sp"
+  },
+  "min_cp": 10,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1735
+ }
+}

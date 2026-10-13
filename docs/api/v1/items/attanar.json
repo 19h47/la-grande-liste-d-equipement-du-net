@@ -1,0 +1,40 @@
+{
+ "id": "attanar",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Attanar",
+  "en": "Attanar"
+ },
+ "full_name": {
+  "fr": "Attanar",
+  "en": "Attanar"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Attanar : mousse de rivière issue de MERP ; posée sur le front, elle fait tomber la fièvre."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2719
+ }
+}

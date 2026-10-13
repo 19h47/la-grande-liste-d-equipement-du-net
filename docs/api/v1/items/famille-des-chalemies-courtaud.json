@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-chalemies-courtaud",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Courtaud",
+  "en": "Curtall"
+ },
+ "full_name": {
+  "fr": "Famille des chalemies — Courtaud",
+  "en": "Shawm Family — Curtall"
+ },
+ "group": [
+  {
+   "fr": "Famille des chalemies",
+   "en": "Shawm Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Courtaud : basson primitif de la Renaissance, à perce repliée dans un seul fût de bois."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3334
+ }
+}

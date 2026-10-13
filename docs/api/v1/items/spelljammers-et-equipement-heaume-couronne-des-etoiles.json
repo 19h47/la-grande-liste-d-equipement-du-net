@@ -1,0 +1,42 @@
+{
+ "id": "spelljammers-et-equipement-heaume-couronne-des-etoiles",
+ "category": "transports",
+ "name": {
+  "fr": "Couronne des étoiles",
+  "en": "Crown of the Stars"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Heaume — Couronne des étoiles",
+  "en": "Spelljammers and equipment — Helm — Crown of the Stars"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  },
+  {
+   "fr": "Heaume",
+   "en": "Helm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "Une rançon de roi",
+   "en": "king's Ransom"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Heaume : siège magique qui convertit l'énergie d'un lanceur de sorts en propulsion pour un spelljammer."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1017
+ }
+}

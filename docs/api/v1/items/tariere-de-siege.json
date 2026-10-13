@@ -1,0 +1,35 @@
+{
+ "id": "tariere-de-siege",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Tarière de siège",
+  "en": "Bore"
+ },
+ "full_name": {
+  "fr": "Tarière de siège",
+  "en": "Bore"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": {
+  "text": "200",
+  "lb": 200
+ },
+ "notes": {
+  "fr": [
+   "Tarière de siège : grande vrille manœuvrée sous abri pour percer les murailles."
+  ]
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3485
+ }
+}

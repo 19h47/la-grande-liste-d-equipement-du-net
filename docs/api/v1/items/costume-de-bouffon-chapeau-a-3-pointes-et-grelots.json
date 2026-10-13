@@ -1,0 +1,38 @@
+{
+ "id": "costume-de-bouffon-chapeau-a-3-pointes-et-grelots",
+ "category": "vetements",
+ "name": {
+  "fr": "Chapeau à 3 pointes et grelots",
+  "en": "3-cornered hat w/ bells"
+ },
+ "full_name": {
+  "fr": "Costume de bouffon — Chapeau à 3 pointes et grelots",
+  "en": "Jester Clothing — 3-cornered hat w/ bells"
+ },
+ "group": [
+  {
+   "fr": "Costume de bouffon",
+   "en": "Jester Clothing"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 208
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "plomb-feuille-de-5-pouces-de-cote",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Feuille de 5 pouces de côté",
+  "en": "Sheet, 5 in sq"
+ },
+ "full_name": {
+  "fr": "Plomb — Feuille de 5 pouces de côté",
+  "en": "Lead — Sheet, 5 in sq"
+ },
+ "group": [
+  {
+   "fr": "Plomb",
+   "en": "Lead"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2147
+ }
+}

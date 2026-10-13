@@ -1,0 +1,35 @@
+{
+ "id": "ours-hibou-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Ours-hibou — Cape, veste",
+  "en": "Owlbear — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Ours-hibou",
+   "en": "Owlbear"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1198
+ }
+}

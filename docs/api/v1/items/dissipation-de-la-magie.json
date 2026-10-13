@@ -1,0 +1,30 @@
+{
+ "id": "dissipation-de-la-magie",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Dissipation de la magie",
+  "en": "Dispel Magic"
+ },
+ "full_name": {
+  "fr": "Dissipation de la magie",
+  "en": "Dispel Magic"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po par niveau du lanceur de sorts",
+   "en": "100gp per level of the caster"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3215
+ }
+}

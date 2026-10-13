@@ -1,0 +1,40 @@
+{
+ "id": "triton",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Triton",
+  "en": "Triton"
+ },
+ "full_name": {
+  "fr": "Triton",
+  "en": "Triton"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "100-600 po",
+   "en": "100-600gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "200-700 po",
+   "en": "200-700gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 70000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Triton : humanoïde marin originaire du plan élémentaire de l'Eau, à ne pas confondre avec l'amphibien."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1544
+ }
+}

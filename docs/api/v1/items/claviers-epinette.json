@@ -1,0 +1,40 @@
+{
+ "id": "claviers-epinette",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Épinette",
+  "en": "Spinet"
+ },
+ "full_name": {
+  "fr": "Claviers — Épinette",
+  "en": "Keyboard — Spinet"
+ },
+ "group": [
+  {
+   "fr": "Claviers",
+   "en": "Keyboard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "275 po",
+   "en": "275gp"
+  },
+  "min_cp": 27500,
+  "max_cp": 27500,
+  "plus": false
+ },
+ "weight": {
+  "text": "85",
+  "lb": 85
+ },
+ "notes": {
+  "fr": [
+   "Épinette : petit clavecin à une seule corde par note."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3411
+ }
+}

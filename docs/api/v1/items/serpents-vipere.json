@@ -1,0 +1,35 @@
+{
+ "id": "serpents-vipere",
+ "category": "animaux",
+ "name": {
+  "fr": "Vipère",
+  "en": "Adder"
+ },
+ "full_name": {
+  "fr": "Serpents — Vipère",
+  "en": "Snake — Adder"
+ },
+ "group": [
+  {
+   "fr": "Serpents",
+   "en": "Snake"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1696
+ }
+}

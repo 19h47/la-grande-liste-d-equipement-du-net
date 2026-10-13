@@ -1,0 +1,33 @@
+{
+ "id": "bois-de-chauffage",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Bois de chauffage",
+  "en": "Firewood"
+ },
+ "full_name": {
+  "fr": "Bois de chauffage",
+  "en": "Firewood"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "variable",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1777
+ }
+}

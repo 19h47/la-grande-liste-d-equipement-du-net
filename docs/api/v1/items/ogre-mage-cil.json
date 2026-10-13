@@ -1,0 +1,37 @@
+{
+ "id": "ogre-mage-cil",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Cil",
+  "en": "Eyelash"
+ },
+ "full_name": {
+  "fr": "Ogre mage — Cil",
+  "en": "Ogre Mage — Eyelash"
+ },
+ "group": [
+  {
+   "fr": "Ogre mage",
+   "en": "Ogre Mage"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Ogre mage : ogre lanceur de sorts inspiré de l'oni japonais, capable de voler et de se rendre invisible."
+  ]
+ },
+ "source": {
+  "table": "VI",
+  "line": 924
+ }
+}

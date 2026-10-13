@@ -1,0 +1,35 @@
+{
+ "id": "noix-cendrees-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Noix cendrées, la livre",
+  "en": "Butternuts, per lb"
+ },
+ "full_name": {
+  "fr": "Noix cendrées, la livre",
+  "en": "Butternuts, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Noix cendrée : fruit du noyer cendré d'Amérique du Nord, proche de la noix commune."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 496
+ }
+}

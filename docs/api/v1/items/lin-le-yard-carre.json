@@ -1,0 +1,38 @@
+{
+ "id": "lin-le-yard-carre",
+ "category": "tissus",
+ "name": {
+  "fr": "Lin, le yard carré",
+  "en": "Linen, per sq. yard"
+ },
+ "full_name": {
+  "fr": "Étoffe, le yard carré — Lin, le yard carré",
+  "en": "Cloth, per sq yard — Linen, per sq. yard"
+ },
+ "group": [
+  {
+   "fr": "Étoffe, le yard carré",
+   "en": "Cloth, per sq yard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1730
+ }
+}

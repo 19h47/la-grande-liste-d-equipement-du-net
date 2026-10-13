@@ -1,0 +1,37 @@
+{
+ "id": "ombre-des-roches-griffe",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Griffe",
+  "en": "Claw"
+ },
+ "full_name": {
+  "fr": "Ombre des roches — Griffe",
+  "en": "Umber Hulk — Claw"
+ },
+ "group": [
+  {
+   "fr": "Ombre des roches",
+   "en": "Umber Hulk"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Ombre des roches : monstre insectoïde fouisseur dont le regard plonge dans la confusion."
+  ]
+ },
+ "source": {
+  "table": "VI",
+  "line": 931
+ }
+}

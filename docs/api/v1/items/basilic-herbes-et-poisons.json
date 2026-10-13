@@ -1,0 +1,38 @@
+{
+ "id": "basilic-herbes-et-poisons",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Basilic",
+  "en": "Basil"
+ },
+ "full_name": {
+  "fr": "Basilic",
+  "en": "Basil"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2723
+ }
+}

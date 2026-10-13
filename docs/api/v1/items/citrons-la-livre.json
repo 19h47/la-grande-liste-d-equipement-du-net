@@ -1,0 +1,33 @@
+{
+ "id": "citrons-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Citrons, la livre",
+  "en": "Lemon, per lb"
+ },
+ "full_name": {
+  "fr": "Citrons, la livre",
+  "en": "Lemon, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "16 po",
+   "en": "16gp"
+  },
+  "min_cp": 1600,
+  "max_cp": 1600,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 631
+ }
+}

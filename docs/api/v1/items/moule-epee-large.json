@@ -1,0 +1,39 @@
+{
+ "id": "moule-epee-large",
+ "category": "outils",
+ "name": {
+  "fr": "Large",
+  "en": "Broad"
+ },
+ "full_name": {
+  "fr": "Moule — Épée — Large",
+  "en": "Mold — Sword — Broad"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Épée",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2597
+ }
+}

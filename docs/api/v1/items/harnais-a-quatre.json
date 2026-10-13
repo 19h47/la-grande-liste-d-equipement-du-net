@@ -1,0 +1,38 @@
+{
+ "id": "harnais-a-quatre",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "À quatre",
+  "en": "Four"
+ },
+ "full_name": {
+  "fr": "Harnais — À quatre",
+  "en": "Harness — Four"
+ },
+ "group": [
+  {
+   "fr": "Harnais",
+   "en": "Harness"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "9 po",
+   "en": "9gp"
+  },
+  "min_cp": 900,
+  "max_cp": 900,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1060
+ }
+}

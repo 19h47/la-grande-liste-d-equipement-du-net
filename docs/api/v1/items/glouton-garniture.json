@@ -1,0 +1,37 @@
+{
+ "id": "glouton-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Glouton — Garniture",
+  "en": "Wolverine — Trim"
+ },
+ "group": [
+  {
+   "fr": "Glouton",
+   "en": "Wolverine"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Glouton : carcajou, grand mustélidé des forêts boréales à l'épaisse fourrure brune."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1237
+ }
+}

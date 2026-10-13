@@ -1,0 +1,40 @@
+{
+ "id": "epees-tulwar",
+ "category": "armes",
+ "name": {
+  "fr": "Tulwar",
+  "en": "Tulwar"
+ },
+ "full_name": {
+  "fr": "Épées — Tulwar",
+  "en": "Sword — Tulwar"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "17 po",
+   "en": "17gp"
+  },
+  "min_cp": 1700,
+  "max_cp": 1700,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Tulwar : sabre indien à lame courbe et à pommeau en forme de disque."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3727
+ }
+}

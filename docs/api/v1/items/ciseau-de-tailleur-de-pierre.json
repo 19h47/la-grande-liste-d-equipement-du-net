@@ -1,0 +1,33 @@
+{
+ "id": "ciseau-de-tailleur-de-pierre",
+ "category": "outils",
+ "name": {
+  "fr": "Ciseau de tailleur de pierre",
+  "en": "Chisel, stone"
+ },
+ "full_name": {
+  "fr": "Ciseau de tailleur de pierre",
+  "en": "Chisel, stone"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "120 po",
+   "en": "120gp"
+  },
+  "min_cp": 12000,
+  "max_cp": 12000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2481
+ }
+}

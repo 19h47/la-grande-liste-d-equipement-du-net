@@ -1,0 +1,40 @@
+{
+ "id": "epees-khepesh",
+ "category": "armes",
+ "name": {
+  "fr": "Khépesh",
+  "en": "Khopesh"
+ },
+ "full_name": {
+  "fr": "Épées — Khépesh",
+  "en": "Sword — Khopesh"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "7",
+  "lb": 7
+ },
+ "notes": {
+  "fr": [
+   "Khépesh : épée égyptienne à lame recourbée en forme de faucille."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3715
+ }
+}

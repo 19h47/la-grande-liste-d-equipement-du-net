@@ -1,0 +1,37 @@
+{
+ "id": "bunyip-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Bunyip — Garniture",
+  "en": "Bunyip — Trim"
+ },
+ "group": [
+  {
+   "fr": "Bunyip",
+   "en": "Bunyip"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Bunyip : monstre aquatique du folklore aborigène australien ; dans AD&D, sorte de phoque féroce à tête de chien."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1114
+ }
+}

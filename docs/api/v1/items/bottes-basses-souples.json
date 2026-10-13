@@ -1,0 +1,38 @@
+{
+ "id": "bottes-basses-souples",
+ "category": "vetements",
+ "name": {
+  "fr": "Basses (souples)",
+  "en": "Low (soft)"
+ },
+ "full_name": {
+  "fr": "Bottes — Basses (souples)",
+  "en": "Boots — Low (soft)"
+ },
+ "group": [
+  {
+   "fr": "Bottes",
+   "en": "Boots"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 94
+ }
+}

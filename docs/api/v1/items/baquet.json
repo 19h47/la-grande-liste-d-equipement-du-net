@@ -1,0 +1,33 @@
+{
+ "id": "baquet",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Baquet",
+  "en": "Tub"
+ },
+ "full_name": {
+  "fr": "Baquet",
+  "en": "Tub"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2-5 po",
+   "en": "2-5gp"
+  },
+  "min_cp": 200,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3146
+ }
+}

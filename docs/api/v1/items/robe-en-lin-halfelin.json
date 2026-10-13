@@ -1,0 +1,38 @@
+{
+ "id": "robe-en-lin-halfelin",
+ "category": "vetements",
+ "name": {
+  "fr": "Halfelin",
+  "en": "Halfling"
+ },
+ "full_name": {
+  "fr": "Robe en lin — Halfelin",
+  "en": "Dress, Linen — Halfling"
+ },
+ "group": [
+  {
+   "fr": "Robe en lin",
+   "en": "Dress, Linen"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pc",
+   "en": "8cp"
+  },
+  "min_cp": 8,
+  "max_cp": 8,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 151
+ }
+}

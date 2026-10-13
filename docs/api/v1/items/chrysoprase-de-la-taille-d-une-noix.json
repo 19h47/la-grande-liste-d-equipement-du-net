@@ -1,0 +1,37 @@
+{
+ "id": "chrysoprase-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Chrysoprase — De la taille d'une noix",
+  "en": "Chrysoprase — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Chrysoprase",
+   "en": "Chrysoprase"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Chrysoprase : calcédoine vert pomme, colorée par le nickel."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2051
+ }
+}

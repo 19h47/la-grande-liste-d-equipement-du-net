@@ -1,0 +1,38 @@
+{
+ "id": "epices-la-livre-peu-courantes",
+ "category": "epices",
+ "name": {
+  "fr": "Peu courantes",
+  "en": "Uncommon"
+ },
+ "full_name": {
+  "fr": "Épices, la livre — Peu courantes",
+  "en": "Spice, per lbs — Uncommon"
+ },
+ "group": [
+  {
+   "fr": "Épices, la livre",
+   "en": "Spice, per lbs"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 856
+ }
+}

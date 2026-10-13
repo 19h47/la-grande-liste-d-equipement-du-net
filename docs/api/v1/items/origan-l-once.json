@@ -1,0 +1,33 @@
+{
+ "id": "origan-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Origan, l'once",
+  "en": "Oregano, per oz"
+ },
+ "full_name": {
+  "fr": "Origan, l'once",
+  "en": "Oregano, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 842
+ }
+}

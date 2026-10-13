@@ -1,0 +1,33 @@
+{
+ "id": "perce-brouillard",
+ "category": "eclairage",
+ "name": {
+  "fr": "Perce-brouillard",
+  "en": "Fog-Cutter"
+ },
+ "full_name": {
+  "fr": "Perce-brouillard",
+  "en": "Fog-Cutter"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2664
+ }
+}

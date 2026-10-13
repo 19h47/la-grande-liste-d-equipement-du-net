@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-chalemies-cervelas",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Cervelas",
+  "en": "Rackett"
+ },
+ "full_name": {
+  "fr": "Famille des chalemies — Cervelas",
+  "en": "Shawm Family — Rackett"
+ },
+ "group": [
+  {
+   "fr": "Famille des chalemies",
+   "en": "Shawm Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Cervelas : instrument à anche double de la Renaissance, très compact, au son grave (en allemand « Rackett »)."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3335
+ }
+}

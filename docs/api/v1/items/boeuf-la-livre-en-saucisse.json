@@ -1,0 +1,38 @@
+{
+ "id": "boeuf-la-livre-en-saucisse",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "En saucisse",
+  "en": "sausage"
+ },
+ "full_name": {
+  "fr": "Bœuf, la livre — En saucisse",
+  "en": "Beef, per lb — sausage"
+ },
+ "group": [
+  {
+   "fr": "Bœuf, la livre",
+   "en": "Beef, per lb"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 461
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "pavillon-de-campement-grand-20-x-30-pieds-pour-25-personnes",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Pavillon de campement, grand, 20 x 30 pieds, pour 25 personnes",
+  "en": "Pavilion, Camping, Large, 20' x 30',holds 25"
+ },
+ "full_name": {
+  "fr": "Pavillon de campement, grand, 20 x 30 pieds, pour 25 personnes",
+  "en": "Pavilion, Camping, Large, 20' x 30',holds 25"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "80",
+  "lb": 80
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1781
+ }
+}

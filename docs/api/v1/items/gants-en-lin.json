@@ -1,0 +1,38 @@
+{
+ "id": "gants-en-lin",
+ "category": "vetements",
+ "name": {
+  "fr": "En lin",
+  "en": "Linen"
+ },
+ "full_name": {
+  "fr": "Gants — En lin",
+  "en": "Gloves — Linen"
+ },
+ "group": [
+  {
+   "fr": "Gants",
+   "en": "Gloves"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 170
+ }
+}

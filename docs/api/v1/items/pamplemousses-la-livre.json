@@ -1,0 +1,33 @@
+{
+ "id": "pamplemousses-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Pamplemousses, la livre",
+  "en": "Grapefruits, per lb"
+ },
+ "full_name": {
+  "fr": "Pamplemousses, la livre",
+  "en": "Grapefruits, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 597
+ }
+}

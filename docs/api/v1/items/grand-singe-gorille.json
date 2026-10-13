@@ -1,0 +1,30 @@
+{
+ "id": "grand-singe-gorille",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Grand singe, gorille",
+  "en": "Ape, gorilla"
+ },
+ "full_name": {
+  "fr": "Grand singe, gorille",
+  "en": "Ape, gorilla"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "400 po",
+   "en": "400gp"
+  },
+  "min_cp": 40000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1473
+ }
+}

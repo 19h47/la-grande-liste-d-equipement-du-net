@@ -1,0 +1,35 @@
+{
+ "id": "ivoire-hippopotame",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Hippopotame",
+  "en": "Hippopotamus"
+ },
+ "full_name": {
+  "fr": "Ivoire — Hippopotame",
+  "en": "Ivory — Hippopotamus"
+ },
+ "group": [
+  {
+   "fr": "Ivoire",
+   "en": "Ivory"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20-120 po",
+   "en": "20-120gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 12000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2118
+ }
+}

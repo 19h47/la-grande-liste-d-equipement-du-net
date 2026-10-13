@@ -1,0 +1,38 @@
+{
+ "id": "spelljammers-et-equipement-araignee-de-mort-neogi",
+ "category": "transports",
+ "name": {
+  "fr": "Araignée de mort néogi",
+  "en": "Neogi Deathspider"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Araignée de mort néogi",
+  "en": "Spelljammers and equipment — Neogi Deathspider"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "75 000 po",
+   "en": "75,000gp"
+  },
+  "min_cp": 7500000,
+  "max_cp": 7500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Araignée de mort néogi : spelljammer arachnéen des néogis, peuple esclavagiste à corps d'araignée et cou d'anguille."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1031
+ }
+}

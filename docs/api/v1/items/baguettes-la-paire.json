@@ -1,0 +1,33 @@
+{
+ "id": "baguettes-la-paire",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Baguettes, la paire",
+  "en": "Chopsticks, pair"
+ },
+ "full_name": {
+  "fr": "Baguettes, la paire",
+  "en": "Chopsticks, pair"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2930
+ }
+}

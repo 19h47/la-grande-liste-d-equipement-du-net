@@ -1,0 +1,32 @@
+{
+ "id": "archelon-ischyros",
+ "category": "carcasses",
+ "name": {
+  "fr": "Archelon ischyros",
+  "en": "Archelon Ischyros"
+ },
+ "full_name": {
+  "fr": "Archelon ischyros",
+  "en": "Archelon Ischyros"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "71-90 po",
+   "en": "71-90gp"
+  },
+  "min_cp": 7100,
+  "max_cp": 9000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Archelon : tortue marine géante préhistorique."
+  ]
+ },
+ "source": {
+  "table": "XIV",
+  "line": 1605
+ }
+}

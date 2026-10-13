@@ -1,0 +1,38 @@
+{
+ "id": "aigle-geant",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Aigle géant",
+  "en": "Eagle, giant"
+ },
+ "full_name": {
+  "fr": "Aigle géant",
+  "en": "Eagle, giant"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "500-800 po",
+   "en": "500-800gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 80000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "500-800 po",
+   "en": "500-800gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 80000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1508
+ }
+}

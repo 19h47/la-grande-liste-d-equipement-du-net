@@ -1,0 +1,33 @@
+{
+ "id": "ruche-en-bois",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Ruche en bois",
+  "en": "Bee hive, wooden"
+ },
+ "full_name": {
+  "fr": "Ruche en bois",
+  "en": "Bee hive, wooden"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2878
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "chiffon-de-polisseur",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Chiffon de polisseur",
+  "en": "Polisher's rag"
+ },
+ "full_name": {
+  "fr": "Chiffon de polisseur",
+  "en": "Polisher's rag"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3088
+ }
+}

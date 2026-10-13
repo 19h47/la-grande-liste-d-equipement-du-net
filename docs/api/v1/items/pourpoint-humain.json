@@ -1,0 +1,40 @@
+{
+ "id": "pourpoint-humain",
+ "category": "vetements",
+ "name": {
+  "fr": "Humain",
+  "en": "Human"
+ },
+ "full_name": {
+  "fr": "Pourpoint — Humain",
+  "en": "Doublet — Human"
+ },
+ "group": [
+  {
+   "fr": "Pourpoint",
+   "en": "Doublet"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Pourpoint : veste courte et matelassée couvrant le torse du cou à la taille."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 148
+ }
+}

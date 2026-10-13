@@ -1,0 +1,33 @@
+{
+ "id": "encens-le-baton",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Encens, le bâton",
+  "en": "Incense, per stick"
+ },
+ "full_name": {
+  "fr": "Encens, le bâton",
+  "en": "Incense, per stick"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2997
+ }
+}

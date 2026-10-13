@@ -1,0 +1,39 @@
+{
+ "id": "moule-couteau-de-boucher",
+ "category": "outils",
+ "name": {
+  "fr": "De boucher",
+  "en": "Butcher"
+ },
+ "full_name": {
+  "fr": "Moule — Couteau — De boucher",
+  "en": "Mold — Knife — Butcher"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Couteau",
+   "en": "Knife"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2556
+ }
+}

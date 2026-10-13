@@ -1,0 +1,29 @@
+{
+ "id": "epees-fleuret",
+ "category": "armes",
+ "name": {
+  "fr": "Fleuret",
+  "en": "Foil"
+ },
+ "full_name": {
+  "fr": "Épées — Fleuret",
+  "en": "Sword — Foil"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": null,
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Fleuret : arme d'estoc légère à lame de section carrée, utilisée en escrime."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3711
+ }
+}

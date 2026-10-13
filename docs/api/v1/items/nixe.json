@@ -1,0 +1,40 @@
+{
+ "id": "nixe",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Nixe",
+  "en": "Nixie"
+ },
+ "full_name": {
+  "fr": "Nixe",
+  "en": "Nixie"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "100-400 po",
+   "en": "100-400gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Nixe : fée des eaux qui charme les humains pour en faire ses serviteurs."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1537
+ }
+}

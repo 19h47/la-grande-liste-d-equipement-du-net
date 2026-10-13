@@ -1,0 +1,30 @@
+{
+ "id": "chinchilla",
+ "category": "animaux",
+ "name": {
+  "fr": "Chinchilla",
+  "en": "Chinchilla"
+ },
+ "full_name": {
+  "fr": "Chinchilla",
+  "en": "Chinchilla"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1644
+ }
+}

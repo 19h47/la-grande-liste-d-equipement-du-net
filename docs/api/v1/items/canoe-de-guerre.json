@@ -1,0 +1,35 @@
+{
+ "id": "canoe-de-guerre",
+ "category": "transports",
+ "name": {
+  "fr": "De guerre",
+  "en": "War"
+ },
+ "full_name": {
+  "fr": "Canoë — De guerre",
+  "en": "Canoe — War"
+ },
+ "group": [
+  {
+   "fr": "Canoë",
+   "en": "Canoe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 949
+ }
+}

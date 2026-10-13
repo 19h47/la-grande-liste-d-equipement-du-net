@@ -1,0 +1,35 @@
+{
+ "id": "biscuits-au-poivre-pfeffernusse-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Biscuits au poivre (pfeffernüsse), la livre",
+  "en": "Pepper Nuts, per lb"
+ },
+ "full_name": {
+  "fr": "Biscuits au poivre (pfeffernüsse), la livre",
+  "en": "Pepper Nuts, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Pfeffernüsse : petits biscuits ronds épicés de la tradition allemande de Noël."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 677
+ }
+}

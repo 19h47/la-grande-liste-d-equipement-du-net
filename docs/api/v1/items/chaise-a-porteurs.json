@@ -1,0 +1,32 @@
+{
+ "id": "chaise-a-porteurs",
+ "category": "transports",
+ "name": {
+  "fr": "Chaise à porteurs",
+  "en": "Sedan"
+ },
+ "full_name": {
+  "fr": "Chaise à porteurs",
+  "en": "Sedan"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Chaise à porteurs : siège fermé muni de brancards, porté par deux hommes ou davantage."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 986
+ }
+}

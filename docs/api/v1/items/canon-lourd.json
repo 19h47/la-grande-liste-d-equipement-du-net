@@ -1,0 +1,33 @@
+{
+ "id": "canon-lourd",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Canon lourd",
+  "en": "Cannon, Heavy"
+ },
+ "full_name": {
+  "fr": "Canon lourd",
+  "en": "Cannon, Heavy"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "30 000",
+   "en": "30,000"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": {
+  "text": "2 000",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3488
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "hoopak",
+ "category": "armes",
+ "name": {
+  "fr": "Hoopak",
+  "en": "Hoopak"
+ },
+ "full_name": {
+  "fr": "Hoopak",
+  "en": "Hoopak"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Hoopak : bâton-fronde fourchu des kenders (Lancedragon)."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3629
+ }
+}

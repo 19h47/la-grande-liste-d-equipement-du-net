@@ -1,0 +1,38 @@
+{
+ "id": "bouteille-a-reactifs-en-cristal",
+ "category": "contenants",
+ "name": {
+  "fr": "À réactifs, en cristal",
+  "en": "Reagent, Crystal"
+ },
+ "full_name": {
+  "fr": "Bouteille — À réactifs, en cristal",
+  "en": "Bottle — Reagent, Crystal"
+ },
+ "group": [
+  {
+   "fr": "Bouteille",
+   "en": "Bottle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1316
+ }
+}

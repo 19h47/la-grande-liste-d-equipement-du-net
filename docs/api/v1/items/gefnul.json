@@ -1,0 +1,40 @@
+{
+ "id": "gefnul",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Gefnul",
+  "en": "Gefnul"
+ },
+ "full_name": {
+  "fr": "Gefnul",
+  "en": "Gefnul"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Gefnul : plante volcanique issue de MERP qui guérit entièrement, mais peut tuer si la préparation échoue."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2775
+ }
+}

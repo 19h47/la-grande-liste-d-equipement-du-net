@@ -1,0 +1,38 @@
+{
+ "id": "armes-de-geant-fleche",
+ "category": "armes",
+ "name": {
+  "fr": "Flèche",
+  "en": "Arrow"
+ },
+ "full_name": {
+  "fr": "Armes de géant — Flèche",
+  "en": "Giant Weapons — Arrow"
+ },
+ "group": [
+  {
+   "fr": "Armes de géant",
+   "en": "Giant Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po/12",
+   "en": "1gp/12"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3616
+ }
+}

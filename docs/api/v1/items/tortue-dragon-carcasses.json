@@ -1,0 +1,30 @@
+{
+ "id": "tortue-dragon-carcasses",
+ "category": "carcasses",
+ "name": {
+  "fr": "Tortue-dragon",
+  "en": "Dragon, Turtle"
+ },
+ "full_name": {
+  "fr": "Tortue-dragon",
+  "en": "Dragon, Turtle"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "DV x 1,20 po",
+   "en": "HD x 1.20gp"
+  },
+  "min_cp": 120,
+  "max_cp": 120,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIV",
+  "line": 1608
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "rewk",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Rewk",
+  "en": "Rewk"
+ },
+ "full_name": {
+  "fr": "Rewk",
+  "en": "Rewk"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "9 pa",
+   "en": "9sp"
+  },
+  "min_cp": 90,
+  "max_cp": 90,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Rewk : plante du Net Book of Herbs dont les nodosités infusées soignent 1d3 points de dégâts."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2817
+ }
+}

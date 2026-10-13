@@ -1,0 +1,38 @@
+{
+ "id": "tonneau-en-bois-grand-contenance-60-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En bois, grand, contenance 60 gallons",
+  "en": "Wooden, large, holds 60 gallons"
+ },
+ "full_name": {
+  "fr": "Tonneau — En bois, grand, contenance 60 gallons",
+  "en": "Barrel — Wooden, large, holds 60 gallons"
+ },
+ "group": [
+  {
+   "fr": "Tonneau",
+   "en": "Barrel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "60",
+  "lb": 60
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1295
+ }
+}

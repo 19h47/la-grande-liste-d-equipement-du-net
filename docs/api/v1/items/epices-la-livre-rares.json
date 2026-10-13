@@ -1,0 +1,38 @@
+{
+ "id": "epices-la-livre-rares",
+ "category": "epices",
+ "name": {
+  "fr": "Rares",
+  "en": "Rare"
+ },
+ "full_name": {
+  "fr": "Épices, la livre — Rares",
+  "en": "Spice, per lbs — Rare"
+ },
+ "group": [
+  {
+   "fr": "Épices, la livre",
+   "en": "Spice, per lbs"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 855
+ }
+}

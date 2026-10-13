@@ -1,0 +1,33 @@
+{
+ "id": "balai-a-franges",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Balai à franges",
+  "en": "Mop"
+ },
+ "full_name": {
+  "fr": "Balai à franges",
+  "en": "Mop"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 pc",
+   "en": "8cp"
+  },
+  "min_cp": 8,
+  "max_cp": 8,
+  "plus": false
+ },
+ "weight": {
+  "text": "3 pc",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3035
+ }
+}

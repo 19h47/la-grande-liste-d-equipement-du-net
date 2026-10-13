@@ -1,0 +1,37 @@
+{
+ "id": "palefrenier-par-semaine",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Par semaine",
+  "en": "Per Week"
+ },
+ "full_name": {
+  "fr": "Palefrenier — Par semaine",
+  "en": "Groom — Per Week"
+ },
+ "group": [
+  {
+   "fr": "Palefrenier",
+   "en": "Groom"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Palefrenier : valet d'écurie chargé de soigner et de harnacher les chevaux."
+  ]
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2393
+ }
+}

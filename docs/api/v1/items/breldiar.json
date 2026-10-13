@@ -1,0 +1,40 @@
+{
+ "id": "breldiar",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Breldiar",
+  "en": "Breldiar"
+ },
+ "full_name": {
+  "fr": "Breldiar",
+  "en": "Breldiar"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Breldiar : fleur volcanique du Net Book of Herbs qui modifie l'appréciation des distances : bonus au tir, malus en mêlée."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2736
+ }
+}

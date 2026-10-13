@@ -1,0 +1,35 @@
+{
+ "id": "burette",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Burette",
+  "en": "Burette"
+ },
+ "full_name": {
+  "fr": "Burette",
+  "en": "Burette"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Burette : tube de verre gradué, muni d'un robinet, pour verser des volumes de liquide précis."
+  ]
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1836
+ }
+}

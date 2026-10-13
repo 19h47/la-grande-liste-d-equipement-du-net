@@ -1,0 +1,38 @@
+{
+ "id": "beurres-de-fruits-la-pinte-de-poire",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De poire",
+  "en": "Pear"
+ },
+ "full_name": {
+  "fr": "Beurres de fruits, la pinte — De poire",
+  "en": "Butters, per pint — Pear"
+ },
+ "group": [
+  {
+   "fr": "Beurres de fruits, la pinte",
+   "en": "Butters, per pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 500
+ }
+}

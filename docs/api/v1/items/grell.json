@@ -1,0 +1,40 @@
+{
+ "id": "grell",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Grell",
+  "en": "Grell"
+ },
+ "full_name": {
+  "fr": "Grell",
+  "en": "Grell"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "2 500 po",
+   "en": "2,500gp"
+  },
+  "min_cp": 250000,
+  "max_cp": 250000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "5 500 po",
+   "en": "5,500gp"
+  },
+  "min_cp": 550000,
+  "max_cp": 550000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Grell : cerveau volant à bec crochu et à tentacules paralysants (Fiend Folio)."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1520
+ }
+}

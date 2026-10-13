@@ -1,0 +1,38 @@
+{
+ "id": "hochet-calebasses",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Calebasses",
+  "en": "Gourds"
+ },
+ "full_name": {
+  "fr": "Hochet — Calebasses",
+  "en": "Rattle — Gourds"
+ },
+ "group": [
+  {
+   "fr": "Hochet",
+   "en": "Rattle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3425
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "harpe-eolienne",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Harpe éolienne",
+  "en": "Aeolian harp"
+ },
+ "full_name": {
+  "fr": "Famille des harpes — Harpe éolienne",
+  "en": "Harp Family — Aeolian harp"
+ },
+ "group": [
+  {
+   "fr": "Famille des harpes",
+   "en": "Harp Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": [
+   "Harpe éolienne : caisse munie de cordes que le vent fait vibrer seul."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3390
+ }
+}

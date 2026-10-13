@@ -1,0 +1,37 @@
+{
+ "id": "kunzite-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Kunzite — De la taille d'un raisin",
+  "en": "Kunzite — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Kunzite",
+   "en": "Kunzite"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Kunzite : variété rose à violette du spodumène, sensible à la lumière."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2137
+ }
+}

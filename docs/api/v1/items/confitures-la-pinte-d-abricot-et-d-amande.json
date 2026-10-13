@@ -1,0 +1,38 @@
+{
+ "id": "confitures-la-pinte-d-abricot-et-d-amande",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "D'abricot et d'amande",
+  "en": "appricote & almond"
+ },
+ "full_name": {
+  "fr": "Confitures, la pinte — D'abricot et d'amande",
+  "en": "Jam, per pint — appricote & almond"
+ },
+ "group": [
+  {
+   "fr": "Confitures, la pinte",
+   "en": "Jam, per pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 612
+ }
+}

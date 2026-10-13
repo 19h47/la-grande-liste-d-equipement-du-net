@@ -1,0 +1,34 @@
+{
+ "id": "talus-plinthe-ou-ebrasement",
+ "category": "constructions",
+ "name": {
+  "fr": "Talus, plinthe ou ébrasement",
+  "en": "Batter, plith or splay"
+ },
+ "full_name": {
+  "fr": "Talus, plinthe ou ébrasement",
+  "en": "Batter, plith or splay"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Ébrasement : élargissement en biais des côtés d'une ouverture, du dehors vers l'intérieur du mur.",
+   "Plinthe : bande saillante formant la base d'un mur.",
+   "Talus : élargissement en pente de la base d'un mur, qui le renforce et fait ricocher les projectiles lâchés d'en haut."
+  ]
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3266
+ }
+}

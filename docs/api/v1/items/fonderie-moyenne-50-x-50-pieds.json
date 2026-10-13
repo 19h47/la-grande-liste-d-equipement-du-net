@@ -1,0 +1,33 @@
+{
+ "id": "fonderie-moyenne-50-x-50-pieds",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Fonderie, moyenne, 50 x 50 pieds",
+  "en": "Smelter, medium, 50' x 50'"
+ },
+ "full_name": {
+  "fr": "Fonderie, moyenne, 50 x 50 pieds",
+  "en": "Smelter, medium, 50' x 50'"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 000 po",
+   "en": "2,000gp"
+  },
+  "min_cp": 200000,
+  "max_cp": 200000,
+  "plus": false
+ },
+ "weight": {
+  "text": "100",
+  "lb": 100
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3103
+ }
+}

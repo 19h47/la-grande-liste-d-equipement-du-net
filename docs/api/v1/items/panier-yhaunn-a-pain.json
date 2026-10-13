@@ -1,0 +1,44 @@
+{
+ "id": "panier-yhaunn-a-pain",
+ "category": "contenants",
+ "name": {
+  "fr": "À pain",
+  "en": "Bread"
+ },
+ "full_name": {
+  "fr": "Panier — Yhaunn — À pain",
+  "en": "Basket — Yhaunn — Bread"
+ },
+ "group": [
+  {
+   "fr": "Panier",
+   "en": "Basket"
+  },
+  {
+   "fr": "Yhaunn",
+   "en": "Yhaunn"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Yhaunn : cité portuaire de Sembie, dans les Royaumes oubliés ; le nom qualifie ici une gamme de paniers."
+  ]
+ },
+ "source": {
+  "table": "XI",
+  "line": 1301
+ }
+}

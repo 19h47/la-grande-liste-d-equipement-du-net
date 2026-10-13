@@ -1,0 +1,38 @@
+{
+ "id": "fermoir-de-livre-a-serrure-excellent",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "Excellent",
+  "en": "Excellent"
+ },
+ "full_name": {
+  "fr": "Fermoir de livre à serrure — Excellent",
+  "en": "Book lock — Excellent"
+ },
+ "group": [
+  {
+   "fr": "Fermoir de livre à serrure",
+   "en": "Book lock"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1941
+ }
+}

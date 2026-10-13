@@ -1,0 +1,33 @@
+{
+ "id": "oeufs-les-24",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Œufs, les 24",
+  "en": "Eggs, per 24"
+ },
+ "full_name": {
+  "fr": "Œufs, les 24",
+  "en": "Eggs, per 24"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 573
+ }
+}

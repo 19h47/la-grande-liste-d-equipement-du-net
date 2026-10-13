@@ -1,0 +1,38 @@
+{
+ "id": "perle-en-verre",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En verre",
+  "en": "Glass"
+ },
+ "full_name": {
+  "fr": "Perle — En verre",
+  "en": "Bead — Glass"
+ },
+ "group": [
+  {
+   "fr": "Perle",
+   "en": "Bead"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2877
+ }
+}

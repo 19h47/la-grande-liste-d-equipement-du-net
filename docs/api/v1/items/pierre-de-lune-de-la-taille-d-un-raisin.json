@@ -1,0 +1,37 @@
+{
+ "id": "pierre-de-lune-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Pierre de lune — De la taille d'un raisin",
+  "en": "Moonstone — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Pierre de lune",
+   "en": "Moonstone"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Pierre de lune : feldspath translucide aux reflets bleutés laiteux."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2214
+ }
+}

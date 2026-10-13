@@ -1,0 +1,30 @@
+{
+ "id": "battak-baton-claquant",
+ "category": "armes",
+ "name": {
+  "fr": "Battak ; bâton claquant",
+  "en": "Battak; slapstick"
+ },
+ "full_name": {
+  "fr": "Battak ; bâton claquant",
+  "en": "Battak; slapstick"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "12 pa",
+   "en": "12sp"
+  },
+  "min_cp": 120,
+  "max_cp": 120,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3525
+ }
+}

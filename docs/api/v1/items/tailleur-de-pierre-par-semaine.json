@@ -1,0 +1,35 @@
+{
+ "id": "tailleur-de-pierre-par-semaine",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Par semaine",
+  "en": "Per Week"
+ },
+ "full_name": {
+  "fr": "Tailleur de pierre — Par semaine",
+  "en": "Stonemason — Per Week"
+ },
+ "group": [
+  {
+   "fr": "Tailleur de pierre",
+   "en": "Stonemason"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2440
+ }
+}

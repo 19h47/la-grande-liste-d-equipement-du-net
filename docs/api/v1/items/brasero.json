@@ -1,0 +1,33 @@
+{
+ "id": "brasero",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Brasero",
+  "en": "Brazier"
+ },
+ "full_name": {
+  "fr": "Brasero",
+  "en": "Brazier"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1834
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "cavalerie-par-mois-legere",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Légère",
+  "en": "Light"
+ },
+ "full_name": {
+  "fr": "Cavalerie, par mois — Légère",
+  "en": "Calvalry, per month — Light"
+ },
+ "group": [
+  {
+   "fr": "Cavalerie, par mois",
+   "en": "Calvalry, per month"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2372
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "fer-barre-la-livre",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Barre, la livre",
+  "en": "Bar, per lb"
+ },
+ "full_name": {
+  "fr": "Fer — Barre, la livre",
+  "en": "Iron — Bar, per lb"
+ },
+ "group": [
+  {
+   "fr": "Fer",
+   "en": "Iron"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2108
+ }
+}

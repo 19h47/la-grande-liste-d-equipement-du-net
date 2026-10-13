@@ -1,0 +1,35 @@
+{
+ "id": "moule-rateau",
+ "category": "outils",
+ "name": {
+  "fr": "Râteau",
+  "en": "Rake"
+ },
+ "full_name": {
+  "fr": "Moule — Râteau",
+  "en": "Mold — Rake"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2569
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "serpentine-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Serpentine — De la taille d'un raisin",
+  "en": "Serpentine — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Serpentine",
+   "en": "Serpentine"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Serpentine : minéral vert sombre tacheté, rappelant une peau de serpent, facile à sculpter."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2278
+ }
+}

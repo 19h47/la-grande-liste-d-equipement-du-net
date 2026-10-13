@@ -1,0 +1,39 @@
+{
+ "id": "moule-bracelet-simple-etroit-moyen",
+ "category": "outils",
+ "name": {
+  "fr": "Moyen",
+  "en": "Medium"
+ },
+ "full_name": {
+  "fr": "Moule — Bracelet simple, étroit — Moyen",
+  "en": "Mold — Bracelet, plain narrow — Medium"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Bracelet simple, étroit",
+   "en": "Bracelet, plain narrow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2535
+ }
+}

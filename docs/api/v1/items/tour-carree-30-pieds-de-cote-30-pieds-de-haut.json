@@ -1,0 +1,30 @@
+{
+ "id": "tour-carree-30-pieds-de-cote-30-pieds-de-haut",
+ "category": "constructions",
+ "name": {
+  "fr": "Tour carrée, 30 pieds de côté, 30 pieds de haut",
+  "en": "Tower, square, 30'sq 30'h"
+ },
+ "full_name": {
+  "fr": "Tour carrée, 30 pieds de côté, 30 pieds de haut",
+  "en": "Tower, square, 30'sq 30'h"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 200 po",
+   "en": "1,200gp"
+  },
+  "min_cp": 120000,
+  "max_cp": 120000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3300
+ }
+}

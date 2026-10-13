@@ -1,0 +1,38 @@
+{
+ "id": "cheddar-petit-lait-100-livres",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Petit-lait, 100 livres",
+  "en": "Whey, 100lb"
+ },
+ "full_name": {
+  "fr": "Cheddar — Petit-lait, 100 livres",
+  "en": "Cheese, Cheddar — Whey, 100lb"
+ },
+ "group": [
+  {
+   "fr": "Cheddar",
+   "en": "Cheese, Cheddar"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "100",
+  "lb": 100
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 522
+ }
+}

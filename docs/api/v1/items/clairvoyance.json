@@ -1,0 +1,30 @@
+{
+ "id": "clairvoyance",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Clairvoyance",
+  "en": "Clairvoyance"
+ },
+ "full_name": {
+  "fr": "Clairvoyance",
+  "en": "Clairvoyance"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po par niveau du lanceur de sorts",
+   "en": "50gp per level of the caster"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3203
+ }
+}

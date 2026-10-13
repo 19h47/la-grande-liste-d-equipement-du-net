@@ -1,0 +1,38 @@
+{
+ "id": "balance-et-poids-petites-mesures",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Petites mesures",
+  "en": "Small measures"
+ },
+ "full_name": {
+  "fr": "Balance et poids — Petites mesures",
+  "en": "Balance and Weights — Small measures"
+ },
+ "group": [
+  {
+   "fr": "Balance et poids",
+   "en": "Balance and Weights"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1828
+ }
+}

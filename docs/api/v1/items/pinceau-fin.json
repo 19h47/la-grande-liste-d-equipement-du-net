@@ -1,0 +1,38 @@
+{
+ "id": "pinceau-fin",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "Fin",
+  "en": "Fine"
+ },
+ "full_name": {
+  "fr": "Pinceau — Fin",
+  "en": "Brush, Paint — Fine"
+ },
+ "group": [
+  {
+   "fr": "Pinceau",
+   "en": "Brush, Paint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1943
+ }
+}

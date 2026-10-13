@@ -1,0 +1,35 @@
+{
+ "id": "arbaletrier-par-mois-monte",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Monté",
+  "en": "Mounted"
+ },
+ "full_name": {
+  "fr": "Arbalétrier, par mois — Monté",
+  "en": "Crossbowman, per month — Mounted"
+ },
+ "group": [
+  {
+   "fr": "Arbalétrier, par mois",
+   "en": "Crossbowman, per month"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2384
+ }
+}

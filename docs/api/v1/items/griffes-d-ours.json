@@ -1,0 +1,30 @@
+{
+ "id": "griffes-d-ours",
+ "category": "armes",
+ "name": {
+  "fr": "Griffes d'ours",
+  "en": "Bear Claws"
+ },
+ "full_name": {
+  "fr": "Griffes d'ours",
+  "en": "Bear Claws"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3527
+ }
+}

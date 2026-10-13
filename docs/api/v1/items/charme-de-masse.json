@@ -1,0 +1,30 @@
+{
+ "id": "charme-de-masse",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Charme de masse",
+  "en": "Mass Charm"
+ },
+ "full_name": {
+  "fr": "Charme de masse",
+  "en": "Mass Charm"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3233
+ }
+}

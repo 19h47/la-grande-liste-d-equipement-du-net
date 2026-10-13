@@ -1,0 +1,33 @@
+{
+ "id": "cuir-cloute",
+ "category": "armures",
+ "name": {
+  "fr": "Cuir clouté",
+  "en": "Studded leather"
+ },
+ "full_name": {
+  "fr": "Cuir clouté",
+  "en": "Studded leather"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3825
+ }
+}

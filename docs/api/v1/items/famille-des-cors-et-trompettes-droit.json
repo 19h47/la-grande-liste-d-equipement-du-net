@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-cors-et-trompettes-droit",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Droit",
+  "en": "Straight"
+ },
+ "full_name": {
+  "fr": "Famille des cors et trompettes — Droit",
+  "en": "Horn/Trumpet Family — Straight"
+ },
+ "group": [
+  {
+   "fr": "Famille des cors et trompettes",
+   "en": "Horn/Trumpet Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3402
+ }
+}

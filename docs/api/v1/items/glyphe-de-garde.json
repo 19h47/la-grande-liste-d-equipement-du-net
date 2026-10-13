@@ -1,0 +1,32 @@
+{
+ "id": "glyphe-de-garde",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Glyphe de garde",
+  "en": "Glyph of warding"
+ },
+ "full_name": {
+  "fr": "Glyphe de garde",
+  "en": "Glyph of warding"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po par niveau du lanceur de sorts",
+   "en": "100gp per level of the Caster"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Glyphe de garde : inscription magique qui frappe quiconque franchit, pénètre ou ouvre la zone ou l'objet protégé."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3225
+ }
+}

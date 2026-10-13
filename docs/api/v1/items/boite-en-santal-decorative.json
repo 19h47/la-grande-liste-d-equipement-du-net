@@ -1,0 +1,38 @@
+{
+ "id": "boite-en-santal-decorative",
+ "category": "contenants",
+ "name": {
+  "fr": "En santal, décorative",
+  "en": "Sandlewood, ornamental"
+ },
+ "full_name": {
+  "fr": "Boîte — En santal, décorative",
+  "en": "Box — Sandlewood, ornamental"
+ },
+ "group": [
+  {
+   "fr": "Boîte",
+   "en": "Box"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1323
+ }
+}

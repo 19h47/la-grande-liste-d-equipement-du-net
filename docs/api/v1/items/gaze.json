@@ -1,0 +1,33 @@
+{
+ "id": "gaze",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Gaze",
+  "en": "Gauze"
+ },
+ "full_name": {
+  "fr": "Gaze",
+  "en": "Gauze"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2984
+ }
+}

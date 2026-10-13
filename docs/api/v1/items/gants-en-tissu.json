@@ -1,0 +1,38 @@
+{
+ "id": "gants-en-tissu",
+ "category": "vetements",
+ "name": {
+  "fr": "En tissu",
+  "en": "Cloth"
+ },
+ "full_name": {
+  "fr": "Gants — En tissu",
+  "en": "Gloves — Cloth"
+ },
+ "group": [
+  {
+   "fr": "Gants",
+   "en": "Gloves"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1-2 pa",
+   "en": "1-2sp"
+  },
+  "min_cp": 10,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 171
+ }
+}

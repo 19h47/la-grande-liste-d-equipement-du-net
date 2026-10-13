@@ -1,0 +1,37 @@
+{
+ "id": "fantassin-par-mois-irregulier",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Irrégulier",
+  "en": "Irregular"
+ },
+ "full_name": {
+  "fr": "Fantassin, par mois — Irrégulier",
+  "en": "Footman, per month — Irregular"
+ },
+ "group": [
+  {
+   "fr": "Fantassin, par mois",
+   "en": "Footman, per month"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Irrégulier : combattant d'appoint, sans entraînement ni équipement réglementaires."
+  ]
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2389
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "chemise-de-mailles-fines",
+ "category": "armures",
+ "name": {
+  "fr": "De mailles fines",
+  "en": "Lace mail"
+ },
+ "full_name": {
+  "fr": "Chemise — De mailles fines",
+  "en": "Chemise — Lace mail"
+ },
+ "group": [
+  {
+   "fr": "Chemise",
+   "en": "Chemise"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "60 po",
+   "en": "60gp"
+  },
+  "min_cp": 6000,
+  "max_cp": 6000,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3782
+ }
+}

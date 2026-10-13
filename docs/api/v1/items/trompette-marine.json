@@ -1,0 +1,35 @@
+{
+ "id": "trompette-marine",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Trompette marine",
+  "en": "Tromba marina"
+ },
+ "full_name": {
+  "fr": "Trompette marine",
+  "en": "Tromba marina"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "7",
+  "lb": 7
+ },
+ "notes": {
+  "fr": [
+   "Trompette marine : long monocorde à archet, au son cuivré évoquant la trompette."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3433
+ }
+}

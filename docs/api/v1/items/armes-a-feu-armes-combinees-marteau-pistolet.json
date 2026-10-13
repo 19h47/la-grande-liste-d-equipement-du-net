@@ -1,0 +1,42 @@
+{
+ "id": "armes-a-feu-armes-combinees-marteau-pistolet",
+ "category": "armes",
+ "name": {
+  "fr": "Marteau-pistolet",
+  "en": "Hammer-pistol"
+ },
+ "full_name": {
+  "fr": "Armes à feu — Armes combinées — Marteau-pistolet",
+  "en": "Firearms — Combined Weapons — Hammer-pistol"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "Armes combinées",
+   "en": "Combined Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3605
+ }
+}

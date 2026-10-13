@@ -1,0 +1,33 @@
+{
+ "id": "armure-gauloise",
+ "category": "armures",
+ "name": {
+  "fr": "Armure gauloise",
+  "en": "Gallic Armor"
+ },
+ "full_name": {
+  "fr": "Armure gauloise",
+  "en": "Gallic Armor"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3790
+ }
+}

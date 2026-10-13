@@ -1,0 +1,38 @@
+{
+ "id": "moules-a-tourte",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "À tourte",
+  "en": "Pie"
+ },
+ "full_name": {
+  "fr": "Moules — À tourte",
+  "en": "Pans — Pie"
+ },
+ "group": [
+  {
+   "fr": "Moules",
+   "en": "Pans"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3053
+ }
+}

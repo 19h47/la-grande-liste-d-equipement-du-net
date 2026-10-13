@@ -1,0 +1,40 @@
+{
+ "id": "tempin",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Tempin",
+  "en": "Tempin"
+ },
+ "full_name": {
+  "fr": "Tempin",
+  "en": "Tempin"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Tempin : plante du Net Book of Herbs, employée en cataplasme pour extraire le poison d'une plaie."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2832
+ }
+}

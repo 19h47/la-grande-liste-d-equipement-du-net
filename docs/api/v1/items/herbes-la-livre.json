@@ -1,0 +1,33 @@
+{
+ "id": "herbes-la-livre",
+ "category": "epices",
+ "name": {
+  "fr": "Herbes, la livre",
+  "en": "Herbs, per lbs"
+ },
+ "full_name": {
+  "fr": "Herbes, la livre",
+  "en": "Herbs, per lbs"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 825
+ }
+}

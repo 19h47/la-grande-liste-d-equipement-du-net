@@ -1,0 +1,32 @@
+{
+ "id": "assommoir",
+ "category": "constructions",
+ "name": {
+  "fr": "Assommoir",
+  "en": "Murder hole"
+ },
+ "full_name": {
+  "fr": "Assommoir",
+  "en": "Murder hole"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Assommoir : ouverture pratiquée dans une voûte de passage, d'où l'on frappe les assaillants par le haut."
+  ]
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3286
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "oreiller-en-lin-garni-de-paille",
+ "category": "mobilier",
+ "name": {
+  "fr": "Garni de paille",
+  "en": "Straw"
+ },
+ "full_name": {
+  "fr": "Oreiller en lin — Garni de paille",
+  "en": "Pillow, linen — Straw"
+ },
+ "group": [
+  {
+   "fr": "Oreiller en lin",
+   "en": "Pillow, linen"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1590
+ }
+}

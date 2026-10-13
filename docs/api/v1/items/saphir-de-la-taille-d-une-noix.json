@@ -1,0 +1,35 @@
+{
+ "id": "saphir-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Saphir — De la taille d'une noix",
+  "en": "Sapphire — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Saphir",
+   "en": "Sapphire"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 500 po",
+   "en": "2,500gp"
+  },
+  "min_cp": 250000,
+  "max_cp": 250000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2267
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "id": "moule-epee-a-deux-mains",
+ "category": "outils",
+ "name": {
+  "fr": "À deux mains",
+  "en": "Two-handed"
+ },
+ "full_name": {
+  "fr": "Moule — Épée — À deux mains",
+  "en": "Mold — Sword — Two-handed"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Épée",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2604
+ }
+}

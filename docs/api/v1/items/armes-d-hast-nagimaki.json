@@ -1,0 +1,40 @@
+{
+ "id": "armes-d-hast-nagimaki",
+ "category": "armes",
+ "name": {
+  "fr": "Nagimaki",
+  "en": "Nagimaki"
+ },
+ "full_name": {
+  "fr": "Armes d'hast — Nagimaki",
+  "en": "Polearm — Nagimaki"
+ },
+ "group": [
+  {
+   "fr": "Armes d'hast",
+   "en": "Polearm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": [
+   "Nagimaki : arme d'hast japonaise à lame de sabre et long manche, plus courte que la naginata."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3682
+ }
+}

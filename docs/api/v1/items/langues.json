@@ -1,0 +1,32 @@
+{
+ "id": "langues",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Langues",
+  "en": "Tongues"
+ },
+ "full_name": {
+  "fr": "Langues",
+  "en": "Tongues"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Langues : sort permettant de parler et de comprendre n'importe quelle langue."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3250
+ }
+}

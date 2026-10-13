@@ -1,0 +1,33 @@
+{
+ "id": "fourmis-enrobees-de-chocolat-l-once",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Fourmis enrobées de chocolat, l'once",
+  "en": "Ants, Chocolate covered, per oz"
+ },
+ "full_name": {
+  "fr": "Fourmis enrobées de chocolat, l'once",
+  "en": "Ants, Chocolate covered, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 445
+ }
+}

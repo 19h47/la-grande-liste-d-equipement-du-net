@@ -1,0 +1,38 @@
+{
+ "id": "clochettes",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Clochettes",
+  "en": "Bells"
+ },
+ "full_name": {
+  "fr": "Famille des cloches — Clochettes",
+  "en": "Chime family — Bells"
+ },
+ "group": [
+  {
+   "fr": "Famille des cloches",
+   "en": "Chime family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3318
+ }
+}

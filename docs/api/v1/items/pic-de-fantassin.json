@@ -1,0 +1,33 @@
+{
+ "id": "pic-de-fantassin",
+ "category": "armes",
+ "name": {
+  "fr": "Pic de fantassin",
+  "en": "Pick footman's"
+ },
+ "full_name": {
+  "fr": "Pic de fantassin",
+  "en": "Pick footman's"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3661
+ }
+}

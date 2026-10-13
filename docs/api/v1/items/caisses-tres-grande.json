@@ -1,0 +1,38 @@
+{
+ "id": "caisses-tres-grande",
+ "category": "contenants",
+ "name": {
+  "fr": "Très grande",
+  "en": "Extra Large"
+ },
+ "full_name": {
+  "fr": "Caisses — Très grande",
+  "en": "Crates — Extra Large"
+ },
+ "group": [
+  {
+   "fr": "Caisses",
+   "en": "Crates"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1370
+ }
+}

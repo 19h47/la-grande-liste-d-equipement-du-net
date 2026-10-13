@@ -1,0 +1,41 @@
+{
+ "id": "fustibale-pot-puant",
+ "category": "armes",
+ "name": {
+  "fr": "Pot puant",
+  "en": "Stinkpot"
+ },
+ "full_name": {
+  "fr": "Fustibale — Pot puant",
+  "en": "Staff sling — Stinkpot"
+ },
+ "group": [
+  {
+   "fr": "Fustibale",
+   "en": "Staff sling"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Fustibale : fronde fixée au bout d'un bâton, permettant de lancer plus loin et plus fort.",
+   "Pot puant : récipient rempli de matières nauséabondes ou fumigènes, lancé à la main sur l'ennemi."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3703
+ }
+}

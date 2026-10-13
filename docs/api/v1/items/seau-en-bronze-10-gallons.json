@@ -1,0 +1,38 @@
+{
+ "id": "seau-en-bronze-10-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En bronze, 10 gallons",
+  "en": "Bronze, 10 gallons"
+ },
+ "full_name": {
+  "fr": "Seau — En bronze, 10 gallons",
+  "en": "Bucket — Bronze, 10 gallons"
+ },
+ "group": [
+  {
+   "fr": "Seau",
+   "en": "Bucket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "9",
+  "lb": 9
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1339
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "hibou-plume",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Plume",
+  "en": "Feather"
+ },
+ "full_name": {
+  "fr": "Hibou — Plume",
+  "en": "Owl — Feather"
+ },
+ "group": [
+  {
+   "fr": "Hibou",
+   "en": "Owl"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VI",
+  "line": 926
+ }
+}

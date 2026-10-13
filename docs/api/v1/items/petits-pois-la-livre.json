@@ -1,0 +1,33 @@
+{
+ "id": "petits-pois-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Petits pois, la livre",
+  "en": "Green Peas, per lb"
+ },
+ "full_name": {
+  "fr": "Petits pois, la livre",
+  "en": "Green Peas, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 599
+ }
+}

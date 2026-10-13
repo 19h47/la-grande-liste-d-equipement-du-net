@@ -1,0 +1,37 @@
+{
+ "id": "soldat-mercenaire-par-mois-frondeur",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Frondeur",
+  "en": "Slinger"
+ },
+ "full_name": {
+  "fr": "Soldat mercenaire, par mois — Frondeur",
+  "en": "Mercenary Soldier, per month — Slinger"
+ },
+ "group": [
+  {
+   "fr": "Soldat mercenaire, par mois",
+   "en": "Mercenary Soldier, per month"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Frondeur : soldat armé d'une fronde, lançant pierres ou balles de plomb."
+  ]
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2430
+ }
+}

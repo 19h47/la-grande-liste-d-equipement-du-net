@@ -1,0 +1,30 @@
+{
+ "id": "pintade",
+ "category": "animaux",
+ "name": {
+  "fr": "Pintade",
+  "en": "Guinea hen"
+ },
+ "full_name": {
+  "fr": "Pintade",
+  "en": "Guinea hen"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pc",
+   "en": "2cp"
+  },
+  "min_cp": 2,
+  "max_cp": 2,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1668
+ }
+}

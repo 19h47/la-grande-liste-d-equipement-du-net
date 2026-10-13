@@ -1,0 +1,40 @@
+{
+ "id": "belan",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Belan",
+  "en": "Belan"
+ },
+ "full_name": {
+  "fr": "Belan",
+  "en": "Belan"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Belan : noix issue de MERP, qui arrête les saignements externes et internes en deux heures."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2725
+ }
+}

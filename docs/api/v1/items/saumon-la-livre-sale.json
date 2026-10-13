@@ -1,0 +1,38 @@
+{
+ "id": "saumon-la-livre-sale",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Salé",
+  "en": "salted"
+ },
+ "full_name": {
+  "fr": "Saumon, la livre — Salé",
+  "en": "Salmon, per lb — salted"
+ },
+ "group": [
+  {
+   "fr": "Saumon, la livre",
+   "en": "Salmon, per lb"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 732
+ }
+}

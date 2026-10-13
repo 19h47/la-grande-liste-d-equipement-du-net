@@ -1,0 +1,33 @@
+{
+ "id": "couteau",
+ "category": "armes",
+ "name": {
+  "fr": "Couteau",
+  "en": "Knife"
+ },
+ "full_name": {
+  "fr": "Couteau",
+  "en": "Knife"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3638
+ }
+}

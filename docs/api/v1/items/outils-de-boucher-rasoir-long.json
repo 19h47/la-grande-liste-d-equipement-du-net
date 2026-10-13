@@ -1,0 +1,38 @@
+{
+ "id": "outils-de-boucher-rasoir-long",
+ "category": "outils",
+ "name": {
+  "fr": "Rasoir long",
+  "en": "Long Razor"
+ },
+ "full_name": {
+  "fr": "Outils de boucher — Rasoir long",
+  "en": "Butchering Tools — Long Razor"
+ },
+ "group": [
+  {
+   "fr": "Outils de boucher",
+   "en": "Butchering Tools"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2468
+ }
+}

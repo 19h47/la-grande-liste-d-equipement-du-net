@@ -1,0 +1,40 @@
+{
+ "id": "buplevre",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Buplèvre",
+  "en": "Hare's Ear's"
+ },
+ "full_name": {
+  "fr": "Buplèvre",
+  "en": "Hare's Ear's"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Buplèvre : ombellifère à feuilles entières, dite « oreille-de-lièvre »."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2779
+ }
+}

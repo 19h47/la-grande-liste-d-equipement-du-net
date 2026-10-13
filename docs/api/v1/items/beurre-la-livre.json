@@ -1,0 +1,33 @@
+{
+ "id": "beurre-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Beurre, la livre",
+  "en": "Butter, per lbs"
+ },
+ "full_name": {
+  "fr": "Beurre, la livre",
+  "en": "Butter, per lbs"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 494
+ }
+}

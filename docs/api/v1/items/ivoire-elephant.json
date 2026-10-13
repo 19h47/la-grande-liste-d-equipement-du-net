@@ -1,0 +1,35 @@
+{
+ "id": "ivoire-elephant",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Éléphant",
+  "en": "Elephant"
+ },
+ "full_name": {
+  "fr": "Ivoire — Éléphant",
+  "en": "Ivory — Elephant"
+ },
+ "group": [
+  {
+   "fr": "Ivoire",
+   "en": "Ivory"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100-600 po",
+   "en": "100-600gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2117
+ }
+}

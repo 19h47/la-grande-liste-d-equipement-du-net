@@ -1,0 +1,38 @@
+{
+ "id": "marjolaine",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Marjolaine",
+  "en": "Marjerome"
+ },
+ "full_name": {
+  "fr": "Marjolaine",
+  "en": "Marjerome"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2796
+ }
+}

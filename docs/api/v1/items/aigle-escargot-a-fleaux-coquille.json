@@ -1,0 +1,37 @@
+{
+ "id": "aigle-escargot-a-fleaux-coquille",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Escargot à fléaux (coquille)",
+  "en": "Flail Snail (shell)"
+ },
+ "full_name": {
+  "fr": "Aigle — Escargot à fléaux (coquille)",
+  "en": "Eagle — Flail Snail (shell)"
+ },
+ "group": [
+  {
+   "fr": "Aigle",
+   "en": "Eagle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Escargot à fléaux : escargot géant armé de tentacules en massue, dont la coquille dévie les sorts."
+  ]
+ },
+ "source": {
+  "table": "VI",
+  "line": 913
+ }
+}

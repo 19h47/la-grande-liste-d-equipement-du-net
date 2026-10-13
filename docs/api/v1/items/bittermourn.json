@@ -1,0 +1,32 @@
+{
+ "id": "bittermourn",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Bittermourn",
+  "en": "Bittermourn"
+ },
+ "full_name": {
+  "fr": "Bittermourn",
+  "en": "Bittermourn"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "1 000 po et plus",
+   "en": "1000gp and up"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "price_prepared": null,
+ "notes": {
+  "fr": [
+   "Bittermourn : lichen arctique du Net Book of Herbs, dont le gel ralentit le vieillissement et double l'espérance de vie."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2730
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "yavethalion",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Yavethalion",
+  "en": "Yavethalion"
+ },
+ "full_name": {
+  "fr": "Yavethalion",
+  "en": "Yavethalion"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "45 po",
+   "en": "45gp"
+  },
+  "min_cp": 4500,
+  "max_cp": 4500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "45 po",
+   "en": "45gp"
+  },
+  "min_cp": 4500,
+  "max_cp": 4500,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Yavethalion : fruit issu de MERP, qui rend 1d3 PV et ne se conserve que deux semaines."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2847
+ }
+}

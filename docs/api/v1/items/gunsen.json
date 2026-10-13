@@ -1,0 +1,35 @@
+{
+ "id": "gunsen",
+ "category": "armes",
+ "name": {
+  "fr": "Gunsen",
+  "en": "Gunsen"
+ },
+ "full_name": {
+  "fr": "Gunsen",
+  "en": "Gunsen"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Gunsen : éventail de guerre japonais à baleines de fer."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3623
+ }
+}

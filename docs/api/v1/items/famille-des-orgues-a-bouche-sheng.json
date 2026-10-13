@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-orgues-a-bouche-sheng",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Sheng",
+  "en": "Sheng"
+ },
+ "full_name": {
+  "fr": "Famille des orgues à bouche — Sheng",
+  "en": "Mouth Organ Family — Sheng"
+ },
+ "group": [
+  {
+   "fr": "Famille des orgues à bouche",
+   "en": "Mouth Organ Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Sheng : orgue à bouche chinois formé de tuyaux de bambou à anches libres."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3422
+ }
+}

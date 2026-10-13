@@ -1,0 +1,35 @@
+{
+ "id": "eperon-perforant",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Éperon perforant",
+  "en": "Piercing"
+ },
+ "full_name": {
+  "fr": "Béliers et éperons — Éperon perforant",
+  "en": "Ram — Piercing"
+ },
+ "group": [
+  {
+   "fr": "Béliers et éperons",
+   "en": "Ram"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100",
+   "en": "100"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3504
+ }
+}

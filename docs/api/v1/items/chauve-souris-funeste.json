@@ -1,0 +1,32 @@
+{
+ "id": "chauve-souris-funeste",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Chauve-souris funeste",
+  "en": "Doombat"
+ },
+ "full_name": {
+  "fr": "Chauve-souris funeste",
+  "en": "Doombat"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "600 po",
+   "en": "600gp"
+  },
+  "min_cp": 60000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Chauve-souris funeste : chauve-souris géante à queue barbelée, au cri assourdissant (Fiend Folio)."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1502
+ }
+}

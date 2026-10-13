@@ -1,0 +1,37 @@
+{
+ "id": "ivoire-baku",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Baku",
+  "en": "Baku"
+ },
+ "full_name": {
+  "fr": "Ivoire — Baku",
+  "en": "Ivory — Baku"
+ },
+ "group": [
+  {
+   "fr": "Ivoire",
+   "en": "Ivory"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50-200 po",
+   "en": "50-200gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Baku : créature éléphantine bienveillante du bestiaire AD&D (Oriental Adventures)."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2114
+ }
+}

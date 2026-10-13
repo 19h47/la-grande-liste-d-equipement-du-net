@@ -1,0 +1,33 @@
+{
+ "id": "four-de-potier",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Four de potier",
+  "en": "Kiln"
+ },
+ "full_name": {
+  "fr": "Four de potier",
+  "en": "Kiln"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "120 po",
+   "en": "120gp"
+  },
+  "min_cp": 12000,
+  "max_cp": 12000,
+  "plus": false
+ },
+ "weight": {
+  "text": "120",
+  "lb": 120
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1863
+ }
+}

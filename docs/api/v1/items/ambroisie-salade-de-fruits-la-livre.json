@@ -1,0 +1,33 @@
+{
+ "id": "ambroisie-salade-de-fruits-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Ambroisie (salade de fruits), la livre",
+  "en": "Ambrosia (fruit salad) per lb"
+ },
+ "full_name": {
+  "fr": "Ambroisie (salade de fruits), la livre",
+  "en": "Ambrosia (fruit salad) per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 443
+ }
+}

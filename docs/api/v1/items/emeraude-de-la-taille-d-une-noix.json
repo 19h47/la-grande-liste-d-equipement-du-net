@@ -1,0 +1,35 @@
+{
+ "id": "emeraude-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Émeraude — De la taille d'une noix",
+  "en": "Emerald — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Émeraude",
+   "en": "Emerald"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 500 po",
+   "en": "3,500gp"
+  },
+  "min_cp": 350000,
+  "max_cp": 350000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2076
+ }
+}

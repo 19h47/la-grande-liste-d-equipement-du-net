@@ -1,0 +1,38 @@
+{
+ "id": "plume-d-oie",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "D'oie",
+  "en": "Quill"
+ },
+ "full_name": {
+  "fr": "Plume — D'oie",
+  "en": "Pen — Quill"
+ },
+ "group": [
+  {
+   "fr": "Plume",
+   "en": "Pen"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1956
+ }
+}

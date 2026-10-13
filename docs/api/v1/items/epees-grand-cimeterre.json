@@ -1,0 +1,40 @@
+{
+ "id": "epees-grand-cimeterre",
+ "category": "armes",
+ "name": {
+  "fr": "Grand cimeterre",
+  "en": "Great Scimitar"
+ },
+ "full_name": {
+  "fr": "Épées — Grand cimeterre",
+  "en": "Sword — Great Scimitar"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "60 po",
+   "en": "60gp"
+  },
+  "min_cp": 6000,
+  "max_cp": 6000,
+  "plus": false
+ },
+ "weight": {
+  "text": "16",
+  "lb": 16
+ },
+ "notes": {
+  "fr": [
+   "Grand cimeterre : cimeterre à deux mains (Royaumes oubliés)."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3713
+ }
+}

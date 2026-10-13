@@ -1,0 +1,32 @@
+{
+ "id": "enchantement-d-un-objet",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Enchantement d'un objet",
+  "en": "Enchant Item"
+ },
+ "full_name": {
+  "fr": "Enchantement d'un objet",
+  "en": "Enchant Item"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 000 po plus les autres sorts nécessaires",
+   "en": "20,000gp plus other spells"
+  },
+  "min_cp": 2000000,
+  "max_cp": 2000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Enchantement d'un objet : sort préparant un objet à recevoir des enchantements permanents, étape préalable à la création d'objets magiques."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3218
+ }
+}

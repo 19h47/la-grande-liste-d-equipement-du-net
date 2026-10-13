@@ -1,0 +1,38 @@
+{
+ "id": "armes-de-geant-hallebarde",
+ "category": "armes",
+ "name": {
+  "fr": "Hallebarde",
+  "en": "Halberd"
+ },
+ "full_name": {
+  "fr": "Armes de géant — Hallebarde",
+  "en": "Giant Weapons — Halberd"
+ },
+ "group": [
+  {
+   "fr": "Armes de géant",
+   "en": "Giant Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3619
+ }
+}

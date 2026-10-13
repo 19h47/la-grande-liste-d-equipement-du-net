@@ -1,0 +1,42 @@
+{
+ "id": "spelljammers-et-equipement-heaume-anti-fourneaux",
+ "category": "transports",
+ "name": {
+  "fr": "Anti-fourneaux",
+  "en": "Anti-furnaces"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Heaume — Anti-fourneaux",
+  "en": "Spelljammers and equipment — Helm — Anti-furnaces"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  },
+  {
+   "fr": "Heaume",
+   "en": "Helm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "Inestimable",
+   "en": "priceless"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Heaume : siège magique qui convertit l'énergie d'un lanceur de sorts en propulsion pour un spelljammer."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1016
+ }
+}

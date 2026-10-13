@@ -1,0 +1,38 @@
+{
+ "id": "metier-a-tisser-8-pieds",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "8 pieds",
+  "en": "8 foot"
+ },
+ "full_name": {
+  "fr": "Métier à tisser — 8 pieds",
+  "en": "Loom — 8 foot"
+ },
+ "group": [
+  {
+   "fr": "Métier à tisser",
+   "en": "Loom"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "18 po",
+   "en": "18gp"
+  },
+  "min_cp": 1800,
+  "max_cp": 1800,
+  "plus": false
+ },
+ "weight": {
+  "text": "32",
+  "lb": 32
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3018
+ }
+}

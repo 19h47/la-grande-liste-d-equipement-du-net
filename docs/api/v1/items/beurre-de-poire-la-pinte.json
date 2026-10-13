@@ -1,0 +1,33 @@
+{
+ "id": "beurre-de-poire-la-pinte",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Beurre de poire, la pinte",
+  "en": "Pear butter, per pint"
+ },
+ "full_name": {
+  "fr": "Beurre de poire, la pinte",
+  "en": "Pear butter, per pint"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 675
+ }
+}

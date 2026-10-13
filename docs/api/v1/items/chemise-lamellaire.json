@@ -1,0 +1,33 @@
+{
+ "id": "chemise-lamellaire",
+ "category": "armures",
+ "name": {
+  "fr": "Chemise lamellaire",
+  "en": "Lamellar shirt"
+ },
+ "full_name": {
+  "fr": "Chemise lamellaire",
+  "en": "Lamellar shirt"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3807
+ }
+}

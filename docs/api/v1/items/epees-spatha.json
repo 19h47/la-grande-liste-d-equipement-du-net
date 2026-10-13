@@ -1,0 +1,40 @@
+{
+ "id": "epees-spatha",
+ "category": "armes",
+ "name": {
+  "fr": "Spatha",
+  "en": "Spatha"
+ },
+ "full_name": {
+  "fr": "Épées — Spatha",
+  "en": "Sword — Spatha"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Spatha : longue épée romaine, d'abord arme de cavalerie, ancêtre des épées médiévales."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3724
+ }
+}

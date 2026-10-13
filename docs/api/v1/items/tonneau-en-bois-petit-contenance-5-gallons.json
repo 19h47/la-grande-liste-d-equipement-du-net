@@ -1,0 +1,40 @@
+{
+ "id": "tonneau-en-bois-petit-contenance-5-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En bois, petit, contenance 5 gallons",
+  "en": "Wooden, small, holds 5 gallons"
+ },
+ "full_name": {
+  "fr": "Tonneau — En bois, petit, contenance 5 gallons",
+  "en": "Barrel — Wooden, small, holds 5 gallons"
+ },
+ "group": [
+  {
+   "fr": "Tonneau",
+   "en": "Barrel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Gallon : mesure anglo-saxonne de capacité, environ 3,8 litres (gallon américain)."
+  ]
+ },
+ "source": {
+  "table": "XI",
+  "line": 1291
+ }
+}

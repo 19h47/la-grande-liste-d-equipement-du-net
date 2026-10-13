@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-orgues-a-bouche-syrinx",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Syrinx",
+  "en": "Syrinx"
+ },
+ "full_name": {
+  "fr": "Famille des orgues à bouche — Syrinx",
+  "en": "Mouth Organ Family — Syrinx"
+ },
+ "group": [
+  {
+   "fr": "Famille des orgues à bouche",
+   "en": "Mouth Organ Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Syrinx : nom grec de la flûte de Pan."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3423
+ }
+}

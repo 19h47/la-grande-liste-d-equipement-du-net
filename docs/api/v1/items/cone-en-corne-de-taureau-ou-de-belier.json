@@ -1,0 +1,38 @@
+{
+ "id": "cone-en-corne-de-taureau-ou-de-belier",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En corne de taureau ou de bélier",
+  "en": "bull or ram horn"
+ },
+ "full_name": {
+  "fr": "Cône — En corne de taureau ou de bélier",
+  "en": "Cone, — bull or ram horn"
+ },
+ "group": [
+  {
+   "fr": "Cône",
+   "en": "Cone,"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2941
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "chopes-en-etain",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En étain",
+  "en": "Pewter"
+ },
+ "full_name": {
+  "fr": "Chopes — En étain",
+  "en": "Mugs — Pewter"
+ },
+ "group": [
+  {
+   "fr": "Chopes",
+   "en": "Mugs"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3039
+ }
+}

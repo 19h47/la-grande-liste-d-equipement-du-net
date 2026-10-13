@@ -1,0 +1,37 @@
+{
+ "id": "mithril-bande-de-2-pouces-sur-1",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Bande de 2 pouces sur 1",
+  "en": "Strip, 2 by 1 in"
+ },
+ "full_name": {
+  "fr": "Mithril — Bande de 2 pouces sur 1",
+  "en": "Mithril — Strip, 2 by 1 in"
+ },
+ "group": [
+  {
+   "fr": "Mithril",
+   "en": "Mithril"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Mithril : métal argenté léger et presque inaltérable, créé par Tolkien et repris par AD&D."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2211
+ }
+}

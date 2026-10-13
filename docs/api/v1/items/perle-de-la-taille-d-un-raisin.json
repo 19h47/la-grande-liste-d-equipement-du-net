@@ -1,0 +1,35 @@
+{
+ "id": "perle-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Perle — De la taille d'un raisin",
+  "en": "Pearl — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Perle",
+   "en": "Pearl"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2228
+ }
+}

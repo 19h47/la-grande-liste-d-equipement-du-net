@@ -1,0 +1,38 @@
+{
+ "id": "ceinturon-large",
+ "category": "vetements",
+ "name": {
+  "fr": "Large",
+  "en": "Broad"
+ },
+ "full_name": {
+  "fr": "Ceinturon — Large",
+  "en": "Girdle — Broad"
+ },
+ "group": [
+  {
+   "fr": "Ceinturon",
+   "en": "Girdle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 165
+ }
+}

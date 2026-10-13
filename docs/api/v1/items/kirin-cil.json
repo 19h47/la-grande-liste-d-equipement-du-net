@@ -1,0 +1,35 @@
+{
+ "id": "kirin-cil",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Cil",
+  "en": "Eyelash"
+ },
+ "full_name": {
+  "fr": "Kirin — Cil",
+  "en": "Kirin — Eyelash"
+ },
+ "group": [
+  {
+   "fr": "Kirin",
+   "en": "Kirin"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "60 po",
+   "en": "60gp"
+  },
+  "min_cp": 6000,
+  "max_cp": 6000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VI",
+  "line": 922
+ }
+}

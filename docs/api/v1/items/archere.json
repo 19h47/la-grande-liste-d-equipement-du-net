@@ -1,0 +1,30 @@
+{
+ "id": "archere",
+ "category": "constructions",
+ "name": {
+  "fr": "Archère",
+  "en": "Arrow slit"
+ },
+ "full_name": {
+  "fr": "Archère",
+  "en": "Arrow slit"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3262
+ }
+}

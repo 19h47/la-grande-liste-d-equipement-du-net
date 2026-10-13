@@ -1,0 +1,38 @@
+{
+ "id": "arcs-fleche-a-pointe-conique",
+ "category": "armes",
+ "name": {
+  "fr": "Flèche à pointe conique",
+  "en": "Arrow, pile"
+ },
+ "full_name": {
+  "fr": "Arcs — Flèche à pointe conique",
+  "en": "Bow — Arrow, pile"
+ },
+ "group": [
+  {
+   "fr": "Arcs",
+   "en": "Bow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa/6",
+   "en": "3sp/6"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3540
+ }
+}

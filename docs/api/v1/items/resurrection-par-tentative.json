@@ -1,0 +1,30 @@
+{
+ "id": "resurrection-par-tentative",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Résurrection, par tentative",
+  "en": "Resurrection, per try"
+ },
+ "full_name": {
+  "fr": "Résurrection, par tentative",
+  "en": "Resurrection, per try"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10000+ po",
+   "en": "10000+gp"
+  },
+  "min_cp": 1000000,
+  "max_cp": 1000000,
+  "plus": true
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2434
+ }
+}

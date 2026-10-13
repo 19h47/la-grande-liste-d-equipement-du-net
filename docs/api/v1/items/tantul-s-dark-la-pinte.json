@@ -1,0 +1,33 @@
+{
+ "id": "tantul-s-dark-la-pinte",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Tantul's Dark, la pinte",
+  "en": "Tantul's Dark, per pint"
+ },
+ "full_name": {
+  "fr": "Tantul's Dark, la pinte",
+  "en": "Tantul's Dark, per pint"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 412
+ }
+}

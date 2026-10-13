@@ -1,0 +1,32 @@
+{
+ "id": "merlon-4-pieds-de-large-3-pieds-de-profondeur-5-pieds-de-haut",
+ "category": "constructions",
+ "name": {
+  "fr": "Merlon, 4 pieds de large, 3 pieds de profondeur, 5 pieds de haut",
+  "en": "Merlon, 4'w 3'd 5'h"
+ },
+ "full_name": {
+  "fr": "Merlon, 4 pieds de large, 3 pieds de profondeur, 5 pieds de haut",
+  "en": "Merlon, 4'w 3'd 5'h"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Merlon : partie pleine d'un parapet crénelé, située entre deux créneaux."
+  ]
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3283
+ }
+}

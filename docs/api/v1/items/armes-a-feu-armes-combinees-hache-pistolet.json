@@ -1,0 +1,42 @@
+{
+ "id": "armes-a-feu-armes-combinees-hache-pistolet",
+ "category": "armes",
+ "name": {
+  "fr": "Hache-pistolet",
+  "en": "Axe-pistol"
+ },
+ "full_name": {
+  "fr": "Armes à feu — Armes combinées — Hache-pistolet",
+  "en": "Firearms — Combined Weapons — Axe-pistol"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "Armes combinées",
+   "en": "Combined Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "45 po",
+   "en": "45gp"
+  },
+  "min_cp": 4500,
+  "max_cp": 4500,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3603
+ }
+}

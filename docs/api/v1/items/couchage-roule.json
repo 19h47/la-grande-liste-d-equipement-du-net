@@ -1,0 +1,33 @@
+{
+ "id": "couchage-roule",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Couchage roulé",
+  "en": "Bed Roll"
+ },
+ "full_name": {
+  "fr": "Couchage roulé",
+  "en": "Bed Roll"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "17 po",
+   "en": "17gp"
+  },
+  "min_cp": 1700,
+  "max_cp": 1700,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1763
+ }
+}

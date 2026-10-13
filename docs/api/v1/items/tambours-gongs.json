@@ -1,0 +1,38 @@
+{
+ "id": "tambours-gongs",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Tambours-gongs",
+  "en": "Gong drums"
+ },
+ "full_name": {
+  "fr": "Tambours — Tambours-gongs",
+  "en": "Drums — Gong drums"
+ },
+ "group": [
+  {
+   "fr": "Tambours",
+   "en": "Drums"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "40",
+  "lb": 40
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3343
+ }
+}

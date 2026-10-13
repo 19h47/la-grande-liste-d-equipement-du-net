@@ -1,0 +1,33 @@
+{
+ "id": "fauteuil-en-bois",
+ "category": "mobilier",
+ "name": {
+  "fr": "Fauteuil en bois",
+  "en": "Armchair, Wooden"
+ },
+ "full_name": {
+  "fr": "Fauteuil en bois",
+  "en": "Armchair, Wooden"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1559
+ }
+}

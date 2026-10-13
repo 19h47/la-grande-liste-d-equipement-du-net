@@ -1,0 +1,40 @@
+{
+ "id": "jo-jo-jopo",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Jo Jo Jopo",
+  "en": "Jo Jo Jopo"
+ },
+ "full_name": {
+  "fr": "Jo Jo Jopo",
+  "en": "Jo Jo Jopo"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "9 pa",
+   "en": "9sp"
+  },
+  "min_cp": 90,
+  "max_cp": 90,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "9 pa",
+   "en": "9sp"
+  },
+  "min_cp": 90,
+  "max_cp": 90,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Jo Jo Jopo : plante de montagne du Net Book of Herbs, dont la feuille soigne les gelures."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2786
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "four-de-fonderie-grand",
+ "category": "outils",
+ "name": {
+  "fr": "Grand",
+  "en": "Large"
+ },
+ "full_name": {
+  "fr": "Four de fonderie — Grand",
+  "en": "Smelter — Large"
+ },
+ "group": [
+  {
+   "fr": "Four de fonderie",
+   "en": "Smelter"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": {
+  "text": "175",
+  "lb": 175
+ },
+ "notes": {
+  "fr": [
+   "Four de fonderie : four où l'on fond le minerai pour en extraire le métal."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2634
+ }
+}

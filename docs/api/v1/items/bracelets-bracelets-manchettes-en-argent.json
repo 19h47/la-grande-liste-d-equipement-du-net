@@ -1,0 +1,42 @@
+{
+ "id": "bracelets-bracelets-manchettes-en-argent",
+ "category": "vetements",
+ "name": {
+  "fr": "En argent",
+  "en": "Silver"
+ },
+ "full_name": {
+  "fr": "Bracelets — Bracelets manchettes — En argent",
+  "en": "Bracelets — Cuff — Silver"
+ },
+ "group": [
+  {
+   "fr": "Bracelets",
+   "en": "Bracelets"
+  },
+  {
+   "fr": "Bracelets manchettes",
+   "en": "Cuff"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 101
+ }
+}

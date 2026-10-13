@@ -1,0 +1,33 @@
+{
+ "id": "ceinture-large-vetements",
+ "category": "vetements",
+ "name": {
+  "fr": "Ceinture large",
+  "en": "Broadbelt"
+ },
+ "full_name": {
+  "fr": "Ceinture large",
+  "en": "Broadbelt"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 108
+ }
+}

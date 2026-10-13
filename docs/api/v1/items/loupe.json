@@ -1,0 +1,33 @@
+{
+ "id": "loupe",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Loupe",
+  "en": "Magnifying Glass"
+ },
+ "full_name": {
+  "fr": "Loupe",
+  "en": "Magnifying Glass"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1867
+ }
+}

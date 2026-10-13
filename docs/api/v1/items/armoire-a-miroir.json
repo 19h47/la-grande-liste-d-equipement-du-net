@@ -1,0 +1,33 @@
+{
+ "id": "armoire-a-miroir",
+ "category": "mobilier",
+ "name": {
+  "fr": "Armoire à miroir",
+  "en": "Wardrobe, w/ Mirror"
+ },
+ "full_name": {
+  "fr": "Armoire à miroir",
+  "en": "Wardrobe, w/ Mirror"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "25+ po",
+   "en": "25+gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": true
+ },
+ "weight": {
+  "text": "60",
+  "lb": 60
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1596
+ }
+}

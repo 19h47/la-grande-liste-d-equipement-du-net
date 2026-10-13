@@ -1,0 +1,38 @@
+{
+ "id": "huile-le-gallon-d-amande",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "D'amande",
+  "en": "Almond"
+ },
+ "full_name": {
+  "fr": "Huile, le gallon — D'amande",
+  "en": "Oil, per gallon — Almond"
+ },
+ "group": [
+  {
+   "fr": "Huile, le gallon",
+   "en": "Oil, per gallon"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 663
+ }
+}

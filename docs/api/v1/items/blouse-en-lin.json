@@ -1,0 +1,35 @@
+{
+ "id": "blouse-en-lin",
+ "category": "vetements",
+ "name": {
+  "fr": "En lin",
+  "en": "Linen"
+ },
+ "full_name": {
+  "fr": "Blouse — En lin",
+  "en": "Blouse — Linen"
+ },
+ "group": [
+  {
+   "fr": "Blouse",
+   "en": "Blouse"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 88
+ }
+}

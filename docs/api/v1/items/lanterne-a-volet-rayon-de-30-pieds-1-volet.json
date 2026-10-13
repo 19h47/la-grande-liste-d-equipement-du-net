@@ -1,0 +1,38 @@
+{
+ "id": "lanterne-a-volet-rayon-de-30-pieds-1-volet",
+ "category": "eclairage",
+ "name": {
+  "fr": "À volet, rayon de 30 pieds, 1 volet",
+  "en": "Shuttered, 30'radius w/1 flag"
+ },
+ "full_name": {
+  "fr": "Lanterne — À volet, rayon de 30 pieds, 1 volet",
+  "en": "Lantern — Shuttered, 30'radius w/1 flag"
+ },
+ "group": [
+  {
+   "fr": "Lanterne",
+   "en": "Lantern"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pe",
+   "en": "5ep"
+  },
+  "min_cp": 250,
+  "max_cp": 250,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2674
+ }
+}

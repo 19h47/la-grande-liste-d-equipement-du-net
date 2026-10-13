@@ -1,0 +1,35 @@
+{
+ "id": "ambassadeur-ou-dignitaire-par-mois",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Par mois",
+  "en": "Per Month"
+ },
+ "full_name": {
+  "fr": "Ambassadeur ou dignitaire — Par mois",
+  "en": "Ambassador or Official — Per Month"
+ },
+ "group": [
+  {
+   "fr": "Ambassadeur ou dignitaire",
+   "en": "Ambassador or Official"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "200-600 po",
+   "en": "200-600gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2359
+ }
+}

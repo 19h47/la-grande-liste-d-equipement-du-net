@@ -1,0 +1,40 @@
+{
+ "id": "cornue-1-quart",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "1 quart",
+  "en": "1 qt"
+ },
+ "full_name": {
+  "fr": "Cornue — 1 quart",
+  "en": "Retort — 1 qt"
+ },
+ "group": [
+  {
+   "fr": "Cornue",
+   "en": "Retort"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Cornue : vase de verre à col long et recourbé, servant à distiller."
+  ]
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1877
+ }
+}

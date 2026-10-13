@@ -1,0 +1,35 @@
+{
+ "id": "navire-marchand-petit",
+ "category": "transports",
+ "name": {
+  "fr": "Marchand, petit",
+  "en": "Merchant, small"
+ },
+ "full_name": {
+  "fr": "Navire — Marchand, petit",
+  "en": "Ship — Merchant, small"
+ },
+ "group": [
+  {
+   "fr": "Navire",
+   "en": "Ship"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 989
+ }
+}

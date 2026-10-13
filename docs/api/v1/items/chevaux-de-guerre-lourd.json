@@ -1,0 +1,35 @@
+{
+ "id": "chevaux-de-guerre-lourd",
+ "category": "animaux",
+ "name": {
+  "fr": "De guerre lourd",
+  "en": "Heavy War"
+ },
+ "full_name": {
+  "fr": "Chevaux — De guerre lourd",
+  "en": "Horse — Heavy War"
+ },
+ "group": [
+  {
+   "fr": "Chevaux",
+   "en": "Horse"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "400 po",
+   "en": "400gp"
+  },
+  "min_cp": 40000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1675
+ }
+}

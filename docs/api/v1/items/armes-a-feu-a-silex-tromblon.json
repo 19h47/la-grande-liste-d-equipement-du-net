@@ -1,0 +1,44 @@
+{
+ "id": "armes-a-feu-a-silex-tromblon",
+ "category": "armes",
+ "name": {
+  "fr": "Tromblon",
+  "en": "Blunderbuss"
+ },
+ "full_name": {
+  "fr": "Armes à feu — À silex — Tromblon",
+  "en": "Firearms — Flintlock — Blunderbuss"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "À silex",
+   "en": "Flintlock"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": [
+   "Tromblon : arme à canon court et évasé, tirant de la mitraille."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3597
+ }
+}

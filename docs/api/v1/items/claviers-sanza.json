@@ -1,0 +1,40 @@
+{
+ "id": "claviers-sanza",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Sanza",
+  "en": "Sansa"
+ },
+ "full_name": {
+  "fr": "Claviers — Sanza",
+  "en": "Keyboard — Sansa"
+ },
+ "group": [
+  {
+   "fr": "Claviers",
+   "en": "Keyboard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Sanza : instrument africain à lames métalliques pincées avec les pouces."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3417
+ }
+}

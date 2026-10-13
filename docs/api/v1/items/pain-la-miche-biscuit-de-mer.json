@@ -1,0 +1,40 @@
+{
+ "id": "pain-la-miche-biscuit-de-mer",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Biscuit de mer",
+  "en": "Hard Tack"
+ },
+ "full_name": {
+  "fr": "Pain, la miche — Biscuit de mer",
+  "en": "Bread, per loaf — Hard Tack"
+ },
+ "group": [
+  {
+   "fr": "Pain, la miche",
+   "en": "Bread, per loaf"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 pc/douzaine",
+   "en": "10cp/dozen"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Biscuit de mer : galette très dure de farine et d'eau, conservable des mois, ration ordinaire des marins."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 486
+ }
+}

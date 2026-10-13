@@ -1,0 +1,32 @@
+{
+ "id": "bouche-magique",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Bouche magique",
+  "en": "Magic Mouth"
+ },
+ "full_name": {
+  "fr": "Bouche magique",
+  "en": "Magic Mouth"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Bouche magique : sort faisant apparaître une bouche qui prononce un message lorsque survient une condition fixée."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3232
+ }
+}

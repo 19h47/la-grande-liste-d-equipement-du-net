@@ -1,0 +1,32 @@
+{
+ "id": "dromon",
+ "category": "transports",
+ "name": {
+  "fr": "Dromon",
+  "en": "Dromond"
+ },
+ "full_name": {
+  "fr": "Dromon",
+  "en": "Dromond"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 000 po",
+   "en": "15,000gp"
+  },
+  "min_cp": 1500000,
+  "max_cp": 1500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Dromon : grande galère de guerre byzantine."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 969
+ }
+}

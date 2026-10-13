@@ -1,0 +1,35 @@
+{
+ "id": "oeillet-d-inde-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Œillet d'Inde, l'once",
+  "en": "Marigold, per oz"
+ },
+ "full_name": {
+  "fr": "Œillet d'Inde, l'once",
+  "en": "Marigold, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Œillet d'Inde : tagète à fleurs comestibles, au goût proche du fruit de la passion."
+  ]
+ },
+ "source": {
+  "table": "IV",
+  "line": 836
+ }
+}

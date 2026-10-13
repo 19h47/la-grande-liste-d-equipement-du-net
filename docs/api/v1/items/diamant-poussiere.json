@@ -1,0 +1,35 @@
+{
+ "id": "diamant-poussiere",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Poussière",
+  "en": "Dust"
+ },
+ "full_name": {
+  "fr": "Diamant — Poussière",
+  "en": "Diamond — Dust"
+ },
+ "group": [
+  {
+   "fr": "Diamant",
+   "en": "Diamond"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2073
+ }
+}

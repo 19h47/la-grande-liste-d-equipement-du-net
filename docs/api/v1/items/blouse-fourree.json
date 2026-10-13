@@ -1,0 +1,35 @@
+{
+ "id": "blouse-fourree",
+ "category": "vetements",
+ "name": {
+  "fr": "Fourrée",
+  "en": "Furred"
+ },
+ "full_name": {
+  "fr": "Blouse — Fourrée",
+  "en": "Blouse — Furred"
+ },
+ "group": [
+  {
+   "fr": "Blouse",
+   "en": "Blouse"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 87
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "lampe-tempete-en-laiton",
+ "category": "eclairage",
+ "name": {
+  "fr": "En laiton",
+  "en": "Brass"
+ },
+ "full_name": {
+  "fr": "Lampe-tempête — En laiton",
+  "en": "Hurricane lamp — Brass"
+ },
+ "group": [
+  {
+   "fr": "Lampe-tempête",
+   "en": "Hurricane lamp"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Lampe-tempête : lampe dont la flamme est protégée par un verre, conçue pour résister au vent."
+  ]
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2667
+ }
+}

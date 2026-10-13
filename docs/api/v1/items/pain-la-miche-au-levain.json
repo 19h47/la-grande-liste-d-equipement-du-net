@@ -1,0 +1,38 @@
+{
+ "id": "pain-la-miche-au-levain",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Au levain",
+  "en": "Sourdough"
+ },
+ "full_name": {
+  "fr": "Pain, la miche — Au levain",
+  "en": "Bread, per loaf — Sourdough"
+ },
+ "group": [
+  {
+   "fr": "Pain, la miche",
+   "en": "Bread, per loaf"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pc",
+   "en": "7cp"
+  },
+  "min_cp": 7,
+  "max_cp": 7,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 483
+ }
+}

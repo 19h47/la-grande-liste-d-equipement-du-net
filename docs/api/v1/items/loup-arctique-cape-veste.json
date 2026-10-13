@@ -1,0 +1,37 @@
+{
+ "id": "loup-arctique-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Loup arctique — Cape, veste",
+  "en": "Winter wolf — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Loup arctique",
+   "en": "Winter wolf"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 500 po",
+   "en": "2,500gp"
+  },
+  "min_cp": 250000,
+  "max_cp": 250000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Loup arctique : nom français du winter wolf d'AD&D, grand loup monstrueux qui souffle le givre, et non l'animal réel."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1233
+ }
+}

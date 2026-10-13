@@ -1,0 +1,44 @@
+{
+ "id": "panier-yhaunn-d-un-quart-de-boisseau",
+ "category": "contenants",
+ "name": {
+  "fr": "D'un quart de boisseau",
+  "en": "Peck"
+ },
+ "full_name": {
+  "fr": "Panier — Yhaunn — D'un quart de boisseau",
+  "en": "Basket — Yhaunn — Peck"
+ },
+ "group": [
+  {
+   "fr": "Panier",
+   "en": "Basket"
+  },
+  {
+   "fr": "Yhaunn",
+   "en": "Yhaunn"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Yhaunn : cité portuaire de Sembie, dans les Royaumes oubliés ; le nom qualifie ici une gamme de paniers."
+  ]
+ },
+ "source": {
+  "table": "XI",
+  "line": 1306
+ }
+}

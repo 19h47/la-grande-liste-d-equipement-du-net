@@ -1,0 +1,33 @@
+{
+ "id": "tabouret",
+ "category": "mobilier",
+ "name": {
+  "fr": "Tabouret",
+  "en": "Stool"
+ },
+ "full_name": {
+  "fr": "Tabouret",
+  "en": "Stool"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pe",
+   "en": "3ep"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "7",
+  "lb": 7
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1593
+ }
+}

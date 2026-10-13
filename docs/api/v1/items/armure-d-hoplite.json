@@ -1,0 +1,35 @@
+{
+ "id": "armure-d-hoplite",
+ "category": "armures",
+ "name": {
+  "fr": "Armure d'hoplite",
+  "en": "Hoplite armor"
+ },
+ "full_name": {
+  "fr": "Armure d'hoplite",
+  "en": "Hoplite armor"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "160 po",
+   "en": "160gp"
+  },
+  "min_cp": 16000,
+  "max_cp": 16000,
+  "plus": false
+ },
+ "weight": {
+  "text": "40",
+  "lb": 40
+ },
+ "notes": {
+  "fr": [
+   "Armure d'hoplite : équipement du fantassin grec antique : cuirasse, casque et jambières."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3800
+ }
+}

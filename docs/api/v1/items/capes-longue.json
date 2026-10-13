@@ -1,0 +1,38 @@
+{
+ "id": "capes-longue",
+ "category": "vetements",
+ "name": {
+  "fr": "Longue",
+  "en": "Full"
+ },
+ "full_name": {
+  "fr": "Capes — Longue",
+  "en": "Capes — Full"
+ },
+ "group": [
+  {
+   "fr": "Capes",
+   "en": "Capes"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 122
+ }
+}

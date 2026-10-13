@@ -1,0 +1,33 @@
+{
+ "id": "coffre-a-glace",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Coffre à glace",
+  "en": "Ice Chest"
+ },
+ "full_name": {
+  "fr": "Coffre à glace",
+  "en": "Ice Chest"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "18",
+  "lb": 18
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1862
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "bois-d-oeuvre-2x12",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "2x12",
+  "en": "2x12"
+ },
+ "full_name": {
+  "fr": "Bois d'œuvre — 2x12",
+  "en": "Lumber — 2x12"
+ },
+ "group": [
+  {
+   "fr": "Bois d'œuvre",
+   "en": "Lumber"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2157
+ }
+}

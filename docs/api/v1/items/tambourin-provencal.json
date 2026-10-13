@@ -1,0 +1,40 @@
+{
+ "id": "tambourin-provencal",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Tambourin provençal",
+  "en": "Tambourine de Provence"
+ },
+ "full_name": {
+  "fr": "Tambour de basque — Tambourin provençal",
+  "en": "Tambourine — Tambourine de Provence"
+ },
+ "group": [
+  {
+   "fr": "Tambour de basque",
+   "en": "Tambourine"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Tambourin provençal : long tambour cylindrique que le musicien frappe en jouant du galoubet."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3432
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "bonsai-par-tranche-de-1-an-d-age",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Bonsaï, par tranche de 1 an d'âge",
+  "en": "Banzai Tree, per 1 year of age"
+ },
+ "full_name": {
+  "fr": "Bonsaï, par tranche de 1 an d'âge",
+  "en": "Banzai Tree, per 1 year of age"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "Variable",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2871
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "robe-d-interieur",
+ "category": "vetements",
+ "name": {
+  "fr": "D'intérieur",
+  "en": "Lounging"
+ },
+ "full_name": {
+  "fr": "Robe — D'intérieur",
+  "en": "Robe — Lounging"
+ },
+ "group": [
+  {
+   "fr": "Robe",
+   "en": "Robe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 249
+ }
+}

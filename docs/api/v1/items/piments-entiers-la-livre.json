@@ -1,0 +1,38 @@
+{
+ "id": "piments-entiers-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Entiers, la livre",
+  "en": "Whole, per lb"
+ },
+ "full_name": {
+  "fr": "Piments — Entiers, la livre",
+  "en": "Chilis — Whole, per lb"
+ },
+ "group": [
+  {
+   "fr": "Piments",
+   "en": "Chilis"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 538
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "bardes-demi-bardes-d-ecailles",
+ "category": "armures",
+ "name": {
+  "fr": "Demi-bardes d'écailles",
+  "en": "Half Scale"
+ },
+ "full_name": {
+  "fr": "Bardes — Demi-bardes d'écailles",
+  "en": "Barding — Half Scale"
+ },
+ "group": [
+  {
+   "fr": "Bardes",
+   "en": "Barding"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": {
+  "text": "50",
+  "lb": 50
+ },
+ "notes": {
+  "fr": [
+   "Bardes : armure de cheval."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3752
+ }
+}

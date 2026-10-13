@@ -1,0 +1,35 @@
+{
+ "id": "girafe-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Girafe — Peau",
+  "en": "Giraffe — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Girafe",
+   "en": "Giraffe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1158
+ }
+}

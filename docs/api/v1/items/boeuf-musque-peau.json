@@ -1,0 +1,35 @@
+{
+ "id": "boeuf-musque-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Bœuf musqué — Peau",
+  "en": "Musk-ox — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Bœuf musqué",
+   "en": "Musk-ox"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1178
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "palan-souleve-1-000-livres",
+ "category": "outils",
+ "name": {
+  "fr": "Palan, soulève 1 000 livres",
+  "en": "Block & Tackle, lifts 1,000lbs"
+ },
+ "full_name": {
+  "fr": "Palan, soulève 1 000 livres",
+  "en": "Block & Tackle, lifts 1,000lbs"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Palan : système de poulies et de cordage permettant de soulever de lourdes charges avec un effort réduit."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2463
+ }
+}

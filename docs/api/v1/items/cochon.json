@@ -1,0 +1,30 @@
+{
+ "id": "cochon",
+ "category": "animaux",
+ "name": {
+  "fr": "Cochon",
+  "en": "Pig"
+ },
+ "full_name": {
+  "fr": "Cochon",
+  "en": "Pig"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1689
+ }
+}

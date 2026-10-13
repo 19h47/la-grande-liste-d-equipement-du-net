@@ -1,0 +1,35 @@
+{
+ "id": "haggis",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Haggis",
+  "en": "Haggis"
+ },
+ "full_name": {
+  "fr": "Haggis",
+  "en": "Haggis"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Haggis : panse de mouton farcie d'abats et d'avoine, plat écossais."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 601
+ }
+}

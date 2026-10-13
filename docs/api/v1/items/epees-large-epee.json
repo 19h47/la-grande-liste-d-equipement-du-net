@@ -1,0 +1,40 @@
+{
+ "id": "epees-large-epee",
+ "category": "armes",
+ "name": {
+  "fr": "Large épée",
+  "en": "Broad sword"
+ },
+ "full_name": {
+  "fr": "Épées — Large épée",
+  "en": "Sword — Broad sword"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Large épée : épée droite à lame large, à une main (sens AD&D) ; ailleurs, désigne aussi l'épée écossaise à garde en panier."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3706
+ }
+}

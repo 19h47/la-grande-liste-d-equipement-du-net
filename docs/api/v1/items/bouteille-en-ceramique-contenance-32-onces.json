@@ -1,0 +1,40 @@
+{
+ "id": "bouteille-en-ceramique-contenance-32-onces",
+ "category": "contenants",
+ "name": {
+  "fr": "En céramique, contenance 32 onces",
+  "en": "Ceramic, holds 32 oz"
+ },
+ "full_name": {
+  "fr": "Bouteille — En céramique, contenance 32 onces",
+  "en": "Bottle — Ceramic, holds 32 oz"
+ },
+ "group": [
+  {
+   "fr": "Bouteille",
+   "en": "Bottle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Once : once liquide, environ 30 millilitres ; 32 onces font un quart, soit près d'un litre."
+  ]
+ },
+ "source": {
+  "table": "XI",
+  "line": 1312
+ }
+}

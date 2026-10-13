@@ -1,0 +1,38 @@
+{
+ "id": "gilet-en-cuir",
+ "category": "vetements",
+ "name": {
+  "fr": "En cuir",
+  "en": "Leather"
+ },
+ "full_name": {
+  "fr": "Gilet — En cuir",
+  "en": "Vest, — Leather"
+ },
+ "group": [
+  {
+   "fr": "Gilet",
+   "en": "Vest,"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 300
+ }
+}

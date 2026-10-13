@@ -1,0 +1,38 @@
+{
+ "id": "panier-en-osier-petit-contenance-75-po",
+ "category": "contenants",
+ "name": {
+  "fr": "En osier, petit, contenance 75 po",
+  "en": "Wicker, small, holds 75gp"
+ },
+ "full_name": {
+  "fr": "Panier — En osier, petit, contenance 75 po",
+  "en": "Basket — Wicker, small, holds 75gp"
+ },
+ "group": [
+  {
+   "fr": "Panier",
+   "en": "Basket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pc",
+   "en": "2cp"
+  },
+  "min_cp": 2,
+  "max_cp": 2,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1297
+ }
+}

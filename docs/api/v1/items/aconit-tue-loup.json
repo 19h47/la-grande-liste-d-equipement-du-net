@@ -1,0 +1,40 @@
+{
+ "id": "aconit-tue-loup",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Aconit tue-loup",
+  "en": "Wolfsbane"
+ },
+ "full_name": {
+  "fr": "Aconit tue-loup",
+  "en": "Wolfsbane"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Aconit tue-loup : aconit à fleurs jaunes, très toxique, jadis employé pour empoisonner les loups."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2842
+ }
+}

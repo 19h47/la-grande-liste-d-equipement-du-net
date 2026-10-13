@@ -1,0 +1,30 @@
+{
+ "id": "chimpanze",
+ "category": "animaux",
+ "name": {
+  "fr": "Chimpanzé",
+  "en": "Chimpanzee"
+ },
+ "full_name": {
+  "fr": "Chimpanzé",
+  "en": "Chimpanzee"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "60 po",
+   "en": "60gp"
+  },
+  "min_cp": 6000,
+  "max_cp": 6000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1643
+ }
+}

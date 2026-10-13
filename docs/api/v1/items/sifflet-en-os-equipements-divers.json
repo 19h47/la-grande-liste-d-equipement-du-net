@@ -1,0 +1,38 @@
+{
+ "id": "sifflet-en-os-equipements-divers",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En os",
+  "en": "Bone"
+ },
+ "full_name": {
+  "fr": "Sifflet — En os",
+  "en": "Whistle — Bone"
+ },
+ "group": [
+  {
+   "fr": "Sifflet",
+   "en": "Whistle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pc",
+   "en": "15cp"
+  },
+  "min_cp": 15,
+  "max_cp": 15,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3156
+ }
+}

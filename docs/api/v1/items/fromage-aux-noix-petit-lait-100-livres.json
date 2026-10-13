@@ -1,0 +1,38 @@
+{
+ "id": "fromage-aux-noix-petit-lait-100-livres",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Petit-lait, 100 livres",
+  "en": "Whey, 100lb"
+ },
+ "full_name": {
+  "fr": "Fromage aux noix — Petit-lait, 100 livres",
+  "en": "Cheese, Nut — Whey, 100lb"
+ },
+ "group": [
+  {
+   "fr": "Fromage aux noix",
+   "en": "Cheese, Nut"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "100",
+  "lb": 100
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 528
+ }
+}

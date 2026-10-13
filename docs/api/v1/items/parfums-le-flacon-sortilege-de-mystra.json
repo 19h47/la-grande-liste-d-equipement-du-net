@@ -1,0 +1,40 @@
+{
+ "id": "parfums-le-flacon-sortilege-de-mystra",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Sortilège de Mystra",
+  "en": "Mystra's Spell"
+ },
+ "full_name": {
+  "fr": "Parfums, le flacon — Sortilège de Mystra",
+  "en": "Perfumes, per vial — Mystra's Spell"
+ },
+ "group": [
+  {
+   "fr": "Parfums, le flacon",
+   "en": "Perfumes, per vial"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Mystra : déesse de la magie dans les Royaumes oubliés."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3060
+ }
+}

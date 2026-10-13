@@ -1,0 +1,35 @@
+{
+ "id": "tariere",
+ "category": "outils",
+ "name": {
+  "fr": "Tarière",
+  "en": "Auger"
+ },
+ "full_name": {
+  "fr": "Tarière",
+  "en": "Auger"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Tarière : grande vrille à poignée transversale servant à percer le bois, dont la mèche est en forme de cuiller ou de spirale."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2457
+ }
+}

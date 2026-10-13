@@ -1,0 +1,32 @@
+{
+ "id": "hyacinthe",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Hyacinthe",
+  "en": "Jacinth"
+ },
+ "full_name": {
+  "fr": "Hyacinthe",
+  "en": "Jacinth"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Hyacinthe : gemme orange feu ; minéralogiquement un zircon, mais le Guide du Maître d'AD&D en fait un corindon."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2126
+ }
+}

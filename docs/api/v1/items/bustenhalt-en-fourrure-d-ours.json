@@ -1,0 +1,40 @@
+{
+ "id": "bustenhalt-en-fourrure-d-ours",
+ "category": "armures",
+ "name": {
+  "fr": "En fourrure d'ours",
+  "en": "Bear fur"
+ },
+ "full_name": {
+  "fr": "Bustenhalt — En fourrure d'ours",
+  "en": "Bustenhalt — Bear fur"
+ },
+ "group": [
+  {
+   "fr": "Bustenhalt",
+   "en": "Bustenhalt"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "7",
+  "lb": 7
+ },
+ "notes": {
+  "fr": [
+   "Bustenhalt : protection de poitrine féminine en forme de soutien-gorge (de l'allemand « Büstenhalter »)."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3762
+ }
+}

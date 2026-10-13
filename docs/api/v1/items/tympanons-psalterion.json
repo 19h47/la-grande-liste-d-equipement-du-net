@@ -1,0 +1,41 @@
+{
+ "id": "tympanons-psalterion",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Psaltérion",
+  "en": "Psaltery"
+ },
+ "full_name": {
+  "fr": "Tympanons — Psaltérion",
+  "en": "Dulcimers — Psaltery"
+ },
+ "group": [
+  {
+   "fr": "Tympanons",
+   "en": "Dulcimers"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "65 po",
+   "en": "65gp"
+  },
+  "min_cp": 6500,
+  "max_cp": 6500,
+  "plus": false
+ },
+ "weight": {
+  "text": "13",
+  "lb": 13
+ },
+ "notes": {
+  "fr": [
+   "Tympanons : cithares sur caisse dont les cordes sont frappées par de petits marteaux.",
+   "Psaltérion : cithare médiévale, souvent trapézoïdale, à cordes pincées."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3354
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "vanille-la-gousse",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Vanille, la gousse",
+  "en": "Vanilla, per bean"
+ },
+ "full_name": {
+  "fr": "Vanille, la gousse",
+  "en": "Vanilla, per bean"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 790
+ }
+}

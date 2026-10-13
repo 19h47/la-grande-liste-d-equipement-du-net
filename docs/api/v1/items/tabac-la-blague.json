@@ -1,0 +1,33 @@
+{
+ "id": "tabac-la-blague",
+ "category": "epices",
+ "name": {
+  "fr": "Tabac, la blague",
+  "en": "Tobacco, per pouch"
+ },
+ "full_name": {
+  "fr": "Tabac, la blague",
+  "en": "Tobacco, per pouch"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 859
+ }
+}

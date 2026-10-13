@@ -1,0 +1,33 @@
+{
+ "id": "petite-echarpe-ceinture",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Petite écharpe-ceinture",
+  "en": "Sashling"
+ },
+ "full_name": {
+  "fr": "Petite écharpe-ceinture",
+  "en": "Sashling"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3100
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "epees-claymore",
+ "category": "armes",
+ "name": {
+  "fr": "Claymore",
+  "en": "Claymore"
+ },
+ "full_name": {
+  "fr": "Épées — Claymore",
+  "en": "Sword — Claymore"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Claymore : grande épée écossaise à deux mains, aux quillons inclinés vers la lame."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3707
+ }
+}

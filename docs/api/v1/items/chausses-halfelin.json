@@ -1,0 +1,40 @@
+{
+ "id": "chausses-halfelin",
+ "category": "vetements",
+ "name": {
+  "fr": "Halfelin",
+  "en": "Halfling"
+ },
+ "full_name": {
+  "fr": "Chausses — Halfelin",
+  "en": "Hose — Halfling"
+ },
+ "group": [
+  {
+   "fr": "Chausses",
+   "en": "Hose"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Chausses : bas-de-jambes d'étoffe couvrant le pied et la jambe."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 194
+ }
+}

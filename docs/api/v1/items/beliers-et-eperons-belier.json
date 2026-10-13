@@ -1,0 +1,38 @@
+{
+ "id": "beliers-et-eperons-belier",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Bélier",
+  "en": "Battering"
+ },
+ "full_name": {
+  "fr": "Béliers et éperons — Bélier",
+  "en": "Ram — Battering"
+ },
+ "group": [
+  {
+   "fr": "Béliers et éperons",
+   "en": "Ram"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "300",
+  "lb": 300
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3502
+ }
+}

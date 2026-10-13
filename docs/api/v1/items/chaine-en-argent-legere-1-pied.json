@@ -1,0 +1,38 @@
+{
+ "id": "chaine-en-argent-legere-1-pied",
+ "category": "outils",
+ "name": {
+  "fr": "En argent, légère, 1 pied",
+  "en": "Silver, light, 1 ft"
+ },
+ "full_name": {
+  "fr": "Chaîne — En argent, légère, 1 pied",
+  "en": "Chain — Silver, light, 1 ft"
+ },
+ "group": [
+  {
+   "fr": "Chaîne",
+   "en": "Chain"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "45 pa",
+   "en": "45sp"
+  },
+  "min_cp": 450,
+  "max_cp": 450,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2476
+ }
+}

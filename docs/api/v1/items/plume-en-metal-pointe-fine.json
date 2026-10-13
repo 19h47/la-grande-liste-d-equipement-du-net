@@ -1,0 +1,38 @@
+{
+ "id": "plume-en-metal-pointe-fine",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "En métal, pointe fine",
+  "en": "Wrighting (Metal- fine tip)"
+ },
+ "full_name": {
+  "fr": "Plume — En métal, pointe fine",
+  "en": "Pen — Wrighting (Metal- fine tip)"
+ },
+ "group": [
+  {
+   "fr": "Plume",
+   "en": "Pen"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1957
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "panier-a-couvercle",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Panier à couvercle",
+  "en": "Hamper"
+ },
+ "full_name": {
+  "fr": "Panier à couvercle",
+  "en": "Hamper"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "7-15 pa",
+   "en": "7-15sp"
+  },
+  "min_cp": 70,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2994
+ }
+}

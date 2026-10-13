@@ -1,0 +1,33 @@
+{
+ "id": "savon-les-80-onces",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Savon, les 80 onces",
+  "en": "Soap, per 80z"
+ },
+ "full_name": {
+  "fr": "Savon, les 80 onces",
+  "en": "Soap, per 80z"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1-2 pa",
+   "en": "1-2sp"
+  },
+  "min_cp": 10,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3105
+ }
+}

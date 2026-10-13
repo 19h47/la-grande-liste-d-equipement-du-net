@@ -1,0 +1,40 @@
+{
+ "id": "culkas",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Culkas",
+  "en": "Culkas"
+ },
+ "full_name": {
+  "fr": "Culkas",
+  "en": "Culkas"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Culkas : plante du désert du Net Book of Herbs qui soigne les coups de soleil."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2751
+ }
+}

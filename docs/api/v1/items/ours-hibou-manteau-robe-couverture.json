@@ -1,0 +1,35 @@
+{
+ "id": "ours-hibou-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Ours-hibou — Manteau, robe, couverture",
+  "en": "Owlbear — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Ours-hibou",
+   "en": "Owlbear"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "400 po",
+   "en": "400gp"
+  },
+  "min_cp": 40000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1199
+ }
+}

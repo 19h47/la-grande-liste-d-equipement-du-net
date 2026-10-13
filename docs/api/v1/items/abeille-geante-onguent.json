@@ -1,0 +1,30 @@
+{
+ "id": "abeille-geante-onguent",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Abeille géante (onguent)",
+  "en": "Bee, giant (unguent)"
+ },
+ "full_name": {
+  "fr": "Abeille géante (onguent)",
+  "en": "Bee, giant (unguent)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 000 po-8 000 po",
+   "en": "3,000gp-8,000gp"
+  },
+  "min_cp": 300000,
+  "max_cp": 300000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VI",
+  "line": 900
+ }
+}

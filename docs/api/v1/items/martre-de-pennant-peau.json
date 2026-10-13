@@ -1,0 +1,37 @@
+{
+ "id": "martre-de-pennant-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Martre de Pennant — Peau",
+  "en": "Fisher — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Martre de Pennant",
+   "en": "Fisher"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Martre de Pennant : mustélidé d'Amérique du Nord apparenté à la martre, à fourrure brun sombre."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1138
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "outre-a-eau-ou-a-vin-grande-15-gallons",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Outre à eau ou à vin, grande, 15 gallons",
+  "en": "Water / Wineskin, large, 15 gallon"
+ },
+ "full_name": {
+  "fr": "Outre à eau ou à vin, grande, 15 gallons",
+  "en": "Water / Wineskin, large, 15 gallon"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "30 pc",
+   "en": "30cp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1804
+ }
+}

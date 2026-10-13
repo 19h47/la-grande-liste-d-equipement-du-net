@@ -1,0 +1,44 @@
+{
+ "id": "armes-a-feu-armes-combinees-poudre-de-fumee",
+ "category": "armes",
+ "name": {
+  "fr": "Poudre de fumée",
+  "en": "Smokepowder"
+ },
+ "full_name": {
+  "fr": "Armes à feu — Armes combinées — Poudre de fumée",
+  "en": "Firearms — Combined Weapons — Smokepowder"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "Armes combinées",
+   "en": "Combined Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Poudre de fumée : poudre explosive des Royaumes oubliés (« smokepowder »), équivalent magique de la poudre noire."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3610
+ }
+}

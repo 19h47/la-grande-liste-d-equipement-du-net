@@ -1,0 +1,38 @@
+{
+ "id": "fromage-au-poivre-meule-1-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Meule, 1 livre",
+  "en": "Wheel, 1lb"
+ },
+ "full_name": {
+  "fr": "Fromage au poivre — Meule, 1 livre",
+  "en": "Cheese, Pepper — Wheel, 1lb"
+ },
+ "group": [
+  {
+   "fr": "Fromage au poivre",
+   "en": "Cheese, Pepper"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 530
+ }
+}

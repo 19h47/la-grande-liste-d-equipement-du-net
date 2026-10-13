@@ -1,0 +1,33 @@
+{
+ "id": "harpe-elfique",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Harpe elfique",
+  "en": "Harp, Elven"
+ },
+ "full_name": {
+  "fr": "Harpe elfique",
+  "en": "Harp, Elven"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "500-2 500 po",
+   "en": "500-2500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 250000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5-100",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1775
+ }
+}

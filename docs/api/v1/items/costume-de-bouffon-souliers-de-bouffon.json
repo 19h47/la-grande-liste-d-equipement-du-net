@@ -1,0 +1,38 @@
+{
+ "id": "costume-de-bouffon-souliers-de-bouffon",
+ "category": "vetements",
+ "name": {
+  "fr": "Souliers de bouffon",
+  "en": "Buffoon shoes"
+ },
+ "full_name": {
+  "fr": "Costume de bouffon — Souliers de bouffon",
+  "en": "Jester Clothing — Buffoon shoes"
+ },
+ "group": [
+  {
+   "fr": "Costume de bouffon",
+   "en": "Jester Clothing"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 214
+ }
+}

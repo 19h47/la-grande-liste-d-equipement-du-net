@@ -1,0 +1,38 @@
+{
+ "id": "seau-en-fer-5-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En fer, 5 gallons",
+  "en": "Iron, 5 gallons"
+ },
+ "full_name": {
+  "fr": "Seau — En fer, 5 gallons",
+  "en": "Bucket — Iron, 5 gallons"
+ },
+ "group": [
+  {
+   "fr": "Seau",
+   "en": "Bucket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1335
+ }
+}

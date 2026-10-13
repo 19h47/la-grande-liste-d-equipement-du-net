@@ -1,0 +1,38 @@
+{
+ "id": "repas-a-l-unite-haricots-cuisines-doux-ou-releves",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Haricots cuisinés (doux ou relevés)",
+  "en": "Cooked beans (mild or hot-spiced)"
+ },
+ "full_name": {
+  "fr": "Repas (à l'unité) — Haricots cuisinés (doux ou relevés)",
+  "en": "Meals (individual) — Cooked beans (mild or hot-spiced)"
+ },
+ "group": [
+  {
+   "fr": "Repas (à l'unité)",
+   "en": "Meals (individual)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 380
+ }
+}

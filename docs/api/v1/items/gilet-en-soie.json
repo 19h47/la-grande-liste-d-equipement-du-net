@@ -1,0 +1,38 @@
+{
+ "id": "gilet-en-soie",
+ "category": "vetements",
+ "name": {
+  "fr": "En soie",
+  "en": "Silk"
+ },
+ "full_name": {
+  "fr": "Gilet — En soie",
+  "en": "Vest, — Silk"
+ },
+ "group": [
+  {
+   "fr": "Gilet",
+   "en": "Vest,"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 302
+ }
+}

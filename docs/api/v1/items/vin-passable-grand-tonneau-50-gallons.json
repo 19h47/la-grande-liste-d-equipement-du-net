@@ -1,0 +1,38 @@
+{
+ "id": "vin-passable-grand-tonneau-50-gallons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Passable, grand tonneau, 50 gallons",
+  "en": "Fair, Large Barrel, 50 gallons"
+ },
+ "full_name": {
+  "fr": "Vin — Passable, grand tonneau, 50 gallons",
+  "en": "Wine — Fair, Large Barrel, 50 gallons"
+ },
+ "group": [
+  {
+   "fr": "Vin",
+   "en": "Wine"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "200",
+  "lb": 200
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 420
+ }
+}

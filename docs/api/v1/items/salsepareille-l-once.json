@@ -1,0 +1,35 @@
+{
+ "id": "salsepareille-l-once",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Salsepareille, l'once",
+  "en": "Sarsaparilla, per oz"
+ },
+ "full_name": {
+  "fr": "Salsepareille, l'once",
+  "en": "Sarsaparilla, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Salsepareille : liane dont la racine aromatique servait à préparer boissons et remèdes."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 738
+ }
+}

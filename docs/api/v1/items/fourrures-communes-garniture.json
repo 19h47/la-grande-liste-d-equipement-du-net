@@ -1,0 +1,35 @@
+{
+ "id": "fourrures-communes-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Fourrures communes — Garniture",
+  "en": "Common furs — Trim"
+ },
+ "group": [
+  {
+   "fr": "Fourrures communes",
+   "en": "Common furs"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1124
+ }
+}

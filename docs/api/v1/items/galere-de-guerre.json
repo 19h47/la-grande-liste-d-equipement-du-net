@@ -1,0 +1,35 @@
+{
+ "id": "galere-de-guerre",
+ "category": "transports",
+ "name": {
+  "fr": "De guerre",
+  "en": "War"
+ },
+ "full_name": {
+  "fr": "Galère — De guerre",
+  "en": "Galley — War"
+ },
+ "group": [
+  {
+   "fr": "Galère",
+   "en": "Galley"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 000 po",
+   "en": "40,000gp"
+  },
+  "min_cp": 4000000,
+  "max_cp": 4000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 975
+ }
+}

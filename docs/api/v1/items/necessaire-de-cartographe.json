@@ -1,0 +1,33 @@
+{
+ "id": "necessaire-de-cartographe",
+ "category": "outils",
+ "name": {
+  "fr": "Nécessaire de cartographe",
+  "en": "Map Making Kit"
+ },
+ "full_name": {
+  "fr": "Nécessaire de cartographe",
+  "en": "Map Making Kit"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2520
+ }
+}

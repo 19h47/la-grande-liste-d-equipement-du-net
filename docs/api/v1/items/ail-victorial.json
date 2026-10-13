@@ -1,0 +1,40 @@
+{
+ "id": "ail-victorial",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Ail victorial",
+  "en": "Mountains Garlick"
+ },
+ "full_name": {
+  "fr": "Ail victorial",
+  "en": "Mountains Garlick"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "9 po",
+   "en": "9gp"
+  },
+  "min_cp": 900,
+  "max_cp": 900,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Ail victorial : ail sauvage des montagnes à larges feuilles, jadis porté en amulette protectrice."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2803
+ }
+}

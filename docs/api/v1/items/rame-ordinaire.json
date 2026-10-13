@@ -1,0 +1,35 @@
+{
+ "id": "rame-ordinaire",
+ "category": "transports",
+ "name": {
+  "fr": "Ordinaire",
+  "en": "Common"
+ },
+ "full_name": {
+  "fr": "Rame — Ordinaire",
+  "en": "Oar — Common"
+ },
+ "group": [
+  {
+   "fr": "Rame",
+   "en": "Oar"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 981
+ }
+}

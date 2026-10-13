@@ -1,0 +1,30 @@
+{
+ "id": "homicide-involontaire",
+ "category": "amendes-et-peines",
+ "name": {
+  "fr": "Homicide involontaire",
+  "en": "Causing a Death"
+ },
+ "full_name": {
+  "fr": "Homicide involontaire",
+  "en": "Causing a Death"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 000 po ou 10 ans",
+   "en": "50,000gp or 10years"
+  },
+  "min_cp": 5000000,
+  "max_cp": 5000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVI",
+  "line": 3178
+ }
+}

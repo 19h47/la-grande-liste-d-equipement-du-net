@@ -1,0 +1,38 @@
+{
+ "id": "cerfeuil",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Cerfeuil",
+  "en": "Chervil"
+ },
+ "full_name": {
+  "fr": "Cerfeuil",
+  "en": "Chervil"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2744
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "hampe-a-crochet",
+ "category": "armes",
+ "name": {
+  "fr": "Hampe à crochet",
+  "en": "Hookshaft"
+ },
+ "full_name": {
+  "fr": "Hampe à crochet",
+  "en": "Hookshaft"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3628
+ }
+}

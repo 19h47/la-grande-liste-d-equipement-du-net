@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-cors-et-trompettes-a-coulisse",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "À coulisse",
+  "en": "Slide"
+ },
+ "full_name": {
+  "fr": "Famille des cors et trompettes — À coulisse",
+  "en": "Horn/Trumpet Family — Slide"
+ },
+ "group": [
+  {
+   "fr": "Famille des cors et trompettes",
+   "en": "Horn/Trumpet Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "80 po",
+   "en": "80gp"
+  },
+  "min_cp": 8000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3401
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "homme-poisson",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Homme-poisson",
+  "en": "Merman"
+ },
+ "full_name": {
+  "fr": "Homme-poisson",
+  "en": "Merman"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "110 po",
+   "en": "110gp"
+  },
+  "min_cp": 11000,
+  "max_cp": 11000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "200-300 po",
+   "en": "200-300gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1535
+ }
+}

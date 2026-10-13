@@ -1,0 +1,37 @@
+{
+ "id": "jettisons-lourd",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Lourd",
+  "en": "Heavy"
+ },
+ "full_name": {
+  "fr": "Jettisons — Lourd",
+  "en": "Jettisons — Heavy"
+ },
+ "group": [
+  {
+   "fr": "Jettisons",
+   "en": "Jettisons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "800 po",
+   "en": "800gp"
+  },
+  "min_cp": 80000,
+  "max_cp": 80000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Jettisons : grandes catapultes de bord des vaisseaux de Spelljammer."
+  ]
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3500
+ }
+}

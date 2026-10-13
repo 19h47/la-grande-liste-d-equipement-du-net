@@ -1,0 +1,30 @@
+{
+ "id": "felin-sauvage",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Félin sauvage",
+  "en": "Feline, wild"
+ },
+ "full_name": {
+  "fr": "Félin sauvage",
+  "en": "Feline, wild"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "2 po/DV adulte",
+   "en": "2gp/adult HD"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1512
+ }
+}

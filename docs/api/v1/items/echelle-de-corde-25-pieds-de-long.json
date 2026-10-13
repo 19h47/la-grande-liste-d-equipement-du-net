@@ -1,0 +1,38 @@
+{
+ "id": "echelle-de-corde-25-pieds-de-long",
+ "category": "outils",
+ "name": {
+  "fr": "De corde, 25 pieds de long",
+  "en": "Rope, 25ft long"
+ },
+ "full_name": {
+  "fr": "Échelle — De corde, 25 pieds de long",
+  "en": "Ladder — Rope, 25ft long"
+ },
+ "group": [
+  {
+   "fr": "Échelle",
+   "en": "Ladder"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 pa",
+   "en": "30sp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2514
+ }
+}

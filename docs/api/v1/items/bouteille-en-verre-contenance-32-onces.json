@@ -1,0 +1,38 @@
+{
+ "id": "bouteille-en-verre-contenance-32-onces",
+ "category": "contenants",
+ "name": {
+  "fr": "En verre, contenance 32 onces",
+  "en": "Glass, holds 32 oz"
+ },
+ "full_name": {
+  "fr": "Bouteille — En verre, contenance 32 onces",
+  "en": "Bottle — Glass, holds 32 oz"
+ },
+ "group": [
+  {
+   "fr": "Bouteille",
+   "en": "Bottle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1313
+ }
+}

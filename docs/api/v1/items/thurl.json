@@ -1,0 +1,40 @@
+{
+ "id": "thurl",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Thurl",
+  "en": "Thurl"
+ },
+ "full_name": {
+  "fr": "Thurl",
+  "en": "Thurl"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Thurl : plante issue de MERP, dont le bulbe infusé rend 1 PV."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2835
+ }
+}

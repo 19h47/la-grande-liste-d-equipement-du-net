@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-flutes-pipeau-de-fer-blanc",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Pipeau de fer-blanc",
+  "en": "Penny"
+ },
+ "full_name": {
+  "fr": "Famille des flûtes — Pipeau de fer-blanc",
+  "en": "Flute Family — Penny"
+ },
+ "group": [
+  {
+   "fr": "Famille des flûtes",
+   "en": "Flute Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3370
+ }
+}

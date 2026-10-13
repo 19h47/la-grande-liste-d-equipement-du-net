@@ -1,0 +1,35 @@
+{
+ "id": "fourrures-communes-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Fourrures communes — Cape, veste",
+  "en": "Common furs — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Fourrures communes",
+   "en": "Common furs"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1125
+ }
+}

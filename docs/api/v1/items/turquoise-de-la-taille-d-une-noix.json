@@ -1,0 +1,35 @@
+{
+ "id": "turquoise-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Turquoise — De la taille d'une noix",
+  "en": "Turquoise — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Turquoise",
+   "en": "Turquoise"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "600 po",
+   "en": "600gp"
+  },
+  "min_cp": 60000,
+  "max_cp": 60000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2340
+ }
+}

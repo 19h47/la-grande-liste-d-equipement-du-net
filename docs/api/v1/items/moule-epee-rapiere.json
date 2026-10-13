@@ -1,0 +1,39 @@
+{
+ "id": "moule-epee-rapiere",
+ "category": "outils",
+ "name": {
+  "fr": "Rapière",
+  "en": "Rapier"
+ },
+ "full_name": {
+  "fr": "Moule — Épée — Rapière",
+  "en": "Mold — Sword — Rapier"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Épée",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2600
+ }
+}

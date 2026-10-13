@@ -1,0 +1,30 @@
+{
+ "id": "boeuf",
+ "category": "animaux",
+ "name": {
+  "fr": "Bœuf",
+  "en": "Ox"
+ },
+ "full_name": {
+  "fr": "Bœuf",
+  "en": "Ox"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1684
+ }
+}

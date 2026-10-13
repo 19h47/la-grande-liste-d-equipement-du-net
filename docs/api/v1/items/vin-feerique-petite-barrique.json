@@ -1,0 +1,33 @@
+{
+ "id": "vin-feerique-petite-barrique",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Vin féerique (petite barrique)",
+  "en": "Feywine (small cask)"
+ },
+ "full_name": {
+  "fr": "Vin féerique (petite barrique)",
+  "en": "Feywine (small cask)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "48",
+  "lb": 48
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 354
+ }
+}

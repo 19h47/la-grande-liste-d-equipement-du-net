@@ -1,0 +1,40 @@
+{
+ "id": "poupee-serie-des-avatars",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Série des avatars",
+  "en": "Avatar Set"
+ },
+ "full_name": {
+  "fr": "Poupée — Série des avatars",
+  "en": "Doll — Avatar Set"
+ },
+ "group": [
+  {
+   "fr": "Poupée",
+   "en": "Doll"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": [
+   "Avatar : incarnation physique d'une divinité venue sur le plan matériel."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2968
+ }
+}

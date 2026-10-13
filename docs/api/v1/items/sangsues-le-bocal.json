@@ -1,0 +1,35 @@
+{
+ "id": "sangsues-le-bocal",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Sangsues, le bocal",
+  "en": "Leeches, per jar"
+ },
+ "full_name": {
+  "fr": "Sangsues, le bocal",
+  "en": "Leeches, per jar"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Sangsues : vers suceurs de sang employés en médecine ancienne pour les saignées."
+  ]
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1864
+ }
+}

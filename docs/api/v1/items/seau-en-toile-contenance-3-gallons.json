@@ -1,0 +1,38 @@
+{
+ "id": "seau-en-toile-contenance-3-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En toile, contenance 3 gallons",
+  "en": "Canvas, holds 3 gallons"
+ },
+ "full_name": {
+  "fr": "Seau — En toile, contenance 3 gallons",
+  "en": "Bucket — Canvas, holds 3 gallons"
+ },
+ "group": [
+  {
+   "fr": "Seau",
+   "en": "Bucket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1333
+ }
+}

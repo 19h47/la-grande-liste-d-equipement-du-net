@@ -1,0 +1,35 @@
+{
+ "id": "asperule-odorante-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Aspérule odorante, l'once",
+  "en": "Woodruff, per oz"
+ },
+ "full_name": {
+  "fr": "Aspérule odorante, l'once",
+  "en": "Woodruff, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Aspérule odorante : petite plante des sous-bois au parfum de foin, qui aromatise le vin de mai."
+  ]
+ },
+ "source": {
+  "table": "IV",
+  "line": 861
+ }
+}

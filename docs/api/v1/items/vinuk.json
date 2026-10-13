@@ -1,0 +1,40 @@
+{
+ "id": "vinuk",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Vinuk",
+  "en": "Vinuk"
+ },
+ "full_name": {
+  "fr": "Vinuk",
+  "en": "Vinuk"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Vinuk : plante du Net Book of Herbs qui réveille une personne évanouie ou ivre, mais non blessée."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2837
+ }
+}

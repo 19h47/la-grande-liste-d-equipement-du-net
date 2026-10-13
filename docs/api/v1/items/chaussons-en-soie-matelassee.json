@@ -1,0 +1,38 @@
+{
+ "id": "chaussons-en-soie-matelassee",
+ "category": "vetements",
+ "name": {
+  "fr": "En soie matelassée",
+  "en": "Quilten Silk"
+ },
+ "full_name": {
+  "fr": "Chaussons — En soie matelassée",
+  "en": "Slippers — Quilten Silk"
+ },
+ "group": [
+  {
+   "fr": "Chaussons",
+   "en": "Slippers"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 po",
+   "en": "35gp"
+  },
+  "min_cp": 3500,
+  "max_cp": 3500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 275
+ }
+}

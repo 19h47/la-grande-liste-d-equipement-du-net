@@ -1,0 +1,38 @@
+{
+ "id": "claquoirs-castagnettes",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Castagnettes",
+  "en": "Castanets"
+ },
+ "full_name": {
+  "fr": "Claquoirs — Castagnettes",
+  "en": "Clappers — Castanets"
+ },
+ "group": [
+  {
+   "fr": "Claquoirs",
+   "en": "Clappers"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3326
+ }
+}

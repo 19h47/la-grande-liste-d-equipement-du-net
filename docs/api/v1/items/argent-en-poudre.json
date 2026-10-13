@@ -1,0 +1,35 @@
+{
+ "id": "argent-en-poudre",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "En poudre",
+  "en": "Powdered"
+ },
+ "full_name": {
+  "fr": "Argent — En poudre",
+  "en": "Silver — Powdered"
+ },
+ "group": [
+  {
+   "fr": "Argent",
+   "en": "Silver"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2284
+ }
+}

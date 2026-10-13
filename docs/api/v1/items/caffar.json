@@ -1,0 +1,40 @@
+{
+ "id": "caffar",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Caffar",
+  "en": "Caffar"
+ },
+ "full_name": {
+  "fr": "Caffar",
+  "en": "Caffar"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Caffar : plante du désert du Net Book of Herbs, breuvage qui accroît la Sagesse mais crée une dépendance."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2740
+ }
+}

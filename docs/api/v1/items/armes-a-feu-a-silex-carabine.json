@@ -1,0 +1,42 @@
+{
+ "id": "armes-a-feu-a-silex-carabine",
+ "category": "armes",
+ "name": {
+  "fr": "Carabine",
+  "en": "Carbine"
+ },
+ "full_name": {
+  "fr": "Armes à feu — À silex — Carabine",
+  "en": "Firearms — Flintlock — Carbine"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "À silex",
+   "en": "Flintlock"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "65 po",
+   "en": "65gp"
+  },
+  "min_cp": 6500,
+  "max_cp": 6500,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3599
+ }
+}

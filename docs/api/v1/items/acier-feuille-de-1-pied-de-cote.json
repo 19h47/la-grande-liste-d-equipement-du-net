@@ -1,0 +1,35 @@
+{
+ "id": "acier-feuille-de-1-pied-de-cote",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Feuille de 1 pied de côté",
+  "en": "Sheet, 1ft sq"
+ },
+ "full_name": {
+  "fr": "Acier — Feuille de 1 pied de côté",
+  "en": "Steel — Sheet, 1ft sq"
+ },
+ "group": [
+  {
+   "fr": "Acier",
+   "en": "Steel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2301
+ }
+}

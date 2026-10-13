@@ -1,0 +1,35 @@
+{
+ "id": "renard-argente-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Renard argenté — Garniture",
+  "en": "Fox, silver — Trim"
+ },
+ "group": [
+  {
+   "fr": "Renard argenté",
+   "en": "Fox, silver"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1154
+ }
+}

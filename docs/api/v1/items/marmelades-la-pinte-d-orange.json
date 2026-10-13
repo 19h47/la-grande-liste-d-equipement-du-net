@@ -1,0 +1,38 @@
+{
+ "id": "marmelades-la-pinte-d-orange",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "D'orange",
+  "en": "orange"
+ },
+ "full_name": {
+  "fr": "Marmelades, la pinte — D'orange",
+  "en": "Marmalades, per pint — orange"
+ },
+ "group": [
+  {
+   "fr": "Marmelades, la pinte",
+   "en": "Marmalades, per pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 639
+ }
+}

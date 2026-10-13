@@ -1,0 +1,33 @@
+{
+ "id": "cacao-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Cacao, la livre",
+  "en": "Cocoa, per lb"
+ },
+ "full_name": {
+  "fr": "Cacao, la livre",
+  "en": "Cocoa, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 546
+ }
+}

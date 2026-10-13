@@ -1,0 +1,38 @@
+{
+ "id": "farine-sac-de-10-livres-de-mais",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De maïs",
+  "en": "Corn"
+ },
+ "full_name": {
+  "fr": "Farine, sac de 10 livres — De maïs",
+  "en": "Flour, 10lbs sack — Corn"
+ },
+ "group": [
+  {
+   "fr": "Farine, sac de 10 livres",
+   "en": "Flour, 10lbs sack"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 586
+ }
+}

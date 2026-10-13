@@ -1,0 +1,38 @@
+{
+ "id": "etoffe-le-yard-carre-drap-tisse-main",
+ "category": "tissus",
+ "name": {
+  "fr": "Drap tissé main",
+  "en": "Homespun"
+ },
+ "full_name": {
+  "fr": "Étoffe, le yard carré — Drap tissé main",
+  "en": "Cloth, per sq yard — Homespun"
+ },
+ "group": [
+  {
+   "fr": "Étoffe, le yard carré",
+   "en": "Cloth, per sq yard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1728
+ }
+}

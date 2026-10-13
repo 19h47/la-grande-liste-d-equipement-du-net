@@ -1,0 +1,30 @@
+{
+ "id": "evaluateur-par-objet",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Évaluateur, par objet",
+  "en": "Assessor, per item"
+ },
+ "full_name": {
+  "fr": "Évaluateur, par objet",
+  "en": "Assessor, per item"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2366
+ }
+}

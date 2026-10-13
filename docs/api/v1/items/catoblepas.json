@@ -1,0 +1,32 @@
+{
+ "id": "catoblepas",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Catoblépas",
+  "en": "Catoblephas"
+ },
+ "full_name": {
+  "fr": "Catoblépas",
+  "en": "Catoblephas"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "9 500 po",
+   "en": "9,500gp"
+  },
+  "min_cp": 950000,
+  "max_cp": 950000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Catoblépas : bête des marais à la tête si lourde qu'elle pend au sol ; son regard tue."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1489
+ }
+}

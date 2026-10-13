@@ -1,0 +1,35 @@
+{
+ "id": "topaze-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Topaze — De la taille d'une boule",
+  "en": "Topaz — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Topaze",
+   "en": "Topaz"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 500 po",
+   "en": "2,500gp"
+  },
+  "min_cp": 250000,
+  "max_cp": 250000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2333
+ }
+}

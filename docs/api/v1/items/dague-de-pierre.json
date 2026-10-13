@@ -1,0 +1,38 @@
+{
+ "id": "dague-de-pierre",
+ "category": "armes",
+ "name": {
+  "fr": "Dague de pierre",
+  "en": "Stone dagger"
+ },
+ "full_name": {
+  "fr": "Dagues — Dague de pierre",
+  "en": "Dagger — Stone dagger"
+ },
+ "group": [
+  {
+   "fr": "Dagues",
+   "en": "Dagger"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3574
+ }
+}

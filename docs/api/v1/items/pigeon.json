@@ -1,0 +1,30 @@
+{
+ "id": "pigeon",
+ "category": "animaux",
+ "name": {
+  "fr": "Pigeon",
+  "en": "Pigeon"
+ },
+ "full_name": {
+  "fr": "Pigeon",
+  "en": "Pigeon"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pc",
+   "en": "2cp"
+  },
+  "min_cp": 2,
+  "max_cp": 2,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1687
+ }
+}

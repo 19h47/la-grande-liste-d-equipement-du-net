@@ -1,0 +1,35 @@
+{
+ "id": "perle-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Wallnut sized"
+ },
+ "full_name": {
+  "fr": "Perle — De la taille d'une noix",
+  "en": "Pearl — Wallnut sized"
+ },
+ "group": [
+  {
+   "fr": "Perle",
+   "en": "Pearl"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2229
+ }
+}

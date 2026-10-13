@@ -1,0 +1,35 @@
+{
+ "id": "moule-eperon",
+ "category": "outils",
+ "name": {
+  "fr": "Éperon",
+  "en": "Spur"
+ },
+ "full_name": {
+  "fr": "Moule — Éperon",
+  "en": "Mold — Spur"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2593
+ }
+}

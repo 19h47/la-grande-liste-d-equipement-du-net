@@ -1,0 +1,35 @@
+{
+ "id": "traineau-quatre-places",
+ "category": "transports",
+ "name": {
+  "fr": "Quatre places",
+  "en": "four-person"
+ },
+ "full_name": {
+  "fr": "Traîneau — Quatre places",
+  "en": "Sleigh — four-person"
+ },
+ "group": [
+  {
+   "fr": "Traîneau",
+   "en": "Sleigh"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 998
+ }
+}

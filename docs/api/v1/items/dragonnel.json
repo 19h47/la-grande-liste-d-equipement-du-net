@@ -1,0 +1,40 @@
+{
+ "id": "dragonnel",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Dragonnel",
+  "en": "Dragonnel"
+ },
+ "full_name": {
+  "fr": "Dragonnel",
+  "en": "Dragonnel"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "2 500 po",
+   "en": "2,500gp"
+  },
+  "min_cp": 250000,
+  "max_cp": 250000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Dragonnel : dragon primitif, dépourvu de souffle et peu intelligent, souvent dressé comme monture volante."
+  ]
+ },
+ "source": {
+  "table": "X",
+  "line": 1258
+ }
+}

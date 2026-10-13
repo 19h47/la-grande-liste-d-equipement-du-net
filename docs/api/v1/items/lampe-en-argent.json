@@ -1,0 +1,38 @@
+{
+ "id": "lampe-en-argent",
+ "category": "eclairage",
+ "name": {
+  "fr": "En argent",
+  "en": "Silver"
+ },
+ "full_name": {
+  "fr": "Lampe — En argent",
+  "en": "Lamp — Silver"
+ },
+ "group": [
+  {
+   "fr": "Lampe",
+   "en": "Lamp"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2680
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "mollusques-ormeau",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Ormeau",
+  "en": "Abalone"
+ },
+ "full_name": {
+  "fr": "Mollusques — Ormeau",
+  "en": "Mollusks — Abalone"
+ },
+ "group": [
+  {
+   "fr": "Mollusques",
+   "en": "Mollusks"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": [
+   "Ormeau : coquillage marin à coquille nacrée, à la chair très prisée."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 652
+ }
+}

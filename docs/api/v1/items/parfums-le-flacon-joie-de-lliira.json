@@ -1,0 +1,40 @@
+{
+ "id": "parfums-le-flacon-joie-de-lliira",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Joie de Lliira",
+  "en": "Lliira's Joy"
+ },
+ "full_name": {
+  "fr": "Parfums, le flacon — Joie de Lliira",
+  "en": "Perfumes, per vial — Lliira's Joy"
+ },
+ "group": [
+  {
+   "fr": "Parfums, le flacon",
+   "en": "Perfumes, per vial"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Lliira : déesse de la joie, de la danse et des réjouissances dans les Royaumes oubliés."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3064
+ }
+}

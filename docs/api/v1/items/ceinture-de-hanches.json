@@ -1,0 +1,38 @@
+{
+ "id": "ceinture-de-hanches",
+ "category": "vetements",
+ "name": {
+  "fr": "De hanches",
+  "en": "Girdled"
+ },
+ "full_name": {
+  "fr": "Ceinture — De hanches",
+  "en": "Belt — Girdled"
+ },
+ "group": [
+  {
+   "fr": "Ceinture",
+   "en": "Belt"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 84
+ }
+}

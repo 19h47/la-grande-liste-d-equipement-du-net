@@ -1,0 +1,38 @@
+{
+ "id": "fourreau-de-dague-et-de-couteau-en-metal",
+ "category": "vetements",
+ "name": {
+  "fr": "En métal",
+  "en": "Metal"
+ },
+ "full_name": {
+  "fr": "Fourreau de dague et de couteau — En métal",
+  "en": "Sheath, Dagger & Knife — Metal"
+ },
+ "group": [
+  {
+   "fr": "Fourreau de dague et de couteau",
+   "en": "Sheath, Dagger & Knife"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 262
+ }
+}

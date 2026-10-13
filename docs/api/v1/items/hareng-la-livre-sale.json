@@ -1,0 +1,38 @@
+{
+ "id": "hareng-la-livre-sale",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Salé",
+  "en": "salted"
+ },
+ "full_name": {
+  "fr": "Hareng, la livre — Salé",
+  "en": "Herring, per lb — salted"
+ },
+ "group": [
+  {
+   "fr": "Hareng, la livre",
+   "en": "Herring, per lb"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 606
+ }
+}

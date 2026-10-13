@@ -1,0 +1,30 @@
+{
+ "id": "fenetre-a-volets-et-barreaux-2-pieds-de-large-4-pieds-de-haut",
+ "category": "constructions",
+ "name": {
+  "fr": "Fenêtre à volets et barreaux, 2 pieds de large, 4 pieds de haut",
+  "en": "Window, shuttered and Barred, 2'w 4'h"
+ },
+ "full_name": {
+  "fr": "Fenêtre à volets et barreaux, 2 pieds de large, 4 pieds de haut",
+  "en": "Window, shuttered and Barred, 2'w 4'h"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3305
+ }
+}

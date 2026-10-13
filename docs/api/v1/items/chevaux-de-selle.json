@@ -1,0 +1,35 @@
+{
+ "id": "chevaux-de-selle",
+ "category": "animaux",
+ "name": {
+  "fr": "De selle",
+  "en": "Riding"
+ },
+ "full_name": {
+  "fr": "Chevaux — De selle",
+  "en": "Horse — Riding"
+ },
+ "group": [
+  {
+   "fr": "Chevaux",
+   "en": "Horse"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1678
+ }
+}

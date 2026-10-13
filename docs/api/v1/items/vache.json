@@ -1,0 +1,30 @@
+{
+ "id": "vache",
+ "category": "animaux",
+ "name": {
+  "fr": "Vache",
+  "en": "Cow"
+ },
+ "full_name": {
+  "fr": "Vache",
+  "en": "Cow"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1645
+ }
+}

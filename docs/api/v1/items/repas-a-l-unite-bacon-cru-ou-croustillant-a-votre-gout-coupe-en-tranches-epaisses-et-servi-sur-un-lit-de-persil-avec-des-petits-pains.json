@@ -1,0 +1,38 @@
+{
+ "id": "repas-a-l-unite-bacon-cru-ou-croustillant-a-votre-gout-coupe-en-tranches-epaisses-et-servi-sur-un-lit-de-persil-avec-des-petits-pains",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Bacon (cru ou croustillant, à votre goût, coupé en tranches épaisses et servi sur un lit de persil, avec des petits pains)",
+  "en": "Bacon (raw to crisped, as you prefer, thick-sliced and served on a bed of parsley, with rolls)"
+ },
+ "full_name": {
+  "fr": "Repas (à l'unité) — Bacon (cru ou croustillant, à votre goût, coupé en tranches épaisses et servi sur un lit de persil, avec des petits pains)",
+  "en": "Meals (individual) — Bacon (raw to crisped, as you prefer, thick-sliced and served on a bed of parsley, with rolls)"
+ },
+ "group": [
+  {
+   "fr": "Repas (à l'unité)",
+   "en": "Meals (individual)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pc",
+   "en": "6cp"
+  },
+  "min_cp": 6,
+  "max_cp": 6,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 379
+ }
+}

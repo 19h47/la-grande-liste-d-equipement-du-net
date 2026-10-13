@@ -1,0 +1,40 @@
+{
+ "id": "roc",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Roc",
+  "en": "Roc"
+ },
+ "full_name": {
+  "fr": "Roc",
+  "en": "Roc"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "4 000 po",
+   "en": "4,000gp"
+  },
+  "min_cp": 400000,
+  "max_cp": 400000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "8 000 po",
+   "en": "8,000gp"
+  },
+  "min_cp": 800000,
+  "max_cp": 800000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Roc : oiseau géant des contes orientaux, notamment des Mille et Une Nuits, capable d'enlever un éléphant."
+  ]
+ },
+ "source": {
+  "table": "X",
+  "line": 1271
+ }
+}

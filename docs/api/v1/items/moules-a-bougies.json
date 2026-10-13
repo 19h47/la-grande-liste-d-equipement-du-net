@@ -1,0 +1,33 @@
+{
+ "id": "moules-a-bougies",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Moules à bougies",
+  "en": "Candle Molds"
+ },
+ "full_name": {
+  "fr": "Moules à bougies",
+  "en": "Candle Molds"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "12 pc",
+   "en": "12cp"
+  },
+  "min_cp": 12,
+  "max_cp": 12,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2910
+ }
+}

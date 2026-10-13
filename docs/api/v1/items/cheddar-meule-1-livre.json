@@ -1,0 +1,38 @@
+{
+ "id": "cheddar-meule-1-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Meule, 1 livre",
+  "en": "Wheel, 1lb"
+ },
+ "full_name": {
+  "fr": "Cheddar — Meule, 1 livre",
+  "en": "Cheese, Cheddar — Wheel, 1lb"
+ },
+ "group": [
+  {
+   "fr": "Cheddar",
+   "en": "Cheese, Cheddar"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 521
+ }
+}

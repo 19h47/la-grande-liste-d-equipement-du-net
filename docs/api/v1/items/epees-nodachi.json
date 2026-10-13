@@ -1,0 +1,40 @@
+{
+ "id": "epees-nodachi",
+ "category": "armes",
+ "name": {
+  "fr": "Nodachi",
+  "en": "No-dachi"
+ },
+ "full_name": {
+  "fr": "Épées — Nodachi",
+  "en": "Sword — No-dachi"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "45 po",
+   "en": "45gp"
+  },
+  "min_cp": 4500,
+  "max_cp": 4500,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": [
+   "Nodachi : très long sabre japonais maniable à deux mains."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3718
+ }
+}

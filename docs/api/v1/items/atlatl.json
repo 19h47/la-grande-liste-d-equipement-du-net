@@ -1,0 +1,32 @@
+{
+ "id": "atlatl",
+ "category": "armes",
+ "name": {
+  "fr": "Atlatl",
+  "en": "Atl-Atl"
+ },
+ "full_name": {
+  "fr": "Atlatl",
+  "en": "Atl-Atl"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Atlatl : propulseur aztèque, bâton prolongeant le bras pour lancer javelots et fléchettes (Maztica)."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3522
+ }
+}

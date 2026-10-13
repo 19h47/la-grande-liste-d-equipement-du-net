@@ -1,0 +1,33 @@
+{
+ "id": "noix-moulues-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Noix moulues, la livre",
+  "en": "Nuts, ground, per lb"
+ },
+ "full_name": {
+  "fr": "Noix moulues, la livre",
+  "en": "Nuts, ground, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 658
+ }
+}

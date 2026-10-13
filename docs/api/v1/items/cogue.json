@@ -1,0 +1,32 @@
+{
+ "id": "cogue",
+ "category": "transports",
+ "name": {
+  "fr": "Cogue",
+  "en": "Cog"
+ },
+ "full_name": {
+  "fr": "Cogue",
+  "en": "Cog"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 000 po",
+   "en": "10,000gp"
+  },
+  "min_cp": 1000000,
+  "max_cp": 1000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Cogue : navire marchand médiéval d'Europe du Nord, à coque ronde et haute, gréé d'une seule voile carrée."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 964
+ }
+}

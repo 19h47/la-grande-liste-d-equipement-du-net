@@ -1,0 +1,38 @@
+{
+ "id": "conserves-au-vinaigre-le-quart-betteraves",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Betteraves",
+  "en": "Beets"
+ },
+ "full_name": {
+  "fr": "Conserves au vinaigre, le quart — Betteraves",
+  "en": "Pickles, per qt — Beets"
+ },
+ "group": [
+  {
+   "fr": "Conserves au vinaigre, le quart",
+   "en": "Pickles, per qt"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 680
+ }
+}

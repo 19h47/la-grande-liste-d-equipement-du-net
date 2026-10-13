@@ -1,0 +1,38 @@
+{
+ "id": "lustre-a-lampes-a-huile",
+ "category": "mobilier",
+ "name": {
+  "fr": "À lampes à huile",
+  "en": "Oil Lamp"
+ },
+ "full_name": {
+  "fr": "Lustre — À lampes à huile",
+  "en": "Chandelier — Oil Lamp"
+ },
+ "group": [
+  {
+   "fr": "Lustre",
+   "en": "Chandelier"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "50",
+  "lb": 50
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1575
+ }
+}

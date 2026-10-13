@@ -1,0 +1,35 @@
+{
+ "id": "faucon-oeil",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Œil",
+  "en": "Eye"
+ },
+ "full_name": {
+  "fr": "Faucon — Œil",
+  "en": "Hawk — Eye"
+ },
+ "group": [
+  {
+   "fr": "Faucon",
+   "en": "Hawk"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VI",
+  "line": 916
+ }
+}

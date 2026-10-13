@@ -1,0 +1,37 @@
+{
+ "id": "plasma-gemme-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Plasma (gemme) — De la taille d'une boule",
+  "en": "Plasma (jem) — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Plasma (gemme)",
+   "en": "Plasma (jem)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Plasma : calcédoine vert foncé, parente de l'héliotrope mais sans taches rouges."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2238
+ }
+}

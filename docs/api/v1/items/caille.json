@@ -1,0 +1,30 @@
+{
+ "id": "caille",
+ "category": "animaux",
+ "name": {
+  "fr": "Caille",
+  "en": "Quail"
+ },
+ "full_name": {
+  "fr": "Caille",
+  "en": "Quail"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1692
+ }
+}

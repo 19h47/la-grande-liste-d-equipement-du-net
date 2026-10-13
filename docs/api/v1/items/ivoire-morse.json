@@ -1,0 +1,35 @@
+{
+ "id": "ivoire-morse",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Morse",
+  "en": "Walrus"
+ },
+ "full_name": {
+  "fr": "Ivoire — Morse",
+  "en": "Ivory — Walrus"
+ },
+ "group": [
+  {
+   "fr": "Ivoire",
+   "en": "Ivory"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6-36 po",
+   "en": "6-36gp"
+  },
+  "min_cp": 600,
+  "max_cp": 3600,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2124
+ }
+}

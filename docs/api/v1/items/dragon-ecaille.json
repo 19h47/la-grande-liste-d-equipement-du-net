@@ -1,0 +1,35 @@
+{
+ "id": "dragon-ecaille",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Écaille",
+  "en": "Scale"
+ },
+ "full_name": {
+  "fr": "Dragon — Écaille",
+  "en": "Dragon — Scale"
+ },
+ "group": [
+  {
+   "fr": "Dragon",
+   "en": "Dragon"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VI",
+  "line": 910
+ }
+}

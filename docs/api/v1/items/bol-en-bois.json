@@ -1,0 +1,27 @@
+{
+ "id": "bol-en-bois",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En bois",
+  "en": "Wood"
+ },
+ "full_name": {
+  "fr": "Bol — En bois",
+  "en": "Bowl — Wood"
+ },
+ "group": [
+  {
+   "fr": "Bol",
+   "en": "Bowl"
+  }
+ ],
+ "price": null,
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2897
+ }
+}

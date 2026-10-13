@@ -1,0 +1,37 @@
+{
+ "id": "opale-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Opale — De la taille d'un raisin",
+  "en": "Opal — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Opale",
+   "en": "Opal"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Opale : silice hydratée d'un blanc laiteux ou bleuté, à reflets irisés."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2221
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "attrape-homme",
+ "category": "armes",
+ "name": {
+  "fr": "Attrape-homme",
+  "en": "Mancatcher"
+ },
+ "full_name": {
+  "fr": "Attrape-homme",
+  "en": "Mancatcher"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Attrape-homme : perche terminée par des mâchoires garnies de pointes, pour saisir et maîtriser un adversaire."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3655
+ }
+}

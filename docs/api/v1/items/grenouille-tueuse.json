@@ -1,0 +1,38 @@
+{
+ "id": "grenouille-tueuse",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Grenouille tueuse",
+  "en": "Frog, killer"
+ },
+ "full_name": {
+  "fr": "Grenouille tueuse",
+  "en": "Frog, killer"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XII",
+  "line": 1515
+ }
+}

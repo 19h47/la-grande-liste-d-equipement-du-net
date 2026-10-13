@@ -1,0 +1,33 @@
+{
+ "id": "rateau-ordinaire",
+ "category": "outils",
+ "name": {
+  "fr": "Râteau ordinaire",
+  "en": "Rake, common"
+ },
+ "full_name": {
+  "fr": "Râteau ordinaire",
+  "en": "Rake, common"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2614
+ }
+}

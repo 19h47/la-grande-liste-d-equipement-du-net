@@ -1,0 +1,38 @@
+{
+ "id": "gants-en-cuir",
+ "category": "vetements",
+ "name": {
+  "fr": "En cuir",
+  "en": "Leather"
+ },
+ "full_name": {
+  "fr": "Gants — En cuir",
+  "en": "Gloves — Leather"
+ },
+ "group": [
+  {
+   "fr": "Gants",
+   "en": "Gloves"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5-10 po",
+   "en": "5-10gp"
+  },
+  "min_cp": 500,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 169
+ }
+}

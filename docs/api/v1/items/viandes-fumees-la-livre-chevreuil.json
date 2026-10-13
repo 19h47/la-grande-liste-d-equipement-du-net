@@ -1,0 +1,38 @@
+{
+ "id": "viandes-fumees-la-livre-chevreuil",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Chevreuil",
+  "en": "Venison"
+ },
+ "full_name": {
+  "fr": "Viandes fumées, la livre — Chevreuil",
+  "en": "Smoked Meat, per lbs — Venison"
+ },
+ "group": [
+  {
+   "fr": "Viandes fumées, la livre",
+   "en": "Smoked Meat, per lbs"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "17 pa",
+   "en": "17sp"
+  },
+  "min_cp": 170,
+  "max_cp": 170,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 745
+ }
+}

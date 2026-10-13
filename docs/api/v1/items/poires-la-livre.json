@@ -1,0 +1,33 @@
+{
+ "id": "poires-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Poires, la livre",
+  "en": "Pears, per lb"
+ },
+ "full_name": {
+  "fr": "Poires, la livre",
+  "en": "Pears, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 674
+ }
+}

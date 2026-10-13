@@ -1,0 +1,30 @@
+{
+ "id": "ralentissement-du-poison",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Ralentissement du poison",
+  "en": "Slow Poison"
+ },
+ "full_name": {
+  "fr": "Ralentissement du poison",
+  "en": "Slow Poison"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3245
+ }
+}

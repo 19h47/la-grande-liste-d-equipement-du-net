@@ -1,0 +1,38 @@
+{
+ "id": "fruits-a-l-eau-de-vie-la-pinte-cerises",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Cerises",
+  "en": "Cherries"
+ },
+ "full_name": {
+  "fr": "Fruits à l'eau-de-vie, la pinte — Cerises",
+  "en": "Brandied Fruits, per Pint — Cherries"
+ },
+ "group": [
+  {
+   "fr": "Fruits à l'eau-de-vie, la pinte",
+   "en": "Brandied Fruits, per Pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 473
+ }
+}

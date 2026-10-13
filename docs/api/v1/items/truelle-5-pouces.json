@@ -1,0 +1,38 @@
+{
+ "id": "truelle-5-pouces",
+ "category": "outils",
+ "name": {
+  "fr": "5 pouces",
+  "en": "5\""
+ },
+ "full_name": {
+  "fr": "Truelle — 5 pouces",
+  "en": "Trowel — 5\""
+ },
+ "group": [
+  {
+   "fr": "Truelle",
+   "en": "Trowel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2642
+ }
+}

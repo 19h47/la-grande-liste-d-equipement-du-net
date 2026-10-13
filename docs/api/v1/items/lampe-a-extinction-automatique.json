@@ -1,0 +1,33 @@
+{
+ "id": "lampe-a-extinction-automatique",
+ "category": "eclairage",
+ "name": {
+  "fr": "Lampe à extinction automatique",
+  "en": "Self Dousing Lamp"
+ },
+ "full_name": {
+  "fr": "Lampe à extinction automatique",
+  "en": "Self Dousing Lamp"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2687
+ }
+}

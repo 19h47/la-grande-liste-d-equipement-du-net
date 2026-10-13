@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-orgues-a-bouche-flute-de-pan",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Flûte de Pan",
+  "en": "Panpipes"
+ },
+ "full_name": {
+  "fr": "Famille des orgues à bouche — Flûte de Pan",
+  "en": "Mouth Organ Family — Panpipes"
+ },
+ "group": [
+  {
+   "fr": "Famille des orgues à bouche",
+   "en": "Mouth Organ Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3421
+ }
+}

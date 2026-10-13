@@ -1,0 +1,30 @@
+{
+ "id": "faucon-dresse",
+ "category": "animaux",
+ "name": {
+  "fr": "Faucon dressé",
+  "en": "Falcon, trained"
+ },
+ "full_name": {
+  "fr": "Faucon dressé",
+  "en": "Falcon, trained"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "600-1 200 po",
+   "en": "600-1200gp"
+  },
+  "min_cp": 60000,
+  "max_cp": 120000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1664
+ }
+}

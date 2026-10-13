@@ -1,0 +1,35 @@
+{
+ "id": "jambieres-en-cuir",
+ "category": "vetements",
+ "name": {
+  "fr": "En cuir",
+  "en": "Leather"
+ },
+ "full_name": {
+  "fr": "Jambières — En cuir",
+  "en": "Leggings — Leather"
+ },
+ "group": [
+  {
+   "fr": "Jambières",
+   "en": "Leggings"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 225
+ }
+}

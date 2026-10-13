@@ -1,0 +1,33 @@
+{
+ "id": "figues-1-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Figues, 1 livre",
+  "en": "Figs, 1lbs"
+ },
+ "full_name": {
+  "fr": "Figues, 1 livre",
+  "en": "Figs, 1lbs"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 582
+ }
+}

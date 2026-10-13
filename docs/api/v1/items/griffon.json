@@ -1,0 +1,38 @@
+{
+ "id": "griffon",
+ "category": "oeufs-et-petits-de-montures",
+ "name": {
+  "fr": "Griffon",
+  "en": "Griffon"
+ },
+ "full_name": {
+  "fr": "Griffon",
+  "en": "Griffon"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "2 000 po",
+   "en": "2,000gp"
+  },
+  "min_cp": 200000,
+  "max_cp": 200000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "X",
+  "line": 1262
+ }
+}

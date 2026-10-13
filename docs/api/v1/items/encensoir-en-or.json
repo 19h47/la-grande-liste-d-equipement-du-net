@@ -1,0 +1,38 @@
+{
+ "id": "encensoir-en-or",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En or",
+  "en": "Gold"
+ },
+ "full_name": {
+  "fr": "Encensoir — En or",
+  "en": "Censer — Gold"
+ },
+ "group": [
+  {
+   "fr": "Encensoir",
+   "en": "Censer"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "9",
+  "lb": 9
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2922
+ }
+}

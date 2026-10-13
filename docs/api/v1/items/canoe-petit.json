@@ -1,0 +1,35 @@
+{
+ "id": "canoe-petit",
+ "category": "transports",
+ "name": {
+  "fr": "Petit",
+  "en": "Small"
+ },
+ "full_name": {
+  "fr": "Canoë — Petit",
+  "en": "Canoe — Small"
+ },
+ "group": [
+  {
+   "fr": "Canoë",
+   "en": "Canoe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 948
+ }
+}

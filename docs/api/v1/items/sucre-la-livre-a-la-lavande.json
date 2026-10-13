@@ -1,0 +1,38 @@
+{
+ "id": "sucre-la-livre-a-la-lavande",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "À la lavande",
+  "en": "Lavender"
+ },
+ "full_name": {
+  "fr": "Sucre, la livre — À la lavande",
+  "en": "Sugar, per lb — Lavender"
+ },
+ "group": [
+  {
+   "fr": "Sucre, la livre",
+   "en": "Sugar, per lb"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 766
+ }
+}

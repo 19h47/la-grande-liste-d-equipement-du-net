@@ -1,0 +1,40 @@
+{
+ "id": "sanicle",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Sanicle",
+  "en": "Sanicle"
+ },
+ "full_name": {
+  "fr": "Sanicle",
+  "en": "Sanicle"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Sanicle : ombellifère des sous-bois, plante vulnéraire réputée guérir toutes les plaies."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2820
+ }
+}

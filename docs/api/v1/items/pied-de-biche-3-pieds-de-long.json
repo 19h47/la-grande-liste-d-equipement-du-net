@@ -1,0 +1,33 @@
+{
+ "id": "pied-de-biche-3-pieds-de-long",
+ "category": "outils",
+ "name": {
+  "fr": "Pied-de-biche, 3 pieds de long",
+  "en": "Crowbar, 3ft long"
+ },
+ "full_name": {
+  "fr": "Pied-de-biche, 3 pieds de long",
+  "en": "Crowbar, 3ft long"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2484
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "moule-fer-de-lance",
+ "category": "outils",
+ "name": {
+  "fr": "Fer de lance",
+  "en": "Spear head"
+ },
+ "full_name": {
+  "fr": "Moule — Fer de lance",
+  "en": "Mold — Spear head"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2591
+ }
+}

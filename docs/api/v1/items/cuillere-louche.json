@@ -1,0 +1,38 @@
+{
+ "id": "cuillere-louche",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Louche",
+  "en": "Ladle"
+ },
+ "full_name": {
+  "fr": "Cuillère — Louche",
+  "en": "Spoon — Ladle"
+ },
+ "group": [
+  {
+   "fr": "Cuillère",
+   "en": "Spoon"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3114
+ }
+}

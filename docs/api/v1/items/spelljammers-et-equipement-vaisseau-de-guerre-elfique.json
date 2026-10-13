@@ -1,0 +1,38 @@
+{
+ "id": "spelljammers-et-equipement-vaisseau-de-guerre-elfique",
+ "category": "transports",
+ "name": {
+  "fr": "Vaisseau de guerre elfique",
+  "en": "Elven Man-o-war"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Vaisseau de guerre elfique",
+  "en": "Spelljammers and equipment — Elven Man-o-war"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 000 po",
+   "en": "100,000gp"
+  },
+  "min_cp": 10000000,
+  "max_cp": 10000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Vaisseau de guerre elfique : « Elven Man-o-war » en VO, grand spelljammer elfe en forme de papillon, issu d'une plante vivante."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1008
+ }
+}

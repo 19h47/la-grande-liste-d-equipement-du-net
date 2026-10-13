@@ -1,0 +1,38 @@
+{
+ "id": "chaudron-10-gallons",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "10 gallons",
+  "en": "10gal"
+ },
+ "full_name": {
+  "fr": "Chaudron — 10 gallons",
+  "en": "Cauldron — 10gal"
+ },
+ "group": [
+  {
+   "fr": "Chaudron",
+   "en": "Cauldron"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "50",
+  "lb": 50
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2918
+ }
+}

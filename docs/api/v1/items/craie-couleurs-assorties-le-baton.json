@@ -1,0 +1,38 @@
+{
+ "id": "craie-couleurs-assorties-le-baton",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Couleurs assorties, le bâton",
+  "en": "Assorted Colors, per stick"
+ },
+ "full_name": {
+  "fr": "Craie — Couleurs assorties, le bâton",
+  "en": "Chalk — Assorted Colors, per stick"
+ },
+ "group": [
+  {
+   "fr": "Craie",
+   "en": "Chalk"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pc",
+   "en": "2cp"
+  },
+  "min_cp": 2,
+  "max_cp": 2,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2927
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "ankus",
+ "category": "armes",
+ "name": {
+  "fr": "Ankus",
+  "en": "Ankus"
+ },
+ "full_name": {
+  "fr": "Ankus",
+  "en": "Ankus"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Ankus : aiguillon à crochet des cornacs indiens, servant à guider les éléphants."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3521
+ }
+}

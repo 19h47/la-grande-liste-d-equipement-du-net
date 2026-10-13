@@ -1,0 +1,38 @@
+{
+ "id": "bourse-de-ceinture-en-tissu-petite-contenance-45-po",
+ "category": "contenants",
+ "name": {
+  "fr": "De ceinture, en tissu, petite, contenance 45 po",
+  "en": "Belt, cloth-small, holds 45 gp"
+ },
+ "full_name": {
+  "fr": "Bourse — De ceinture, en tissu, petite, contenance 45 po",
+  "en": "Pouch — Belt, cloth-small, holds 45 gp"
+ },
+ "group": [
+  {
+   "fr": "Bourse",
+   "en": "Pouch"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1423
+ }
+}

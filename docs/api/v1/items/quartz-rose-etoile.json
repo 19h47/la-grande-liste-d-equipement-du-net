@@ -1,0 +1,32 @@
+{
+ "id": "quartz-rose-etoile",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Quartz rose étoilé",
+  "en": "Star Rose Quartz"
+ },
+ "full_name": {
+  "fr": "Quartz rose étoilé",
+  "en": "Star Rose Quartz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Quartz rose étoilé : quartz rose montrant, taillé en cabochon, une étoile lumineuse (astérisme)."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2293
+ }
+}

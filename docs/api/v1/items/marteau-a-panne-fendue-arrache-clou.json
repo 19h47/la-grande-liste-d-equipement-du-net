@@ -1,0 +1,40 @@
+{
+ "id": "marteau-a-panne-fendue-arrache-clou",
+ "category": "outils",
+ "name": {
+  "fr": "À panne fendue (arrache-clou)",
+  "en": "Clawed"
+ },
+ "full_name": {
+  "fr": "Marteau — À panne fendue (arrache-clou)",
+  "en": "Hammer — Clawed"
+ },
+ "group": [
+  {
+   "fr": "Marteau",
+   "en": "Hammer"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "À panne fendue (arrache-clou) : la panne est le côté du marteau opposé à la face de frappe ; fendue, elle arrache les clous."
+  ]
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2503
+ }
+}

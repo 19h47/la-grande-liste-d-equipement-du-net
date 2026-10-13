@@ -1,0 +1,30 @@
+{
+ "id": "delivrance-de-la-malediction",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Délivrance de la malédiction",
+  "en": "Remove Curse"
+ },
+ "full_name": {
+  "fr": "Délivrance de la malédiction",
+  "en": "Remove Curse"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po par niveau du lanceur de sorts",
+   "en": "100gp per level of the caster"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3243
+ }
+}

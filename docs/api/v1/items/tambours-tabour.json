@@ -1,0 +1,40 @@
+{
+ "id": "tambours-tabour",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Tabour",
+  "en": "Tabor"
+ },
+ "full_name": {
+  "fr": "Tambours — Tabour",
+  "en": "Drums — Tabor"
+ },
+ "group": [
+  {
+   "fr": "Tambours",
+   "en": "Drums"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": [
+   "Tabour : petit tambour médiéval que le musicien frappe d'une main tout en jouant de la flûte à trois trous de l'autre."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3348
+ }
+}

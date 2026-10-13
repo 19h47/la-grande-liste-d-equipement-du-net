@@ -1,0 +1,40 @@
+{
+ "id": "fourreau-d-epee-en-bois-wakizashi",
+ "category": "contenants",
+ "name": {
+  "fr": "En bois, wakizashi",
+  "en": "Wooden, Wakizashi"
+ },
+ "full_name": {
+  "fr": "Fourreau d'épée — En bois, wakizashi",
+  "en": "Scabbard, Sword — Wooden, Wakizashi"
+ },
+ "group": [
+  {
+   "fr": "Fourreau d'épée",
+   "en": "Scabbard, Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 pa",
+   "en": "25sp"
+  },
+  "min_cp": 250,
+  "max_cp": 250,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Wakizashi : sabre japonais court, porté par le samouraï avec le katana."
+  ]
+ },
+ "source": {
+  "table": "XI",
+  "line": 1452
+ }
+}

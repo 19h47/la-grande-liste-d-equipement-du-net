@@ -1,0 +1,33 @@
+{
+ "id": "buffet",
+ "category": "mobilier",
+ "name": {
+  "fr": "Buffet",
+  "en": "Buffet7gp-"
+ },
+ "full_name": {
+  "fr": "Buffet",
+  "en": "Buffet7gp-"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1568
+ }
+}

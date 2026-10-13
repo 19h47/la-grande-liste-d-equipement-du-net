@@ -1,0 +1,33 @@
+{
+ "id": "creme-aux-oeufs-le-bol",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Crème aux œufs, le bol",
+  "en": "Custard, per bowl"
+ },
+ "full_name": {
+  "fr": "Crème aux œufs, le bol",
+  "en": "Custard, per bowl"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 569
+ }
+}

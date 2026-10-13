@@ -1,0 +1,35 @@
+{
+ "id": "chinchilla-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Chinchilla — Garniture",
+  "en": "Chinchilla — Trim"
+ },
+ "group": [
+  {
+   "fr": "Chinchilla",
+   "en": "Chinchilla"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "90 po",
+   "en": "90gp"
+  },
+  "min_cp": 9000,
+  "max_cp": 9000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1119
+ }
+}

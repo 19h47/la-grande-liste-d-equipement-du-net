@@ -1,0 +1,35 @@
+{
+ "id": "moule-pointe-de-fleche",
+ "category": "outils",
+ "name": {
+  "fr": "Pointe de flèche",
+  "en": "Arrow head"
+ },
+ "full_name": {
+  "fr": "Moule — Pointe de flèche",
+  "en": "Mold — Arrow head"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2522
+ }
+}

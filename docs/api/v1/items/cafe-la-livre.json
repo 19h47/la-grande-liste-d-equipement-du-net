@@ -1,0 +1,33 @@
+{
+ "id": "cafe-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Café, la livre",
+  "en": "Coffee, per lb"
+ },
+ "full_name": {
+  "fr": "Café, la livre",
+  "en": "Coffee, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 553
+ }
+}

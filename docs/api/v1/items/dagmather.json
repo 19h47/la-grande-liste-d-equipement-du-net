@@ -1,0 +1,40 @@
+{
+ "id": "dagmather",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Dagmather",
+  "en": "Dagmather"
+ },
+ "full_name": {
+  "fr": "Dagmather",
+  "en": "Dagmather"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "28 po",
+   "en": "28gp"
+  },
+  "min_cp": 2800,
+  "max_cp": 2800,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Dagmather : plante de prairie du Net Book of Herbs, dont l'épine infusée guérit les lésions des cartilages."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2752
+ }
+}

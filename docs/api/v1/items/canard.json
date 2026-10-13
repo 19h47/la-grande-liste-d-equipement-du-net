@@ -1,0 +1,30 @@
+{
+ "id": "canard",
+ "category": "animaux",
+ "name": {
+  "fr": "Canard",
+  "en": "Duck"
+ },
+ "full_name": {
+  "fr": "Canard",
+  "en": "Duck"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1660
+ }
+}

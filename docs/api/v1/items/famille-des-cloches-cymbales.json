@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-cloches-cymbales",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Cymbales",
+  "en": "Cymbals"
+ },
+ "full_name": {
+  "fr": "Famille des cloches — Cymbales",
+  "en": "Chime family — Cymbals"
+ },
+ "group": [
+  {
+   "fr": "Famille des cloches",
+   "en": "Chime family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3319
+ }
+}

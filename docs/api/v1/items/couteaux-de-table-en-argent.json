@@ -1,0 +1,38 @@
+{
+ "id": "couteaux-de-table-en-argent",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "De table, en argent",
+  "en": "Dinner, Silver"
+ },
+ "full_name": {
+  "fr": "Couteaux — De table, en argent",
+  "en": "Knives — Dinner, Silver"
+ },
+ "group": [
+  {
+   "fr": "Couteaux",
+   "en": "Knives"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3006
+ }
+}

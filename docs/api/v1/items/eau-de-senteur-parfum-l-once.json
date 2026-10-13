@@ -1,0 +1,33 @@
+{
+ "id": "eau-de-senteur-parfum-l-once",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Eau de senteur / parfum, l'once",
+  "en": "Cologne / Perfume,per oz"
+ },
+ "full_name": {
+  "fr": "Eau de senteur / parfum, l'once",
+  "en": "Cologne / Perfume,per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1+ po",
+   "en": "1+gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": true
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2938
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "triton-de-feu",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Triton de feu",
+  "en": "Firenewt"
+ },
+ "full_name": {
+  "fr": "Triton de feu",
+  "en": "Firenewt"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "100-400 po",
+   "en": "100-400gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "200-500 po",
+   "en": "200-500gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Triton de feu : humanoïde reptilien des régions volcaniques, capable de souffler du feu ; sans rapport avec le peuple marin."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1514
+ }
+}

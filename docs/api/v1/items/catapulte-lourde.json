@@ -1,0 +1,33 @@
+{
+ "id": "catapulte-lourde",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Catapulte lourde",
+  "en": "Catapult, Heavy"
+ },
+ "full_name": {
+  "fr": "Catapulte lourde",
+  "en": "Catapult, Heavy"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": {
+  "text": "500",
+  "lb": 500
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3489
+ }
+}

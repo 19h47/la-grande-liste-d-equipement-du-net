@@ -1,0 +1,33 @@
+{
+ "id": "lame-poincon",
+ "category": "armes",
+ "name": {
+  "fr": "Lame-poinçon",
+  "en": "Punch-Cutter"
+ },
+ "full_name": {
+  "fr": "Lame-poinçon",
+  "en": "Punch-Cutter"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "9",
+  "lb": 9
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3689
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "degiik",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Degiik",
+  "en": "Degiik"
+ },
+ "full_name": {
+  "fr": "Degiik",
+  "en": "Degiik"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Degiik : plante côtière du Net Book of Herbs, dont les feuilles maintiennent en vie un mourant pendant une journée."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2756
+ }
+}

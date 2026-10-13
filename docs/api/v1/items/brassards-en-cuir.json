@@ -1,0 +1,38 @@
+{
+ "id": "brassards-en-cuir",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "En cuir",
+  "en": "Leather"
+ },
+ "full_name": {
+  "fr": "Brassards — En cuir",
+  "en": "Bracers — Leather"
+ },
+ "group": [
+  {
+   "fr": "Brassards",
+   "en": "Bracers"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1766
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "boite-cassette-coffre-fort",
+ "category": "contenants",
+ "name": {
+  "fr": "Cassette (coffre-fort)",
+  "en": "Strong"
+ },
+ "full_name": {
+  "fr": "Boîte — Cassette (coffre-fort)",
+  "en": "Box — Strong"
+ },
+ "group": [
+  {
+   "fr": "Boîte",
+   "en": "Box"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "120 po",
+   "en": "120gp"
+  },
+  "min_cp": 12000,
+  "max_cp": 12000,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1328
+ }
+}

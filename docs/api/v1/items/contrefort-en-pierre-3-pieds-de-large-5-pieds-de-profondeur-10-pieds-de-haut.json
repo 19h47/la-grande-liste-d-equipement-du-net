@@ -1,0 +1,32 @@
+{
+ "id": "contrefort-en-pierre-3-pieds-de-large-5-pieds-de-profondeur-10-pieds-de-haut",
+ "category": "constructions",
+ "name": {
+  "fr": "Contrefort en pierre, 3 pieds de large, 5 pieds de profondeur, 10 pieds de haut",
+  "en": "Buttress, stone, 3'w 5'd 10'h"
+ },
+ "full_name": {
+  "fr": "Contrefort en pierre, 3 pieds de large, 5 pieds de profondeur, 10 pieds de haut",
+  "en": "Buttress, stone, 3'w 5'd 10'h"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Contrefort : massif de maçonnerie appuyé contre un mur pour l'épauler et en contenir la poussée."
+  ]
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3270
+ }
+}

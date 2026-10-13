@@ -1,0 +1,40 @@
+{
+ "id": "souchet-elfique",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Souchet elfique",
+  "en": "Elvish Galingale"
+ },
+ "full_name": {
+  "fr": "Souchet elfique",
+  "en": "Elvish Galingale"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Souchet elfique : dans le Net Book of Herbs, racine qui réchauffe en activant la circulation, mais double les pertes de sang."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2765
+ }
+}

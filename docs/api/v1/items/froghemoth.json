@@ -1,0 +1,40 @@
+{
+ "id": "froghemoth",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Froghemoth",
+  "en": "Froghemoth"
+ },
+ "full_name": {
+  "fr": "Froghemoth",
+  "en": "Froghemoth"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "8 000 po",
+   "en": "8,000gp"
+  },
+  "min_cp": 800000,
+  "max_cp": 800000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "16 000 po",
+   "en": "16,000gp"
+  },
+  "min_cp": 1600000,
+  "max_cp": 1600000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Froghemoth : monstre amphibie géant des marais, à tentacules et à langue préhensile."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1516
+ }
+}

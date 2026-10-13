@@ -1,0 +1,40 @@
+{
+ "id": "chandelle-de-suif-20-tours-rayon-de-5-pieds",
+ "category": "eclairage",
+ "name": {
+  "fr": "De suif, 20 tours, rayon de 5 pieds",
+  "en": "Tallow, 20 Turns, 5' radius"
+ },
+ "full_name": {
+  "fr": "Chandelle — De suif, 20 tours, rayon de 5 pieds",
+  "en": "Candle — Tallow, 20 Turns, 5' radius"
+ },
+ "group": [
+  {
+   "fr": "Chandelle",
+   "en": "Candle"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "De suif : le suif est une graisse animale fondue, donnant des chandelles bon marché mais fumeuses et malodorantes."
+  ]
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2656
+ }
+}

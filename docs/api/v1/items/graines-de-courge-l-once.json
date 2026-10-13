@@ -1,0 +1,33 @@
+{
+ "id": "graines-de-courge-l-once",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Graines de courge, l'once",
+  "en": "Pumpkin seeds, per oz"
+ },
+ "full_name": {
+  "fr": "Graines de courge, l'once",
+  "en": "Pumpkin seeds, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 709
+ }
+}

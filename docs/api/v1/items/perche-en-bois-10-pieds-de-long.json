@@ -1,0 +1,38 @@
+{
+ "id": "perche-en-bois-10-pieds-de-long",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En bois, 10 pieds de long",
+  "en": "Wooden, 10' long"
+ },
+ "full_name": {
+  "fr": "Perche — En bois, 10 pieds de long",
+  "en": "Pole — Wooden, 10' long"
+ },
+ "group": [
+  {
+   "fr": "Perche",
+   "en": "Pole"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3086
+ }
+}

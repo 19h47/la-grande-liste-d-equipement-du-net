@@ -1,0 +1,35 @@
+{
+ "id": "etain-fil-le-pied",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Fil, le pied",
+  "en": "Wire, per ft"
+ },
+ "full_name": {
+  "fr": "Étain — Fil, le pied",
+  "en": "Tin — Wire, per ft"
+ },
+ "group": [
+  {
+   "fr": "Étain",
+   "en": "Tin"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2325
+ }
+}

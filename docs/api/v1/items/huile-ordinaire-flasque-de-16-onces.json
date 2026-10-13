@@ -1,0 +1,38 @@
+{
+ "id": "huile-ordinaire-flasque-de-16-onces",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Ordinaire, flasque de 16 onces",
+  "en": "Regular, flask, 16 oz"
+ },
+ "full_name": {
+  "fr": "Huile — Ordinaire, flasque de 16 onces",
+  "en": "Oil — Regular, flask, 16 oz"
+ },
+ "group": [
+  {
+   "fr": "Huile",
+   "en": "Oil"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3046
+ }
+}

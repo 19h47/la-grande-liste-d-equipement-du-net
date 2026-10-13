@@ -1,0 +1,33 @@
+{
+ "id": "armure-de-plates-en-bronze",
+ "category": "armures",
+ "name": {
+  "fr": "Armure de plates en bronze",
+  "en": "Bronze Plate"
+ },
+ "full_name": {
+  "fr": "Armure de plates en bronze",
+  "en": "Bronze Plate"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "400 po",
+   "en": "400gp"
+  },
+  "min_cp": 40000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "weight": {
+  "text": "45",
+  "lb": 45
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3758
+ }
+}

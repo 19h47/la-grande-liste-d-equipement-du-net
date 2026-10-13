@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-flutes-ocarina",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Ocarina",
+  "en": "Ocarina"
+ },
+ "full_name": {
+  "fr": "Famille des flûtes — Ocarina",
+  "en": "Flute Family — Ocarina"
+ },
+ "group": [
+  {
+   "fr": "Famille des flûtes",
+   "en": "Flute Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3373
+ }
+}

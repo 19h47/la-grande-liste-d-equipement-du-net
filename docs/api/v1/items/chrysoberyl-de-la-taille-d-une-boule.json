@@ -1,0 +1,37 @@
+{
+ "id": "chrysoberyl-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Chrysobéryl — De la taille d'une boule",
+  "en": "Chrysoberyl — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Chrysobéryl",
+   "en": "Chrysoberyl"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "700 po",
+   "en": "700gp"
+  },
+  "min_cp": 70000,
+  "max_cp": 70000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Chrysobéryl : gemme jaune verdâtre très dure, dont l'œil-de-chat et l'alexandrite sont des variétés."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2048
+ }
+}

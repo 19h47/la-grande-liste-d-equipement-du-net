@@ -1,0 +1,33 @@
+{
+ "id": "raton-laveur",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Raton laveur",
+  "en": "Raccoon"
+ },
+ "full_name": {
+  "fr": "Raton laveur",
+  "en": "Raccoon"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 710
+ }
+}

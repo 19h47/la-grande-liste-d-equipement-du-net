@@ -1,0 +1,30 @@
+{
+ "id": "tremblement-de-terre",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Tremblement de terre",
+  "en": "Earthquake"
+ },
+ "full_name": {
+  "fr": "Tremblement de terre",
+  "en": "Earthquake"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "Spécial",
+   "en": "Special"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3217
+ }
+}

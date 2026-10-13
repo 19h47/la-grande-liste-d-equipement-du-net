@@ -1,0 +1,33 @@
+{
+ "id": "pavillon-de-campement-petit-15-x-15-pieds-pour-10-personnes",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Pavillon de campement, petit, 15 x 15 pieds, pour 10 personnes",
+  "en": "Pavilion, Camping, small, 15' x 15',holds 10"
+ },
+ "full_name": {
+  "fr": "Pavillon de campement, petit, 15 x 15 pieds, pour 10 personnes",
+  "en": "Pavilion, Camping, small, 15' x 15',holds 10"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "50",
+  "lb": 50
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1780
+ }
+}

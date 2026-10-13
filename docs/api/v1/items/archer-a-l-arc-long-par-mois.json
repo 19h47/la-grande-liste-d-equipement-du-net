@@ -1,0 +1,30 @@
+{
+ "id": "archer-a-l-arc-long-par-mois",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Archer à l'arc long, par mois",
+  "en": "Longbowman, per month"
+ },
+ "full_name": {
+  "fr": "Archer à l'arc long, par mois",
+  "en": "Longbowman, per month"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2412
+ }
+}

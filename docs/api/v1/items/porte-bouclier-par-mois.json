@@ -1,0 +1,32 @@
+{
+ "id": "porte-bouclier-par-mois",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Porte-bouclier, par mois",
+  "en": "Shieldbearer, per month"
+ },
+ "full_name": {
+  "fr": "Porte-bouclier, par mois",
+  "en": "Shieldbearer, per month"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Porte-bouclier : serviteur qui porte et tient le bouclier d'un combattant, souvent un grand pavois."
+  ]
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2437
+ }
+}

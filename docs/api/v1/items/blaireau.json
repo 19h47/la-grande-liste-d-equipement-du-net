@@ -1,0 +1,30 @@
+{
+ "id": "blaireau",
+ "category": "animaux",
+ "name": {
+  "fr": "Blaireau",
+  "en": "Badger"
+ },
+ "full_name": {
+  "fr": "Blaireau",
+  "en": "Badger"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "9 pa",
+   "en": "9sp"
+  },
+  "min_cp": 90,
+  "max_cp": 90,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1630
+ }
+}

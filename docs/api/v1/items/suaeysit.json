@@ -1,0 +1,40 @@
+{
+ "id": "suaeysit",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Suaeysit",
+  "en": "Suaeysit"
+ },
+ "full_name": {
+  "fr": "Suaeysit",
+  "en": "Suaeysit"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Suaeysit : plante arctique du Net Book of Herbs qui accroît brièvement toutes les caractéristiques ; très forte dépendance."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2828
+ }
+}

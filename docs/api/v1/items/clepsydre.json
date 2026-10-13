@@ -1,0 +1,35 @@
+{
+ "id": "clepsydre",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Clepsydre",
+  "en": "Water clock"
+ },
+ "full_name": {
+  "fr": "Clepsydre",
+  "en": "Water clock"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": {
+  "text": "200",
+  "lb": 200
+ },
+ "notes": {
+  "fr": [
+   "Clepsydre : horloge à eau mesurant le temps par l'écoulement régulier d'un liquide."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3150
+ }
+}

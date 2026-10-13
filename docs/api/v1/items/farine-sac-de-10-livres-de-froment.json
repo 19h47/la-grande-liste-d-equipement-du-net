@@ -1,0 +1,38 @@
+{
+ "id": "farine-sac-de-10-livres-de-froment",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De froment",
+  "en": "Wheat"
+ },
+ "full_name": {
+  "fr": "Farine, sac de 10 livres — De froment",
+  "en": "Flour, 10lbs sack — Wheat"
+ },
+ "group": [
+  {
+   "fr": "Farine, sac de 10 livres",
+   "en": "Flour, 10lbs sack"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 585
+ }
+}

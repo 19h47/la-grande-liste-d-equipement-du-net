@@ -1,0 +1,30 @@
+{
+ "id": "furet",
+ "category": "animaux",
+ "name": {
+  "fr": "Furet",
+  "en": "Ferret"
+ },
+ "full_name": {
+  "fr": "Furet",
+  "en": "Ferret"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1665
+ }
+}

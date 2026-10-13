@@ -1,0 +1,30 @@
+{
+ "id": "souhait-mineur",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Souhait mineur",
+  "en": "Limited Wish"
+ },
+ "full_name": {
+  "fr": "Souhait mineur",
+  "en": "Limited Wish"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 000 po",
+   "en": "20,000gp"
+  },
+  "min_cp": 2000000,
+  "max_cp": 2000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3231
+ }
+}

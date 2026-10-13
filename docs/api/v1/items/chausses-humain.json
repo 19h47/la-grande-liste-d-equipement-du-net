@@ -1,0 +1,40 @@
+{
+ "id": "chausses-humain",
+ "category": "vetements",
+ "name": {
+  "fr": "Humain",
+  "en": "Human"
+ },
+ "full_name": {
+  "fr": "Chausses — Humain",
+  "en": "Hose — Human"
+ },
+ "group": [
+  {
+   "fr": "Chausses",
+   "en": "Hose"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Chausses : bas-de-jambes d'étoffe couvrant le pied et la jambe."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 196
+ }
+}

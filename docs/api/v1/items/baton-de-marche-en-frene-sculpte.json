@@ -1,0 +1,38 @@
+{
+ "id": "baton-de-marche-en-frene-sculpte",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "En frêne sculpté",
+  "en": "Ash, carved"
+ },
+ "full_name": {
+  "fr": "Bâton de marche — En frêne sculpté",
+  "en": "Walking staff — Ash, carved"
+ },
+ "group": [
+  {
+   "fr": "Bâton de marche",
+   "en": "Walking staff"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1802
+ }
+}

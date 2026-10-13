@@ -1,0 +1,38 @@
+{
+ "id": "fut-en-bois-petit-contenance-50-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En bois, petit, contenance 50 gallons",
+  "en": "Wooden, small, holds 50 galons"
+ },
+ "full_name": {
+  "fr": "Fût — En bois, petit, contenance 50 gallons",
+  "en": "Cask — Wooden, small, holds 50 galons"
+ },
+ "group": [
+  {
+   "fr": "Fût",
+   "en": "Cask"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pe",
+   "en": "3ep"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1351
+ }
+}

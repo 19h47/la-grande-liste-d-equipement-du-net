@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-cloches-triangle",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Triangle",
+  "en": "Triangle"
+ },
+ "full_name": {
+  "fr": "Famille des cloches — Triangle",
+  "en": "Chime family — Triangle"
+ },
+ "group": [
+  {
+   "fr": "Famille des cloches",
+   "en": "Chime family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3323
+ }
+}

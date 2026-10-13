@@ -1,0 +1,33 @@
+{
+ "id": "lentille-concave-convexe",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Lentille concave/convexe",
+  "en": "Lens, Concave/Convex"
+ },
+ "full_name": {
+  "fr": "Lentille concave/convexe",
+  "en": "Lens, Concave/Convex"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1865
+ }
+}

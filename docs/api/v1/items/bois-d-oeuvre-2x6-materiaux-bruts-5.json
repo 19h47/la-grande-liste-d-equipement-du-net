@@ -1,0 +1,35 @@
+{
+ "id": "bois-d-oeuvre-2x6-materiaux-bruts-5",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "2x6",
+  "en": "2x6"
+ },
+ "full_name": {
+  "fr": "Bois d'œuvre — 2x6",
+  "en": "Lumber — 2x6"
+ },
+ "group": [
+  {
+   "fr": "Bois d'œuvre",
+   "en": "Lumber"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2184
+ }
+}

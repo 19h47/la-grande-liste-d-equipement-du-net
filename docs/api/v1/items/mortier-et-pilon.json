@@ -1,0 +1,33 @@
+{
+ "id": "mortier-et-pilon",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Mortier et pilon",
+  "en": "Motar & Pestle"
+ },
+ "full_name": {
+  "fr": "Mortier et pilon",
+  "en": "Motar & Pestle"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1869
+ }
+}

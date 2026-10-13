@@ -1,0 +1,33 @@
+{
+ "id": "sac-en-tissu-minuscule",
+ "category": "contenants",
+ "name": {
+  "fr": "Sac en tissu, minuscule",
+  "en": "Bag, Cloth, tiny2cp1"
+ },
+ "full_name": {
+  "fr": "Sac en tissu, minuscule",
+  "en": "Bag, Cloth, tiny2cp1"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 pc",
+   "en": "2cp"
+  },
+  "min_cp": 2,
+  "max_cp": 2,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1286
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "radeau-ou-petit-bateau-a-quille",
+ "category": "transports",
+ "name": {
+  "fr": "Radeau ou petit bateau à quille",
+  "en": "Raft or small keelboat"
+ },
+ "full_name": {
+  "fr": "Radeau ou petit bateau à quille",
+  "en": "Raft or small keelboat"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 984
+ }
+}

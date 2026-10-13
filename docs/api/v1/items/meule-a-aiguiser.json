@@ -1,0 +1,33 @@
+{
+ "id": "meule-a-aiguiser",
+ "category": "outils",
+ "name": {
+  "fr": "Meule à aiguiser",
+  "en": "Grindstone"
+ },
+ "full_name": {
+  "fr": "Meule à aiguiser",
+  "en": "Grindstone"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "50",
+  "lb": 50
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2500
+ }
+}

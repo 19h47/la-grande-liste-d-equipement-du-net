@@ -1,0 +1,40 @@
+{
+ "id": "soupe-la-portion-d-artemies",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "D'artémies",
+  "en": "Brine Shrimp"
+ },
+ "full_name": {
+  "fr": "Soupe, la portion — D'artémies",
+  "en": "Soup, Per Serving — Brine Shrimp"
+ },
+ "group": [
+  {
+   "fr": "Soupe, la portion",
+   "en": "Soup, Per Serving"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Artémies : minuscules crustacés des eaux très salées, souvent utilisés comme nourriture."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 749
+ }
+}

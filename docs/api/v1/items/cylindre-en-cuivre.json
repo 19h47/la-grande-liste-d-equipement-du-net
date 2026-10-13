@@ -1,0 +1,38 @@
+{
+ "id": "cylindre-en-cuivre",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En cuivre",
+  "en": "copper"
+ },
+ "full_name": {
+  "fr": "Cylindre — En cuivre",
+  "en": "Cylinder — copper"
+ },
+ "group": [
+  {
+   "fr": "Cylindre",
+   "en": "Cylinder"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2957
+ }
+}

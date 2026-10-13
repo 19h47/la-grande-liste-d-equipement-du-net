@@ -1,0 +1,38 @@
+{
+ "id": "ragout-la-marmite-de-serpent",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De serpent",
+  "en": "Snake"
+ },
+ "full_name": {
+  "fr": "Ragoût, la marmite — De serpent",
+  "en": "Stew, per pot — Snake"
+ },
+ "group": [
+  {
+   "fr": "Ragoût, la marmite",
+   "en": "Stew, per pot"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 761
+ }
+}

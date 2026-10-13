@@ -1,0 +1,40 @@
+{
+ "id": "coule-en-laine-ou-en-lin",
+ "category": "vetements",
+ "name": {
+  "fr": "En laine ou en lin",
+  "en": "Wool or linen"
+ },
+ "full_name": {
+  "fr": "Coule — En laine ou en lin",
+  "en": "Cowl — Wool or linen"
+ },
+ "group": [
+  {
+   "fr": "Coule",
+   "en": "Cowl"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Coule : vêtement ample à capuchon porté par les moines."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 142
+ }
+}

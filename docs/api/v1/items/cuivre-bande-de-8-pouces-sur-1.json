@@ -1,0 +1,35 @@
+{
+ "id": "cuivre-bande-de-8-pouces-sur-1",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Bande de 8 pouces sur 1",
+  "en": "Strip, 8 by 1 in"
+ },
+ "full_name": {
+  "fr": "Cuivre — Bande de 8 pouces sur 1",
+  "en": "Copper — Strip, 8 by 1 in"
+ },
+ "group": [
+  {
+   "fr": "Cuivre",
+   "en": "Copper"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2060
+ }
+}

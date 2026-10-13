@@ -1,0 +1,42 @@
+{
+ "id": "armes-a-feu-armes-combinees-balles",
+ "category": "armes",
+ "name": {
+  "fr": "Balles",
+  "en": "Bullet"
+ },
+ "full_name": {
+  "fr": "Armes à feu — Armes combinées — Balles",
+  "en": "Firearms — Combined Weapons — Bullet"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "Armes combinées",
+   "en": "Combined Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa/10",
+   "en": "1sp/10"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "**",
+  "lb": 0
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3607
+ }
+}

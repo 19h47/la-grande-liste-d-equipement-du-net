@@ -1,0 +1,37 @@
+{
+ "id": "soldat-mercenaire-par-mois-fantassin-piquier",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Fantassin, piquier",
+  "en": "Footman, pikeman"
+ },
+ "full_name": {
+  "fr": "Soldat mercenaire, par mois — Fantassin, piquier",
+  "en": "Mercenary Soldier, per month — Footman, pikeman"
+ },
+ "group": [
+  {
+   "fr": "Soldat mercenaire, par mois",
+   "en": "Mercenary Soldier, per month"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Piquier : fantassin armé d'une pique, très longue lance servant à arrêter la cavalerie."
+  ]
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2421
+ }
+}

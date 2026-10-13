@@ -1,0 +1,40 @@
+{
+ "id": "couteaux-d-office",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "D'office",
+  "en": "Paring"
+ },
+ "full_name": {
+  "fr": "Couteaux — D'office",
+  "en": "Knives — Paring"
+ },
+ "group": [
+  {
+   "fr": "Couteaux",
+   "en": "Knives"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "D'office : se dit d'un petit couteau de cuisine à lame courte et pointue, servant à éplucher et parer les aliments."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3007
+ }
+}

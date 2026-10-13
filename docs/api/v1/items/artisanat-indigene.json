@@ -1,0 +1,30 @@
+{
+ "id": "artisanat-indigene",
+ "category": "oeuvres-d-art",
+ "name": {
+  "fr": "Artisanat indigène",
+  "en": "Native Art"
+ },
+ "full_name": {
+  "fr": "Artisanat indigène",
+  "en": "Native Art"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1-100 po",
+   "en": "1-100gp"
+  },
+  "min_cp": 100,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXX",
+  "line": 3464
+ }
+}

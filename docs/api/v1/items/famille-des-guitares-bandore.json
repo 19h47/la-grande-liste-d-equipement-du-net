@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-guitares-bandore",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Bandore",
+  "en": "Bandora"
+ },
+ "full_name": {
+  "fr": "Famille des guitares — Bandore",
+  "en": "Guitar Family — Bandora"
+ },
+ "group": [
+  {
+   "fr": "Famille des guitares",
+   "en": "Guitar Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "45 po",
+   "en": "45gp"
+  },
+  "min_cp": 4500,
+  "max_cp": 4500,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": [
+   "Bandore : grand instrument grave à cordes métalliques pincées de la Renaissance anglaise."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3379
+ }
+}

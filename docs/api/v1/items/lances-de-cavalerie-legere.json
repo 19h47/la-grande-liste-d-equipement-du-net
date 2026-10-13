@@ -1,0 +1,38 @@
+{
+ "id": "lances-de-cavalerie-legere",
+ "category": "armes",
+ "name": {
+  "fr": "Légère",
+  "en": "Light"
+ },
+ "full_name": {
+  "fr": "Lances de cavalerie — Légère",
+  "en": "Lance — Light"
+ },
+ "group": [
+  {
+   "fr": "Lances de cavalerie",
+   "en": "Lance"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3644
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "fourreau-d-epee-en-metal-cimeterre",
+ "category": "contenants",
+ "name": {
+  "fr": "En métal, cimeterre",
+  "en": "Metal, Scimitar"
+ },
+ "full_name": {
+  "fr": "Fourreau d'épée — En métal, cimeterre",
+  "en": "Scabbard, Sword — Metal, Scimitar"
+ },
+ "group": [
+  {
+   "fr": "Fourreau d'épée",
+   "en": "Scabbard, Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1450
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "pain-la-miche-de-seigle",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De seigle",
+  "en": "Rye"
+ },
+ "full_name": {
+  "fr": "Pain, la miche — De seigle",
+  "en": "Bread, per loaf — Rye"
+ },
+ "group": [
+  {
+   "fr": "Pain, la miche",
+   "en": "Bread, per loaf"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pc",
+   "en": "6cp"
+  },
+  "min_cp": 6,
+  "max_cp": 6,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 482
+ }
+}

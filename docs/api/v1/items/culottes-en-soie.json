@@ -1,0 +1,40 @@
+{
+ "id": "culottes-en-soie",
+ "category": "vetements",
+ "name": {
+  "fr": "En soie",
+  "en": "Silk"
+ },
+ "full_name": {
+  "fr": "Culottes — En soie",
+  "en": "Breeches — Silk"
+ },
+ "group": [
+  {
+   "fr": "Culottes",
+   "en": "Breeches"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Culottes : au sens ancien, vêtement masculin couvrant le corps de la taille aux genoux."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 107
+ }
+}

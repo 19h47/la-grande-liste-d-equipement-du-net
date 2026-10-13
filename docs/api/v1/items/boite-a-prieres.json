@@ -1,0 +1,38 @@
+{
+ "id": "boite-a-prieres",
+ "category": "contenants",
+ "name": {
+  "fr": "À prières",
+  "en": "Prayer"
+ },
+ "full_name": {
+  "fr": "Boîte — À prières",
+  "en": "Box — Prayer"
+ },
+ "group": [
+  {
+   "fr": "Boîte",
+   "en": "Box"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1326
+ }
+}

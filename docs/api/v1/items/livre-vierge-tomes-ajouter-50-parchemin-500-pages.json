@@ -1,0 +1,42 @@
+{
+ "id": "livre-vierge-tomes-ajouter-50-parchemin-500-pages",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "500 pages",
+  "en": "500 pages"
+ },
+ "full_name": {
+  "fr": "Livre vierge (tomes : ajouter 50 %) — Parchemin — 500 pages",
+  "en": "Book, Blank- TOMES ADD 50% — Parchment — 500 pages"
+ },
+ "group": [
+  {
+   "fr": "Livre vierge (tomes : ajouter 50 %)",
+   "en": "Book, Blank- TOMES ADD 50%"
+  },
+  {
+   "fr": "Parchemin",
+   "en": "Parchment"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 015 po",
+   "en": "1015gp"
+  },
+  "min_cp": 101500,
+  "max_cp": 101500,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1921
+ }
+}

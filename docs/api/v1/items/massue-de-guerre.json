@@ -1,0 +1,33 @@
+{
+ "id": "massue-de-guerre",
+ "category": "armes",
+ "name": {
+  "fr": "Massue de guerre",
+  "en": "War club"
+ },
+ "full_name": {
+  "fr": "Massue de guerre",
+  "en": "War club"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3733
+ }
+}

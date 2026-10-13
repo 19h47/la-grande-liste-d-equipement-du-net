@@ -1,0 +1,32 @@
+{
+ "id": "or-des-fous",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Or des fous",
+  "en": "Fools Gold"
+ },
+ "full_name": {
+  "fr": "Or des fous",
+  "en": "Fools Gold"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Or des fous : sort d'illusion donnant temporairement à des objets de cuivre ou de laiton l'apparence de l'or."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3223
+ }
+}

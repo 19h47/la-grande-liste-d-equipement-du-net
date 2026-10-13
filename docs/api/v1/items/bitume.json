@@ -1,0 +1,30 @@
+{
+ "id": "bitume",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Bitume",
+  "en": "Bitumen"
+ },
+ "full_name": {
+  "fr": "Bitume",
+  "en": "Bitumen"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2011
+ }
+}

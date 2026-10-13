@@ -1,0 +1,30 @@
+{
+ "id": "chat-de-chasse",
+ "category": "animaux",
+ "name": {
+  "fr": "Chat de chasse",
+  "en": "Cat, Hunting"
+ },
+ "full_name": {
+  "fr": "Chat de chasse",
+  "en": "Cat, Hunting"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1641
+ }
+}

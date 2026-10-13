@@ -1,0 +1,40 @@
+{
+ "id": "nightcall",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Nightcall",
+  "en": "Nightcall"
+ },
+ "full_name": {
+  "fr": "Nightcall",
+  "en": "Nightcall"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Nightcall : plante du désert du Net Book of Herbs qui aiguise les sens, mais crée une dépendance en cas d'excès."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2807
+ }
+}

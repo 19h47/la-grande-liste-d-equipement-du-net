@@ -1,0 +1,35 @@
+{
+ "id": "renard-argente-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Renard argenté — Manteau, robe, couverture",
+  "en": "Fox, silver — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Renard argenté",
+   "en": "Fox, silver"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "800 po",
+   "en": "800gp"
+  },
+  "min_cp": 80000,
+  "max_cp": 80000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1156
+ }
+}

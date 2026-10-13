@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-guitares-cistre",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Cistre",
+  "en": "Cittern"
+ },
+ "full_name": {
+  "fr": "Famille des guitares — Cistre",
+  "en": "Guitar Family — Cittern"
+ },
+ "group": [
+  {
+   "fr": "Famille des guitares",
+   "en": "Guitar Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Cistre : instrument de la Renaissance à cordes métalliques pincées et à caisse plate en forme de poire."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3377
+ }
+}

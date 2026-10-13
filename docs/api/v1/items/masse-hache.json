@@ -1,0 +1,33 @@
+{
+ "id": "masse-hache",
+ "category": "armes",
+ "name": {
+  "fr": "Masse-hache",
+  "en": "Mace-axe"
+ },
+ "full_name": {
+  "fr": "Masse-hache",
+  "en": "Mace-axe"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "weight": {
+  "text": "9",
+  "lb": 9
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3653
+ }
+}

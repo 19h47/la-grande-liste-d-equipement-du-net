@@ -1,0 +1,38 @@
+{
+ "id": "lampe-en-cuivre",
+ "category": "eclairage",
+ "name": {
+  "fr": "En cuivre",
+  "en": "Copper"
+ },
+ "full_name": {
+  "fr": "Lampe — En cuivre",
+  "en": "Lamp — Copper"
+ },
+ "group": [
+  {
+   "fr": "Lampe",
+   "en": "Lamp"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2679
+ }
+}

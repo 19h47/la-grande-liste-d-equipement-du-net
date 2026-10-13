@@ -1,0 +1,40 @@
+{
+ "id": "armes-saurials-fleau-de-dos-de-lame",
+ "category": "armes",
+ "name": {
+  "fr": "Fléau de dos-de-lame",
+  "en": "Bladeback Flail"
+ },
+ "full_name": {
+  "fr": "Armes saurials — Fléau de dos-de-lame",
+  "en": "Saurial Weapons — Bladeback Flail"
+ },
+ "group": [
+  {
+   "fr": "Armes saurials",
+   "en": "Saurial Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": [
+   "Armes saurials : armes des saurials, hommes-lézards des Royaumes oubliés ; dos-de-lame, tête-cornue et tête-crêtée en sont des sous-races."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3693
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "or-bande-de-4-pouces-sur-1",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Bande de 4 pouces sur 1",
+  "en": "Strip, 4 by 1 in"
+ },
+ "full_name": {
+  "fr": "Or — Bande de 4 pouces sur 1",
+  "en": "Gold — Strip, 4 by 1 in"
+ },
+ "group": [
+  {
+   "fr": "Or",
+   "en": "Gold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2094
+ }
+}

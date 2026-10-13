@@ -1,0 +1,38 @@
+{
+ "id": "coffre-de-qualite-grand",
+ "category": "contenants",
+ "name": {
+  "fr": "De qualité, grand",
+  "en": "Quality, large"
+ },
+ "full_name": {
+  "fr": "Coffre — De qualité, grand",
+  "en": "Chest — Quality, large"
+ },
+ "group": [
+  {
+   "fr": "Coffre",
+   "en": "Chest"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pp",
+   "en": "1pp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "40",
+  "lb": 40
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1364
+ }
+}

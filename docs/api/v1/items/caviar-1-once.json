@@ -1,0 +1,33 @@
+{
+ "id": "caviar-1-once",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Caviar, 1 once",
+  "en": "Caviar, 1oz"
+ },
+ "full_name": {
+  "fr": "Caviar, 1 once",
+  "en": "Caviar, 1oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 517
+ }
+}

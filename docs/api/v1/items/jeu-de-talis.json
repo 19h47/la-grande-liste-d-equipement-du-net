@@ -1,0 +1,35 @@
+{
+ "id": "jeu-de-talis",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Jeu de talis",
+  "en": "Talis Deck"
+ },
+ "full_name": {
+  "fr": "Jeu de talis",
+  "en": "Talis Deck"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Talis : jeu de cartes populaire des Royaumes oubliés, servant aussi à la divination."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3134
+ }
+}

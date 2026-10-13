@@ -1,0 +1,35 @@
+{
+ "id": "sauge-sclaree-l-once",
+ "category": "epices",
+ "name": {
+  "fr": "Sauge sclarée, l'once",
+  "en": "Clary, per oz"
+ },
+ "full_name": {
+  "fr": "Sauge sclarée, l'once",
+  "en": "Clary, per oz"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 pc",
+   "en": "8cp"
+  },
+  "min_cp": 8,
+  "max_cp": 8,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": [
+   "Sauge sclarée : sauge très velue à fleurs rosées, cultivée pour ses feuilles aromatiques et médicinales."
+  ]
+ },
+ "source": {
+  "table": "IV",
+  "line": 816
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "chatelet-d-entree-en-pierre",
+ "category": "constructions",
+ "name": {
+  "fr": "Châtelet d'entrée en pierre",
+  "en": "Gatehouse, stone"
+ },
+ "full_name": {
+  "fr": "Châtelet d'entrée en pierre",
+  "en": "Gatehouse, stone"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 000 po",
+   "en": "2,000gp"
+  },
+  "min_cp": 200000,
+  "max_cp": 200000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Châtelet d'entrée : bâtiment fortifié défendant la porte d'une enceinte."
+  ]
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3280
+ }
+}

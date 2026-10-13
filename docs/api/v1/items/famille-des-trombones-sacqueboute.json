@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-trombones-sacqueboute",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Sacqueboute",
+  "en": "Sackbut"
+ },
+ "full_name": {
+  "fr": "Famille des trombones — Sacqueboute",
+  "en": "Trombone family — Sackbut"
+ },
+ "group": [
+  {
+   "fr": "Famille des trombones",
+   "en": "Trombone family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "95 po",
+   "en": "95gp"
+  },
+  "min_cp": 9500,
+  "max_cp": 9500,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": [
+   "Sacqueboute : ancêtre du trombone, à coulisse, de la Renaissance."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3435
+ }
+}

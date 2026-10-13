@@ -1,0 +1,38 @@
+{
+ "id": "oeufs-d-autruche",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "D'autruche",
+  "en": "Ostrich50gp2"
+ },
+ "full_name": {
+  "fr": "Œufs — D'autruche",
+  "en": "Egg — Ostrich50gp2"
+ },
+ "group": [
+  {
+   "fr": "Œufs",
+   "en": "Egg"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 580
+ }
+}

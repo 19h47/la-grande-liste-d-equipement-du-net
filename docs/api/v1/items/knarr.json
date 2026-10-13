@@ -1,0 +1,32 @@
+{
+ "id": "knarr",
+ "category": "transports",
+ "name": {
+  "fr": "Knarr",
+  "en": "Knarr"
+ },
+ "full_name": {
+  "fr": "Knarr",
+  "en": "Knarr"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 000 po",
+   "en": "3,000gp"
+  },
+  "min_cp": 300000,
+  "max_cp": 300000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Knarr : navire marchand scandinave de l'époque viking, plus large et plus profond que les navires de guerre."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 978
+ }
+}

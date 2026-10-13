@@ -1,0 +1,32 @@
+{
+ "id": "machicoulis-en-pierre-10-pieds-de-long",
+ "category": "constructions",
+ "name": {
+  "fr": "Mâchicoulis en pierre, 10 pieds de long",
+  "en": "Machicolation, stone 10'l"
+ },
+ "full_name": {
+  "fr": "Mâchicoulis en pierre, 10 pieds de long",
+  "en": "Machicolation, stone 10'l"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Mâchicoulis : galerie de pierre en encorbellement au sommet d'un mur, percée au sol pour frapper les assaillants au pied."
+  ]
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3282
+ }
+}

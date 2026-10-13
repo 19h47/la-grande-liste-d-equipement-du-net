@@ -1,0 +1,38 @@
+{
+ "id": "armes-de-pixie-epee-de-pixie",
+ "category": "armes",
+ "name": {
+  "fr": "Épée de pixie",
+  "en": "Pixie Sword"
+ },
+ "full_name": {
+  "fr": "Armes de pixie — Épée de pixie",
+  "en": "Pixie Weapons — Pixie Sword"
+ },
+ "group": [
+  {
+   "fr": "Armes de pixie",
+   "en": "Pixie Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3669
+ }
+}

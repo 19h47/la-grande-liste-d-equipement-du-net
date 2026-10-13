@@ -1,0 +1,40 @@
+{
+ "id": "dragonne-oeufs-et-petits-de-creatures",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Dragonne",
+  "en": "Dragonne"
+ },
+ "full_name": {
+  "fr": "Dragonne",
+  "en": "Dragonne"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "3 500 po",
+   "en": "3,500gp"
+  },
+  "min_cp": 350000,
+  "max_cp": 350000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "8 500 po",
+   "en": "8,500gp"
+  },
+  "min_cp": 850000,
+  "max_cp": 850000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Dragonne : monstre mi-lion mi-dragon d'airain, dont le rugissement assourdit et affaiblit."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1506
+ }
+}

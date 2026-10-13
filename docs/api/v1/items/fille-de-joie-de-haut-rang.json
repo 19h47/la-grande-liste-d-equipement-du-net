@@ -1,0 +1,35 @@
+{
+ "id": "fille-de-joie-de-haut-rang",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "De haut rang",
+  "en": "Upper Class"
+ },
+ "full_name": {
+  "fr": "Fille de joie — De haut rang",
+  "en": "Lady of the Evening — Upper Class"
+ },
+ "group": [
+  {
+   "fr": "Fille de joie",
+   "en": "Lady of the Evening"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2408
+ }
+}

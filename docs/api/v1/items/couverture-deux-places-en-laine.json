@@ -1,0 +1,38 @@
+{
+ "id": "couverture-deux-places-en-laine",
+ "category": "tissus",
+ "name": {
+  "fr": "En laine",
+  "en": "Wool"
+ },
+ "full_name": {
+  "fr": "Couverture deux places — En laine",
+  "en": "Blanket, Double — Wool"
+ },
+ "group": [
+  {
+   "fr": "Couverture deux places",
+   "en": "Blanket, Double"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "26 pa",
+   "en": "26sp"
+  },
+  "min_cp": 260,
+  "max_cp": 260,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1716
+ }
+}

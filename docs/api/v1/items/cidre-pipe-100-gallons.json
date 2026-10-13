@@ -1,0 +1,40 @@
+{
+ "id": "cidre-pipe-100-gallons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Pipe, 100 gallons",
+  "en": "Butt, 100 gallons"
+ },
+ "full_name": {
+  "fr": "Cidre — Pipe, 100 gallons",
+  "en": "Cider — Butt, 100 gallons"
+ },
+ "group": [
+  {
+   "fr": "Cidre",
+   "en": "Cider"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "35 pa",
+   "en": "35sp"
+  },
+  "min_cp": 350,
+  "max_cp": 350,
+  "plus": false
+ },
+ "weight": {
+  "text": "400",
+  "lb": 400
+ },
+ "notes": {
+  "fr": [
+   "Pipe et foudre : grands tonneaux ; le foudre est le plus grand."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 342
+ }
+}

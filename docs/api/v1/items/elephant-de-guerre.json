@@ -1,0 +1,30 @@
+{
+ "id": "elephant-de-guerre",
+ "category": "animaux",
+ "name": {
+  "fr": "Éléphant de guerre",
+  "en": "Elephant, War"
+ },
+ "full_name": {
+  "fr": "Éléphant de guerre",
+  "en": "Elephant, War"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1663
+ }
+}

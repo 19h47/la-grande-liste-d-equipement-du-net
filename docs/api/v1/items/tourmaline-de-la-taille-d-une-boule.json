@@ -1,0 +1,37 @@
+{
+ "id": "tourmaline-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Tourmaline — De la taille d'une boule",
+  "en": "Tourmaline — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Tourmaline",
+   "en": "Tourmaline"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Tourmaline : silicate aux couleurs très variées, parfois plusieurs dans un même cristal."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2337
+ }
+}

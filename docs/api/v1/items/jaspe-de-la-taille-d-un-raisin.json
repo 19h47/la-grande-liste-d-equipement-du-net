@@ -1,0 +1,37 @@
+{
+ "id": "jaspe-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Jaspe — De la taille d'un raisin",
+  "en": "Jasper — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Jaspe",
+   "en": "Jasper"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Jaspe : calcédoine opaque très dure, aux couleurs vives souvent bigarrées."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2129
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tambours-bongos",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Bongos",
+  "en": "Bongos"
+ },
+ "full_name": {
+  "fr": "Tambours — Bongos",
+  "en": "Drums — Bongos"
+ },
+ "group": [
+  {
+   "fr": "Tambours",
+   "en": "Drums"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3339
+ }
+}

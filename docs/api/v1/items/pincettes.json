@@ -1,0 +1,33 @@
+{
+ "id": "pincettes",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Pincettes",
+  "en": "Tweezers"
+ },
+ "full_name": {
+  "fr": "Pincettes",
+  "en": "Tweezers"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1889
+ }
+}

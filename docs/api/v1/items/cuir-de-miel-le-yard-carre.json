@@ -1,0 +1,33 @@
+{
+ "id": "cuir-de-miel-le-yard-carre",
+ "category": "tissus",
+ "name": {
+  "fr": "Cuir de miel, le yard carré",
+  "en": "Honey Leather, per sq yard"
+ },
+ "full_name": {
+  "fr": "Cuir de miel, le yard carré",
+  "en": "Honey Leather, per sq yard"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1737
+ }
+}

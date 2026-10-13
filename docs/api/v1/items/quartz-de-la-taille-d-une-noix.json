@@ -1,0 +1,35 @@
+{
+ "id": "quartz-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Quartz — De la taille d'une noix",
+  "en": "Quartz — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Quartz",
+   "en": "Quartz"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2248
+ }
+}

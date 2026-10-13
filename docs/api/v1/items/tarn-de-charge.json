@@ -1,0 +1,32 @@
+{
+ "id": "tarn-de-charge",
+ "category": "transports",
+ "name": {
+  "fr": "Tarn de charge",
+  "en": "Tarn, Cargo"
+ },
+ "full_name": {
+  "fr": "Tarn de charge",
+  "en": "Tarn, Cargo"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 500 po",
+   "en": "1500gp"
+  },
+  "min_cp": 150000,
+  "max_cp": 150000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Tarn : oiseau géant servant de monture (emprunté au cycle de Gor)."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1036
+ }
+}

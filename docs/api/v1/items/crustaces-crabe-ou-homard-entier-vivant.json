@@ -1,0 +1,38 @@
+{
+ "id": "crustaces-crabe-ou-homard-entier-vivant",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Crabe ou homard entier (vivant)",
+  "en": "Whole Crab or Lobster (live)"
+ },
+ "full_name": {
+  "fr": "Crustacés — Crabe ou homard entier (vivant)",
+  "en": "Crustacea — Whole Crab or Lobster (live)"
+ },
+ "group": [
+  {
+   "fr": "Crustacés",
+   "en": "Crustacea"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 560
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "beurres-de-fruits-la-pinte-de-pomme",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De pomme",
+  "en": "Apple"
+ },
+ "full_name": {
+  "fr": "Beurres de fruits, la pinte — De pomme",
+  "en": "Butters, per pint — Apple"
+ },
+ "group": [
+  {
+   "fr": "Beurres de fruits, la pinte",
+   "en": "Butters, per pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 498
+ }
+}

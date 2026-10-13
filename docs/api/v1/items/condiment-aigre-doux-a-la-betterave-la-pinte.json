@@ -1,0 +1,33 @@
+{
+ "id": "condiment-aigre-doux-a-la-betterave-la-pinte",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Condiment aigre-doux à la betterave, la pinte",
+  "en": "Beetroot Relish, per pt"
+ },
+ "full_name": {
+  "fr": "Condiment aigre-doux à la betterave, la pinte",
+  "en": "Beetroot Relish, per pt"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 455
+ }
+}

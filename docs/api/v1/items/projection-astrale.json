@@ -1,0 +1,32 @@
+{
+ "id": "projection-astrale",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Projection astrale",
+  "en": "Astral Spell"
+ },
+ "full_name": {
+  "fr": "Projection astrale",
+  "en": "Astral Spell"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 000 po par personne",
+   "en": "2,000gp per person"
+  },
+  "min_cp": 200000,
+  "max_cp": 200000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Projection astrale : sort libérant la forme astrale du lanceur et de ses compagnons pour voyager dans le plan Astral et au-delà."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3198
+ }
+}

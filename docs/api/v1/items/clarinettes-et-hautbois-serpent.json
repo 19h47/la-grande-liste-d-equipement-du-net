@@ -1,0 +1,40 @@
+{
+ "id": "clarinettes-et-hautbois-serpent",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Serpent",
+  "en": "Serpent"
+ },
+ "full_name": {
+  "fr": "Clarinettes et hautbois — Serpent",
+  "en": "Clarinet/Oboe — Serpent"
+ },
+ "group": [
+  {
+   "fr": "Clarinettes et hautbois",
+   "en": "Clarinet/Oboe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": [
+   "Serpent : instrument à vent grave, en bois gainé de cuir, en forme de S et à embouchure de cuivre."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3331
+ }
+}

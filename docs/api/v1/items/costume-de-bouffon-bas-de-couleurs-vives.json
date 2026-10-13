@@ -1,0 +1,38 @@
+{
+ "id": "costume-de-bouffon-bas-de-couleurs-vives",
+ "category": "vetements",
+ "name": {
+  "fr": "Bas de couleurs vives",
+  "en": "Stockings, bright"
+ },
+ "full_name": {
+  "fr": "Costume de bouffon — Bas de couleurs vives",
+  "en": "Jester Clothing — Stockings, bright"
+ },
+ "group": [
+  {
+   "fr": "Costume de bouffon",
+   "en": "Jester Clothing"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 213
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "instruments-en-bois-divers-racloir",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Racloir",
+  "en": "Scraper"
+ },
+ "full_name": {
+  "fr": "Instruments en bois divers — Racloir",
+  "en": "Wooden Special — Scraper"
+ },
+ "group": [
+  {
+   "fr": "Instruments en bois divers",
+   "en": "Wooden Special"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Racloir : instrument en bois cranté que l'on racle avec une baguette."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3441
+ }
+}

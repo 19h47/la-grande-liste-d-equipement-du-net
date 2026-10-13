@@ -1,0 +1,38 @@
+{
+ "id": "matelas-une-place-de-chiffons",
+ "category": "mobilier",
+ "name": {
+  "fr": "Une place, de chiffons",
+  "en": "Single, Rag"
+ },
+ "full_name": {
+  "fr": "Matelas — Une place, de chiffons",
+  "en": "Mattress — Single, Rag"
+ },
+ "group": [
+  {
+   "fr": "Matelas",
+   "en": "Mattress"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1585
+ }
+}

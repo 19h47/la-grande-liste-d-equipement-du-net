@@ -1,0 +1,33 @@
+{
+ "id": "grain-ration-de-cheval-1-jour",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Grain, ration de cheval, 1 jour",
+  "en": "Grain, Horse Meal, 1 day"
+ },
+ "full_name": {
+  "fr": "Grain, ration de cheval, 1 jour",
+  "en": "Grain, Horse Meal, 1 day"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1055
+ }
+}

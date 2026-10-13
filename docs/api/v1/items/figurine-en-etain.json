@@ -1,0 +1,30 @@
+{
+ "id": "figurine-en-etain",
+ "category": "oeuvres-d-art",
+ "name": {
+  "fr": "Figurine en étain",
+  "en": "Figurine, Pewter"
+ },
+ "full_name": {
+  "fr": "Figurine en étain",
+  "en": "Figurine, Pewter"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2-30 pa",
+   "en": "2-30sp"
+  },
+  "min_cp": 20,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXX",
+  "line": 3462
+ }
+}

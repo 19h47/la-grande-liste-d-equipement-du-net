@@ -1,0 +1,33 @@
+{
+ "id": "riz-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Riz, la livre",
+  "en": "Rice, per lbs"
+ },
+ "full_name": {
+  "fr": "Riz, la livre",
+  "en": "Rice, per lbs"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 714
+ }
+}

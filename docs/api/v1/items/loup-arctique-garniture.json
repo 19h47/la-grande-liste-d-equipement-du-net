@@ -1,0 +1,37 @@
+{
+ "id": "loup-arctique-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Loup arctique — Garniture",
+  "en": "Winter wolf — Trim"
+ },
+ "group": [
+  {
+   "fr": "Loup arctique",
+   "en": "Winter wolf"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Loup arctique : nom français du winter wolf d'AD&D, grand loup monstrueux qui souffle le givre, et non l'animal réel."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1232
+ }
+}

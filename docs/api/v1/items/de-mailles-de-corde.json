@@ -1,0 +1,33 @@
+{
+ "id": "de-mailles-de-corde",
+ "category": "armures",
+ "name": {
+  "fr": "De mailles de corde",
+  "en": "Cord mail"
+ },
+ "full_name": {
+  "fr": "De mailles de corde",
+  "en": "Cord mail"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3783
+ }
+}

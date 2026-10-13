@@ -1,0 +1,33 @@
+{
+ "id": "gui-le-brin",
+ "category": "epices",
+ "name": {
+  "fr": "Gui, le brin",
+  "en": "Mistletoe, sprig"
+ },
+ "full_name": {
+  "fr": "Gui, le brin",
+  "en": "Mistletoe, sprig"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 839
+ }
+}

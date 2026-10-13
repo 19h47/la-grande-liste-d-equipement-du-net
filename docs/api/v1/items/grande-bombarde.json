@@ -1,0 +1,33 @@
+{
+ "id": "grande-bombarde",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Grande bombarde",
+  "en": "Bombard, Great"
+ },
+ "full_name": {
+  "fr": "Grande bombarde",
+  "en": "Bombard, Great"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "30 000 po",
+   "en": "30,000gp"
+  },
+  "min_cp": 3000000,
+  "max_cp": 3000000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1 200",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3484
+ }
+}

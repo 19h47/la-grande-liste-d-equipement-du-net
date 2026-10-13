@@ -1,0 +1,40 @@
+{
+ "id": "kuo-toa",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Kuo-toa",
+  "en": "Kui-toa"
+ },
+ "full_name": {
+  "fr": "Kuo-toa",
+  "en": "Kui-toa"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "100-300 po",
+   "en": "100-300gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "200-400 po",
+   "en": "200-400gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Kuo-toa : peuple d'hommes-poissons fanatiques vivant dans les profondeurs souterraines."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1530
+ }
+}

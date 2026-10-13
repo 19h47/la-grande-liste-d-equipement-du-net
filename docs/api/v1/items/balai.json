@@ -1,0 +1,33 @@
+{
+ "id": "balai",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Balai",
+  "en": "Broom"
+ },
+ "full_name": {
+  "fr": "Balai",
+  "en": "Broom"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2902
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "cercueil-pour-nain",
+ "category": "contenants",
+ "name": {
+  "fr": "Pour nain",
+  "en": "Dwarf"
+ },
+ "full_name": {
+  "fr": "Cercueil — Pour nain",
+  "en": "Casket — Dwarf"
+ },
+ "group": [
+  {
+   "fr": "Cercueil",
+   "en": "Casket"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1353
+ }
+}

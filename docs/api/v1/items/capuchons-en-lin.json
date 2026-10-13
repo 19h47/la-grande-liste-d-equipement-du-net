@@ -1,0 +1,38 @@
+{
+ "id": "capuchons-en-lin",
+ "category": "vetements",
+ "name": {
+  "fr": "En lin",
+  "en": "Linen"
+ },
+ "full_name": {
+  "fr": "Capuchons — En lin",
+  "en": "Hoods — Linen"
+ },
+ "group": [
+  {
+   "fr": "Capuchons",
+   "en": "Hoods"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 190
+ }
+}

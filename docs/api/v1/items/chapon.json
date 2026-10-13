@@ -1,0 +1,30 @@
+{
+ "id": "chapon",
+ "category": "animaux",
+ "name": {
+  "fr": "Chapon",
+  "en": "Capon"
+ },
+ "full_name": {
+  "fr": "Chapon",
+  "en": "Capon"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pc",
+   "en": "3cp"
+  },
+  "min_cp": 3,
+  "max_cp": 3,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1639
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "chrysoberyl-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Chrysobéryl — De la taille d'un raisin",
+  "en": "Chrysoberyl — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Chrysobéryl",
+   "en": "Chrysoberyl"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Chrysobéryl : gemme jaune verdâtre très dure, dont l'œil-de-chat et l'alexandrite sont des variétés."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2046
+ }
+}

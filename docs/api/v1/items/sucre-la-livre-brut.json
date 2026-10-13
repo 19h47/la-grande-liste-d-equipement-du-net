@@ -1,0 +1,38 @@
+{
+ "id": "sucre-la-livre-brut",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Brut",
+  "en": "Raw"
+ },
+ "full_name": {
+  "fr": "Sucre, la livre — Brut",
+  "en": "Sugar, per lb — Raw"
+ },
+ "group": [
+  {
+   "fr": "Sucre, la livre",
+   "en": "Sugar, per lb"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 770
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "moule-pince",
+ "category": "outils",
+ "name": {
+  "fr": "Pince",
+  "en": "Pliers"
+ },
+ "full_name": {
+  "fr": "Moule — Pince",
+  "en": "Mold — Pliers"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2567
+ }
+}

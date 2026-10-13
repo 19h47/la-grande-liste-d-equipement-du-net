@@ -1,0 +1,40 @@
+{
+ "id": "lezard-de-feu",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Lézard de feu",
+  "en": "Lizard, fire"
+ },
+ "full_name": {
+  "fr": "Lézard de feu",
+  "en": "Lizard, fire"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "7 500 po",
+   "en": "7,500gp"
+  },
+  "min_cp": 750000,
+  "max_cp": 750000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Lézard de feu : grand reptile rouge sans ailes, crachant le feu, surnommé « faux dragon »."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1531
+ }
+}

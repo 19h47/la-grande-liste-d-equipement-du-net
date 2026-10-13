@@ -1,0 +1,32 @@
+{
+ "id": "wemic",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Wemic",
+  "en": "Wemic"
+ },
+ "full_name": {
+  "fr": "Wemic",
+  "en": "Wemic"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "580 po",
+   "en": "580gp"
+  },
+  "min_cp": 58000,
+  "max_cp": 58000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Wemic : créature au torse humain et au corps de lion, sorte de centaure léonin."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1547
+ }
+}

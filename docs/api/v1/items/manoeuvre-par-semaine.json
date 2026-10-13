@@ -1,0 +1,35 @@
+{
+ "id": "manoeuvre-par-semaine",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Par semaine",
+  "en": "Per Week"
+ },
+ "full_name": {
+  "fr": "Manœuvre — Par semaine",
+  "en": "Laborer — Per Week"
+ },
+ "group": [
+  {
+   "fr": "Manœuvre",
+   "en": "Laborer"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2403
+ }
+}

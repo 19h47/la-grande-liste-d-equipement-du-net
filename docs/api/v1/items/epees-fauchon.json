@@ -1,0 +1,40 @@
+{
+ "id": "epees-fauchon",
+ "category": "armes",
+ "name": {
+  "fr": "Fauchon",
+  "en": "Falchion"
+ },
+ "full_name": {
+  "fr": "Épées — Fauchon",
+  "en": "Sword — Falchion"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "17 po",
+   "en": "17gp"
+  },
+  "min_cp": 1700,
+  "max_cp": 1700,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": [
+   "Fauchon : épée à un seul tranchant, à lame large s'évasant et légèrement courbe vers la pointe."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3710
+ }
+}

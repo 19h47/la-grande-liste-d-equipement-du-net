@@ -1,0 +1,40 @@
+{
+ "id": "epees-sapara",
+ "category": "armes",
+ "name": {
+  "fr": "Sapara",
+  "en": "Sapara"
+ },
+ "full_name": {
+  "fr": "Épées — Sapara",
+  "en": "Sword — Sapara"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "4",
+  "lb": 4
+ },
+ "notes": {
+  "fr": [
+   "Sapara : version plus petite du khépesh, pas plus grande qu'une épée courte."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3721
+ }
+}

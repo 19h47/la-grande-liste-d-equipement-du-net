@@ -1,0 +1,30 @@
+{
+ "id": "rossignol",
+ "category": "animaux",
+ "name": {
+  "fr": "Rossignol",
+  "en": "Nightingale"
+ },
+ "full_name": {
+  "fr": "Rossignol",
+  "en": "Nightingale"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1682
+ }
+}

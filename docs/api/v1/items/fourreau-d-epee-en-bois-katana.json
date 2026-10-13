@@ -1,0 +1,38 @@
+{
+ "id": "fourreau-d-epee-en-bois-katana",
+ "category": "contenants",
+ "name": {
+  "fr": "En bois, katana",
+  "en": "Wooden, Katana"
+ },
+ "full_name": {
+  "fr": "Fourreau d'épée — En bois, katana",
+  "en": "Scabbard, Sword — Wooden, Katana"
+ },
+ "group": [
+  {
+   "fr": "Fourreau d'épée",
+   "en": "Scabbard, Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1451
+ }
+}

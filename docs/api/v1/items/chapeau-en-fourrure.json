@@ -1,0 +1,38 @@
+{
+ "id": "chapeau-en-fourrure",
+ "category": "vetements",
+ "name": {
+  "fr": "En fourrure",
+  "en": "Fur"
+ },
+ "full_name": {
+  "fr": "Chapeau — En fourrure",
+  "en": "Hat — Fur"
+ },
+ "group": [
+  {
+   "fr": "Chapeau",
+   "en": "Hat"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 184
+ }
+}

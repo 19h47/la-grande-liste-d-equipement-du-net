@@ -1,0 +1,33 @@
+{
+ "id": "enclume-en-fer",
+ "category": "outils",
+ "name": {
+  "fr": "Enclume en fer",
+  "en": "Anvil, Iron"
+ },
+ "full_name": {
+  "fr": "Enclume en fer",
+  "en": "Anvil, Iron"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "45 po",
+   "en": "45gp"
+  },
+  "min_cp": 4500,
+  "max_cp": 4500,
+  "plus": false
+ },
+ "weight": {
+  "text": "70",
+  "lb": 70
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2455
+ }
+}

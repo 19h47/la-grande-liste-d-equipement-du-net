@@ -1,0 +1,33 @@
+{
+ "id": "gant-a-clou",
+ "category": "armes",
+ "name": {
+  "fr": "Gant à clou",
+  "en": "Glove Nail"
+ },
+ "full_name": {
+  "fr": "Gant à clou",
+  "en": "Glove Nail"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3622
+ }
+}

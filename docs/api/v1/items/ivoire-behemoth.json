@@ -1,0 +1,37 @@
+{
+ "id": "ivoire-behemoth",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Béhémoth",
+  "en": "Behemoth"
+ },
+ "full_name": {
+  "fr": "Ivoire — Béhémoth",
+  "en": "Ivory — Behemoth"
+ },
+ "group": [
+  {
+   "fr": "Ivoire",
+   "en": "Ivory"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "40-240 po",
+   "en": "40-240gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 24000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Béhémoth : dans le bestiaire AD&D, sorte d'hippopotame géant ; le nom vient du monstre biblique."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2115
+ }
+}

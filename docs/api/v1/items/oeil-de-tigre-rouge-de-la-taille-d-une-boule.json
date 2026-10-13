@@ -1,0 +1,37 @@
+{
+ "id": "oeil-de-tigre-rouge-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Œil-de-tigre (rouge) — De la taille d'une boule",
+  "en": "Tiger's eye (red) — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Œil-de-tigre (rouge)",
+   "en": "Tiger's eye (red)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "700 po",
+   "en": "700gp"
+  },
+  "min_cp": 70000,
+  "max_cp": 70000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Œil-de-tigre rouge : appelé aussi « œil-de-taureau »."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2319
+ }
+}

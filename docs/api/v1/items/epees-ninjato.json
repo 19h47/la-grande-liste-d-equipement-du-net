@@ -1,0 +1,40 @@
+{
+ "id": "epees-ninjato",
+ "category": "armes",
+ "name": {
+  "fr": "Ninjatō",
+  "en": "Ninja-to"
+ },
+ "full_name": {
+  "fr": "Épées — Ninjatō",
+  "en": "Sword — Ninja-to"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Ninjatō : sabre à lame droite d'environ 50 cm attribué aux ninjas."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3717
+ }
+}

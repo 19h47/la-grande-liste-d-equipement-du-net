@@ -1,0 +1,37 @@
+{
+ "id": "ombre-des-roches-sang",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Sang",
+  "en": "Blood"
+ },
+ "full_name": {
+  "fr": "Ombre des roches — Sang",
+  "en": "Umber Hulk — Blood"
+ },
+ "group": [
+  {
+   "fr": "Ombre des roches",
+   "en": "Umber Hulk"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Ombre des roches : monstre insectoïde fouisseur dont le regard plonge dans la confusion."
+  ]
+ },
+ "source": {
+  "table": "VI",
+  "line": 930
+ }
+}

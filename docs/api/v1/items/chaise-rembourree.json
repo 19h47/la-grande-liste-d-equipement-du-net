@@ -1,0 +1,38 @@
+{
+ "id": "chaise-rembourree",
+ "category": "mobilier",
+ "name": {
+  "fr": "Rembourrée",
+  "en": "Padded"
+ },
+ "full_name": {
+  "fr": "Chaise — Rembourrée",
+  "en": "Chair — Padded"
+ },
+ "group": [
+  {
+   "fr": "Chaise",
+   "en": "Chair"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1572
+ }
+}

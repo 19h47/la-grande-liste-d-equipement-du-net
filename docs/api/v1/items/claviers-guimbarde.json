@@ -1,0 +1,40 @@
+{
+ "id": "claviers-guimbarde",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Guimbarde",
+  "en": "Jew's harp"
+ },
+ "full_name": {
+  "fr": "Claviers — Guimbarde",
+  "en": "Keyboard — Jew's harp"
+ },
+ "group": [
+  {
+   "fr": "Claviers",
+   "en": "Keyboard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": [
+   "Guimbarde : lame métallique vibrante tenue contre les dents, dont la bouche module le son."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3414
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "pot-a-amadou-combustion-lente-2",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Pot à amadou, combustion lente 2",
+  "en": "Punk Pot, smolder 2"
+ },
+ "full_name": {
+  "fr": "Pot à amadou, combustion lente 2",
+  "en": "Punk Pot, smolder 2"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Amadou : substance spongieuse tirée d'un champignon, qui se consume lentement et sert à conserver ou à allumer le feu."
+  ]
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3094
+ }
+}

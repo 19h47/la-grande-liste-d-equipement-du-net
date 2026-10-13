@@ -1,0 +1,37 @@
+{
+ "id": "chrysoprase-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Chrysoprase — De la taille d'une boule",
+  "en": "Chrysoprase — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Chrysoprase",
+   "en": "Chrysoprase"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 500 po",
+   "en": "1,500gp"
+  },
+  "min_cp": 150000,
+  "max_cp": 150000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Chrysoprase : calcédoine vert pomme, colorée par le nickel."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2052
+ }
+}

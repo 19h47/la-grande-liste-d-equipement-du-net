@@ -1,0 +1,33 @@
+{
+ "id": "abricots-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Abricots, la livre",
+  "en": "Apricots, per lb"
+ },
+ "full_name": {
+  "fr": "Abricots, la livre",
+  "en": "Apricots, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 448
+ }
+}

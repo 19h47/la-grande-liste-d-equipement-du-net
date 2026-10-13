@@ -1,0 +1,30 @@
+{
+ "id": "batiment-en-pierre",
+ "category": "constructions",
+ "name": {
+  "fr": "Bâtiment en pierre",
+  "en": "Building, stone"
+ },
+ "full_name": {
+  "fr": "Bâtiment en pierre",
+  "en": "Building, stone"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3268
+ }
+}

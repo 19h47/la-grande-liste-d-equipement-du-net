@@ -1,0 +1,35 @@
+{
+ "id": "selle-de-bat",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Selle de bât",
+  "en": "Saddle, Pack"
+ },
+ "full_name": {
+  "fr": "Selle de bât",
+  "en": "Saddle, Pack"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "15",
+  "lb": 15
+ },
+ "notes": {
+  "fr": [
+   "Selle de bât : bât, armature posée sur le dos d'une bête de somme pour y arrimer les charges."
+  ]
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1068
+ }
+}

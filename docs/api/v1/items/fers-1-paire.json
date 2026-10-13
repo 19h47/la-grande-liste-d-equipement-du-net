@@ -1,0 +1,33 @@
+{
+ "id": "fers-1-paire",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Fers, 1 paire",
+  "en": "Shackles, 1 pair"
+ },
+ "full_name": {
+  "fr": "Fers, 1 paire",
+  "en": "Shackles, 1 pair"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3101
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "aubergines-la-livre",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Aubergines, la livre",
+  "en": "Eggplant, per lb"
+ },
+ "full_name": {
+  "fr": "Aubergines, la livre",
+  "en": "Eggplant, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 pa",
+   "en": "3sp"
+  },
+  "min_cp": 30,
+  "max_cp": 30,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 581
+ }
+}

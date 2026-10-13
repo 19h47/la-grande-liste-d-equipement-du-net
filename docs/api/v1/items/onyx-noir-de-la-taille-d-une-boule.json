@@ -1,0 +1,35 @@
+{
+ "id": "onyx-noir-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball size"
+ },
+ "full_name": {
+  "fr": "Onyx (noir) — De la taille d'une boule",
+  "en": "Onyx (black) — Ball size"
+ },
+ "group": [
+  {
+   "fr": "Onyx (noir)",
+   "en": "Onyx (black)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "700 po",
+   "en": "700gp"
+  },
+  "min_cp": 70000,
+  "max_cp": 70000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2253
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "jettisons-leger",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Léger",
+  "en": "Light"
+ },
+ "full_name": {
+  "fr": "Jettisons — Léger",
+  "en": "Jettisons — Light"
+ },
+ "group": [
+  {
+   "fr": "Jettisons",
+   "en": "Jettisons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "400 po",
+   "en": "400gp"
+  },
+  "min_cp": 40000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Jettisons : grandes catapultes de bord des vaisseaux de Spelljammer."
+  ]
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3498
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "chiens-de-salon",
+ "category": "animaux",
+ "name": {
+  "fr": "De salon",
+  "en": "Lap"
+ },
+ "full_name": {
+  "fr": "Chiens — De salon",
+  "en": "Dog — Lap"
+ },
+ "group": [
+  {
+   "fr": "Chiens",
+   "en": "Dog"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5-20 po",
+   "en": "5-20gp"
+  },
+  "min_cp": 500,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1654
+ }
+}

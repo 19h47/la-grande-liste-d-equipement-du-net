@@ -1,0 +1,33 @@
+{
+ "id": "charbon-sac-de-10-livres",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Charbon, sac de 10 livres",
+  "en": "Coal, 10lb bag"
+ },
+ "full_name": {
+  "fr": "Charbon, sac de 10 livres",
+  "en": "Coal, 10lb bag"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 pc",
+   "en": "20cp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2937
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "parfums-le-flacon-souffle-du-printemps",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Souffle du printemps",
+  "en": "Breath of Spring"
+ },
+ "full_name": {
+  "fr": "Parfums, le flacon — Souffle du printemps",
+  "en": "Perfumes, per vial — Breath of Spring"
+ },
+ "group": [
+  {
+   "fr": "Parfums, le flacon",
+   "en": "Perfumes, per vial"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3065
+ }
+}

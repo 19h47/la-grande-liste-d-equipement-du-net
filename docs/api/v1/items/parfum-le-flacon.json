@@ -1,0 +1,33 @@
+{
+ "id": "parfum-le-flacon",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Parfum, le flacon",
+  "en": "Perfume (per vial)"
+ },
+ "full_name": {
+  "fr": "Parfum, le flacon",
+  "en": "Perfume (per vial)"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3056
+ }
+}

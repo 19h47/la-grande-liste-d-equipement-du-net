@@ -1,0 +1,40 @@
+{
+ "id": "ammi",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Ammi",
+  "en": "Bishop's Weed"
+ },
+ "full_name": {
+  "fr": "Ammi",
+  "en": "Bishop's Weed"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Ammi : ombellifère méditerranéenne (« herbe aux évêques ») dont les graines servaient de remède digestif."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2729
+ }
+}

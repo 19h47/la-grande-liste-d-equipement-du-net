@@ -1,0 +1,33 @@
+{
+ "id": "sang-kauw",
+ "category": "armes",
+ "name": {
+  "fr": "Sang kauw",
+  "en": "Sang Kauw"
+ },
+ "full_name": {
+  "fr": "Sang kauw",
+  "en": "Sang Kauw"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3691
+ }
+}

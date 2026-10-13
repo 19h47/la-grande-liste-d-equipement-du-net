@@ -1,0 +1,38 @@
+{
+ "id": "pots-bouches-en-ceramique-10-onces",
+ "category": "contenants",
+ "name": {
+  "fr": "10 onces",
+  "en": "10oz"
+ },
+ "full_name": {
+  "fr": "Pots bouchés, en céramique — 10 onces",
+  "en": "Jars, Stoppered Ceramic — 10oz"
+ },
+ "group": [
+  {
+   "fr": "Pots bouchés, en céramique",
+   "en": "Jars, Stoppered Ceramic"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pc",
+   "en": "7cp"
+  },
+  "min_cp": 7,
+  "max_cp": 7,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1389
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "renard-argente-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Renard argenté — Peau",
+  "en": "Fox, silver — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Renard argenté",
+   "en": "Fox, silver"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1153
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "id": "spelljammers-et-equipement-heaume-majeur",
+ "category": "transports",
+ "name": {
+  "fr": "Heaume majeur",
+  "en": "Greater Helm"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Heaume — Heaume majeur",
+  "en": "Spelljammers and equipment — Helm — Greater Helm"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  },
+  {
+   "fr": "Heaume",
+   "en": "Helm"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "250 000 po",
+   "en": "250,000gp"
+  },
+  "min_cp": 25000000,
+  "max_cp": 25000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Heaume : siège magique qui convertit l'énergie d'un lanceur de sorts en propulsion pour un spelljammer.",
+   "Heaume majeur : version plus puissante du heaume, qui confère au navire une vitesse supérieure."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1015
+ }
+}

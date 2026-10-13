@@ -1,0 +1,35 @@
+{
+ "id": "harnois-trois-quarts",
+ "category": "armures",
+ "name": {
+  "fr": "Harnois trois-quarts",
+  "en": "Three-quarter plate"
+ },
+ "full_name": {
+  "fr": "Harnois trois-quarts",
+  "en": "Three-quarter plate"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "800 po",
+   "en": "800gp"
+  },
+  "min_cp": 80000,
+  "max_cp": 80000,
+  "plus": false
+ },
+ "weight": {
+  "text": "45",
+  "lb": 45
+ },
+ "notes": {
+  "fr": [
+   "Harnois trois-quarts : armure de plates protégeant le corps jusqu'aux genoux, sans les jambes."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3826
+ }
+}

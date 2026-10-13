@@ -1,0 +1,40 @@
+{
+ "id": "becher-moyen",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Moyen",
+  "en": "Medium"
+ },
+ "full_name": {
+  "fr": "Bécher — Moyen",
+  "en": "Beaker — Medium"
+ },
+ "group": [
+  {
+   "fr": "Bécher",
+   "en": "Beaker"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Bécher : récipient de verre cylindrique à bec verseur, utilisé en laboratoire."
+  ]
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1832
+ }
+}

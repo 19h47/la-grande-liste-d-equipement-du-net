@@ -1,0 +1,30 @@
+{
+ "id": "albatre-la-livre",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Albâtre, la livre",
+  "en": "Alabaster, per lb"
+ },
+ "full_name": {
+  "fr": "Albâtre, la livre",
+  "en": "Alabaster, per lb"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 1972
+ }
+}

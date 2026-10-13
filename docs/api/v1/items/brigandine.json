@@ -1,0 +1,35 @@
+{
+ "id": "brigandine",
+ "category": "armures",
+ "name": {
+  "fr": "Brigandine",
+  "en": "Brigandine"
+ },
+ "full_name": {
+  "fr": "Brigandine",
+  "en": "Brigandine"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "120 po",
+   "en": "120gp"
+  },
+  "min_cp": 12000,
+  "max_cp": 12000,
+  "plus": false
+ },
+ "weight": {
+  "text": "35",
+  "lb": 35
+ },
+ "notes": {
+  "fr": [
+   "Brigandine : vêtement de toile ou de cuir doublé de petites plaques de métal rivées."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3744
+ }
+}

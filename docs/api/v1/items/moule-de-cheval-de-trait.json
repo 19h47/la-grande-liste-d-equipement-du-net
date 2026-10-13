@@ -1,0 +1,39 @@
+{
+ "id": "moule-de-cheval-de-trait",
+ "category": "outils",
+ "name": {
+  "fr": "De cheval de trait",
+  "en": "Draft"
+ },
+ "full_name": {
+  "fr": "Moule — Fer à cheval — De cheval de trait",
+  "en": "Mold — Horseshoe — Draft"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Fer à cheval",
+   "en": "Horseshoe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pa",
+   "en": "2sp"
+  },
+  "min_cp": 20,
+  "max_cp": 20,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2551
+ }
+}

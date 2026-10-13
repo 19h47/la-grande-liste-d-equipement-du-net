@@ -1,0 +1,37 @@
+{
+ "id": "martre-de-pennant-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Martre de Pennant — Garniture",
+  "en": "Fisher — Trim"
+ },
+ "group": [
+  {
+   "fr": "Martre de Pennant",
+   "en": "Fisher"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Martre de Pennant : mustélidé d'Amérique du Nord apparenté à la martre, à fourrure brun sombre."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1139
+ }
+}

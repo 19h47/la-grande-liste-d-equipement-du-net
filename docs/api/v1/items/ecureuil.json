@@ -1,0 +1,33 @@
+{
+ "id": "ecureuil",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Écureuil",
+  "en": "Squirrel"
+ },
+ "full_name": {
+  "fr": "Écureuil",
+  "en": "Squirrel"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 746
+ }
+}

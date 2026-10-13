@@ -1,0 +1,38 @@
+{
+ "id": "cylindre-en-laiton",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En laiton",
+  "en": "brass"
+ },
+ "full_name": {
+  "fr": "Cylindre — En laiton",
+  "en": "Cylinder — brass"
+ },
+ "group": [
+  {
+   "fr": "Cylindre",
+   "en": "Cylinder"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "1/2",
+  "lb": 0.5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2956
+ }
+}

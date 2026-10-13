@@ -1,0 +1,38 @@
+{
+ "id": "robe-en-tissu",
+ "category": "vetements",
+ "name": {
+  "fr": "En tissu",
+  "en": "Cloth"
+ },
+ "full_name": {
+  "fr": "Robe — En tissu",
+  "en": "Robe — Cloth"
+ },
+ "group": [
+  {
+   "fr": "Robe",
+   "en": "Robe"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pe",
+   "en": "6ep"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 246
+ }
+}

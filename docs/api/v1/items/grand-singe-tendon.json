@@ -1,0 +1,35 @@
+{
+ "id": "grand-singe-tendon",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Tendon",
+  "en": "Sinew"
+ },
+ "full_name": {
+  "fr": "Grand singe — Tendon",
+  "en": "Ape — Sinew"
+ },
+ "group": [
+  {
+   "fr": "Grand singe",
+   "en": "Ape"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VI",
+  "line": 893
+ }
+}

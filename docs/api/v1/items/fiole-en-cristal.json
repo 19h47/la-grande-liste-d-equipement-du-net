@@ -1,0 +1,38 @@
+{
+ "id": "fiole-en-cristal",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "En cristal",
+  "en": "Crystal"
+ },
+ "full_name": {
+  "fr": "Fiole — En cristal",
+  "en": "Vial — Crystal"
+ },
+ "group": [
+  {
+   "fr": "Fiole",
+   "en": "Vial"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1894
+ }
+}

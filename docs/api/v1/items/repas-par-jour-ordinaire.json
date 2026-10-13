@@ -1,0 +1,38 @@
+{
+ "id": "repas-par-jour-ordinaire",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Ordinaire",
+  "en": "Common"
+ },
+ "full_name": {
+  "fr": "Repas (par jour) — Ordinaire",
+  "en": "Meals (per Day) — Common"
+ },
+ "group": [
+  {
+   "fr": "Repas (par jour)",
+   "en": "Meals (per Day)"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 374
+ }
+}

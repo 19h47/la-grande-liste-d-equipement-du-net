@@ -1,0 +1,35 @@
+{
+ "id": "grand-singe-excrements",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Excréments",
+  "en": "Dung"
+ },
+ "full_name": {
+  "fr": "Grand singe — Excréments",
+  "en": "Ape — Dung"
+ },
+ "group": [
+  {
+   "fr": "Grand singe",
+   "en": "Ape"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VI",
+  "line": 891
+ }
+}

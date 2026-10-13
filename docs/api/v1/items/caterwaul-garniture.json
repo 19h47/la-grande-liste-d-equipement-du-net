@@ -1,0 +1,37 @@
+{
+ "id": "caterwaul-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Caterwaul — Garniture",
+  "en": "Caterwaul — Trim"
+ },
+ "group": [
+  {
+   "fr": "Caterwaul",
+   "en": "Caterwaul"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "75 po",
+   "en": "75gp"
+  },
+  "min_cp": 7500,
+  "max_cp": 7500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Caterwaul : félin bipède d'AD&D au cri strident et douloureux (Fiend Folio)."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1109
+ }
+}

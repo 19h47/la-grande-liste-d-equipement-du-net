@@ -1,0 +1,40 @@
+{
+ "id": "bardes-de-cuir-ou-matelassees",
+ "category": "armures",
+ "name": {
+  "fr": "De cuir ou matelassées",
+  "en": "Leather or Padded"
+ },
+ "full_name": {
+  "fr": "Bardes — De cuir ou matelassées",
+  "en": "Barding — Leather or Padded"
+ },
+ "group": [
+  {
+   "fr": "Bardes",
+   "en": "Barding"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": {
+  "text": "60",
+  "lb": 60
+ },
+ "notes": {
+  "fr": [
+   "Bardes : armure de cheval."
+  ]
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3753
+ }
+}

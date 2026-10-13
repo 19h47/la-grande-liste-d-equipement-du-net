@@ -1,0 +1,30 @@
+{
+ "id": "ecrevisse-geante",
+ "category": "carcasses",
+ "name": {
+  "fr": "Écrevisse géante",
+  "en": "Crayfish, Giant"
+ },
+ "full_name": {
+  "fr": "Écrevisse géante",
+  "en": "Crayfish, Giant"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "41-50 po",
+   "en": "41-50gp"
+  },
+  "min_cp": 4100,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIV",
+  "line": 1607
+ }
+}

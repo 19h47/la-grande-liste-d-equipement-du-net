@@ -1,0 +1,33 @@
+{
+ "id": "cotte-de-mailles-elfique-1-armure-complete",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Cotte de mailles elfique, 1 armure complète",
+  "en": "Chain Mail, Elven, 1 suit"
+ },
+ "full_name": {
+  "fr": "Cotte de mailles elfique, 1 armure complète",
+  "en": "Chain Mail, Elven, 1 suit"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": {
+  "text": "-",
+  "lb": null
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1771
+ }
+}

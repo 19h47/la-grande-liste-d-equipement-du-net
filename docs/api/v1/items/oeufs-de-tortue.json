@@ -1,0 +1,38 @@
+{
+ "id": "oeufs-de-tortue",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De tortue",
+  "en": "Turtle"
+ },
+ "full_name": {
+  "fr": "Œufs — De tortue",
+  "en": "Egg — Turtle"
+ },
+ "group": [
+  {
+   "fr": "Œufs",
+   "en": "Egg"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 578
+ }
+}

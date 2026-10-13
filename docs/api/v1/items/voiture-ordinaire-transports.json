@@ -1,0 +1,30 @@
+{
+ "id": "voiture-ordinaire-transports",
+ "category": "transports",
+ "name": {
+  "fr": "Voiture ordinaire",
+  "en": "Carriage, Common"
+ },
+ "full_name": {
+  "fr": "Voiture ordinaire",
+  "en": "Carriage, Common"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 958
+ }
+}

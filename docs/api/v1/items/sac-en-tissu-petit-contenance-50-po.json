@@ -1,0 +1,38 @@
+{
+ "id": "sac-en-tissu-petit-contenance-50-po",
+ "category": "contenants",
+ "name": {
+  "fr": "En tissu, petit, contenance 50 po",
+  "en": "Cloth, small, hold 50gp"
+ },
+ "full_name": {
+  "fr": "Sac — En tissu, petit, contenance 50 po",
+  "en": "Sack — Cloth, small, hold 50gp"
+ },
+ "group": [
+  {
+   "fr": "Sac",
+   "en": "Sack"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "16 pc",
+   "en": "16cp"
+  },
+  "min_cp": 16,
+  "max_cp": 16,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1437
+ }
+}

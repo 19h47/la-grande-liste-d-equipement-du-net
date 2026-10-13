@@ -1,0 +1,33 @@
+{
+ "id": "cabinet",
+ "category": "mobilier",
+ "name": {
+  "fr": "Cabinet",
+  "en": "Cabinet"
+ },
+ "full_name": {
+  "fr": "Cabinet",
+  "en": "Cabinet"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3-8 po",
+   "en": "3-8gp"
+  },
+  "min_cp": 300,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "45",
+  "lb": 45
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1569
+ }
+}

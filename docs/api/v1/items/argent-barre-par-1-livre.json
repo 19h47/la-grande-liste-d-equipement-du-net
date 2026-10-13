@@ -1,0 +1,35 @@
+{
+ "id": "argent-barre-par-1-livre",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Barre, par 1 livre",
+  "en": "Bar, per 1 lb"
+ },
+ "full_name": {
+  "fr": "Argent — Barre, par 1 livre",
+  "en": "Silver — Bar, per 1 lb"
+ },
+ "group": [
+  {
+   "fr": "Argent",
+   "en": "Silver"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2282
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "fantassin-par-mois-milicien",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Milicien",
+  "en": "Militia"
+ },
+ "full_name": {
+  "fr": "Fantassin, par mois — Milicien",
+  "en": "Footman, per month — Militia"
+ },
+ "group": [
+  {
+   "fr": "Fantassin, par mois",
+   "en": "Footman, per month"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2391
+ }
+}

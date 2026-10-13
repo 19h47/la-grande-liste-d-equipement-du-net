@@ -1,0 +1,33 @@
+{
+ "id": "tamis",
+ "category": "outils",
+ "name": {
+  "fr": "Tamis",
+  "en": "Sieve"
+ },
+ "full_name": {
+  "fr": "Tamis",
+  "en": "Sieve"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2629
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "fruits-a-l-eau-de-vie-la-pinte-raisins",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Raisins",
+  "en": "Grapes"
+ },
+ "full_name": {
+  "fr": "Fruits à l'eau-de-vie, la pinte — Raisins",
+  "en": "Brandied Fruits, per Pint — Grapes"
+ },
+ "group": [
+  {
+   "fr": "Fruits à l'eau-de-vie, la pinte",
+   "en": "Brandied Fruits, per Pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 474
+ }
+}

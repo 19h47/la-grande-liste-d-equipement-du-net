@@ -1,0 +1,38 @@
+{
+ "id": "biere-blonde-1-pinte",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Blonde, 1 pinte",
+  "en": "Light, 1 pint"
+ },
+ "full_name": {
+  "fr": "Bière — Blonde, 1 pinte",
+  "en": "Beer — Light, 1 pint"
+ },
+ "group": [
+  {
+   "fr": "Bière",
+   "en": "Beer"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 330
+ }
+}

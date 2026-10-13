@@ -1,0 +1,38 @@
+{
+ "id": "casques-ferme",
+ "category": "armures",
+ "name": {
+  "fr": "Fermé",
+  "en": "Closed face"
+ },
+ "full_name": {
+  "fr": "Casques — Fermé",
+  "en": "Helmet — Closed face"
+ },
+ "group": [
+  {
+   "fr": "Casques",
+   "en": "Helmet"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3794
+ }
+}

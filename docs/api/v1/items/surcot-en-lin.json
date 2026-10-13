@@ -1,0 +1,40 @@
+{
+ "id": "surcot-en-lin",
+ "category": "vetements",
+ "name": {
+  "fr": "En lin",
+  "en": "Linen"
+ },
+ "full_name": {
+  "fr": "Surcot — En lin",
+  "en": "Surcoat — Linen"
+ },
+ "group": [
+  {
+   "fr": "Surcot",
+   "en": "Surcoat"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": [
+   "Surcot : vêtement de dessus, porté par les deux sexes par-dessus la cotte."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 279
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "bibliotheque-de-4-x-5-x-1-pieds-en-metal",
+ "category": "mobilier",
+ "name": {
+  "fr": "Bibliothèque de 4 x 5 x 1 pieds, en métal",
+  "en": "Bookcase, 4' x 5'x 1' , Metal"
+ },
+ "full_name": {
+  "fr": "Bibliothèque de 4 x 5 x 1 pieds, en métal",
+  "en": "Bookcase, 4' x 5'x 1' , Metal"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp40"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": {
+  "text": "40",
+  "lb": 40
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIII",
+  "line": 1566
+ }
+}

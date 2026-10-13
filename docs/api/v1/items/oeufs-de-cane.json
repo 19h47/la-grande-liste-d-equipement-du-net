@@ -1,0 +1,38 @@
+{
+ "id": "oeufs-de-cane",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De cane",
+  "en": "Duck"
+ },
+ "full_name": {
+  "fr": "Œufs — De cane",
+  "en": "Egg — Duck"
+ },
+ "group": [
+  {
+   "fr": "Œufs",
+   "en": "Egg"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "11 pa",
+   "en": "11sp"
+  },
+  "min_cp": 110,
+  "max_cp": 110,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 576
+ }
+}

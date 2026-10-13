@@ -1,0 +1,38 @@
+{
+ "id": "poupee-serie-des-races",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Série des races",
+  "en": "Races set"
+ },
+ "full_name": {
+  "fr": "Poupée — Série des races",
+  "en": "Doll — Races set"
+ },
+ "group": [
+  {
+   "fr": "Poupée",
+   "en": "Doll"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2966
+ }
+}

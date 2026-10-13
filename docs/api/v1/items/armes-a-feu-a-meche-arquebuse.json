@@ -1,0 +1,44 @@
+{
+ "id": "armes-a-feu-a-meche-arquebuse",
+ "category": "armes",
+ "name": {
+  "fr": "Arquebuse",
+  "en": "Arquebus"
+ },
+ "full_name": {
+  "fr": "Armes à feu — À mèche — Arquebuse",
+  "en": "Firearms — Matchlock — Arquebus"
+ },
+ "group": [
+  {
+   "fr": "Armes à feu",
+   "en": "Firearms"
+  },
+  {
+   "fr": "À mèche",
+   "en": "Matchlock"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 po",
+   "en": "50gp"
+  },
+  "min_cp": 5000,
+  "max_cp": 5000,
+  "plus": false
+ },
+ "weight": {
+  "text": "10",
+  "lb": 10
+ },
+ "notes": {
+  "fr": [
+   "À mèche : platine où une mèche lente allumée vient enflammer la poudre d'amorce."
+  ]
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3584
+ }
+}

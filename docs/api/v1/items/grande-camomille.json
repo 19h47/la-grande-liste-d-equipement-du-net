@@ -1,0 +1,40 @@
+{
+ "id": "grande-camomille",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Grande camomille",
+  "en": "Fetherfew"
+ },
+ "full_name": {
+  "fr": "Grande camomille",
+  "en": "Fetherfew"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Grande camomille : plante à petites marguerites, remède traditionnel contre les fièvres et les migraines."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2770
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "ivoire-morse-geant",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Morse géant",
+  "en": "Walrus, giant"
+ },
+ "full_name": {
+  "fr": "Ivoire — Morse géant",
+  "en": "Ivory — Walrus, giant"
+ },
+ "group": [
+  {
+   "fr": "Ivoire",
+   "en": "Ivory"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "11-66 po",
+   "en": "11-66gp"
+  },
+  "min_cp": 1100,
+  "max_cp": 6600,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2125
+ }
+}

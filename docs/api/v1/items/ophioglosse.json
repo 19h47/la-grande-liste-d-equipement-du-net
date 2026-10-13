@@ -1,0 +1,40 @@
+{
+ "id": "ophioglosse",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Ophioglosse",
+  "en": "Adder's Tongue"
+ },
+ "full_name": {
+  "fr": "Ophioglosse",
+  "en": "Adder's Tongue"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Ophioglosse : petite fougère à fronde unique en forme de langue, dite « langue-de-serpent »."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2699
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "gorgone",
+ "category": "peaux",
+ "name": {
+  "fr": "Gorgone",
+  "en": "Gorgon"
+ },
+ "full_name": {
+  "fr": "Gorgone",
+  "en": "Gorgon"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Gorgone : en AD&D, taureau couvert d'écailles de fer dont le souffle pétrifie, non la Méduse grecque."
+  ]
+ },
+ "source": {
+  "table": "V",
+  "line": 877
+ }
+}

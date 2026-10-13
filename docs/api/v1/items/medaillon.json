@@ -1,0 +1,33 @@
+{
+ "id": "medaillon",
+ "category": "vetements",
+ "name": {
+  "fr": "Médaillon",
+  "en": "Locket"
+ },
+ "full_name": {
+  "fr": "Médaillon",
+  "en": "Locket"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 227
+ }
+}

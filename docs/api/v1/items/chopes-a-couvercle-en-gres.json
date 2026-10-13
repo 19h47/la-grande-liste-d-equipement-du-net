@@ -1,0 +1,38 @@
+{
+ "id": "chopes-a-couvercle-en-gres",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En grès",
+  "en": "Stoneware"
+ },
+ "full_name": {
+  "fr": "Chopes à couvercle — En grès",
+  "en": "Steins — Stoneware"
+ },
+ "group": [
+  {
+   "fr": "Chopes à couvercle",
+   "en": "Steins"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 pa",
+   "en": "15sp"
+  },
+  "min_cp": 150,
+  "max_cp": 150,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3125
+ }
+}

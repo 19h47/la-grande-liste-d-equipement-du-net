@@ -1,0 +1,38 @@
+{
+ "id": "lampe-a-huile-en-laiton",
+ "category": "eclairage",
+ "name": {
+  "fr": "En laiton",
+  "en": "Brass"
+ },
+ "full_name": {
+  "fr": "Lampe à huile — En laiton",
+  "en": "Oil Lamp — Brass"
+ },
+ "group": [
+  {
+   "fr": "Lampe à huile",
+   "en": "Oil Lamp"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2684
+ }
+}

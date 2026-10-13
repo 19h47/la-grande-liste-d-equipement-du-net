@@ -1,0 +1,35 @@
+{
+ "id": "chinchilla-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Chinchilla — Cape, veste",
+  "en": "Chinchilla — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Chinchilla",
+   "en": "Chinchilla"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 700 po",
+   "en": "2,700gp"
+  },
+  "min_cp": 270000,
+  "max_cp": 270000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1120
+ }
+}

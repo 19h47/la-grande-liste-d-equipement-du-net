@@ -1,0 +1,37 @@
+{
+ "id": "hematite-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Hématite — De la taille d'une boule",
+  "en": "Hematite — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Hématite",
+   "en": "Hematite"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "400 po",
+   "en": "400gp"
+  },
+  "min_cp": 40000,
+  "max_cp": 40000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Hématite : oxyde de fer gris métallique, principal minerai de fer, poli en bijoux."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2106
+ }
+}

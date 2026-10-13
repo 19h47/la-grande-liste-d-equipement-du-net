@@ -1,0 +1,38 @@
+{
+ "id": "boites-en-ecorce-de-bouleau-16-onces",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "16 onces",
+  "en": "16oz"
+ },
+ "full_name": {
+  "fr": "Boîtes en écorce de bouleau — 16 onces",
+  "en": "Canisters, birchbark — 16oz"
+ },
+ "group": [
+  {
+   "fr": "Boîtes en écorce de bouleau",
+   "en": "Canisters, birchbark"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "13 pa",
+   "en": "13sp"
+  },
+  "min_cp": 130,
+  "max_cp": 130,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2916
+ }
+}

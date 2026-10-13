@@ -1,0 +1,38 @@
+{
+ "id": "flute-a-bec",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Flûte à bec",
+  "en": "Recorder"
+ },
+ "full_name": {
+  "fr": "Famille des flûtes — Flûte à bec",
+  "en": "Flute Family — Recorder"
+ },
+ "group": [
+  {
+   "fr": "Famille des flûtes",
+   "en": "Flute Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3367
+ }
+}

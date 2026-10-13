@@ -1,0 +1,37 @@
+{
+ "id": "martre-de-pennant-cape-veste",
+ "category": "fourrures",
+ "name": {
+  "fr": "Cape, veste",
+  "en": "Cape, Jacket"
+ },
+ "full_name": {
+  "fr": "Martre de Pennant — Cape, veste",
+  "en": "Fisher — Cape, Jacket"
+ },
+ "group": [
+  {
+   "fr": "Martre de Pennant",
+   "en": "Fisher"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "300 po",
+   "en": "300gp"
+  },
+  "min_cp": 30000,
+  "max_cp": 30000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Martre de Pennant : mustélidé d'Amérique du Nord apparenté à la martre, à fourrure brun sombre."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1140
+ }
+}

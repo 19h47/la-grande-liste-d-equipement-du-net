@@ -1,0 +1,40 @@
+{
+ "id": "famille-des-xylophones-glockenspiel",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Glockenspiel",
+  "en": "Glockenspiel"
+ },
+ "full_name": {
+  "fr": "Famille des xylophones — Glockenspiel",
+  "en": "Xylophone Family — Glockenspiel"
+ },
+ "group": [
+  {
+   "fr": "Famille des xylophones",
+   "en": "Xylophone Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "80 po",
+   "en": "80gp"
+  },
+  "min_cp": 8000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": [
+   "Glockenspiel : jeu de lames métalliques accordées, frappées avec des maillets."
+  ]
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3444
+ }
+}

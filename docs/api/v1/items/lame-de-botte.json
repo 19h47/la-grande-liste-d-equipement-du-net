@@ -1,0 +1,33 @@
+{
+ "id": "lame-de-botte",
+ "category": "armes",
+ "name": {
+  "fr": "Lame de botte",
+  "en": "Kick-Slasher"
+ },
+ "full_name": {
+  "fr": "Lame de botte",
+  "en": "Kick-Slasher"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3636
+ }
+}

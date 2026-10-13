@@ -1,0 +1,33 @@
+{
+ "id": "poisson-d-ornement",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Poisson d'ornement",
+  "en": "Fish, Ornamental"
+ },
+ "full_name": {
+  "fr": "Poisson d'ornement",
+  "en": "Fish, Ornamental"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 2974
+ }
+}

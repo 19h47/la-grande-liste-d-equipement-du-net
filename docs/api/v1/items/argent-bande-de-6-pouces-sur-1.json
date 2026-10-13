@@ -1,0 +1,35 @@
+{
+ "id": "argent-bande-de-6-pouces-sur-1",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Bande de 6 pouces sur 1",
+  "en": "Strip, 6 by 1 in"
+ },
+ "full_name": {
+  "fr": "Argent — Bande de 6 pouces sur 1",
+  "en": "Silver — Strip, 6 by 1 in"
+ },
+ "group": [
+  {
+   "fr": "Argent",
+   "en": "Silver"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2286
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "banderlog",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Banderlog",
+  "en": "Banderlog"
+ },
+ "full_name": {
+  "fr": "Banderlog",
+  "en": "Banderlog"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "350 po",
+   "en": "350gp"
+  },
+  "min_cp": 35000,
+  "max_cp": 35000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Banderlog : singe arboricole des jungles qui bombarde les intrus de noix de coco, inspiré des Bandar-log de Kipling."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1477
+ }
+}

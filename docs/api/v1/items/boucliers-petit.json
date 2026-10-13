@@ -1,0 +1,38 @@
+{
+ "id": "boucliers-petit",
+ "category": "armures",
+ "name": {
+  "fr": "Petit",
+  "en": "Small"
+ },
+ "full_name": {
+  "fr": "Boucliers — Petit",
+  "en": "Shield — Small"
+ },
+ "group": [
+  {
+   "fr": "Boucliers",
+   "en": "Shield"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXIII",
+  "line": 3821
+ }
+}

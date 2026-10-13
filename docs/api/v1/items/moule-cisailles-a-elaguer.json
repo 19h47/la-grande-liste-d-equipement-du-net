@@ -1,0 +1,39 @@
+{
+ "id": "moule-cisailles-a-elaguer",
+ "category": "outils",
+ "name": {
+  "fr": "À élaguer",
+  "en": "Branch"
+ },
+ "full_name": {
+  "fr": "Moule — Cisailles — À élaguer",
+  "en": "Mold — Shears — Branch"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Cisailles",
+   "en": "Shears"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "9 pa",
+   "en": "9sp"
+  },
+  "min_cp": 90,
+  "max_cp": 90,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2581
+ }
+}

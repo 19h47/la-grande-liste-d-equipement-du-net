@@ -1,0 +1,33 @@
+{
+ "id": "turban",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Turban",
+  "en": "Turban"
+ },
+ "full_name": {
+  "fr": "Turban",
+  "en": "Turban"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "5 pc",
+   "en": "5cp"
+  },
+  "min_cp": 5,
+  "max_cp": 5,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3147
+ }
+}

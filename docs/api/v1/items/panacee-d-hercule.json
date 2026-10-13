@@ -1,0 +1,40 @@
+{
+ "id": "panacee-d-hercule",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Panacée d'Hercule",
+  "en": "All-Heale"
+ },
+ "full_name": {
+  "fr": "Panacée d'Hercule",
+  "en": "All-Heale"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Panacée d'Hercule : grande ombellifère méditerranéenne (opopanax), réputée guérir les plaies ; le Net Book l'emploie en onguent accélérant la guérison."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2703
+ }
+}

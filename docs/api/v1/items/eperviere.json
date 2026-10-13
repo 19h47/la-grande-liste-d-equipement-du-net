@@ -1,0 +1,38 @@
+{
+ "id": "eperviere",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Épervière",
+  "en": "Hawkweed"
+ },
+ "full_name": {
+  "fr": "Épervière",
+  "en": "Hawkweed"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2781
+ }
+}

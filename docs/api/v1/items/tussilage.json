@@ -1,0 +1,40 @@
+{
+ "id": "tussilage",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Tussilage",
+  "en": "Coltsfoot"
+ },
+ "full_name": {
+  "fr": "Tussilage",
+  "en": "Coltsfoot"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Tussilage : plante à fleurs jaunes précoces, remède traditionnel contre la toux."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2747
+ }
+}

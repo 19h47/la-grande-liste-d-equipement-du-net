@@ -1,0 +1,37 @@
+{
+ "id": "rhodochrosite-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Rhodochrosite — De la taille d'une noix",
+  "en": "Rhodochrosite — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Rhodochrosite",
+   "en": "Rhodochrosite"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "80 po",
+   "en": "80gp"
+  },
+  "min_cp": 8000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Rhodochrosite : carbonate de manganèse rose framboise, souvent rubané."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2257
+ }
+}

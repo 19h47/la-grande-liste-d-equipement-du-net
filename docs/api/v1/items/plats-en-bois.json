@@ -1,0 +1,38 @@
+{
+ "id": "plats-en-bois",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En bois",
+  "en": "Wood"
+ },
+ "full_name": {
+  "fr": "Plats — En bois",
+  "en": "Plates — Wood"
+ },
+ "group": [
+  {
+   "fr": "Plats",
+   "en": "Plates"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 pc",
+   "en": "4cp"
+  },
+  "min_cp": 4,
+  "max_cp": 4,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3083
+ }
+}

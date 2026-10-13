@@ -1,0 +1,39 @@
+{
+ "id": "moule-tete-de-marteau-de-menuisier",
+ "category": "outils",
+ "name": {
+  "fr": "De menuisier",
+  "en": "Joiner"
+ },
+ "full_name": {
+  "fr": "Moule — Tête de marteau — De menuisier",
+  "en": "Mold — Hammerhead — Joiner"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Tête de marteau",
+   "en": "Hammerhead"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 pa",
+   "en": "7sp"
+  },
+  "min_cp": 70,
+  "max_cp": 70,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2544
+ }
+}

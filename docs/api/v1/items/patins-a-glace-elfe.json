@@ -1,0 +1,35 @@
+{
+ "id": "patins-a-glace-elfe",
+ "category": "transports",
+ "name": {
+  "fr": "Elfe",
+  "en": "Elf"
+ },
+ "full_name": {
+  "fr": "Patins à glace — Elfe",
+  "en": "Skates — Elf"
+ },
+ "group": [
+  {
+   "fr": "Patins à glace",
+   "en": "Skates"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "9 po",
+   "en": "9gp"
+  },
+  "min_cp": 900,
+  "max_cp": 900,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VII",
+  "line": 994
+ }
+}

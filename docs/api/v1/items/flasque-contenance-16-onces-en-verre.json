@@ -1,0 +1,38 @@
+{
+ "id": "flasque-contenance-16-onces-en-verre",
+ "category": "contenants",
+ "name": {
+  "fr": "En verre",
+  "en": "Glass"
+ },
+ "full_name": {
+  "fr": "Flasque, contenance 16 onces — En verre",
+  "en": "Flask, hold 16oz — Glass"
+ },
+ "group": [
+  {
+   "fr": "Flasque, contenance 16 onces",
+   "en": "Flask, hold 16oz"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 pa",
+   "en": "10sp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1380
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "yarban",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Yarban",
+  "en": "Yarban"
+ },
+ "full_name": {
+  "fr": "Yarban",
+  "en": "Yarban"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "8 pa",
+   "en": "8sp"
+  },
+  "min_cp": 80,
+  "max_cp": 80,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Yarban : plante du Net Book of Herbs (Yaran) dont le pollen inhalé double l'odorat et le goût pendant une heure."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2845
+ }
+}

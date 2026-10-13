@@ -1,0 +1,38 @@
+{
+ "id": "filtre-en-lin-le-pied-carre",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "En lin, le pied carré",
+  "en": "Linen, per sq ft"
+ },
+ "full_name": {
+  "fr": "Filtre — En lin, le pied carré",
+  "en": "Filter — Linen, per sq ft"
+ },
+ "group": [
+  {
+   "fr": "Filtre",
+   "en": "Filter"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1851
+ }
+}

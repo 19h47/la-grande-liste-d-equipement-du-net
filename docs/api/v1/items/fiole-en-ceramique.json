@@ -1,0 +1,38 @@
+{
+ "id": "fiole-en-ceramique",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "En céramique",
+  "en": "Ceramic"
+ },
+ "full_name": {
+  "fr": "Fiole — En céramique",
+  "en": "Vial — Ceramic"
+ },
+ "group": [
+  {
+   "fr": "Fiole",
+   "en": "Vial"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1892
+ }
+}

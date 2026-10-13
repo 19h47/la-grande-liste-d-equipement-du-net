@@ -1,0 +1,35 @@
+{
+ "id": "platine-bande-de-2-pouces-sur-1",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Bande de 2 pouces sur 1",
+  "en": "Strip, 2 by 1 in"
+ },
+ "full_name": {
+  "fr": "Platine — Bande de 2 pouces sur 1",
+  "en": "Platinum — Strip, 2 by 1 in"
+ },
+ "group": [
+  {
+   "fr": "Platine",
+   "en": "Platinum"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2243
+ }
+}

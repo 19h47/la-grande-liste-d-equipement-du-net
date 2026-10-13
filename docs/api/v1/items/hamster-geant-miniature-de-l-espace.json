@@ -1,0 +1,32 @@
+{
+ "id": "hamster-geant-miniature-de-l-espace",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Hamster géant miniature de l'espace",
+  "en": "Miniature Giant Space Hamster"
+ },
+ "full_name": {
+  "fr": "Hamster géant miniature de l'espace",
+  "en": "Miniature Giant Space Hamster"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Hamster géant miniature de l'espace : rongeur de l'univers Spelljammer, élevé par les gnomes bricoleurs."
+  ]
+ },
+ "source": {
+  "table": "III",
+  "line": 647
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "gariig",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Gariig",
+  "en": "Gariig"
+ },
+ "full_name": {
+  "fr": "Gariig",
+  "en": "Gariig"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "55 po",
+   "en": "55gp"
+  },
+  "min_cp": 5500,
+  "max_cp": 5500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "70 po",
+   "en": "70 gp"
+  },
+  "min_cp": 7000,
+  "max_cp": 7000,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Gariig : cactus du Net Book of Herbs qui rend tous ses PV à qui le mange dans les deux jours suivant sa cueillette."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2774
+ }
+}

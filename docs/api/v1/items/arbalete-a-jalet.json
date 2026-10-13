@@ -1,0 +1,38 @@
+{
+ "id": "arbalete-a-jalet",
+ "category": "armes",
+ "name": {
+  "fr": "Arbalète à jalet",
+  "en": "Pellet bow"
+ },
+ "full_name": {
+  "fr": "Arbalètes — Arbalète à jalet",
+  "en": "Crossbow — Pellet bow"
+ },
+ "group": [
+  {
+   "fr": "Arbalètes",
+   "en": "Crossbow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 po",
+   "en": "25gp"
+  },
+  "min_cp": 2500,
+  "max_cp": 2500,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3565
+ }
+}

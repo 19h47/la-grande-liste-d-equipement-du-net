@@ -1,0 +1,38 @@
+{
+ "id": "vin-excellent-petit-tonneau-5-gallons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Excellent, petit tonneau, 5 gallons",
+  "en": "Excellant, Small Barrel, 5 gallons"
+ },
+ "full_name": {
+  "fr": "Vin — Excellent, petit tonneau, 5 gallons",
+  "en": "Wine — Excellant, Small Barrel, 5 gallons"
+ },
+ "group": [
+  {
+   "fr": "Vin",
+   "en": "Wine"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 pa",
+   "en": "25sp"
+  },
+  "min_cp": 250,
+  "max_cp": 250,
+  "plus": false
+ },
+ "weight": {
+  "text": "20",
+  "lb": 20
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 421
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "grand-singe-poils",
+ "category": "parties-de-creatures",
+ "name": {
+  "fr": "Poils",
+  "en": "Hair"
+ },
+ "full_name": {
+  "fr": "Grand singe — Poils",
+  "en": "Ape — Hair"
+ },
+ "group": [
+  {
+   "fr": "Grand singe",
+   "en": "Ape"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VI",
+  "line": 892
+ }
+}

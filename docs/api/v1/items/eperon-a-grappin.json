@@ -1,0 +1,38 @@
+{
+ "id": "eperon-a-grappin",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Éperon à grappin",
+  "en": "Catcher"
+ },
+ "full_name": {
+  "fr": "Béliers et éperons — Éperon à grappin",
+  "en": "Ram — Catcher"
+ },
+ "group": [
+  {
+   "fr": "Béliers et éperons",
+   "en": "Ram"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "200 po",
+   "en": "200gp"
+  },
+  "min_cp": 20000,
+  "max_cp": 20000,
+  "plus": false
+ },
+ "weight": {
+  "text": "150",
+  "lb": 150
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3503
+ }
+}

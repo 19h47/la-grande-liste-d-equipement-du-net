@@ -1,0 +1,30 @@
+{
+ "id": "pigeon-voyageur",
+ "category": "animaux",
+ "name": {
+  "fr": "Pigeon voyageur",
+  "en": "Pigeon, homing"
+ },
+ "full_name": {
+  "fr": "Pigeon voyageur",
+  "en": "Pigeon, homing"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "100 po",
+   "en": "100gp"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1688
+ }
+}

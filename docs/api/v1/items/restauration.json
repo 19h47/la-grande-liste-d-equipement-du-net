@@ -1,0 +1,32 @@
+{
+ "id": "restauration",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Restauration",
+  "en": "Restoration"
+ },
+ "full_name": {
+  "fr": "Restauration",
+  "en": "Restoration"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "Spécial",
+   "en": "Special"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Restauration : sort rendant les niveaux d'expérience perdus par absorption d'énergie."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3244
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "navette",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Navette",
+  "en": "Navew"
+ },
+ "full_name": {
+  "fr": "Navette",
+  "en": "Navew"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "12 po",
+   "en": "12gp"
+  },
+  "min_cp": 1200,
+  "max_cp": 1200,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Navette : crucifère proche du colza, cultivée pour ses graines oléagineuses."
+  ]
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2806
+ }
+}

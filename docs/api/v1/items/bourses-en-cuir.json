@@ -1,0 +1,38 @@
+{
+ "id": "bourses-en-cuir",
+ "category": "vetements",
+ "name": {
+  "fr": "En cuir",
+  "en": "Leather"
+ },
+ "full_name": {
+  "fr": "Bourses — En cuir",
+  "en": "Purses — Leather"
+ },
+ "group": [
+  {
+   "fr": "Bourses",
+   "en": "Purses"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 242
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "guimauve",
+ "category": "herbes-et-poisons",
+ "name": {
+  "fr": "Guimauve",
+  "en": "Marsh Mallow"
+ },
+ "full_name": {
+  "fr": "Guimauve",
+  "en": "Marsh Mallow"
+ },
+ "group": null,
+ "price_raw": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "price_prepared": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIV",
+  "line": 2797
+ }
+}

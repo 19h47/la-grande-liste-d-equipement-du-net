@@ -1,0 +1,35 @@
+{
+ "id": "acier-limaille",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Limaille",
+  "en": "Dust"
+ },
+ "full_name": {
+  "fr": "Acier — Limaille",
+  "en": "Steel — Dust"
+ },
+ "group": [
+  {
+   "fr": "Acier",
+   "en": "Steel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2299
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "lanterne-ordinaire-rayon-de-30-pieds-dans-toutes-les-directions",
+ "category": "eclairage",
+ "name": {
+  "fr": "Ordinaire, rayon de 30 pieds, dans toutes les directions",
+  "en": "Standard, 30' radius omnidirectional"
+ },
+ "full_name": {
+  "fr": "Lanterne — Ordinaire, rayon de 30 pieds, dans toutes les directions",
+  "en": "Lantern — Standard, 30' radius omnidirectional"
+ },
+ "group": [
+  {
+   "fr": "Lanterne",
+   "en": "Lantern"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 po",
+   "en": "1gp"
+  },
+  "min_cp": 100,
+  "max_cp": 100,
+  "plus": false
+ },
+ "weight": {
+  "text": "50",
+  "lb": 50
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIII",
+  "line": 2676
+ }
+}

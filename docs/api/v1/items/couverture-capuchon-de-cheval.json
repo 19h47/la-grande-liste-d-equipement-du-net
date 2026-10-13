@@ -1,0 +1,33 @@
+{
+ "id": "couverture-capuchon-de-cheval",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Couverture / capuchon de cheval",
+  "en": "Horse Blanket / Hood"
+ },
+ "full_name": {
+  "fr": "Couverture / capuchon de cheval",
+  "en": "Horse Blanket / Hood"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "6",
+  "lb": 6
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1065
+ }
+}

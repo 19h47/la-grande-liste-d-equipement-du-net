@@ -1,0 +1,30 @@
+{
+ "id": "tour-de-siege",
+ "category": "armes-de-siege",
+ "name": {
+  "fr": "Tour de siège",
+  "en": "Seige Tower"
+ },
+ "full_name": {
+  "fr": "Tour de siège",
+  "en": "Seige Tower"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "800 po",
+   "en": "800gp"
+  },
+  "min_cp": 80000,
+  "max_cp": 80000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXI",
+  "line": 3505
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "tenue-complete-en-laine-elfe",
+ "category": "vetements",
+ "name": {
+  "fr": "Elfe",
+  "en": "Elf"
+ },
+ "full_name": {
+  "fr": "Tenue complète, en laine — Elfe",
+  "en": "Fullcloth, wool — Elf"
+ },
+ "group": [
+  {
+   "fr": "Tenue complète, en laine",
+   "en": "Fullcloth, wool"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 162
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "craie",
+ "category": "materiel-de-scribe",
+ "name": {
+  "fr": "Craie",
+  "en": "Chalk"
+ },
+ "full_name": {
+  "fr": "Craie",
+  "en": "Chalk"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XIX",
+  "line": 1946
+ }
+}

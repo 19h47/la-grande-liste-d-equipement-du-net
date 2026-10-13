@@ -1,0 +1,40 @@
+{
+ "id": "becher-petit",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Petit",
+  "en": "Small"
+ },
+ "full_name": {
+  "fr": "Bécher — Petit",
+  "en": "Beaker — Small"
+ },
+ "group": [
+  {
+   "fr": "Bécher",
+   "en": "Beaker"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Bécher : récipient de verre cylindrique à bec verseur, utilisé en laboratoire."
+  ]
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1831
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "id": "moule-epee-batarde-a-une-main",
+ "category": "outils",
+ "name": {
+  "fr": "Bâtarde (à une main)",
+  "en": "Bastard (one Handed)"
+ },
+ "full_name": {
+  "fr": "Moule — Épée — Bâtarde (à une main)",
+  "en": "Mold — Sword — Bastard (one Handed)"
+ },
+ "group": [
+  {
+   "fr": "Moule",
+   "en": "Mold"
+  },
+  {
+   "fr": "Épée",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "15 po",
+   "en": "15gp"
+  },
+  "min_cp": 1500,
+  "max_cp": 1500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2595
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "epee-hache",
+ "category": "armes",
+ "name": {
+  "fr": "Épée-hache",
+  "en": "Sword-axe"
+ },
+ "full_name": {
+  "fr": "Épées — Épée-hache",
+  "en": "Sword — Sword-axe"
+ },
+ "group": [
+  {
+   "fr": "Épées",
+   "en": "Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "12",
+  "lb": 12
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3725
+ }
+}

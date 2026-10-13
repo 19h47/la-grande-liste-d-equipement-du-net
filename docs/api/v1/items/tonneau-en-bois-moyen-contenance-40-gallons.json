@@ -1,0 +1,38 @@
+{
+ "id": "tonneau-en-bois-moyen-contenance-40-gallons",
+ "category": "contenants",
+ "name": {
+  "fr": "En bois, moyen, contenance 40 gallons",
+  "en": "Wooden, medium, holds 40 gallons"
+ },
+ "full_name": {
+  "fr": "Tonneau — En bois, moyen, contenance 40 gallons",
+  "en": "Barrel — Wooden, medium, holds 40 gallons"
+ },
+ "group": [
+  {
+   "fr": "Tonneau",
+   "en": "Barrel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 po",
+   "en": "4gp"
+  },
+  "min_cp": 400,
+  "max_cp": 400,
+  "plus": false
+ },
+ "weight": {
+  "text": "40",
+  "lb": 40
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1293
+ }
+}

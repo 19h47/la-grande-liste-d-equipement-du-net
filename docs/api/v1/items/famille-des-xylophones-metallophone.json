@@ -1,0 +1,38 @@
+{
+ "id": "famille-des-xylophones-metallophone",
+ "category": "coin-du-barde",
+ "name": {
+  "fr": "Métallophone",
+  "en": "Metallophone"
+ },
+ "full_name": {
+  "fr": "Famille des xylophones — Métallophone",
+  "en": "Xylophone Family — Metallophone"
+ },
+ "group": [
+  {
+   "fr": "Famille des xylophones",
+   "en": "Xylophone Family"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "95 po",
+   "en": "95gp"
+  },
+  "min_cp": 9500,
+  "max_cp": 9500,
+  "plus": false
+ },
+ "weight": {
+  "text": "35",
+  "lb": 35
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXIX",
+  "line": 3445
+ }
+}

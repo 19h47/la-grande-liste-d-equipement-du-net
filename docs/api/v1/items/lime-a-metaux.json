@@ -1,0 +1,33 @@
+{
+ "id": "lime-a-metaux",
+ "category": "outils",
+ "name": {
+  "fr": "Lime à métaux",
+  "en": "File, Metal"
+ },
+ "full_name": {
+  "fr": "Lime à métaux",
+  "en": "File, Metal"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXII",
+  "line": 2497
+ }
+}

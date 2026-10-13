@@ -1,0 +1,37 @@
+{
+ "id": "rhodochrosite-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Rhodochrosite — De la taille d'une boule",
+  "en": "Rhodochrosite — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Rhodochrosite",
+   "en": "Rhodochrosite"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "500 po",
+   "en": "500gp"
+  },
+  "min_cp": 50000,
+  "max_cp": 50000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Rhodochrosite : carbonate de manganèse rose framboise, souvent rubané."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2258
+ }
+}

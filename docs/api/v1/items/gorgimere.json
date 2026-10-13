@@ -1,0 +1,32 @@
+{
+ "id": "gorgimere",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Gorgimère",
+  "en": "Gorgimera"
+ },
+ "full_name": {
+  "fr": "Gorgimère",
+  "en": "Gorgimera"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "8 500 po",
+   "en": "8,500gp"
+  },
+  "min_cp": 850000,
+  "max_cp": 850000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Gorgimère : variante de la chimère portant des têtes de lion, de dragon et de gorgone."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1517
+ }
+}

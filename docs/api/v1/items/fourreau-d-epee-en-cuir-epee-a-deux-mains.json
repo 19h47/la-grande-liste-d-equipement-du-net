@@ -1,0 +1,38 @@
+{
+ "id": "fourreau-d-epee-en-cuir-epee-a-deux-mains",
+ "category": "contenants",
+ "name": {
+  "fr": "En cuir, épée à deux mains",
+  "en": "Leather, Two-handed"
+ },
+ "full_name": {
+  "fr": "Fourreau d'épée — En cuir, épée à deux mains",
+  "en": "Scabbard, Sword — Leather, Two-handed"
+ },
+ "group": [
+  {
+   "fr": "Fourreau d'épée",
+   "en": "Scabbard, Sword"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "25 pa",
+   "en": "25sp"
+  },
+  "min_cp": 250,
+  "max_cp": 250,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XI",
+  "line": 1448
+ }
+}

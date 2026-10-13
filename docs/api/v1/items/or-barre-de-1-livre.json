@@ -1,0 +1,35 @@
+{
+ "id": "or-barre-de-1-livre",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Barre de 1 livre",
+  "en": "Bar, 1lb"
+ },
+ "full_name": {
+  "fr": "Or — Barre de 1 livre",
+  "en": "Gold — Bar, 1lb"
+ },
+ "group": [
+  {
+   "fr": "Or",
+   "en": "Gold"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "11 po",
+   "en": "11gp"
+  },
+  "min_cp": 1100,
+  "max_cp": 1100,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2090
+ }
+}

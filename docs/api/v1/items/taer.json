@@ -1,0 +1,32 @@
+{
+ "id": "taer",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Taer",
+  "en": "Taer"
+ },
+ "full_name": {
+  "fr": "Taer",
+  "en": "Taer"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "360 po",
+   "en": "360gp"
+  },
+  "min_cp": 36000,
+  "max_cp": 36000,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Taer : créature simiesque à fourrure blanche des cavernes glacées, souvent asservie par des maîtres maléfiques (Monster Manual II)."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1542
+ }
+}

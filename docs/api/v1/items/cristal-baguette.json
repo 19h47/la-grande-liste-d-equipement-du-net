@@ -1,0 +1,35 @@
+{
+ "id": "cristal-baguette",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Baguette",
+  "en": "Rod"
+ },
+ "full_name": {
+  "fr": "Cristal — Baguette",
+  "en": "Crystal — Rod"
+ },
+ "group": [
+  {
+   "fr": "Cristal",
+   "en": "Crystal"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XX",
+  "line": 2068
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "assiette-en-ceramique",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "En céramique",
+  "en": "Ceramic"
+ },
+ "full_name": {
+  "fr": "Assiette — En céramique",
+  "en": "Plate — Ceramic"
+ },
+ "group": [
+  {
+   "fr": "Assiette",
+   "en": "Plate"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pc",
+   "en": "6cp"
+  },
+  "min_cp": 6,
+  "max_cp": 6,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3076
+ }
+}

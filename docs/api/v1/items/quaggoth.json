@@ -1,0 +1,32 @@
+{
+ "id": "quaggoth",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Quaggoth",
+  "en": "Quaggoth"
+ },
+ "full_name": {
+  "fr": "Quaggoth",
+  "en": "Quaggoth"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "125 po",
+   "en": "125gp"
+  },
+  "min_cp": 12500,
+  "max_cp": 12500,
+  "plus": false
+ },
+ "young": null,
+ "notes": {
+  "fr": [
+   "Quaggoth : humanoïde souterrain à fourrure blanche, d'allure ursine, souvent asservi par les drows (Fiend Folio)."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1538
+ }
+}

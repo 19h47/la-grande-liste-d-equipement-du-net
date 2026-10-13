@@ -1,0 +1,33 @@
+{
+ "id": "oreiller-de-plumes",
+ "category": "tissus",
+ "name": {
+  "fr": "Oreiller de plumes",
+  "en": "Pillow, Feather"
+ },
+ "full_name": {
+  "fr": "Oreiller de plumes",
+  "en": "Pillow, Feather"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1-2 po",
+   "en": "1-2gp"
+  },
+  "min_cp": 100,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVI",
+  "line": 1738
+ }
+}

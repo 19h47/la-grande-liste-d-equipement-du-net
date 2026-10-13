@@ -1,0 +1,40 @@
+{
+ "id": "evermead-bouteille",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Bouteille",
+  "en": "Bottle"
+ },
+ "full_name": {
+  "fr": "Evermead — Bouteille",
+  "en": "Evermead — Bottle"
+ },
+ "group": [
+  {
+   "fr": "Evermead",
+   "en": "Evermead"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "30 po",
+   "en": "30gp"
+  },
+  "min_cp": 3000,
+  "max_cp": 3000,
+  "plus": false
+ },
+ "weight": {
+  "text": "5",
+  "lb": 5
+ },
+ "notes": {
+  "fr": [
+   "Evermead : liqueur fabriquée par les elfes d'Éternelle-Rencontre."
+  ]
+ },
+ "source": {
+  "table": "II",
+  "line": 353
+ }
+}

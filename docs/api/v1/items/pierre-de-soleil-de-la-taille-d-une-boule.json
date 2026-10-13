@@ -1,0 +1,37 @@
+{
+ "id": "pierre-de-soleil-de-la-taille-d-une-boule",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une boule",
+  "en": "Ball sized"
+ },
+ "full_name": {
+  "fr": "Pierre de soleil — De la taille d'une boule",
+  "en": "Sunstone — Ball sized"
+ },
+ "group": [
+  {
+   "fr": "Pierre de soleil",
+   "en": "Sunstone"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 000 po",
+   "en": "5,000gp"
+  },
+  "min_cp": 500000,
+  "max_cp": 500000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Pierre de soleil : feldspath à paillettes métalliques orangées qui scintillent à la lumière."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2307
+ }
+}

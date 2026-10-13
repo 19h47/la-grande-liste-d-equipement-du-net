@@ -1,0 +1,33 @@
+{
+ "id": "arc-elfique",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Arc elfique",
+  "en": "Bow, Elven"
+ },
+ "full_name": {
+  "fr": "Arc elfique",
+  "en": "Bow, Elven"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1764
+ }
+}

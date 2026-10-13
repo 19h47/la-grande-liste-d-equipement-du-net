@@ -1,0 +1,35 @@
+{
+ "id": "arcs-fleche-a-tete-mousse",
+ "category": "armes",
+ "name": {
+  "fr": "Flèche à tête mousse",
+  "en": "Arrow, blint"
+ },
+ "full_name": {
+  "fr": "Arcs — Flèche à tête mousse",
+  "en": "Bow — Arrow, blint"
+ },
+ "group": [
+  {
+   "fr": "Arcs",
+   "en": "Bow"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "2 pc",
+   "en": "2cp"
+  },
+  "min_cp": 2,
+  "max_cp": 2,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3536
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "id": "culottes-bouffantes-en-soie",
+ "category": "vetements",
+ "name": {
+  "fr": "En soie",
+  "en": "Silk"
+ },
+ "full_name": {
+  "fr": "Culottes bouffantes — En soie",
+  "en": "Knickers — Silk"
+ },
+ "group": [
+  {
+   "fr": "Culottes bouffantes",
+   "en": "Knickers"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": [
+   "Culottes bouffantes : culottes amples resserrées sous le genou."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 222
+ }
+}

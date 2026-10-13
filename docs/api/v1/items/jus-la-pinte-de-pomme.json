@@ -1,0 +1,38 @@
+{
+ "id": "jus-la-pinte-de-pomme",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De pomme",
+  "en": "Apple"
+ },
+ "full_name": {
+  "fr": "Jus, la pinte — De pomme",
+  "en": "Juice, per pint — Apple"
+ },
+ "group": [
+  {
+   "fr": "Jus, la pinte",
+   "en": "Juice, per pint"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "1 pc",
+   "en": "1cp"
+  },
+  "min_cp": 1,
+  "max_cp": 1,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 626
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": "zircon-de-la-taille-d-un-raisin",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'un raisin",
+  "en": "Grape sized"
+ },
+ "full_name": {
+  "fr": "Zircon — De la taille d'un raisin",
+  "en": "Zircon — Grape sized"
+ },
+ "group": [
+  {
+   "fr": "Zircon",
+   "en": "Zircon"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Zircon : gemme très brillante, dont la variété incolore imite le diamant."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2345
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "morue-la-livre-fumee",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "Fumée",
+  "en": "smoked"
+ },
+ "full_name": {
+  "fr": "Morue, la livre — Fumée",
+  "en": "Cod, per lb — smoked"
+ },
+ "group": [
+  {
+   "fr": "Morue, la livre",
+   "en": "Cod, per lb"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "7 po",
+   "en": "7gp"
+  },
+  "min_cp": 700,
+  "max_cp": 700,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 552
+ }
+}

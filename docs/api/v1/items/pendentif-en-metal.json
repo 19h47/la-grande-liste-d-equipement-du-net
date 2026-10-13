@@ -1,0 +1,33 @@
+{
+ "id": "pendentif-en-metal",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "Pendentif en métal",
+  "en": "Pendant, metal"
+ },
+ "full_name": {
+  "fr": "Pendentif en métal",
+  "en": "Pendant, metal"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3055
+ }
+}

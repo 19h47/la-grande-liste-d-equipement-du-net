@@ -1,0 +1,38 @@
+{
+ "id": "repulsifs-a-insectes-bougie-la-douzaine",
+ "category": "equipement-d-aventurier",
+ "name": {
+  "fr": "Bougie, la douzaine",
+  "en": "Candle, per dozen"
+ },
+ "full_name": {
+  "fr": "Répulsifs à insectes — Bougie, la douzaine",
+  "en": "Repellents, insect — Candle, per dozen"
+ },
+ "group": [
+  {
+   "fr": "Répulsifs à insectes",
+   "en": "Repellents, insect"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": {
+  "text": "3",
+  "lb": 3
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVII",
+  "line": 1788
+ }
+}

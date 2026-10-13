@@ -1,0 +1,35 @@
+{
+ "id": "panthere-des-neiges-garniture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Garniture",
+  "en": "Trim"
+ },
+ "full_name": {
+  "fr": "Panthère des neiges — Garniture",
+  "en": "Snow leopard — Trim"
+ },
+ "group": [
+  {
+   "fr": "Panthère des neiges",
+   "en": "Snow leopard"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "80 po",
+   "en": "80gp"
+  },
+  "min_cp": 8000,
+  "max_cp": 8000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1217
+ }
+}

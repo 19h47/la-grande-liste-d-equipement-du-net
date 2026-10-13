@@ -1,0 +1,40 @@
+{
+ "id": "dragon-oeufs-et-petits-de-creatures",
+ "category": "oeufs-et-petits-de-creatures",
+ "name": {
+  "fr": "Dragon",
+  "en": "Dragon"
+ },
+ "full_name": {
+  "fr": "Dragon",
+  "en": "Dragon"
+ },
+ "group": null,
+ "eggs": {
+  "text": {
+   "fr": "50 % du prix d'un dragon soumis",
+   "en": "50% subdued"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "young": {
+  "text": {
+   "fr": "voir Bestiaire monstrueux",
+   "en": "as MM"
+  },
+  "min_cp": null,
+  "max_cp": null,
+  "plus": false
+ },
+ "notes": {
+  "fr": [
+   "Dragon soumis : en AD&D, un dragon vaincu sans être tué peut se rendre, être capturé puis vendu."
+  ]
+ },
+ "source": {
+  "table": "XII",
+  "line": 1504
+ }
+}

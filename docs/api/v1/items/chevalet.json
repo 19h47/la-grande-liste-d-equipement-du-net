@@ -1,0 +1,33 @@
+{
+ "id": "chevalet",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Chevalet",
+  "en": "Easel"
+ },
+ "full_name": {
+  "fr": "Chevalet",
+  "en": "Easel"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "40 po",
+   "en": "40gp"
+  },
+  "min_cp": 4000,
+  "max_cp": 4000,
+  "plus": false
+ },
+ "weight": {
+  "text": "2",
+  "lb": 2
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1847
+ }
+}

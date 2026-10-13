@@ -1,0 +1,37 @@
+{
+ "id": "loup-arctique-peau",
+ "category": "fourrures",
+ "name": {
+  "fr": "Peau",
+  "en": "Pelt"
+ },
+ "full_name": {
+  "fr": "Loup arctique — Peau",
+  "en": "Winter wolf — Pelt"
+ },
+ "group": [
+  {
+   "fr": "Loup arctique",
+   "en": "Winter wolf"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Loup arctique : nom français du winter wolf d'AD&D, grand loup monstrueux qui souffle le givre, et non l'animal réel."
+  ]
+ },
+ "source": {
+  "table": "IX",
+  "line": 1231
+ }
+}

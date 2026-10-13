@@ -1,0 +1,32 @@
+{
+ "id": "connaissance-des-legendes",
+ "category": "cout-des-sorts",
+ "name": {
+  "fr": "Connaissance des légendes",
+  "en": "Legend Lore"
+ },
+ "full_name": {
+  "fr": "Connaissance des légendes",
+  "en": "Legend Lore"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 000 po",
+   "en": "1,000gp"
+  },
+  "min_cp": 100000,
+  "max_cp": 100000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Connaissance des légendes : sort révélant des informations sur une personne, un lieu ou un objet légendaires."
+  ]
+ },
+ "source": {
+  "table": "XXVII",
+  "line": 3230
+ }
+}

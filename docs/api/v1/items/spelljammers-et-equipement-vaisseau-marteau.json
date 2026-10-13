@@ -1,0 +1,38 @@
+{
+ "id": "spelljammers-et-equipement-vaisseau-marteau",
+ "category": "transports",
+ "name": {
+  "fr": "Vaisseau-marteau",
+  "en": "Hammership"
+ },
+ "full_name": {
+  "fr": "Spelljammers et équipement — Vaisseau-marteau",
+  "en": "Spelljammers and equipment — Hammership"
+ },
+ "group": [
+  {
+   "fr": "Spelljammers et équipement",
+   "en": "Spelljammers and equipment"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "50 000 po",
+   "en": "50,000gp"
+  },
+  "min_cp": 5000000,
+  "max_cp": 5000000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Spelljammer : navire qui vogue dans l'espace (sphères de cristal), propulsé par un heaume magique.",
+   "Vaisseau-marteau : « Hammership » en VO, spelljammer massif dont la proue évoque une tête de requin-marteau."
+  ]
+ },
+ "source": {
+  "table": "VII",
+  "line": 1012
+ }
+}

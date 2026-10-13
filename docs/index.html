@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>La Grande Liste d'équipement du Net</title>
+<meta name="description" content="La Great Net Equipment List (AD&D 2e, 1997) traduite en français, en JSON et en API statique.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Fraunces:opsz,wght@9..144,600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f4ecd8; --paper:#fbf6e9; --ink:#2b2418; --muted:#6f6350; --rule:#d9ccae;
+  --accent:#8a2d1c; --accent-ink:#fff8ee; --code:#efe5cc;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#16130e; --paper:#1f1b14; --ink:#ece3cf; --muted:#a89b82; --rule:#3a3226;
+    --accent:#e0866c; --accent-ink:#1a120c; --code:#2a241b;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#16130e; --paper:#1f1b14; --ink:#ece3cf; --muted:#a89b82; --rule:#3a3226;
+  --accent:#e0866c; --accent-ink:#1a120c; --code:#2a241b;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.6 "IBM Plex Mono",ui-monospace,monospace}
+.wrap{max-width:860px;margin:0 auto;padding:40px 16px 80px}
+header{border-bottom:2px solid var(--ink);padding-bottom:20px;margin-bottom:28px}
+.kicker{color:var(--muted);font-size:13px;letter-spacing:.06em;text-transform:uppercase}
+h1{font-family:Fraunces,Georgia,serif;font-weight:600;font-size:clamp(30px,6vw,46px);line-height:1.1;margin:8px 0 10px}
+h2{font-family:Fraunces,Georgia,serif;font-weight:600;font-size:22px;margin:44px 0 12px}
+p{margin:0 0 12px}
+a{color:var(--accent)}
+.lede{color:var(--muted);max-width:62ch}
+.stats{display:flex;flex-wrap:wrap;gap:8px 22px;margin-top:14px;font-size:13px}
+.stats b{font-weight:600}
+input[type=search]{width:100%;font:inherit;padding:12px 14px;border:1px solid var(--rule);background:var(--paper);color:var(--ink);border-radius:4px}
+input[type=search]:focus{outline:2px solid var(--accent);outline-offset:1px}
+.row{display:flex;gap:10px;margin-bottom:10px;flex-wrap:wrap}
+.row input{flex:1 1 260px;min-width:0}
+.row select{flex:1 1 220px;min-width:0;max-width:100%}
+@media (max-width:560px){.name{white-space:normal}.theme{position:static;display:block;margin:12px 16px 0 auto}}
+select,button{font:inherit;padding:10px 12px;border:1px solid var(--rule);background:var(--paper);color:var(--ink);border-radius:4px}
+ul.results{list-style:none;padding:0;margin:0;border-top:1px solid var(--rule)}
+ul.results li{border-bottom:1px solid var(--rule)}
+ul.results button{all:unset;cursor:pointer;display:flex;width:100%;gap:8px;padding:8px 2px;box-sizing:border-box}
+ul.results button:focus-visible{outline:2px solid var(--accent)}
+.name{flex:0 1 auto;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.leader{flex:1 1 20px;border-bottom:2px dotted var(--rule);margin-bottom:7px;min-width:12px}
+.price{flex:none;white-space:nowrap}
+.en{color:var(--muted);font-size:12px}
+.hint{color:var(--muted);font-size:13px;margin:8px 0 0}
+.card{background:var(--paper);border:1px solid var(--rule);border-radius:4px;padding:16px;margin-top:14px}
+.card h3{margin:0 0 4px;font-family:Fraunces,Georgia,serif;font-size:20px}
+pre,code{font-family:"IBM Plex Mono",monospace;background:var(--code);border-radius:3px}
+code{padding:1px 5px}
+pre{padding:12px 14px;overflow-x:auto;font-size:13px;margin:0 0 12px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--rule);vertical-align:top}
+th{color:var(--muted);font-weight:400}
+.tabwrap{overflow-x:auto}
+footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--rule);color:var(--muted);font-size:13px}
+.theme{position:absolute;top:14px;right:16px;font-size:12px;padding:6px 10px}
+</style>
+</head>
+<body>
+<button class="theme" id="theme" type="button" aria-label="Changer de thème">◐ thème</button>
+<div class="wrap">
+<header>
+  <div class="kicker">AD&amp;D 2e édition · 1997 → 2026</div>
+  <h1>La Grande Liste d'équipement du Net</h1>
+  <p class="lede">La <i>Great Net Equipment List</i> de Mark J. Carrasco, monument des netbooks rôlistes des années 90, traduite en français et rendue interrogeable : du tablier à 1 pc au lingot de Tellon à 5&nbsp;000&nbsp;000&nbsp;po.</p>
+  <div class="stats" id="stats">Chargement…</div>
+</header>
+
+<section aria-labelledby="h-search">
+  <h2 id="h-search">Chercher dans la liste</h2>
+  <div class="row">
+    <input type="search" id="q" placeholder="hydromel, épée longue, owlbear…" aria-label="Rechercher un objet, en français ou en anglais" autocomplete="off">
+    <select id="cat" aria-label="Catégorie"><option value="">Toutes les catégories</option></select>
+  </div>
+  <ul class="results" id="results" aria-live="polite"></ul>
+  <p class="hint" id="hint"></p>
+  <div id="detail"></div>
+</section>
+
+<section aria-labelledby="h-api">
+  <h2 id="h-api">L'API</h2>
+  <p>Une API en lecture seule, faite de simples fichiers JSON : pas de serveur ni de clé, et le CORS est ouvert par GitHub Pages. Toutes les chaînes existent en <code>fr</code> et en <code>en</code>.</p>
+  <div class="tabwrap"><table>
+    <tr><th>Point d'accès</th><th>Contenu</th></tr>
+    <tr><td><code>api/v1/index.json</code></td><td>Métadonnées, crédits, unités, liste des points d'accès</td></tr>
+    <tr><td><code>api/v1/items.json</code></td><td>Tous les objets</td></tr>
+    <tr><td><code>api/v1/items/{id}.json</code></td><td>Un objet, ex. <a href="api/v1/items/epee-longue.json">epee-longue</a></td></tr>
+    <tr><td><code>api/v1/categories.json</code></td><td>Les 33 tableaux de la liste</td></tr>
+    <tr><td><code>api/v1/categories/{id}.json</code></td><td>Un tableau et ses objets, ex. <a href="api/v1/categories/taverne-et-auberge.json">taverne-et-auberge</a></td></tr>
+    <tr><td><code>api/v1/currencies.json</code></td><td>Pièces et lingots (cuivre → Tellon)</td></tr>
+    <tr><td><code>api/v1/search.json</code></td><td>Index léger pour la recherche</td></tr>
+  </table></div>
+  <h3 style="font-family:Fraunces,Georgia,serif;margin:22px 0 8px">Un objet</h3>
+<pre>{
+ "id": "epee-longue",
+ "category": "armes",
+ "name": { "fr": "Épée longue", "en": "Long Sword" },
+ "full_name": { "fr": "Épées — Épée longue", "en": "Sword — Long Sword" },
+ "price": { "text": { "fr": "15 po", "en": "15gp" },
+            "min_cp": 1500, "max_cp": 1500, "plus": false },
+ "weight": { "text": "4", "lb": 4 },
+ "notes": { "fr": [] },
+ "source": { "table": "XXXII", "line": 3716 }
+}</pre>
+  <p>Les prix sont convertis en pièces de cuivre (<code>min_cp</code>, <code>max_cp</code>) pour pouvoir trier et additionner : 1 po = 100 pc, 1 pe = 50 pc, 1 pa = 10 pc, 1 pp = 500 pc. Quand un prix n'est pas chiffrable (« Spécial », « Mort », « une rançon de roi »), <code>min_cp</code> vaut <code>null</code>, mais le texte est toujours là. Le poids est en livres ; « * » vaut 0,1 lb. Les œufs et petits de créatures ont <code>eggs</code> et <code>young</code> à la place de <code>price</code>, et les herbes <code>price_raw</code> et <code>price_prepared</code>.</p>
+<pre>const r = await fetch("https://&lt;utilisateur&gt;.github.io/&lt;depot&gt;/api/v1/items/hydromel-au-miel-la-pinte.json");
+const hydromel = await r.json();
+console.log(hydromel.price.text.fr); // "5 pa"</pre>
+</section>
+
+<section aria-labelledby="h-files">
+  <h2 id="h-files">Les fichiers</h2>
+  <p>Le dépôt contient aussi <code>data/items.json</code> (la source de vérité), <code>data/items.csv</code> pour les tableurs, le texte original anglais, la traduction française complète (avec plus de 700 notes) et les notes de relecture. <code>scripts/build.py</code> régénère l'API à partir du JSON.</p>
+</section>
+
+<footer>
+  <p>Compilation originale : Mark J. Carrasco (1997-1998), d'après des produits TSR et des contributions de joueurs ; mise en forme texte par srm. Merci à Sarah Wright-Strutz, Windy Strawman et Ole A. Ringdal. Traduction française et données : 2026. Projet de fans non commercial, sans lien avec Wizards of the Coast.</p>
+</footer>
+</div>
+<script>
+(function(){
+  const root=document.documentElement;
+  try{const t=localStorage.getItem('theme'); if(t) root.dataset.theme=t;}catch(e){}
+  document.getElementById('theme').addEventListener('click',()=>{
+    const dark=root.dataset.theme?root.dataset.theme==='dark':matchMedia('(prefers-color-scheme: dark)').matches;
+    root.dataset.theme=dark?'light':'dark';
+    try{localStorage.setItem('theme',root.dataset.theme);}catch(e){}
+  });
+  const API='api/v1/';
+  const norm=s=>(s||'').toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g,'').replace(/œ/g,'oe');
+  let idx=[],cats={};
+  const $=id=>document.getElementById(id);
+  const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  Promise.all([fetch(API+'search.json').then(r=>r.json()),fetch(API+'categories.json').then(r=>r.json())]).then(([s,c])=>{
+    idx=s.map(x=>({...x,k:norm(x.fr+' '+x.en)}));
+    c.categories.forEach(k=>{cats[k.id]=k;const o=document.createElement('option');o.value=k.id;o.textContent=`${k.table}. ${k.name.fr} (${k.count})`;$('cat').appendChild(o);});
+    $('stats').innerHTML=`<span><b>${idx.length}</b> objets</span><span><b>${c.count}</b> tableaux</span><span><b>2</b> langues</span>`;
+    const q=new URLSearchParams(location.search).get('q'); if(q){$('q').value=q;}
+    run();
+  }).catch(()=>{$('stats').textContent="Impossible de charger les données (ouvrez la page via un serveur web).";});
+  function run(){
+    const q=norm($('q').value.trim()), c=$('cat').value;
+    let res=idx;
+    if(c) res=res.filter(x=>x.c===c);
+    if(q){const terms=q.split(/\s+/);res=res.filter(x=>terms.every(t=>x.k.includes(t)));}
+    else if(!c){ // échantillon du jour
+      const d=new Date();let seed=d.getFullYear()*372+d.getMonth()*31+d.getDate();
+      res=[...Array(8)].map(()=>{seed=(seed*9301+49297)%233280;return idx[Math.floor(seed/233280*idx.length)];});
+    }
+    const shown=res.slice(0,60);
+    $('results').innerHTML=shown.map(x=>`<li><button type="button" data-id="${esc(x.id)}"><span class="name">${esc(x.fr)}</span><span class="leader"></span><span class="price">${esc(x.p||'—')}</span></button></li>`).join('');
+    $('hint').textContent=!q&&!c?"Le bric-à-brac du jour. Tapez pour chercher, en français ou en anglais.":res.length>60?`${res.length} résultats, 60 affichés.`:res.length?`${res.length} résultat${res.length>1?'s':''}.`:"Rien de tel chez le marchand.";
+  }
+  $('q').addEventListener('input',run); $('cat').addEventListener('change',run);
+  $('results').addEventListener('click',e=>{
+    const b=e.target.closest('button[data-id]'); if(!b) return;
+    fetch(API+'items/'+b.dataset.id+'.json').then(r=>r.json()).then(it=>{
+      const prices=['price','eggs','young','price_raw','price_prepared'].filter(k=>it[k]).map(k=>{
+        const lab={price:'Prix',eggs:'Œufs',young:'Petits',price_raw:'Brut',price_prepared:'Préparé'}[k];
+        return `<tr><th>${lab}</th><td>${esc(it[k].text.fr)} <span class="en">(${esc(it[k].text.en)})</span></td></tr>`;}).join('');
+      const w=it.weight?`<tr><th>Poids</th><td>${esc(it.weight.text)}${it.weight.lb!=null?` <span class="en">(${it.weight.lb} lb)</span>`:''}</td></tr>`:'';
+      const notes=it.notes.fr.map(n=>`<p>${esc(n)}</p>`).join('');
+      $('detail').innerHTML=`<div class="card"><h3>${esc(it.full_name.fr)}</h3><div class="en">${esc(it.full_name.en)} · ${esc(cats[it.category]?.name.fr)} · tableau ${esc(it.source.table)}</div><table style="margin:10px 0">${prices}${w}</table>${notes}<p class="en"><a href="${API}items/${esc(it.id)}.json">${API}items/${esc(it.id)}.json</a></p></div>`;
+      $('detail').scrollIntoView({behavior:'smooth',block:'nearest'});
+    });
+  });
+})();
+</script>
+</body>
+</html>

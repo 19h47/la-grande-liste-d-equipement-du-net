@@ -1,0 +1,33 @@
+{
+ "id": "sel-la-livre-epices",
+ "category": "epices",
+ "name": {
+  "fr": "Sel, la livre",
+  "en": "Salt, per lbs"
+ },
+ "full_name": {
+  "fr": "Sel, la livre",
+  "en": "Salt, per lbs"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "1 pa",
+   "en": "1sp"
+  },
+  "min_cp": 10,
+  "max_cp": 10,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IV",
+  "line": 850
+ }
+}

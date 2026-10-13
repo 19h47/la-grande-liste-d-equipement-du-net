@@ -1,0 +1,38 @@
+{
+ "id": "armes-de-pixie-fleche-d-oubli",
+ "category": "armes",
+ "name": {
+  "fr": "Flèche d'oubli",
+  "en": "Forget Arrow"
+ },
+ "full_name": {
+  "fr": "Armes de pixie — Flèche d'oubli",
+  "en": "Pixie Weapons — Forget Arrow"
+ },
+ "group": [
+  {
+   "fr": "Armes de pixie",
+   "en": "Pixie Weapons"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "100 po/1",
+   "en": "100gp/1"
+  },
+  "min_cp": 10000,
+  "max_cp": 10000,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXXII",
+  "line": 3666
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "volets-d-embrasure",
+ "category": "constructions",
+ "name": {
+  "fr": "Volets d'embrasure",
+  "en": "Embrasure Shutters"
+ },
+ "full_name": {
+  "fr": "Volets d'embrasure",
+  "en": "Embrasure Shutters"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "3 po",
+   "en": "3gp"
+  },
+  "min_cp": 300,
+  "max_cp": 300,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Embrasure : ouverture pratiquée dans un mur ou un parapet pour tirer sur l'ennemi."
+  ]
+ },
+ "source": {
+  "table": "XXVIII",
+  "line": 3279
+ }
+}

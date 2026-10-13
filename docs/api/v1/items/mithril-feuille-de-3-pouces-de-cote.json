@@ -1,0 +1,37 @@
+{
+ "id": "mithril-feuille-de-3-pouces-de-cote",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "Feuille de 3 pouces de côté",
+  "en": "Sheet, 3 in sq"
+ },
+ "full_name": {
+  "fr": "Mithril — Feuille de 3 pouces de côté",
+  "en": "Mithril — Sheet, 3 in sq"
+ },
+ "group": [
+  {
+   "fr": "Mithril",
+   "en": "Mithril"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 po",
+   "en": "6gp"
+  },
+  "min_cp": 600,
+  "max_cp": 600,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Mithril : métal argenté léger et presque inaltérable, créé par Tolkien et repris par AD&D."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2210
+ }
+}

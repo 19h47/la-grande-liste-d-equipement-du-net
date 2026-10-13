@@ -1,0 +1,38 @@
+{
+ "id": "casaques-en-cuir",
+ "category": "vetements",
+ "name": {
+  "fr": "En cuir",
+  "en": "Leather"
+ },
+ "full_name": {
+  "fr": "Casaques — En cuir",
+  "en": "Jerkins — Leather"
+ },
+ "group": [
+  {
+   "fr": "Casaques",
+   "en": "Jerkins"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "10 po",
+   "en": "10gp"
+  },
+  "min_cp": 1000,
+  "max_cp": 1000,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "I",
+  "line": 205
+ }
+}

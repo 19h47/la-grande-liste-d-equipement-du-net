@@ -1,0 +1,35 @@
+{
+ "id": "nonfel-manteau-robe-couverture",
+ "category": "fourrures",
+ "name": {
+  "fr": "Manteau, robe, couverture",
+  "en": "Coat, Robe, Blanket"
+ },
+ "full_name": {
+  "fr": "Nonfel — Manteau, robe, couverture",
+  "en": "Nonfel — Coat, Robe, Blanket"
+ },
+ "group": [
+  {
+   "fr": "Nonfel",
+   "en": "Nonfel"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "4 500 po",
+   "en": "4,500gp"
+  },
+  "min_cp": 450000,
+  "max_cp": 450000,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "IX",
+  "line": 1184
+ }
+}

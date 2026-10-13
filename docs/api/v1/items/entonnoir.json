@@ -1,0 +1,33 @@
+{
+ "id": "entonnoir",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Entonnoir",
+  "en": "Funnel"
+ },
+ "full_name": {
+  "fr": "Entonnoir",
+  "en": "Funnel"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "4 pa",
+   "en": "4sp"
+  },
+  "min_cp": 40,
+  "max_cp": 40,
+  "plus": false
+ },
+ "weight": {
+  "text": "*",
+  "lb": 0.1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1853
+ }
+}

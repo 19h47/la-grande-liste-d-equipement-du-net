@@ -1,0 +1,38 @@
+{
+ "id": "vin-epice-tonneau-30-gallons",
+ "category": "taverne-et-auberge",
+ "name": {
+  "fr": "Tonneau, 30 gallons",
+  "en": "Barrel, 30 gallons"
+ },
+ "full_name": {
+  "fr": "Vin épicé — Tonneau, 30 gallons",
+  "en": "Wine, Spiced — Barrel, 30 gallons"
+ },
+ "group": [
+  {
+   "fr": "Vin épicé",
+   "en": "Wine, Spiced"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 po",
+   "en": "5gp"
+  },
+  "min_cp": 500,
+  "max_cp": 500,
+  "plus": false
+ },
+ "weight": {
+  "text": "120",
+  "lb": 120
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "II",
+  "line": 431
+ }
+}

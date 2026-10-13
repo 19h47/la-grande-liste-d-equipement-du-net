@@ -1,0 +1,37 @@
+{
+ "id": "jaspe-de-la-taille-d-une-noix",
+ "category": "materiaux-bruts",
+ "name": {
+  "fr": "De la taille d'une noix",
+  "en": "Walnut sized"
+ },
+ "full_name": {
+  "fr": "Jaspe — De la taille d'une noix",
+  "en": "Jasper — Walnut sized"
+ },
+ "group": [
+  {
+   "fr": "Jaspe",
+   "en": "Jasper"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "6 pa",
+   "en": "6sp"
+  },
+  "min_cp": 60,
+  "max_cp": 60,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Jaspe : calcédoine opaque très dure, aux couleurs vives souvent bigarrées."
+  ]
+ },
+ "source": {
+  "table": "XX",
+  "line": 2130
+ }
+}

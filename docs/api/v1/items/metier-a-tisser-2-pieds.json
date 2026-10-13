@@ -1,0 +1,38 @@
+{
+ "id": "metier-a-tisser-2-pieds",
+ "category": "equipements-divers",
+ "name": {
+  "fr": "2 pieds",
+  "en": "2 foot"
+ },
+ "full_name": {
+  "fr": "Métier à tisser — 2 pieds",
+  "en": "Loom — 2 foot"
+ },
+ "group": [
+  {
+   "fr": "Métier à tisser",
+   "en": "Loom"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "8 po",
+   "en": "8gp"
+  },
+  "min_cp": 800,
+  "max_cp": 800,
+  "plus": false
+ },
+ "weight": {
+  "text": "8",
+  "lb": 8
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXV",
+  "line": 3016
+ }
+}

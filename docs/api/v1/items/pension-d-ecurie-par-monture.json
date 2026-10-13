@@ -1,0 +1,30 @@
+{
+ "id": "pension-d-ecurie-par-monture",
+ "category": "services-et-salaires",
+ "name": {
+  "fr": "Pension d'écurie, par monture",
+  "en": "Stabling, for mount"
+ },
+ "full_name": {
+  "fr": "Pension d'écurie, par monture",
+  "en": "Stabling, for mount"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XXI",
+  "line": 2438
+ }
+}

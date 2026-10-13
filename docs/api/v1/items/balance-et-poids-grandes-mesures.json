@@ -1,0 +1,38 @@
+{
+ "id": "balance-et-poids-grandes-mesures",
+ "category": "le-laboratoire",
+ "name": {
+  "fr": "Grandes mesures",
+  "en": "Large measures"
+ },
+ "full_name": {
+  "fr": "Balance et poids — Grandes mesures",
+  "en": "Balance and Weights — Large measures"
+ },
+ "group": [
+  {
+   "fr": "Balance et poids",
+   "en": "Balance and Weights"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "150 po",
+   "en": "150gp"
+  },
+  "min_cp": 15000,
+  "max_cp": 15000,
+  "plus": false
+ },
+ "weight": {
+  "text": "25",
+  "lb": 25
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XVIII",
+  "line": 1829
+ }
+}

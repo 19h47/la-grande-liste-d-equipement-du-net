@@ -1,0 +1,33 @@
+{
+ "id": "selle-de-cheval-de-guerre",
+ "category": "sellerie-et-harnachement",
+ "name": {
+  "fr": "Selle de cheval de guerre",
+  "en": "Saddle, War Horse"
+ },
+ "full_name": {
+  "fr": "Selle de cheval de guerre",
+  "en": "Saddle, War Horse"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "20 po",
+   "en": "20gp"
+  },
+  "min_cp": 2000,
+  "max_cp": 2000,
+  "plus": false
+ },
+ "weight": {
+  "text": "40",
+  "lb": 40
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "VIII",
+  "line": 1070
+ }
+}

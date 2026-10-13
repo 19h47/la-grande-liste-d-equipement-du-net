@@ -1,0 +1,38 @@
+{
+ "id": "vinaigre-le-quart-de-mure",
+ "category": "denrees-alimentaires",
+ "name": {
+  "fr": "De mûre",
+  "en": "Blackberry"
+ },
+ "full_name": {
+  "fr": "Vinaigre, le quart — De mûre",
+  "en": "Vinegar, per qt — Blackberry"
+ },
+ "group": [
+  {
+   "fr": "Vinaigre, le quart",
+   "en": "Vinegar, per qt"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "5 pa",
+   "en": "5sp"
+  },
+  "min_cp": 50,
+  "max_cp": 50,
+  "plus": false
+ },
+ "weight": {
+  "text": "1",
+  "lb": 1
+ },
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "III",
+  "line": 780
+ }
+}

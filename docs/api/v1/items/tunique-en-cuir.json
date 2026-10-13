@@ -1,0 +1,37 @@
+{
+ "id": "tunique-en-cuir",
+ "category": "vetements",
+ "name": {
+  "fr": "En cuir",
+  "en": "Leather"
+ },
+ "full_name": {
+  "fr": "Tunique — En cuir",
+  "en": "Tunic — Leather"
+ },
+ "group": [
+  {
+   "fr": "Tunique",
+   "en": "Tunic"
+  }
+ ],
+ "price": {
+  "text": {
+   "fr": "20 pa",
+   "en": "20sp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": [
+   "Tunique : vêtement ample en forme de T couvrant le buste et les épaules."
+  ]
+ },
+ "source": {
+  "table": "I",
+  "line": 296
+ }
+}

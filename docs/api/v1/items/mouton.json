@@ -1,0 +1,30 @@
+{
+ "id": "mouton",
+ "category": "animaux",
+ "name": {
+  "fr": "Mouton",
+  "en": "Sheep"
+ },
+ "full_name": {
+  "fr": "Mouton",
+  "en": "Sheep"
+ },
+ "group": null,
+ "price": {
+  "text": {
+   "fr": "2 po",
+   "en": "2gp"
+  },
+  "min_cp": 200,
+  "max_cp": 200,
+  "plus": false
+ },
+ "weight": null,
+ "notes": {
+  "fr": []
+ },
+ "source": {
+  "table": "XV",
+  "line": 1694
+ }
+}
