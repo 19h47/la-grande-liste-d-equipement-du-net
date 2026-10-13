@@ -66,7 +66,7 @@ p, pre, ul, table { margin: 0 0 1rem; }
 	float: left; width: 0; white-space: nowrap; color: var(--dim); user-select: none;
 	content: "........................................................................................................................................................................................................";
 }
-.list .name { background: inherit; padding-right: 1ch; overflow-wrap: anywhere; position: relative; }
+.list .name { background: inherit; padding-right: 1ch; -webkit-box-decoration-break: clone; box-decoration-break: clone; overflow-wrap: anywhere; position: relative; }
 .list .price { float: right; background: inherit; padding-left: 1ch; white-space: nowrap; position: relative; }
 .list button.row { all: unset; box-sizing: border-box; display: block; overflow: hidden; width: 100%; cursor: pointer; background: var(--paper); color: var(--ink); }
 .list button.row:hover, .list button.row:focus-visible, .list button.row[aria-expanded="true"] { background: var(--ink); color: var(--paper); }
