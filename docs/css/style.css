@@ -60,7 +60,7 @@ p, pre, ul, table { margin: 0 0 1rem; }
 /* Lignes à points de conduite, comme dans le fichier texte. Les points sont posés derrière la
    première ligne ; le nom et le prix les masquent avec la couleur du fond. Si le nom passe à la
    ligne, le prix reste sur la première ligne, comme dans l'original. */
-.list { list-style: none; padding: 0; margin: 0; }
+.list { list-style: none; padding: 0; margin: 0; overflow-anchor: none; } /* sinon « Afficher 60 de plus » garde le bouton à l'écran et cache les lignes ajoutées */
 .list .row { display: block; overflow: hidden; background: var(--paper); color: var(--ink); }
 .list .row::before {
 	float: left; width: 0; white-space: nowrap; color: var(--dim); user-select: none;

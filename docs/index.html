@@ -178,7 +178,11 @@
   ['cat', 'tri'].forEach(id => $(id).addEventListener('change', () => run()));
   $('k-random').addEventListener('click', () => { $('filters').reset(); rnd = sample(8); run(); });
   $('reset').addEventListener('click', again);
-  $('more').addEventListener('click', () => { limit += STEP; run(true); });
+  /* Le focus passe à la première ligne ajoutée : on voit la suite au lieu de rester sur le bouton. */
+  $('more').addEventListener('click', () => {
+    const from = limit; limit += STEP; run(true);
+    const b = $('results').querySelectorAll('button.row')[from]; b && b.focus();
+  });
   GL.onLang(() => { paintCats(); run(true); });
   document.addEventListener('keydown', e => {
     if (e.altKey || e.ctrlKey || e.metaKey) return;
