@@ -18,6 +18,8 @@
 :root[data-theme="dark"] { --ink: #ffffff; --paper: #000000; --dim: #aaaaaa; color-scheme: dark; }
 
 * { box-sizing: border-box; }
+/* L'attribut hidden doit l'emporter sur les display des classes (.btn, .row…). */
+[hidden] { display: none !important; }
 
 html { background: var(--paper); }
 body {
