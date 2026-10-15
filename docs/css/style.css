@@ -147,6 +147,10 @@ a.plain { text-decoration: none; }
 .links { margin-top: .75rem; }
 .no-notes .note, .no-notes .mark { display: none; }
 
+/* Le sac : bandeau d'un sac reçu par lien. */
+.shared { border: 1px solid var(--ink); padding: .5rem 1ch 0; margin: 0 0 1rem; }
+.shared .actions { margin: .5rem 0; }
+
 /* Tableaux : rubriques, sous-objets en retrait, colonne des poids. */
 .list .group { font-weight: bold; margin-top: .5rem; }
 .list li.sub > .row { padding-left: 2ch; }
@@ -177,7 +181,7 @@ pre.txt .hit { background: var(--ink); color: var(--paper); }
 	header { margin-bottom: 1rem; }
 	section { margin-bottom: 1rem; }
 	.print-only { display: block; }
-	.controls, .qty, [data-minus] { display: none !important; }
+	.controls, .qty, [data-minus], [data-plus], .no-print, .shared { display: none !important; }
 	.list button.row.picked { font-weight: normal; }
 	h1, h2 { margin-bottom: .5rem; }
 	.list .row, .list .row *, .list .row::before { -webkit-print-color-adjust: exact; print-color-adjust: exact; }

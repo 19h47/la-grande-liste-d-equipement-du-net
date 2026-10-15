@@ -15,6 +15,7 @@
     <a href="./" aria-current="page">Liste</a>
     <a href="tableaux.html">Tableaux</a>
     <a href="marchand.html">Marchand</a>
+    <a href="sac.html">Sac<span data-bag-count></span></a>
     <a href="monnaies.html">Monnaies</a>
     <a href="texte.html">Texte</a>
     <a href="api.html">API</a>
@@ -64,7 +65,7 @@
       <button type="button" class="btn" id="k-random">Autre bric-à-brac</button>
       <button type="button" class="btn" id="reset" hidden>Tout effacer</button>
     </div>
-    <p class="keys">Clavier : <kbd>/</kbd> chercher · <kbd>R</kbd> autre bric-à-brac · <kbd>M</kbd> marchand · <kbd>Échap</kbd> fermer la fiche</p>
+    <p class="keys">Clavier : <kbd>/</kbd> chercher · <kbd>R</kbd> autre bric-à-brac · <kbd>M</kbd> marchand · <kbd>A</kbd> mettre la fiche dans le sac · <kbd>S</kbd> sac · <kbd>Échap</kbd> fermer la fiche</p>
   </section>
 </main>
 
@@ -168,10 +169,19 @@
       const w = it.weight ? `<tr><th>Poids</th><td>${esc(it.weight.text)}${it.weight.lb != null ? ` <span class="dim">(${it.weight.lb} lb)</span>` : ''}</td></tr>` : '';
       const cat = cats[it.category];
       box.innerHTML = `<h3>${esc(it.full_name[GL.lang])}</h3><p class="dim">${esc(it.full_name[other])} · ${esc(t(cat?.name))} · tableau ${esc(it.source.table)}</p><table>${rows}${w}</table>${it.notes.fr.map(n => `<p class="prose note">* ${esc(n)}</p>`).join('')}
-<p class="links"><a href="tableaux.html?t=${esc(it.category)}#${esc(it.id)}">Voir dans le tableau</a> · <a href="texte.html?l=${it.source.line}&amp;objet=${esc(it.id)}">Ligne ${it.source.line} du texte original</a> · <a href="${GL.API}items/${esc(it.id)}.json">JSON</a> · <button type="button" class="link" data-copy>Copier le lien</button></p>`;
+<p class="links"><a href="tableaux.html?t=${esc(it.category)}#${esc(it.id)}">Voir dans le tableau</a> · <a href="texte.html?l=${it.source.line}&amp;objet=${esc(it.id)}">Ligne ${it.source.line} du texte original</a> · <a href="${GL.API}items/${esc(it.id)}.json">JSON</a> · <button type="button" class="link" data-copy>Copier le lien</button></p>
+<p class="links"><button type="button" class="link" data-bag>Mettre dans le sac</button> <span class="dim" data-bag-qty></span></p>`;
+      paintQty(box, it.id);
+      box.querySelector('[data-bag]').addEventListener('click', e => { GL.bag.add(it.id); paintQty(box, it.id); flash(e.target, 'Dans le sac'); });
       box.querySelector('[data-copy]').addEventListener('click', e => copy(location.href).then(ok => flash(e.target, ok ? 'Lien copié' : 'Copie impossible')));
     }).catch(() => { box.textContent = 'Impossible de charger cet objet.'; });
   }
+
+  function paintQty(box, id){
+    const n = GL.bag.qty(id), el = box.querySelector('[data-bag-qty]');
+    if (el) el.innerHTML = n ? `(${n} dans <a href="sac.html">le sac</a>)` : '';
+  }
+  GL.bag.on(() => { const box = $('results').querySelector('.detail'); if (box && open) paintQty(box, open); });
 
   function again(){ $('filters').reset(); rnd = sample(8); run(); $('q').focus(); }
   ['q', 'max'].forEach(id => $(id).addEventListener('input', () => run()));
@@ -191,6 +201,8 @@
     if (e.key === '/') { e.preventDefault(); $('q').focus(); }
     else if (e.key === 'r' || e.key === 'R') { $('k-random').click(); }
     else if (e.key === 'm' || e.key === 'M') { location.href = 'marchand.html'; }
+    else if (e.key === 's' || e.key === 'S') { location.href = 'sac.html'; }
+    else if ((e.key === 'a' || e.key === 'A') && open) { const b = $('results').querySelector('.detail [data-bag]'); b && b.click(); }
     else if (e.key === 'Escape' && open) { const b = $('results').querySelector('[aria-expanded="true"]'); closeDetail(); open = null; writeUrl(); b && b.focus(); }
   });
   $('results').addEventListener('click', e => {

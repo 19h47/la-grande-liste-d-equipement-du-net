@@ -57,10 +57,17 @@ def main():
     dump(API / "currencies.json", {"count": len(coins), "currencies": coins})
     # index léger pour la recherche
     # p/pe : prix affiché (fr/en), m : prix minimal en pc (tri et budget), n : l'objet a des notes
+    # x : prix maximal en pc s'il diffère, pl : prix « à partir de », w : poids en livres (le sac)
     def entry(it):
         pr = it.get("price") or it.get("eggs") or it.get("price_raw") or {}
         e = {"id": it["id"], "c": it["category"], "fr": it["full_name"]["fr"], "en": it["full_name"]["en"],
              "p": pr.get("text", {}).get("fr"), "pe": pr.get("text", {}).get("en"), "m": pr.get("min_cp")}
+        if pr.get("max_cp") not in (None, pr.get("min_cp")):
+            e["x"] = pr["max_cp"]
+        if pr.get("plus"):
+            e["pl"] = 1
+        if (it.get("weight") or {}).get("lb") is not None:
+            e["w"] = it["weight"]["lb"]
         if it["notes"]["fr"]:
             e["n"] = 1
         return e

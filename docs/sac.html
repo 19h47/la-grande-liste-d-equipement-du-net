@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Le sac de l'aventurier · La Grande Liste d'équipement du Net</title>
+<meta name="description" content="Composez le sac d'un personnage d'AD&D 2e : prix total, poids, encombrement selon la Force et or de départ.">
+<link rel="stylesheet" href="css/style.css">
+<script src="js/common.js"></script>
+</head>
+<body>
+<header>
+  <a class="site" href="./">La Grande Liste d'équipement du Net</a>
+  <nav aria-label="Pages">
+    <a href="./">Liste</a>
+    <a href="tableaux.html">Tableaux</a>
+    <a href="marchand.html">Marchand</a>
+    <a href="sac.html" aria-current="page">Sac<span data-bag-count></span></a>
+    <a href="monnaies.html">Monnaies</a>
+    <a href="texte.html">Texte</a>
+    <a href="api.html">API</a>
+    <span class="lang" role="group" aria-label="Langue des noms d'objets"><button type="button" data-lang-btn="fr">FR</button><button type="button" data-lang-btn="en">EN</button></span>
+  </nav>
+</header>
+
+<main>
+  <section class="controls">
+    <h1>Le sac de l'aventurier</h1>
+    <p class="prose">Ce que le personnage emporte, ce que ça coûte et ce que ça pèse. Ajoutez des objets ici ou depuis les fiches de la Liste ; le sac reste dans ce navigateur et se partage par un lien.</p>
+    <div id="shared" class="shared" hidden></div>
+    <div class="field">
+      <label for="force">Force</label>
+      <select id="force"><option value="">Non précisée</option></select>
+    </div>
+    <div class="field">
+      <label for="bourse">Bourse</label>
+      <input type="text" id="bourse" placeholder="ex. 120 po" autocomplete="off" aria-describedby="bourse-hint">
+    </div>
+    <p class="dim field-hint" id="bourse-hint">Or de départ : <span id="dice"></span></p>
+  </section>
+
+  <section class="no-print" aria-labelledby="h-add">
+    <h2 id="h-add">Ajouter un objet</h2>
+    <div class="field">
+      <label for="q">Objet</label>
+      <input type="search" id="q" placeholder="corde, ration, épée longue…" autocomplete="off">
+    </div>
+    <ul class="list" id="found" aria-live="polite"></ul>
+  </section>
+
+  <section id="out" aria-live="polite"><p>Chargement<span class="blink">_</span></p></section>
+  <p class="keys">Clavier : <kbd>/</kbd> chercher un objet</p>
+</main>
+
+<script>
+(function(){
+  const {$, esc, norm, json, fmt, parseMoney, group, copy, flash, leaderLine, bag} = GL;
+
+  /* Manuel des joueurs (2e éd.), tableau 47 : poids que la Force permet de porter sans être encombré. */
+  const FORCE = [['3', 5], ['4', 10], ['5', 10], ['6', 20], ['7', 20], ['8', 35], ['9', 35], ['10', 40], ['11', 40],
+    ['12', 45], ['13', 45], ['14', 55], ['15', 55], ['16', 70], ['17', 85], ['18', 110], ['18/01-50', 135],
+    ['18/51-75', 160], ['18/76-90', 185], ['18/91-99', 235], ['18/00', 335], ['19', 485], ['20', 535], ['21', 635],
+    ['22', 785], ['23', 935], ['24', 1235], ['25', 1535]];
+  /* Or de départ par groupe de classes (Manuel des joueurs, 2e éd.) : [dés, nombre, faces, bonus]. */
+  const GOLD = [['Combattant', '5d4', 5, 4, 0], ['Prêtre', '3d6', 3, 6, 0], ['Roublard', '2d6', 2, 6, 0], ['Magicien', '1d4+1', 1, 4, 1]];
+
+  FORCE.forEach(([v, lb]) => { const o = document.createElement('option'); o.value = v; o.textContent = `${v} (${lb} lb)`; $('force').appendChild(o); });
+  $('dice').innerHTML = GOLD.map((g, i) => `<button type="button" class="link" data-gold="${i}">${g[0]}</button> ${g[1].includes('+') ? '(' + g[1] + ')' : g[1]} × 10 po`).join(' · ');
+
+  let idx = {}, all = [], list = [], shared = null, rolled = '';
+  const label = x => GL.lang === 'en' ? x.en : x.fr;
+  const lb = n => String(Math.round(n * 100) / 100).replace('.', ',') + ' lb';
+
+  /* Le sac affiché : celui d'un lien partagé, sinon celui du navigateur. */
+  const viewing = () => shared || list;
+
+  function load(){
+    const u = new URLSearchParams(location.search);
+    try {
+      const f = u.get('force') ?? localStorage.getItem('sac-force') ?? '';
+      if (FORCE.some(x => x[0] === f)) $('force').value = f;
+      $('bourse').value = u.get('bourse') ?? localStorage.getItem('sac-bourse') ?? '';
+    } catch (e) {}
+    list = bag.read().filter(x => idx[x[0]]);
+    if (u.has('sac')) {
+      const s = bag.decode(u.get('sac')).filter(x => idx[x[0]]);
+      if (!list.length) bag.write(list = s);
+      else if (bag.encode(s) !== bag.encode(list)) shared = s;
+    }
+  }
+  function remember(){
+    try { localStorage.setItem('sac-force', $('force').value); localStorage.setItem('sac-bourse', $('bourse').value); } catch (e) {}
+    history.replaceState(null, '', location.pathname + shareQuery());
+  }
+  function shareQuery(){
+    const v = viewing(); if (!v.length) return '';
+    let s = '?sac=' + bag.encode(v);
+    if ($('force').value) s += '&force=' + encodeURIComponent($('force').value);
+    if ($('bourse').value.trim()) s += '&bourse=' + encodeURIComponent($('bourse').value.trim());
+    return s;
+  }
+
+  function totals(){
+    let cp = 0, w = 0, noW = 0, approx = false, noPrice = 0;
+    viewing().forEach(([id, n]) => {
+      const x = idx[id];
+      if (x.m == null) noPrice += n; else cp += x.m * n;
+      if (x.x != null || x.pl) approx = true;
+      if (x.w == null) noW += n; else w += x.w * n;
+    });
+    return {cp, w, noW, approx, noPrice};
+  }
+
+  function paint(){
+    paintShared();
+    const v = viewing(), edit = !shared;
+    if (!v.length) {
+      $('out').innerHTML = `<h2>Le sac</h2><p class="rule" aria-hidden="true"></p><p>Le sac est vide. Cherchez un objet ci-dessus, ou ouvrez une fiche dans <a href="./">la Liste</a>.</p>`;
+      return remember();
+    }
+    const T = totals();
+    const purse = parseMoney($('bourse').value);
+    const f = FORCE.find(x => x[0] === $('force').value);
+    const rows = v.map(([id, n]) => {
+      const x = idx[id];
+      const pr = x.m == null ? (GL.lang === 'en' ? x.pe : x.p) || '—' : fmt(x.m * n) + (x.x != null || x.pl ? '+' : '');
+      const ctl = edit ? ` <button type="button" class="link" data-minus="${esc(id)}" aria-label="Retirer un ${esc(label(x))}">−</button> <button type="button" class="link" data-plus="${esc(id)}" aria-label="Ajouter un ${esc(label(x))}">+</button>` : '';
+      return `<li><div class="row"><span class="price">${esc(pr)}</span><span class="name">${n} × <a class="plain" href="./?objet=${esc(id)}">${esc(label(x))}</a>${ctl}</span></div></li>`;
+    }).join('');
+    const line = (name, val, cls = '') => `<li><div class="row${cls}"><span class="price">${esc(val)}</span><span class="name">${esc(name)}</span></div></li>`;
+    let sums = line('Total', fmt(T.cp) + (T.approx ? '+' : ''), ' total');
+    if (purse != null) {
+      sums += line('Bourse', fmt(purse));
+      sums += purse >= T.cp ? line('Reste', fmt(purse - T.cp), ' total') : line('Il manque', fmt(T.cp - purse), ' total');
+    }
+    sums += line('Poids', lb(T.w) + (T.noW ? '+' : ''), ' total');
+    const enc = f ? (T.w <= f[1]
+      ? `Avec ${f[0]} en Force, le personnage peut porter ${f[1]} lb sans être encombré : il lui reste ${lb(f[1] - T.w)}.`
+      : `Avec ${f[0]} en Force, le personnage est encombré : ${lb(T.w - f[1])} de trop pour ses ${f[1]} lb (Manuel des joueurs, tableau 47). Il est ralenti.`) : 'Indiquez la Force pour savoir si le personnage est encombré.';
+    const notes = [];
+    if (T.approx) notes.push('+ : prix en fourchette ou « à partir de » ; le total compte le prix le plus bas.');
+    if (T.noPrice) notes.push(`${T.noPrice} objet${T.noPrice > 1 ? 's' : ''} sans prix chiffré, non compté${T.noPrice > 1 ? 's' : ''}.`);
+    if (T.noW) notes.push(`${T.noW} objet${T.noW > 1 ? 's' : ''} sans poids dans la liste, non compté${T.noW > 1 ? 's' : ''}.`);
+    const n = v.reduce((s, x) => s + x[1], 0);
+    $('out').innerHTML = `<h2>Le sac (${n} objet${n > 1 ? 's' : ''})</h2>
+<p class="rule" aria-hidden="true"></p>
+<ul class="list">${rows}</ul>
+<p class="rule" aria-hidden="true"></p>
+<ul class="list">${sums}</ul>
+<p class="rule" aria-hidden="true"></p>
+<p class="prose">${esc(enc)}</p>
+${notes.map(t => `<p class="dim prose">${esc(t)}</p>`).join('')}
+<div class="actions">
+<button type="button" class="btn" id="copy-text">Copier le sac</button>
+<button type="button" class="btn" id="copy-link">Copier le lien</button>
+<button type="button" class="btn" data-print>Imprimer</button>
+${edit ? '<button type="button" class="btn" id="clear">Vider le sac</button>' : ''}
+</div>`;
+    $('out').querySelector('[data-print]').addEventListener('click', () => window.print());
+    $('copy-text').addEventListener('click', e => copy(text()).then(ok => flash(e.target, ok ? 'Sac copié' : 'Copie impossible')));
+    $('copy-link').addEventListener('click', e => copy(location.origin + location.pathname + shareQuery()).then(ok => flash(e.target, ok ? 'Lien copié' : 'Copie impossible')));
+    if (edit) $('clear').addEventListener('click', () => { if (confirm('Vider le sac ?')) bag.write(list = []); });
+    remember();
+  }
+
+  function paintShared(){
+    const box = $('shared');
+    if (!shared) { box.hidden = true; box.innerHTML = ''; return; }
+    const n = list.reduce((s, x) => s + x[1], 0);
+    box.hidden = false;
+    box.innerHTML = `<p>Ce sac vient d'un lien partagé. Le vôtre contient ${n} objet${n > 1 ? 's' : ''} et n'a pas été touché.</p>
+<div class="actions"><button type="button" class="btn" data-shared="keep">Garder ce sac à la place du mien</button><button type="button" class="btn" data-shared="merge">L'ajouter au mien</button><button type="button" class="btn" data-shared="mine">Revenir à mon sac</button></div>`;
+  }
+  $('shared').addEventListener('click', e => {
+    const b = e.target.closest('[data-shared]'); if (!b) return;
+    const s = shared; shared = null;
+    if (b.dataset.shared === 'keep') bag.write(list = s);
+    else if (b.dataset.shared === 'merge') { const m = new Map(list); s.forEach(([id, n]) => m.set(id, (m.get(id) || 0) + n)); bag.write(list = [...m]); }
+    else paint();
+  });
+
+  function text(){
+    const v = viewing(), T = totals(), purse = parseMoney($('bourse').value), f = FORCE.find(x => x[0] === $('force').value);
+    const out = ["SAC DE L'AVENTURIER", '', ...v.map(([id, n]) => { const x = idx[id]; return leaderLine(n + ' × ' + label(x), x.m == null ? (x.p || '—') : fmt(x.m * n) + (x.x != null || x.pl ? '+' : '')); }), '',
+      leaderLine('TOTAL', fmt(T.cp) + (T.approx ? '+' : ''))];
+    if (purse != null) out.push(leaderLine('BOURSE', fmt(purse)), leaderLine(purse >= T.cp ? 'RESTE' : 'IL MANQUE', fmt(Math.abs(purse - T.cp))));
+    out.push(leaderLine('POIDS', lb(T.w) + (T.noW ? '+' : '')));
+    if (f) out.push(leaderLine('FORCE ' + f[0] + ', SANS ENCOMBREMENT', f[1] + ' lb'));
+    return out.join('\n');
+  }
+
+  /* Recherche rapide : les huit meilleurs objets, ceux dont le nom commence par le mot cherché d'abord. */
+  const rank = (x, q) => { const n = norm(label(x)); return n.startsWith(q) ? 0 : new RegExp('(^|[^a-z])' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).test(n) ? 1 : 2; };
+  function find(){
+    const q = norm($('q').value.trim());
+    if (!q) { $('found').innerHTML = ''; return; }
+    const w = q.split(/\s+/), res = all.filter(x => w.every(v => x.k.includes(v))).map(x => [rank(x, w[0]), x]).sort((a, b) => a[0] - b[0]).slice(0, 8).map(a => a[1]);
+    $('found').innerHTML = res.length ? res.map(x => `<li><button type="button" class="row" data-add="${esc(x.id)}" aria-label="Ajouter ${esc(label(x))} au sac"><span class="price">${esc((GL.lang === 'en' ? x.pe : x.p) || '—')}</span><span class="name">${esc(label(x))}${bag.qty(x.id) && !shared ? ` <span class="dim">[${bag.qty(x.id)}]</span>` : ''}</span></button></li>`).join('')
+      : '<li class="dim">Rien de tel dans la liste.</li>';
+  }
+  $('found').addEventListener('click', e => {
+    const b = e.target.closest('[data-add]'); if (!b) return;
+    if (shared) { shared = null; }
+    bag.add(b.dataset.add);
+    const i = [...$('found').querySelectorAll('[data-add]')].indexOf(b);
+    find(); const again = $('found').querySelectorAll('[data-add]')[i]; again && again.focus();
+  });
+  $('out').addEventListener('click', e => {
+    const b = e.target.closest('[data-minus], [data-plus]'); if (!b) return;
+    const minus = 'minus' in b.dataset, id = b.dataset.minus || b.dataset.plus;
+    bag.add(id, minus ? -1 : 1);
+    const again = $('out').querySelector(`[data-${minus ? 'minus' : 'plus'}="${CSS.escape(id)}"]`) || $('q');
+    again.focus();
+  });
+  $('dice').addEventListener('click', e => {
+    const b = e.target.closest('[data-gold]'); if (!b) return;
+    const [name, d, n, faces, plus] = GOLD[+b.dataset.gold];
+    const r = Array.from({length: n}, () => 1 + Math.floor(Math.random() * faces));
+    const tot = (r.reduce((a, c) => a + c, 0) + plus) * 10;
+    $('bourse').value = tot + ' po';
+    rolled = `${name} : ${d} = ${r.join(' + ')}${plus ? ' + ' + plus : ''}, × 10 = ${tot} po.`;
+    paintHint(); paint();
+  });
+  function paintHint(){
+    const p = parseMoney($('bourse').value);
+    let s = $('bourse-hint').querySelector('.roll');
+    if (!s) { s = document.createElement('span'); s.className = 'roll'; $('bourse-hint').appendChild(s); }
+    s.textContent = rolled ? ' ' + rolled : $('bourse').value.trim() && p == null ? ' Bourse illisible : essayez « 120 po ».' : '';
+  }
+
+  bag.on(l => { list = l.filter(x => idx[x[0]]); paint(); find(); });
+  $('force').addEventListener('change', paint);
+  $('bourse').addEventListener('input', () => { rolled = ''; paintHint(); paint(); });
+  $('q').addEventListener('input', find);
+  GL.onLang(() => { paint(); find(); });
+  document.addEventListener('keydown', e => {
+    if (e.altKey || e.ctrlKey || e.metaKey) return;
+    const tag = document.activeElement.tagName;
+    if (tag === 'INPUT' || tag === 'SELECT') { if (e.key === 'Escape') document.activeElement.blur(); return; }
+    if (e.key === '/') { e.preventDefault(); $('q').focus(); }
+  });
+
+  json('search.json').then(s => {
+    all = s.map(x => ({...x, k: norm(x.fr + ' ' + x.en)}));
+    all.forEach(x => idx[x.id] = x);
+    load(); paint(); paintHint();
+  }).catch(() => { $('out').innerHTML = '<p>Impossible de charger les données.</p>'; });
+})();
+</script>
+</body>
+</html>

@@ -72,11 +72,37 @@ const GL = (() => {
 		return n + ' ' + '.'.repeat(Math.max(3, room - n.length)) + ' ' + price;
 	}
 
+	/* Le sac de l'aventurier : une liste [id, quantité] gardée dans le navigateur, et écrite dans
+	   l'adresse sous la forme « epee-longue.2~corde-de-chanvre » pour la partager. */
+	const bagListeners = [];
+	const bagRead = () => {
+		try { const b = JSON.parse(localStorage.getItem('sac')); return Array.isArray(b) ? b.filter(x => typeof x[0] === 'string' && x[1] > 0) : []; } catch (e) { return []; }
+	};
+	function bagWrite(list) {
+		try { localStorage.setItem('sac', JSON.stringify(list)); } catch (e) {}
+		paintBag(); bagListeners.forEach(fn => fn(list));
+	}
+	function bagAdd(id, n = 1) {
+		const list = bagRead(), x = list.find(y => y[0] === id);
+		if (x) x[1] += n; else list.push([id, n]);
+		bagWrite(list.filter(y => y[1] > 0));
+	}
+	const bagQty = id => (bagRead().find(x => x[0] === id) || [, 0])[1];
+	const bagEncode = list => list.map(([id, n]) => n > 1 ? id + '.' + n : id).join('~');
+	const bagDecode = s => (s || '').split('~').map(p => { const m = /^([a-z0-9-]+)(?:\.(\d+))?$/.exec(p); return m && [m[1], Math.min(+(m[2] || 1), 9999)]; }).filter(Boolean);
+	function paintBag() {
+		const n = bagRead().reduce((s, x) => s + x[1], 0);
+		document.querySelectorAll('[data-bag-count]').forEach(el => { el.textContent = n ? ` (${n})` : ''; });
+	}
+	/* Un sac modifié dans un autre onglet. */
+	window.addEventListener('storage', e => { if (e.key === 'sac') { paintBag(); bagListeners.forEach(fn => fn(bagRead())); } });
+	const bag = { read: bagRead, write: bagWrite, add: bagAdd, qty: bagQty, encode: bagEncode, decode: bagDecode, on: fn => bagListeners.push(fn) };
+
 	document.addEventListener('DOMContentLoaded', () => {
 		document.querySelectorAll('[data-lang-btn]').forEach(b => b.addEventListener('click', () => setLang(b.dataset.langBtn)));
 		document.querySelectorAll('[data-print]').forEach(b => b.addEventListener('click', () => window.print()));
-		paintLang();
+		paintLang(); paintBag();
 	});
 
-	return { API, $, esc, norm, json, get lang() { return lang; }, setLang, onLang, t, fmt, parseMoney, group, copy, flash, leaderLine };
+	return { API, $, esc, norm, json, get lang() { return lang; }, setLang, onLang, t, fmt, parseMoney, group, copy, flash, leaderLine, bag };
 })();
