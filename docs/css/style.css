@@ -1,5 +1,6 @@
 /* Présentation minimaliste : du texte noir sur fond blanc, en chasse fixe, comme le fichier .txt
-   de 1997 ouvert dans un navigateur. En thème sombre, le noir et le blanc s'inversent. */
+   de 1997 ouvert dans un navigateur. Le thème sombre ne s'applique que si on le choisit dans le menu
+   (data-theme="dark") : le réglage du système n'y change rien. */
 :root {
 	--ink: #000000;
 	--paper: #ffffff;
@@ -7,15 +8,7 @@
 	--font: ui-monospace, "SF Mono", Menlo, Consolas, "DejaVu Sans Mono", "Liberation Mono", "Courier New", monospace;
 	color-scheme: light;
 }
-@media (prefers-color-scheme: dark) {
-	:root:not([data-theme="light"]) {
-		--ink: #ffffff;
-		--paper: #000000;
-		--dim: #aaaaaa; /* 9:1 sur noir */
-		color-scheme: dark;
-	}
-}
-:root[data-theme="dark"] { --ink: #ffffff; --paper: #000000; --dim: #aaaaaa; color-scheme: dark; }
+:root[data-theme="dark"] { --ink: #ffffff; --paper: #000000; --dim: #aaaaaa; /* 9:1 sur noir */ color-scheme: dark; }
 
 * { box-sizing: border-box; }
 /* L'attribut hidden doit l'emporter sur les display des classes (.btn, .row…). */

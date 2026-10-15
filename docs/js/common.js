@@ -7,6 +7,23 @@ const GL = (() => {
 	const norm = s => (s || '').toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/œ/g, 'oe').replace(/æ/g, 'ae');
 	const json = path => fetch(API + path).then(r => { if (!r.ok) throw new Error(path); return r.json(); });
 
+	/* Thème : noir sur blanc par défaut, comme le .txt de 1997 ; sombre seulement si on le choisit.
+	   Posé dès le chargement du script, dans le <head>, pour éviter un éclair blanc. */
+	let theme = 'light';
+	try { if (localStorage.getItem('theme') === 'dark') theme = 'dark'; } catch (e) {}
+	const applyTheme = () => {
+		if (theme === 'dark') document.documentElement.dataset.theme = 'dark';
+		else delete document.documentElement.dataset.theme;
+		document.querySelectorAll('[data-theme-btn]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.themeBtn === theme)));
+	};
+	applyTheme();
+	function setTheme(t) {
+		theme = t;
+		try { localStorage.setItem('theme', t); } catch (e) {}
+		applyTheme();
+	}
+	window.addEventListener('storage', e => { if (e.key === 'theme') { theme = e.newValue === 'dark' ? 'dark' : 'light'; applyTheme(); } });
+
 	/* Langue des noms d'objets (l'interface reste en français). */
 	let lang = 'fr';
 	try { if (localStorage.getItem('lang') === 'en') lang = 'en'; } catch (e) {}
@@ -101,7 +118,8 @@ const GL = (() => {
 	document.addEventListener('DOMContentLoaded', () => {
 		document.querySelectorAll('[data-lang-btn]').forEach(b => b.addEventListener('click', () => setLang(b.dataset.langBtn)));
 		document.querySelectorAll('[data-print]').forEach(b => b.addEventListener('click', () => window.print()));
-		paintLang(); paintBag();
+		document.querySelectorAll('[data-theme-btn]').forEach(b => b.addEventListener('click', () => setTheme(b.dataset.themeBtn)));
+		paintLang(); paintBag(); applyTheme();
 	});
 
 	return { API, $, esc, norm, json, get lang() { return lang; }, setLang, onLang, t, fmt, parseMoney, group, copy, flash, leaderLine, bag };
