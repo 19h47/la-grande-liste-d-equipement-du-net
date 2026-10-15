@@ -7,7 +7,8 @@
 - **Site et API statique** : servis par GitHub Pages depuis `docs/` :
   - la Liste (`docs/index.html`) : recherche, tri et budget, fiche de chaque objet, liens partageables (`?q=`, `?t=`, `?tri=`, `?max=`, `?objet=`)
   - les Tableaux (`docs/tableaux.html`) : les 33 tableaux à lire et à imprimer, avec leurs notes
-  - le Comptoir du marchand (`docs/marchand.html`) : inventaire tiré au hasard, prix selon le lieu, note de comptoir à copier
+  - le Comptoir du marchand (`docs/marchand.html`) : inventaire tiré au hasard (lien partageable avec `?graine=`), prix selon le lieu, note de comptoir à copier ou à mettre dans le sac
+  - le Sac de l'aventurier (`docs/sac.html`) : prix total, poids, encombrement selon la Force, or de départ par classe, lien partageable (`?sac=epee-longue.2~corde-de-chanvre`)
   - les Monnaies (`docs/monnaies.html`) : le changeur et les tableaux A et B
   - le Texte (`docs/texte.html`) : le fichier original et sa traduction, avec la ligne de chaque objet
   - la documentation de l'API (`docs/api.html`)
